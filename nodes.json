@@ -499,9 +499,9 @@
   "!a1f9fe98": {
     "id": "!a1f9fe98",
     "long_name": "Lolly-L",
-    "last_heard": "2026-04-21T18:11:06.540974+00:00",
-    "snr": 11.5,
-    "hops_away": 1,
+    "last_heard": "2026-04-21T21:11:14.750044+00:00",
+    "snr": 9.75,
+    "hops_away": 0,
     "short_name": "Loli",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
