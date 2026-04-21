@@ -775,12 +775,12 @@
   },
   "!433e3450": {
     "id": "!433e3450",
-    "long_name": "Meshtastic 3450",
-    "last_heard": "2026-04-21T00:38:16.291503+00:00",
-    "snr": -16.75,
-    "hops_away": 7,
-    "short_name": "3450",
-    "hw_model": "UNSET",
+    "long_name": "Simcom Wildcard ",
+    "last_heard": "2026-04-21T15:00:01.993927+00:00",
+    "snr": -17.0,
+    "hops_away": 3,
+    "short_name": "WLCD",
+    "hw_model": "HELTEC_V3",
     "role": ""
   },
   "!02d4cd04": {
