@@ -974,5 +974,15 @@
     "short_name": "Loft",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!c90ed460": {
+    "id": "!c90ed460",
+    "long_name": "Mark~G6OMT",
+    "last_heard": "2026-04-21T20:27:46.212311+00:00",
+    "snr": -18.25,
+    "hops_away": 5,
+    "short_name": "OMT",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   }
 }
