@@ -916,5 +916,15 @@
     "short_name": "Dog",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!4eb5cccc": {
+    "id": "!4eb5cccc",
+    "long_name": "G6OMT/P~Mark ",
+    "last_heard": "2026-04-21T17:27:37.645762+00:00",
+    "snr": 10.5,
+    "hops_away": 2,
+    "short_name": "R2",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_BASE"
   }
 }
