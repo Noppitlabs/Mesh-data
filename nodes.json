@@ -846,5 +846,15 @@
     "short_name": "98d0",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!7c5ad0f4": {
+    "id": "!7c5ad0f4",
+    "long_name": "\ud83d\udccdBangers&Mesh",
+    "last_heard": "2026-04-21T15:04:02.881305+00:00",
+    "snr": -16.25,
+    "hops_away": 3,
+    "short_name": "BnM",
+    "hw_model": "HELTEC_WSL_V3",
+    "role": ""
   }
 }
