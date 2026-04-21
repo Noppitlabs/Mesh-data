@@ -873,5 +873,15 @@
     "last_heard": "2026-04-21T15:24:42.850758+00:00",
     "snr": -13.5,
     "hops_away": 5
+  },
+  "!da65a77c": {
+    "id": "!da65a77c",
+    "long_name": "Teignmouth 001",
+    "last_heard": "2026-04-21T15:35:59.863134+00:00",
+    "snr": -17.0,
+    "hops_away": 3,
+    "short_name": "TQ14",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
