@@ -964,5 +964,15 @@
     "last_heard": "2026-04-21T20:18:11.924791+00:00",
     "snr": 10.25,
     "hops_away": 7
+  },
+  "!699c9044": {
+    "id": "!699c9044",
+    "long_name": "Loft V4 - GW1UMH",
+    "last_heard": "2026-04-21T20:18:44.058563+00:00",
+    "snr": -14.75,
+    "hops_away": 3,
+    "short_name": "Loft",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
