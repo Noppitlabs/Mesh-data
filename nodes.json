@@ -629,9 +629,9 @@
   "!42df4e4b": {
     "id": "!42df4e4b",
     "long_name": "Isca~Yagi",
-    "last_heard": "2026-04-20T22:40:53.870961+00:00",
-    "snr": -14.25,
-    "hops_away": 2,
+    "last_heard": "2026-04-21T13:40:45.734622+00:00",
+    "snr": 11.0,
+    "hops_away": 3,
     "short_name": "Isca",
     "hw_model": "RAK4631",
     "role": "ROUTER_LATE"
