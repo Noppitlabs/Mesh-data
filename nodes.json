@@ -169,9 +169,9 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SLR",
-    "last_heard": "2026-04-21T19:36:00.651213+00:00",
+    "last_heard": "2026-04-21T20:50:19.244321+00:00",
     "snr": -18.75,
-    "hops_away": 5,
+    "hops_away": 4,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER_LATE"
