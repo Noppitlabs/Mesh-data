@@ -866,5 +866,12 @@
     "short_name": "edc0",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": ""
+  },
+  "!fbb5bd0f": {
+    "id": "!fbb5bd0f",
+    "long_name": "!fbb5bd0f",
+    "last_heard": "2026-04-21T15:24:42.850758+00:00",
+    "snr": -13.5,
+    "hops_away": 5
   }
 }
