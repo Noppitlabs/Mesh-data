@@ -883,5 +883,15 @@
     "short_name": "TQ14",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!da65b0c8": {
+    "id": "!da65b0c8",
+    "long_name": "Simcom Station 1",
+    "last_heard": "2026-04-21T16:04:55.585444+00:00",
+    "snr": 10.0,
+    "hops_away": 3,
+    "short_name": "SCS1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
