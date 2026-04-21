@@ -809,5 +809,12 @@
     "short_name": "BPK1",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "CLIENT_MUTE"
+  },
+  "!fe93d41f": {
+    "id": "!fe93d41f",
+    "long_name": "!fe93d41f",
+    "last_heard": "2026-04-21T13:47:43.090425+00:00",
+    "snr": 11.0,
+    "hops_away": 6
   }
 }
