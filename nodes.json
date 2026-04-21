@@ -984,5 +984,12 @@
     "short_name": "OMT",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
+  },
+  "!91ec7b3a": {
+    "id": "!91ec7b3a",
+    "long_name": "!91ec7b3a",
+    "last_heard": "2026-04-21T20:47:04.390289+00:00",
+    "snr": 9.75,
+    "hops_away": 3
   }
 }
