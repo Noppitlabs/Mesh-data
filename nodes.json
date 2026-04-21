@@ -816,5 +816,15 @@
     "last_heard": "2026-04-21T13:47:43.090425+00:00",
     "snr": 11.0,
     "hops_away": 6
+  },
+  "!9e9d72b8": {
+    "id": "!9e9d72b8",
+    "long_name": "T0rr Client 1",
+    "last_heard": "2026-04-21T13:59:06.817341+00:00",
+    "snr": -14.25,
+    "hops_away": 4,
+    "short_name": "T0C1",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
