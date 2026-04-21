@@ -766,9 +766,9 @@
   "!46d4f5d8": {
     "id": "!46d4f5d8",
     "long_name": "2E0HVY mobile",
-    "last_heard": "2026-04-21T14:33:49.135464+00:00",
-    "snr": -13.75,
-    "hops_away": 3,
+    "last_heard": "2026-04-21T15:35:04.426624+00:00",
+    "snr": 10.5,
+    "hops_away": 6,
     "short_name": "Andy",
     "hw_model": "RAK4631",
     "role": ""
