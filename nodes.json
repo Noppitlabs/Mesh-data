@@ -906,5 +906,15 @@
     "short_name": "ED3",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!433c4f80": {
+    "id": "!433c4f80",
+    "long_name": "Black Dog ",
+    "last_heard": "2026-04-21T16:56:03.101691+00:00",
+    "snr": -11.75,
+    "hops_away": 6,
+    "short_name": "Dog",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
