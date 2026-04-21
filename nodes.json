@@ -836,5 +836,15 @@
     "short_name": "PCZM",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!db2a98d0": {
+    "id": "!db2a98d0",
+    "long_name": "RX_Tiverton",
+    "last_heard": "2026-04-21T14:33:28.922934+00:00",
+    "snr": -17.0,
+    "hops_away": 4,
+    "short_name": "98d0",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
