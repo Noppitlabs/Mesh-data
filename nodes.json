@@ -689,9 +689,9 @@
   "!9e7572d4": {
     "id": "!9e7572d4",
     "long_name": "Rowland",
-    "last_heard": "2026-04-20T23:32:23.663377+00:00",
-    "snr": -19.75,
-    "hops_away": 5,
+    "last_heard": "2026-04-21T13:20:20.790372+00:00",
+    "snr": 13.0,
+    "hops_away": 7,
     "short_name": "R1",
     "hw_model": "HELTEC_V3",
     "role": ""
