@@ -359,9 +359,9 @@
   "!9133d2db": {
     "id": "!9133d2db",
     "long_name": "BobbyJ EX8 Twn 3db O",
-    "last_heard": "2026-04-21T15:34:33.397953+00:00",
-    "snr": 10.5,
-    "hops_away": 4,
+    "last_heard": "2026-04-21T16:06:45.612896+00:00",
+    "snr": -18.5,
+    "hops_away": 2,
     "short_name": "d2db",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
