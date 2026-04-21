@@ -669,9 +669,9 @@
   "!902cdc26": {
     "id": "!902cdc26",
     "long_name": "Silverton~",
-    "last_heard": "2026-04-21T14:28:52.913276+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
+    "last_heard": "2026-04-21T17:12:37.597041+00:00",
+    "snr": 9.0,
+    "hops_away": 4,
     "short_name": "S2",
     "hw_model": "RAK4631",
     "role": "ROUTER"
