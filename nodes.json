@@ -1198,5 +1198,15 @@
     "short_name": "BTY3",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!a39d095a": {
+    "id": "!a39d095a",
+    "long_name": "Meshtastic 095a",
+    "last_heard": "2026-04-23T15:45:14.391472+00:00",
+    "snr": -18.5,
+    "hops_away": 5,
+    "short_name": "095a",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
