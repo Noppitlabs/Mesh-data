@@ -843,9 +843,9 @@
   "!db2a98d0": {
     "id": "!db2a98d0",
     "long_name": "RX_Tiverton",
-    "last_heard": "2026-04-21T18:52:20.748621+00:00",
-    "snr": 9.5,
-    "hops_away": 4,
+    "last_heard": "2026-04-23T14:44:46.430711+00:00",
+    "snr": 10.25,
+    "hops_away": 6,
     "short_name": "98d0",
     "hw_model": "HELTEC_V3",
     "role": ""
