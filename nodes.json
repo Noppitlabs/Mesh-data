@@ -418,12 +418,12 @@
   },
   "!da56b4a0": {
     "id": "!da56b4a0",
-    "long_name": "M0PCZ ",
-    "last_heard": "2026-04-21T15:57:33.789667+00:00",
-    "snr": 10.5,
-    "hops_away": 4,
-    "short_name": "PCZ",
-    "hw_model": "HELTEC_V3",
+    "long_name": "Meshtastic b4a0",
+    "last_heard": "2026-04-23T16:30:08.172478+00:00",
+    "snr": -12.5,
+    "hops_away": 3,
+    "short_name": "b4a0",
+    "hw_model": "UNSET",
     "role": ""
   },
   "!62f8b250": {
