@@ -1012,5 +1012,15 @@
     "last_heard": "2026-04-21T22:05:50.813746+00:00",
     "snr": 11.25,
     "hops_away": 6
+  },
+  "!9eed0e74": {
+    "id": "!9eed0e74",
+    "long_name": "Maia Base",
+    "last_heard": "2026-04-23T11:09:30.690587+00:00",
+    "snr": 12.25,
+    "hops_away": 3,
+    "short_name": "Maia",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
