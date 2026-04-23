@@ -1095,5 +1095,15 @@
     "short_name": "7118",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!7eb259a7": {
+    "id": "!7eb259a7",
+    "long_name": "Meshtastic 59a7",
+    "last_heard": "2026-04-23T13:02:42.767314+00:00",
+    "snr": -13.75,
+    "hops_away": 6,
+    "short_name": "59a7",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
