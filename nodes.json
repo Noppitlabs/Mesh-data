@@ -1128,5 +1128,15 @@
     "short_name": "CDFN",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
+  },
+  "!a20a1884": {
+    "id": "!a20a1884",
+    "long_name": "Plouvara",
+    "last_heard": "2026-04-23T13:39:32.888831+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
+    "short_name": "Plou",
+    "hw_model": "STATION_G2",
+    "role": ""
   }
 }
