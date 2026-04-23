@@ -489,8 +489,8 @@
   "!7a60aebb": {
     "id": "!7a60aebb",
     "long_name": "Ipplepen Relay",
-    "last_heard": "2026-04-23T11:58:06.256293+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-04-23T15:49:25.616261+00:00",
+    "snr": 11.75,
     "hops_away": 7,
     "short_name": "FCN3",
     "hw_model": "HELTEC_MESH_NODE_T114",
