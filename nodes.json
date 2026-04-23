@@ -1032,5 +1032,15 @@
     "short_name": "ari",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!db52031c": {
+    "id": "!db52031c",
+    "long_name": "Meshtastic 031c",
+    "last_heard": "2026-04-23T11:10:21.651930+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
+    "short_name": "031c",
+    "hw_model": "HELTEC_V3",
+    "role": "ROUTER"
   }
 }
