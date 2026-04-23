@@ -1075,5 +1075,15 @@
     "short_name": "c6c8",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!55fbf3fc": {
+    "id": "!55fbf3fc",
+    "long_name": "whisper_f3fc",
+    "last_heard": "2026-04-23T12:47:03.445343+00:00",
+    "snr": 10.75,
+    "hops_away": 7,
+    "short_name": "f3fc",
+    "hw_model": "T_ECHO",
+    "role": ""
   }
 }
