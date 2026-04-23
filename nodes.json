@@ -1138,5 +1138,15 @@
     "short_name": "Plou",
     "hw_model": "STATION_G2",
     "role": ""
+  },
+  "!f5460a60": {
+    "id": "!f5460a60",
+    "long_name": "B2A",
+    "last_heard": "2026-04-23T13:51:35.441588+00:00",
+    "snr": -9.75,
+    "hops_away": 2,
+    "short_name": "B2A",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
