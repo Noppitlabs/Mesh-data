@@ -1168,5 +1168,15 @@
     "short_name": "Sn#2",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!7a6d7b14": {
+    "id": "!7a6d7b14",
+    "long_name": "TheRoamingGnome",
+    "last_heard": "2026-04-23T15:20:47.552421+00:00",
+    "snr": 7.75,
+    "hops_away": 0,
+    "short_name": "TRG1",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
