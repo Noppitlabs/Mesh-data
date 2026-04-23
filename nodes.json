@@ -1022,5 +1022,15 @@
     "short_name": "Maia",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!12813c36": {
+    "id": "!12813c36",
+    "long_name": "aricooperdavis",
+    "last_heard": "2026-04-23T11:10:04.423952+00:00",
+    "snr": -11.5,
+    "hops_away": 3,
+    "short_name": "ari",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
   }
 }
