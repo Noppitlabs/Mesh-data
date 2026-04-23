@@ -1108,5 +1108,15 @@
     "short_name": "59a7",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!6c73bc5c": {
+    "id": "!6c73bc5c",
+    "long_name": "Tarr Exmoor Tester",
+    "last_heard": "2026-04-23T13:28:38.622117+00:00",
+    "snr": -7.75,
+    "hops_away": 6,
+    "short_name": "TE 4",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
