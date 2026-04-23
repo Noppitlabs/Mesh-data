@@ -1178,5 +1178,15 @@
     "short_name": "TRG1",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!a20c3088": {
+    "id": "!a20c3088",
+    "long_name": "Plerin",
+    "last_heard": "2026-04-23T15:28:24.369446+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
+    "short_name": "Pler",
+    "hw_model": "STATION_G2",
+    "role": ""
   }
 }
