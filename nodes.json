@@ -1158,5 +1158,15 @@
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!da5ec92c": {
+    "id": "!da5ec92c",
+    "long_name": "Sion#2",
+    "last_heard": "2026-04-23T14:49:35.344954+00:00",
+    "snr": -12.5,
+    "hops_away": 3,
+    "short_name": "Sn#2",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
