@@ -1,5 +1,16 @@
 [
   {
+    "id": 536710780,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "What\u2019s the best antenna company?",
+    "timestamp": "2026-04-23T11:09:27.071838+00:00",
+    "channel": 0,
+    "snr": -16.25,
+    "hops": 6
+  },
+  {
     "id": 3619477725,
     "from": "!a1cd3ec8",
     "from_name": "ROVER",
