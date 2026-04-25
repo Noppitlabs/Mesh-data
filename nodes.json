@@ -1208,5 +1208,15 @@
     "short_name": "095a",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!43b58464": {
+    "id": "!43b58464",
+    "long_name": "Jon",
+    "last_heard": "2026-04-25T12:54:44.324417+00:00",
+    "snr": -7.0,
+    "hops_away": 4,
+    "short_name": "8464",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
