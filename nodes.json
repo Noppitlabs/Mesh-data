@@ -1407,5 +1407,15 @@
     "short_name": "1da0",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!6c741ec0": {
+    "id": "!6c741ec0",
+    "long_name": "dm_1_1ec0",
+    "last_heard": "2026-04-27T20:50:33.365902+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
+    "short_name": "dm_1",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
