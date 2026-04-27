@@ -1308,5 +1308,15 @@
     "short_name": "3df4",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!effc6eae": {
+    "id": "!effc6eae",
+    "long_name": "Meshtastic 6eae",
+    "last_heard": "2026-04-27T13:26:05.215789+00:00",
+    "snr": -3.75,
+    "hops_away": 3,
+    "short_name": "6eae",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
