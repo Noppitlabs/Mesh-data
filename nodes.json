@@ -1364,5 +1364,15 @@
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_MUTE"
+  },
+  "!0407d65c": {
+    "id": "!0407d65c",
+    "long_name": "Meshtastic d65c",
+    "last_heard": "2026-04-27T17:00:19.157218+00:00",
+    "snr": -2.75,
+    "hops_away": 7,
+    "short_name": "d65c",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
