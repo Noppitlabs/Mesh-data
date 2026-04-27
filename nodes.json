@@ -269,9 +269,9 @@
   "!db527920": {
     "id": "!db527920",
     "long_name": "Riverside\ud83e\udd17",
-    "last_heard": "2026-04-27T15:14:56.773600+00:00",
-    "snr": -7.75,
-    "hops_away": 7,
+    "last_heard": "2026-04-27T15:36:08.343854+00:00",
+    "snr": -8.25,
+    "hops_away": 6,
     "short_name": "Rive",
     "hw_model": "HELTEC_V3",
     "role": ""
