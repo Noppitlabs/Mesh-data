@@ -1021,9 +1021,9 @@
   "!a2eb40d4": {
     "id": "!a2eb40d4",
     "long_name": "Meshtastic 40d4",
-    "last_heard": "2026-04-27T18:12:52.219624+00:00",
-    "snr": -0.75,
-    "hops_away": 6,
+    "last_heard": "2026-04-27T21:11:34.814268+00:00",
+    "snr": -17.25,
+    "hops_away": 5,
     "short_name": "40d4",
     "hw_model": "UNSET",
     "role": ""
