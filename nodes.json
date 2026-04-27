@@ -1374,5 +1374,15 @@
     "short_name": "d65c",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!02edde20": {
+    "id": "!02edde20",
+    "long_name": "Meshtastic de20",
+    "last_heard": "2026-04-27T17:10:39.960513+00:00",
+    "snr": -19.25,
+    "hops_away": 3,
+    "short_name": "de20",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
