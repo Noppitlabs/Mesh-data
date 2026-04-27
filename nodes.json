@@ -1188,9 +1188,9 @@
   "!a20c3088": {
     "id": "!a20c3088",
     "long_name": "Plerin",
-    "last_heard": "2026-04-27T15:47:16.449117+00:00",
-    "snr": -9.75,
-    "hops_away": 7,
+    "last_heard": "2026-04-27T16:47:14.783636+00:00",
+    "snr": -7.0,
+    "hops_away": 4,
     "short_name": "Pler",
     "hw_model": "STATION_G2",
     "role": ""
