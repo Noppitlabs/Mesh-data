@@ -1258,9 +1258,9 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-04-27T12:26:29.893282+00:00",
-    "snr": 12.25,
-    "hops_away": 2,
+    "last_heard": "2026-04-27T15:26:27.781982+00:00",
+    "snr": 11.75,
+    "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
