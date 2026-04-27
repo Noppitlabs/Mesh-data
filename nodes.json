@@ -1288,5 +1288,15 @@
     "short_name": "0f38",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!2234c21f": {
+    "id": "!2234c21f",
+    "long_name": "Meshtastic c21f",
+    "last_heard": "2026-04-27T13:05:40.295322+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
+    "short_name": "c21f",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
