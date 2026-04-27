@@ -1318,5 +1318,15 @@
     "short_name": "6eae",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!9e7dec32": {
+    "id": "!9e7dec32",
+    "long_name": "M7ARW 1\ud83d\udce1",
+    "last_heard": "2026-04-27T13:28:33.511374+00:00",
+    "snr": -4.75,
+    "hops_away": 5,
+    "short_name": "ARW1",
+    "hw_model": "T_ECHO",
+    "role": ""
   }
 }
