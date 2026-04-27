@@ -1447,5 +1447,15 @@
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
+  },
+  "!13eb6ced": {
+    "id": "!13eb6ced",
+    "long_name": "Meshtastic 6ced",
+    "last_heard": "2026-04-27T22:18:59.612140+00:00",
+    "snr": -10.5,
+    "hops_away": 5,
+    "short_name": "6ced",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
