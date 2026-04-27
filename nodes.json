@@ -785,10 +785,13 @@
   },
   "!02d4cd04": {
     "id": "!02d4cd04",
-    "long_name": "!02d4cd04",
-    "last_heard": "2026-04-21T00:51:38.760177+00:00",
-    "snr": -14.25,
-    "hops_away": 6
+    "long_name": "Meshtastic cd04",
+    "last_heard": "2026-04-27T15:25:21.186926+00:00",
+    "snr": -7.25,
+    "hops_away": 5,
+    "short_name": "cd04",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!56e04c5a": {
     "id": "!56e04c5a",
