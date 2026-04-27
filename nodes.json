@@ -1278,5 +1278,15 @@
     "short_name": "4220",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!9ee70f38": {
+    "id": "!9ee70f38",
+    "long_name": "Meshtastic 0f38",
+    "last_heard": "2026-04-27T13:03:50.610406+00:00",
+    "snr": 11.25,
+    "hops_away": 5,
+    "short_name": "0f38",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
