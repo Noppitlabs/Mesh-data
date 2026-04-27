@@ -1228,5 +1228,15 @@
     "short_name": "73fc",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!acaa933c": {
+    "id": "!acaa933c",
+    "long_name": "Newton Abbot 1",
+    "last_heard": "2026-04-27T10:36:44.135994+00:00",
+    "snr": -2.75,
+    "hops_away": 3,
+    "short_name": "VUD",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
