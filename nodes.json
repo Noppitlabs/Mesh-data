@@ -419,9 +419,9 @@
   "!da56b4a0": {
     "id": "!da56b4a0",
     "long_name": "Meshtastic b4a0",
-    "last_heard": "2026-04-23T16:30:08.172478+00:00",
-    "snr": -12.5,
-    "hops_away": 3,
+    "last_heard": "2026-04-27T20:02:57.590075+00:00",
+    "snr": -16.25,
+    "hops_away": 5,
     "short_name": "b4a0",
     "hw_model": "UNSET",
     "role": ""
