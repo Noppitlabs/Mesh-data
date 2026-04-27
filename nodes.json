@@ -1328,5 +1328,15 @@
     "short_name": "ARW1",
     "hw_model": "T_ECHO",
     "role": ""
+  },
+  "!a20a17a0": {
+    "id": "!a20a17a0",
+    "long_name": "Hayling Rise, Worthing, Sussex",
+    "last_heard": "2026-04-27T14:06:47.302265+00:00",
+    "snr": -6.5,
+    "hops_away": 3,
+    "short_name": "BN13",
+    "hw_model": "STATION_G2",
+    "role": "CLIENT_BASE"
   }
 }
