@@ -1111,9 +1111,9 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "Meshtastic 59a7",
-    "last_heard": "2026-04-23T13:02:42.767314+00:00",
-    "snr": -13.75,
-    "hops_away": 6,
+    "last_heard": "2026-04-27T21:25:57.642912+00:00",
+    "snr": -9.75,
+    "hops_away": 5,
     "short_name": "59a7",
     "hw_model": "UNSET",
     "role": ""
