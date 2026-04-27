@@ -1300,12 +1300,12 @@
   },
   "!2234c21f": {
     "id": "!2234c21f",
-    "long_name": "Meshtastic c21f",
-    "last_heard": "2026-04-27T13:05:40.295322+00:00",
-    "snr": -8.5,
-    "hops_away": 3,
+    "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
+    "last_heard": "2026-04-27T22:46:06.115928+00:00",
+    "snr": -20.25,
+    "hops_away": 5,
     "short_name": "c21f",
-    "hw_model": "UNSET",
+    "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
   },
   "!bba83df4": {
