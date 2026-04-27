@@ -1417,5 +1417,15 @@
     "short_name": "dm_1",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!69852264": {
+    "id": "!69852264",
+    "long_name": "Greenbox4",
+    "last_heard": "2026-04-27T21:07:34.835887+00:00",
+    "snr": 10.75,
+    "hops_away": 6,
+    "short_name": "Grn4",
+    "hw_model": "HELTEC_V4",
+    "role": "ROUTER"
   }
 }
