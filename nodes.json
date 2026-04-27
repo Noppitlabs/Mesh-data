@@ -138,13 +138,13 @@
   },
   "!48f0db39": {
     "id": "!48f0db39",
-    "long_name": "fptp",
-    "last_heard": "2026-04-21T23:01:21.172354+00:00",
-    "snr": 9.0,
-    "hops_away": 5,
-    "short_name": "fptp",
-    "hw_model": "TRACKER_T1000_E",
-    "role": "CLIENT_MUTE"
+    "long_name": "Meshtastic db39",
+    "last_heard": "2026-04-27T14:43:56.767102+00:00",
+    "snr": -9.25,
+    "hops_away": 2,
+    "short_name": "db39",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!d715c89d": {
     "id": "!d715c89d",
