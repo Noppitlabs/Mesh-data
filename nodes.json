@@ -1258,5 +1258,15 @@
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!9e76b3c8": {
+    "id": "!9e76b3c8",
+    "long_name": "Meshtastic b3c8",
+    "last_heard": "2026-04-27T12:35:56.389212+00:00",
+    "snr": -9.25,
+    "hops_away": 2,
+    "short_name": "b3c8",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
