@@ -639,9 +639,9 @@
   "!40e4c5b1": {
     "id": "!40e4c5b1",
     "long_name": "The Black Swan",
-    "last_heard": "2026-04-20T22:46:39.228286+00:00",
-    "snr": -11.0,
-    "hops_away": 2,
+    "last_heard": "2026-04-27T21:16:45.326726+00:00",
+    "snr": -16.5,
+    "hops_away": 0,
     "short_name": "TBS2",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
