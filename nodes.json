@@ -1074,12 +1074,12 @@
   },
   "!da56c6c8": {
     "id": "!da56c6c8",
-    "long_name": "Meshtastic c6c8",
-    "last_heard": "2026-04-23T11:50:14.005753+00:00",
-    "snr": 10.0,
-    "hops_away": 5,
-    "short_name": "c6c8",
-    "hw_model": "UNSET",
+    "long_name": "Node-1-Luxulyan",
+    "last_heard": "2026-04-27T15:12:14.182196+00:00",
+    "snr": -10.0,
+    "hops_away": 7,
+    "short_name": "Nd-1",
+    "hw_model": "HELTEC_V3",
     "role": ""
   },
   "!55fbf3fc": {
