@@ -1397,5 +1397,15 @@
     "short_name": "Bew2",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!30321da0": {
+    "id": "!30321da0",
+    "long_name": "Meshtastic 1da0",
+    "last_heard": "2026-04-27T19:09:59.323314+00:00",
+    "snr": -6.0,
+    "hops_away": 6,
+    "short_name": "1da0",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
