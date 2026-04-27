@@ -1248,5 +1248,15 @@
     "short_name": "fbd0",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!9e75d8e0": {
+    "id": "!9e75d8e0",
+    "long_name": "Beachesandsea.com",
+    "last_heard": "2026-04-27T12:26:29.893282+00:00",
+    "snr": 12.25,
+    "hops_away": 2,
+    "short_name": "EXE7",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
