@@ -1218,5 +1218,15 @@
     "short_name": "8464",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!da5473fc": {
+    "id": "!da5473fc",
+    "long_name": "Meshtastic 73fc",
+    "last_heard": "2026-04-27T10:34:07.731735+00:00",
+    "snr": -3.75,
+    "hops_away": 3,
+    "short_name": "73fc",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
