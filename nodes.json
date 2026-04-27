@@ -1338,5 +1338,15 @@
     "short_name": "BN13",
     "hw_model": "STATION_G2",
     "role": "CLIENT_BASE"
+  },
+  "!bba830a4": {
+    "id": "!bba830a4",
+    "long_name": "Power Test",
+    "last_heard": "2026-04-27T14:17:57.253640+00:00",
+    "snr": -11.5,
+    "hops_away": 5,
+    "short_name": "30a4",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
