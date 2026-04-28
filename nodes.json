@@ -1514,5 +1514,15 @@
     "short_name": "Egg4",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
+  },
+  "!849c72a0": {
+    "id": "!849c72a0",
+    "long_name": "Meshtastic VeNT",
+    "last_heard": "2026-04-28T04:07:20.391052+00:00",
+    "snr": -5.75,
+    "hops_away": 5,
+    "short_name": "VeNT",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
