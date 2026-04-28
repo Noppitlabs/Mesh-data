@@ -735,12 +735,12 @@
   },
   "!1f9ff578": {
     "id": "!1f9ff578",
-    "long_name": "Meshtastic f578",
-    "last_heard": "2026-04-27T22:34:23.743186+00:00",
-    "snr": -8.5,
-    "hops_away": 7,
-    "short_name": "f578",
-    "hw_model": "UNSET",
+    "long_name": "Corfemullen Node",
+    "last_heard": "2026-04-28T01:35:53.081763+00:00",
+    "snr": -4.25,
+    "hops_away": 5,
+    "short_name": "GBCM",
+    "hw_model": "TBEAM",
     "role": ""
   },
   "!31058798": {
