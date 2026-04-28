@@ -1250,10 +1250,13 @@
   },
   "!74f0fbd0": {
     "id": "!74f0fbd0",
-    "long_name": "!74f0fbd0",
-    "last_heard": "2026-04-28T09:21:29.165465+00:00",
-    "snr": -7.0,
-    "hops_away": 4
+    "long_name": "Meshtastic fbd0",
+    "last_heard": "2026-04-28T14:40:59.161457+00:00",
+    "snr": -8.0,
+    "hops_away": 2,
+    "short_name": "fbd0",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!9e75d8e0": {
     "id": "!9e75d8e0",
