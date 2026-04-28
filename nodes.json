@@ -399,9 +399,9 @@
   "!d48e4547": {
     "id": "!d48e4547",
     "long_name": "Lewistown YAGI",
-    "last_heard": "2026-04-28T07:43:56.167867+00:00",
-    "snr": -3.0,
-    "hops_away": 4,
+    "last_heard": "2026-04-28T10:41:41.254478+00:00",
+    "snr": -8.25,
+    "hops_away": 5,
     "short_name": "T114",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
