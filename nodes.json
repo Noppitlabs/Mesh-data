@@ -1484,5 +1484,15 @@
     "short_name": "d35c",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!6b7a84a1": {
+    "id": "!6b7a84a1",
+    "long_name": "timttmy-tracker",
+    "last_heard": "2026-04-28T02:00:05.460903+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
+    "short_name": "Card",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   }
 }
