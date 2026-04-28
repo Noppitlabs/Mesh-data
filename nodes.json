@@ -1504,5 +1504,15 @@
     "short_name": "BTY1",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!1969b119": {
+    "id": "!1969b119",
+    "long_name": "PlymSteve",
+    "last_heard": "2026-04-28T03:29:33.299169+00:00",
+    "snr": -5.25,
+    "hops_away": 5,
+    "short_name": "Egg4",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   }
 }
