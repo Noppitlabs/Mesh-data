@@ -1594,5 +1594,15 @@
     "short_name": "HUB",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!49b5d660": {
+    "id": "!49b5d660",
+    "long_name": "ryu_BASE",
+    "last_heard": "2026-04-28T15:15:33.929044+00:00",
+    "snr": -9.0,
+    "hops_away": 7,
+    "short_name": "ryuB",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
