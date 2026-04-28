@@ -1474,5 +1474,15 @@
     "last_heard": "2026-04-28T00:46:51.395437+00:00",
     "snr": -6.25,
     "hops_away": 4
+  },
+  "!7c5ad35c": {
+    "id": "!7c5ad35c",
+    "long_name": "Meshtastic d35c",
+    "last_heard": "2026-04-28T00:57:42.987482+00:00",
+    "snr": -4.5,
+    "hops_away": 4,
+    "short_name": "d35c",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
