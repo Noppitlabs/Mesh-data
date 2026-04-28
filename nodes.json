@@ -1544,5 +1544,15 @@
     "short_name": "HPRN",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_BASE"
+  },
+  "!db2f0e7c": {
+    "id": "!db2f0e7c",
+    "long_name": "CardiffBay",
+    "last_heard": "2026-04-28T05:30:38.807618+00:00",
+    "snr": -6.5,
+    "hops_away": 2,
+    "short_name": "BASE",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
