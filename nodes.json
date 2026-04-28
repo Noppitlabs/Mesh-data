@@ -1564,5 +1564,15 @@
     "short_name": "a1ac",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!da5afb4c": {
+    "id": "!da5afb4c",
+    "long_name": "ellis-omni",
+    "last_heard": "2026-04-28T09:56:12.374819+00:00",
+    "snr": -8.5,
+    "hops_away": 2,
+    "short_name": "EG5o",
+    "hw_model": "TLORA_T3_S3",
+    "role": ""
   }
 }
