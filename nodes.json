@@ -1467,5 +1467,12 @@
     "short_name": "CpNB",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!88a82c51": {
+    "id": "!88a82c51",
+    "long_name": "!88a82c51",
+    "last_heard": "2026-04-28T00:46:51.395437+00:00",
+    "snr": -6.25,
+    "hops_away": 4
   }
 }
