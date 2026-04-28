@@ -816,9 +816,9 @@
   "!fe93d41f": {
     "id": "!fe93d41f",
     "long_name": "M0PCZ 7 ele Yagi Solar \ud83c\udfe1 ",
-    "last_heard": "2026-04-27T16:47:54.614830+00:00",
-    "snr": -7.5,
-    "hops_away": 3,
+    "last_heard": "2026-04-28T01:45:40.248580+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
     "short_name": "Base",
     "hw_model": "RAK4631",
     "role": "ROUTER"
