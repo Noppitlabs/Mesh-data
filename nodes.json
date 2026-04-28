@@ -168,13 +168,13 @@
   },
   "!69998cb8": {
     "id": "!69998cb8",
-    "long_name": "HIGHWEEK SLR",
-    "last_heard": "2026-04-21T20:50:19.244321+00:00",
-    "snr": -18.75,
-    "hops_away": 4,
-    "short_name": "HWK",
-    "hw_model": "XIAO_NRF52_KIT",
-    "role": "ROUTER_LATE"
+    "long_name": "Meshtastic 8cb8",
+    "last_heard": "2026-04-28T13:36:31.897521+00:00",
+    "snr": -10.25,
+    "hops_away": 5,
+    "short_name": "8cb8",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!c0c32250": {
     "id": "!c0c32250",
