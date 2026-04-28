@@ -1,5 +1,16 @@
 [
   {
+    "id": 274481921,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "1 hop",
+    "timestamp": "2026-04-28T11:57:22.302503+00:00",
+    "channel": 0,
+    "snr": -15.75,
+    "hops": 6
+  },
+  {
     "id": 729990623,
     "from": null,
     "from_name": null,
