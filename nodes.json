@@ -69,9 +69,9 @@
   "!43b59df4": {
     "id": "!43b59df4",
     "long_name": "2E0HYY",
-    "last_heard": "2026-04-28T11:46:28.921107+00:00",
-    "snr": -3.25,
-    "hops_away": 2,
+    "last_heard": "2026-04-28T13:22:55.005547+00:00",
+    "snr": 13.5,
+    "hops_away": 3,
     "short_name": "KM02",
     "hw_model": "HELTEC_V3",
     "role": ""
