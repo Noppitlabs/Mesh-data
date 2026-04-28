@@ -1581,5 +1581,15 @@
     "short_name": "fir",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
+  },
+  "!9e766178": {
+    "id": "!9e766178",
+    "long_name": "Jacob HUB",
+    "last_heard": "2026-04-28T13:10:35.572725+00:00",
+    "snr": -11.25,
+    "hops_away": 6,
+    "short_name": "HUB",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
