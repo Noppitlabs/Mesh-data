@@ -1081,9 +1081,9 @@
   "!da56c6c8": {
     "id": "!da56c6c8",
     "long_name": "Node-1-Luxulyan",
-    "last_heard": "2026-04-27T17:04:54.033980+00:00",
-    "snr": -8.0,
-    "hops_away": 7,
+    "last_heard": "2026-04-28T03:29:57.466929+00:00",
+    "snr": -6.75,
+    "hops_away": 3,
     "short_name": "Nd-1",
     "hw_model": "HELTEC_V3",
     "role": ""
