@@ -957,9 +957,9 @@
   "!43b70dc8": {
     "id": "!43b70dc8",
     "long_name": "Edmund's Hill",
-    "last_heard": "2026-04-28T11:51:10.796006+00:00",
-    "snr": -14.0,
-    "hops_away": 5,
+    "last_heard": "2026-04-28T16:03:27.036256+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
     "short_name": "EH",
     "hw_model": "HELTEC_WSL_V3",
     "role": "CLIENT_BASE"
