@@ -28,10 +28,13 @@
   },
   "!75eddf30": {
     "id": "!75eddf30",
-    "long_name": "!75eddf30",
-    "last_heard": "2026-04-28T10:21:55.370667+00:00",
+    "long_name": "APEX",
+    "last_heard": "2026-04-28T10:22:58.403403+00:00",
     "snr": null,
-    "hops_away": -7
+    "hops_away": -7,
+    "short_name": "AP3X",
+    "hw_model": "TLORA_T3_S3",
+    "role": "CLIENT_BASE"
   },
   "!da655af4": {
     "id": "!da655af4",
