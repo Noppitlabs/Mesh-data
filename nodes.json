@@ -1470,10 +1470,13 @@
   },
   "!88a82c51": {
     "id": "!88a82c51",
-    "long_name": "!88a82c51",
-    "last_heard": "2026-04-28T01:01:41.341776+00:00",
-    "snr": -5.25,
-    "hops_away": 4
+    "long_name": "Meshtastic 2c51",
+    "last_heard": "2026-04-28T07:06:22.069433+00:00",
+    "snr": -4.5,
+    "hops_away": 4,
+    "short_name": "2c51",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!7c5ad35c": {
     "id": "!7c5ad35c",
