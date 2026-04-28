@@ -1554,5 +1554,15 @@
     "short_name": "BASE",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!9ea2a1ac": {
+    "id": "!9ea2a1ac",
+    "long_name": "Meshtastic a1ac",
+    "last_heard": "2026-04-28T08:05:43.264894+00:00",
+    "snr": -2.5,
+    "hops_away": 6,
+    "short_name": "a1ac",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
