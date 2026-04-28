@@ -902,13 +902,13 @@
   },
   "!9ea1fe80": {
     "id": "!9ea1fe80",
-    "long_name": "ED3",
-    "last_heard": "2026-04-27T13:35:04.841855+00:00",
-    "snr": -4.5,
+    "long_name": "Meshtastic fe80",
+    "last_heard": "2026-04-28T15:10:19.027461+00:00",
+    "snr": -8.5,
     "hops_away": 4,
-    "short_name": "ED3",
-    "hw_model": "HELTEC_V3",
-    "role": "CLIENT_MUTE"
+    "short_name": "fe80",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!433c4f80": {
     "id": "!433c4f80",
