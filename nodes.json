@@ -1288,9 +1288,9 @@
   "!9ee70f38": {
     "id": "!9ee70f38",
     "long_name": "Meshtastic 0f38",
-    "last_heard": "2026-04-27T13:03:50.610406+00:00",
-    "snr": 11.25,
-    "hops_away": 5,
+    "last_heard": "2026-04-29T12:40:25.653079+00:00",
+    "snr": -7.5,
+    "hops_away": 6,
     "short_name": "0f38",
     "hw_model": "UNSET",
     "role": ""
