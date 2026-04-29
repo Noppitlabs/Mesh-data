@@ -169,9 +169,9 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "Meshtastic 8cb8",
-    "last_heard": "2026-04-28T13:36:31.897521+00:00",
-    "snr": -10.25,
-    "hops_away": 5,
+    "last_heard": "2026-04-29T07:10:07.726154+00:00",
+    "snr": -1.75,
+    "hops_away": 4,
     "short_name": "8cb8",
     "hw_model": "UNSET",
     "role": ""
