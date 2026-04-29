@@ -38,13 +38,13 @@
   },
   "!da655af4": {
     "id": "!da655af4",
-    "long_name": "ALAN PIXEL",
-    "last_heard": "2026-04-27T18:44:02.873572+00:00",
-    "snr": -1.0,
-    "hops_away": 5,
-    "short_name": "ALAN",
-    "hw_model": "HELTEC_V3",
-    "role": "CLIENT_MUTE"
+    "long_name": "Meshtastic 5af4",
+    "last_heard": "2026-04-29T14:46:00.760916+00:00",
+    "snr": 10.75,
+    "hops_away": 4,
+    "short_name": "5af4",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!da56e94c": {
     "id": "!da56e94c",
