@@ -1657,5 +1657,15 @@
     "short_name": "FCN2",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!da64b348": {
+    "id": "!da64b348",
+    "long_name": "Morriston",
+    "last_heard": "2026-04-29T14:38:28.634787+00:00",
+    "snr": 13.5,
+    "hops_away": 6,
+    "short_name": "MORR",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
