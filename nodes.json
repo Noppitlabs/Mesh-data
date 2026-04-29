@@ -863,9 +863,9 @@
   "!433bedc0": {
     "id": "!433bedc0",
     "long_name": "StJ-mobile",
-    "last_heard": "2026-04-28T04:52:49.753896+00:00",
-    "snr": -6.5,
-    "hops_away": 5,
+    "last_heard": "2026-04-29T10:07:49.646840+00:00",
+    "snr": -12.25,
+    "hops_away": 4,
     "short_name": "edc0",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": ""
