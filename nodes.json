@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-04-29T07:27:35.557700+00:00",
-    "snr": -5.5,
-    "hops_away": 5,
+    "last_heard": "2026-04-29T09:10:04.995467+00:00",
+    "snr": -2.25,
+    "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1261,8 +1261,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-04-27T18:26:36.637933+00:00",
-    "snr": 12.25,
+    "last_heard": "2026-04-29T09:11:03.231097+00:00",
+    "snr": -16.0,
     "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
