@@ -1647,5 +1647,15 @@
     "short_name": "9453",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!9e9d1a00": {
+    "id": "!9e9d1a00",
+    "long_name": "Mobile",
+    "last_heard": "2026-04-29T14:29:57.533841+00:00",
+    "snr": 11.0,
+    "hops_away": 5,
+    "short_name": "FCN2",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
