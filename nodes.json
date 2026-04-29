@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-04-28T17:53:48.718183+00:00",
-    "snr": -19.5,
-    "hops_away": 1,
+    "last_heard": "2026-04-29T07:52:38.180558+00:00",
+    "snr": -4.25,
+    "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -932,10 +932,13 @@
   },
   "!5ccaa577": {
     "id": "!5ccaa577",
-    "long_name": "!5ccaa577",
-    "last_heard": "2026-04-21T22:22:06.167307+00:00",
-    "snr": 10.75,
-    "hops_away": 7
+    "long_name": "Finn Mobile2",
+    "last_heard": "2026-04-29T07:52:54.043592+00:00",
+    "snr": -1.5,
+    "hops_away": 5,
+    "short_name": "Fin2",
+    "hw_model": "SEEED_WIO_TRACKER_L1",
+    "role": "CLIENT_MUTE"
   },
   "!1c72386c": {
     "id": "!1c72386c",
