@@ -1634,5 +1634,15 @@
     "short_name": "c1e4",
     "hw_model": "TLORA_T3_S3",
     "role": ""
+  },
+  "!5fde9453": {
+    "id": "!5fde9453",
+    "long_name": "Meshtastic 9453",
+    "last_heard": "2026-04-29T13:44:02.030094+00:00",
+    "snr": 12.75,
+    "hops_away": 4,
+    "short_name": "9453",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
