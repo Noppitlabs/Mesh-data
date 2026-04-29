@@ -1588,9 +1588,9 @@
   "!9e766178": {
     "id": "!9e766178",
     "long_name": "Jacob HUB",
-    "last_heard": "2026-04-28T13:10:35.572725+00:00",
-    "snr": -11.25,
-    "hops_away": 6,
+    "last_heard": "2026-04-29T13:10:43.423546+00:00",
+    "snr": -8.75,
+    "hops_away": 4,
     "short_name": "HUB",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
