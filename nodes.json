@@ -1614,5 +1614,15 @@
     "short_name": "5db8",
     "hw_model": "UNSET",
     "role": ""
+  },
+  "!9e9d5418": {
+    "id": "!9e9d5418",
+    "long_name": "Greenhouse",
+    "last_heard": "2026-04-29T09:35:02.827013+00:00",
+    "snr": -15.5,
+    "hops_away": 4,
+    "short_name": "\ud83e\udeb4",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
