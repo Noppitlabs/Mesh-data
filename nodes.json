@@ -785,13 +785,13 @@
   },
   "!02d4cd04": {
     "id": "!02d4cd04",
-    "long_name": "Meshtastic cd04",
-    "last_heard": "2026-04-27T15:25:21.186926+00:00",
-    "snr": -7.25,
-    "hops_away": 5,
-    "short_name": "cd04",
-    "hw_model": "UNSET",
-    "role": ""
+    "long_name": "Preston~Bowyer",
+    "last_heard": "2026-05-03T20:21:07.136567+00:00",
+    "snr": -17.5,
+    "hops_away": 2,
+    "short_name": "T4",
+    "hw_model": "RAK4631",
+    "role": "ROUTER"
   },
   "!56e04c5a": {
     "id": "!56e04c5a",
