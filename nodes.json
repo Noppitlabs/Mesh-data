@@ -1760,5 +1760,15 @@
     "short_name": "b118",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!e33bbdf0": {
+    "id": "!e33bbdf0",
+    "long_name": "Sennan onan \ud83c\udf34\ud83c\udf05\ud83c\udf1e\ud83c\udfe1",
+    "last_heard": "2026-05-03T23:20:13.955835+00:00",
+    "snr": -17.25,
+    "hops_away": 3,
+    "short_name": "Sen1",
+    "hw_model": "TBEAM",
+    "role": "CLIENT_BASE"
   }
 }
