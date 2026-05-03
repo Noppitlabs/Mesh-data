@@ -1781,5 +1781,15 @@
     "last_heard": "2026-05-03T23:42:34.747637+00:00",
     "snr": -17.75,
     "hops_away": 2
+  },
+  "!8f51053c": {
+    "id": "!8f51053c",
+    "long_name": "Exmouth~",
+    "last_heard": "2026-05-03T23:59:51.597162+00:00",
+    "snr": -18.25,
+    "hops_away": 0,
+    "short_name": "E1",
+    "hw_model": "RAK4631",
+    "role": "ROUTER"
   }
 }
