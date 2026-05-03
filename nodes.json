@@ -1695,5 +1695,15 @@
     "short_name": "87e8",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!da56951c": {
+    "id": "!da56951c",
+    "long_name": "PAC-Telford",
+    "last_heard": "2026-05-03T21:37:09.745818+00:00",
+    "snr": -6.75,
+    "hops_away": 7,
+    "short_name": "951c",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
