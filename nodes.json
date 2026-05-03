@@ -1750,5 +1750,15 @@
     "short_name": "frly",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
+  },
+  "!9e9fb118": {
+    "id": "!9e9fb118",
+    "long_name": "Meshtastic b118",
+    "last_heard": "2026-05-03T23:19:40.378657+00:00",
+    "snr": 13.75,
+    "hops_away": 6,
+    "short_name": "b118",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
