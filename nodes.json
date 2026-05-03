@@ -465,13 +465,10 @@
   },
   "!9e9d1704": {
     "id": "!9e9d1704",
-    "long_name": "Wolf Den",
-    "last_heard": "2026-04-21T01:46:55.491609+00:00",
-    "snr": 11.75,
-    "hops_away": 4,
-    "short_name": "Star",
-    "hw_model": "HELTEC_V3",
-    "role": "ROUTER_LATE"
+    "long_name": "!9e9d1704",
+    "last_heard": "2026-05-03T21:49:23.680155+00:00",
+    "snr": -13.5,
+    "hops_away": 3
   },
   "!bd4f0c48": {
     "id": "!bd4f0c48",
