@@ -1678,5 +1678,12 @@
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
     "role": ""
+  },
+  "!bd2a8ffe": {
+    "id": "!bd2a8ffe",
+    "long_name": "!bd2a8ffe",
+    "last_heard": "2026-05-03T21:21:48.204502+00:00",
+    "snr": -16.0,
+    "hops_away": 1
   }
 }
