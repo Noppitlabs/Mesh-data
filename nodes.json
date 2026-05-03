@@ -1770,5 +1770,12 @@
     "short_name": "Sen1",
     "hw_model": "TBEAM",
     "role": "CLIENT_BASE"
+  },
+  "!43b708bc": {
+    "id": "!43b708bc",
+    "long_name": "!43b708bc",
+    "last_heard": "2026-05-03T23:35:27.981477+00:00",
+    "snr": -17.5,
+    "hops_away": 3
   }
 }
