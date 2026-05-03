@@ -1715,5 +1715,12 @@
     "short_name": "db18",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!5bfc4afe": {
+    "id": "!5bfc4afe",
+    "long_name": "!5bfc4afe",
+    "last_heard": "2026-05-03T21:46:37.935927+00:00",
+    "snr": -14.75,
+    "hops_away": 4
   }
 }
