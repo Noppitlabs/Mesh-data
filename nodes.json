@@ -1064,8 +1064,8 @@
   "!849c3c9c": {
     "id": "!849c3c9c",
     "long_name": "Meshtastic 3c9c",
-    "last_heard": "2026-04-29T12:26:55.086214+00:00",
-    "snr": 11.5,
+    "last_heard": "2026-05-03T20:13:55.879149+00:00",
+    "snr": -14.75,
     "hops_away": 3,
     "short_name": "3c9c",
     "hw_model": "HELTEC_V3",
