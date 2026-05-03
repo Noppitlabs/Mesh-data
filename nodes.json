@@ -1674,5 +1674,15 @@
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!75e05160": {
+    "id": "!75e05160",
+    "long_name": "PotaJoe1",
+    "last_heard": "2026-05-03T20:45:46.859804+00:00",
+    "snr": -10.75,
+    "hops_away": 5,
+    "short_name": "PJ1",
+    "hw_model": "TLORA_T3_S3",
+    "role": ""
   }
 }
