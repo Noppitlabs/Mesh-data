@@ -1736,5 +1736,12 @@
     "short_name": "78f1",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!ea5d51e8": {
+    "id": "!ea5d51e8",
+    "long_name": "!ea5d51e8",
+    "last_heard": "2026-05-03T23:04:30.354398+00:00",
+    "snr": -18.25,
+    "hops_away": 4
   }
 }
