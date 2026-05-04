@@ -1812,5 +1812,12 @@
     "short_name": "CDTL",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!9e7601b4": {
+    "id": "!9e7601b4",
+    "long_name": "!9e7601b4",
+    "last_heard": "2026-05-04T00:33:03.062151+00:00",
+    "snr": 11.25,
+    "hops_away": 3
   }
 }
