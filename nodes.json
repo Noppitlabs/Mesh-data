@@ -226,9 +226,9 @@
   "!e2e536d4": {
     "id": "!e2e536d4",
     "long_name": "Farmer Giles Attic",
-    "last_heard": "2026-05-04T01:14:46.844912+00:00",
-    "snr": -18.0,
-    "hops_away": 1,
+    "last_heard": "2026-05-04T01:29:54.734082+00:00",
+    "snr": -11.25,
+    "hops_away": 2,
     "short_name": "FGA",
     "hw_model": "HELTEC_V3",
     "role": ""
