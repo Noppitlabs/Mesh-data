@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-04T15:35:36.196056+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-05-04T15:37:11.224246+00:00",
+    "snr": -8.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-04T15:37:07.217571+00:00",
+    "last_heard": "2026-05-04T15:38:07.259974+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2002,8 +2002,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-05-04T15:17:11.965924+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-05-04T15:37:53.134884+00:00",
+    "snr": -14.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
