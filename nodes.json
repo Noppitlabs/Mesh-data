@@ -2068,5 +2068,12 @@
     "short_name": "PICO",
     "hw_model": "RPI_PICO",
     "role": ""
+  },
+  "!34bb799a": {
+    "id": "!34bb799a",
+    "long_name": "!34bb799a",
+    "last_heard": "2026-05-04T13:38:34.712142+00:00",
+    "snr": -13.0,
+    "hops_away": 2
   }
 }
