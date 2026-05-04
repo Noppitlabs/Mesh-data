@@ -1235,9 +1235,9 @@
   "!acaa933c": {
     "id": "!acaa933c",
     "long_name": "Newton Abbot 1",
-    "last_heard": "2026-05-04T01:25:12.322422+00:00",
-    "snr": -17.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-04T06:26:39.185432+00:00",
+    "snr": 13.25,
+    "hops_away": 3,
     "short_name": "VUD",
     "hw_model": "HELTEC_V3",
     "role": ""
