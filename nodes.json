@@ -1902,5 +1902,15 @@
     "short_name": "J3M1",
     "hw_model": "NOMADSTAR_METEOR_PRO",
     "role": ""
+  },
+  "!9aabd2d3": {
+    "id": "!9aabd2d3",
+    "long_name": "Mark G6YGR Teignmouth Base",
+    "last_heard": "2026-05-04T03:28:32.160748+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
+    "short_name": "YGRb",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": "CLIENT_BASE"
   }
 }
