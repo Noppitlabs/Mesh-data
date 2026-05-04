@@ -1664,8 +1664,8 @@
   "!bd2a8ffe": {
     "id": "!bd2a8ffe",
     "long_name": "Simcom M1",
-    "last_heard": "2026-05-04T10:50:26.369889+00:00",
-    "snr": -11.0,
+    "last_heard": "2026-05-04T11:50:39.280861+00:00",
+    "snr": -7.5,
     "hops_away": 1,
     "short_name": "SCM1",
     "hw_model": "THINKNODE_M1",
