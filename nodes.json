@@ -1613,13 +1613,10 @@
   },
   "!5fde9453": {
     "id": "!5fde9453",
-    "long_name": "Meshtastic 9453",
-    "last_heard": "2026-04-29T13:44:02.030094+00:00",
-    "snr": 12.75,
-    "hops_away": 4,
-    "short_name": "9453",
-    "hw_model": "UNSET",
-    "role": ""
+    "long_name": "!5fde9453",
+    "last_heard": "2026-05-04T04:01:55.643206+00:00",
+    "snr": -8.5,
+    "hops_away": 5
   },
   "!9e9d1a00": {
     "id": "!9e9d1a00",
