@@ -530,9 +530,9 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-05-04T01:09:14.124405+00:00",
-    "snr": -8.75,
-    "hops_away": 2,
+    "last_heard": "2026-05-04T01:13:17.554913+00:00",
+    "snr": -17.25,
+    "hops_away": 1,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
     "role": "ROUTER"
