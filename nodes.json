@@ -913,9 +913,9 @@
   },
   "!4eb5cccc": {
     "id": "!4eb5cccc",
-    "long_name": "G6OMT/P~Mark ",
-    "last_heard": "2026-04-21T17:27:48.271203+00:00",
-    "snr": 9.0,
+    "long_name": "Mobile~Base",
+    "last_heard": "2026-05-04T11:33:33.018755+00:00",
+    "snr": -9.0,
     "hops_away": 3,
     "short_name": "R2",
     "hw_model": "RAK4631",
