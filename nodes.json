@@ -1671,9 +1671,9 @@
   "!bff187e8": {
     "id": "!bff187e8",
     "long_name": "Meshtastic 87e8",
-    "last_heard": "2026-05-03T21:56:20.546310+00:00",
-    "snr": 13.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-04T04:28:44.097098+00:00",
+    "snr": 13.5,
+    "hops_away": 5,
     "short_name": "87e8",
     "hw_model": "TBEAM",
     "role": ""
