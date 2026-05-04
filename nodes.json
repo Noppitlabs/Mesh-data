@@ -1833,5 +1833,12 @@
     "short_name": "a70c",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!a7df87aa": {
+    "id": "!a7df87aa",
+    "long_name": "!a7df87aa",
+    "last_heard": "2026-05-04T00:56:30.594020+00:00",
+    "snr": -10.0,
+    "hops_away": 3
   }
 }
