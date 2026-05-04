@@ -1812,10 +1812,13 @@
   },
   "!9e7601b4": {
     "id": "!9e7601b4",
-    "long_name": "!9e7601b4",
-    "last_heard": "2026-05-04T01:18:14.571138+00:00",
-    "snr": 13.75,
-    "hops_away": 3
+    "long_name": "PASTY Treviscoe 01b4",
+    "last_heard": "2026-05-04T04:33:58.927042+00:00",
+    "snr": -12.5,
+    "hops_away": 3,
+    "short_name": "01b4",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!04c589c4": {
     "id": "!04c589c4",
