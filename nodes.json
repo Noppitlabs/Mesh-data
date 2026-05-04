@@ -1471,9 +1471,9 @@
   "!30327374": {
     "id": "!30327374",
     "long_name": "PHIL - BTY1 \ud83d\udc4d",
-    "last_heard": "2026-04-28T17:21:04.794107+00:00",
-    "snr": -9.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-04T02:59:38.152723+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
     "short_name": "BTY1",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
