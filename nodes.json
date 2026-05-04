@@ -1758,9 +1758,9 @@
   "!e33bbdf0": {
     "id": "!e33bbdf0",
     "long_name": "Sennan onan \ud83c\udf34\ud83c\udf05\ud83c\udf1e\ud83c\udfe1",
-    "last_heard": "2026-05-04T05:20:36.695077+00:00",
-    "snr": -9.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-04T06:06:39.026822+00:00",
+    "snr": -18.25,
+    "hops_away": 3,
     "short_name": "Sen1",
     "hw_model": "TBEAM",
     "role": "CLIENT_BASE"
