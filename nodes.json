@@ -1921,9 +1921,9 @@
   "!9aabd2d3": {
     "id": "!9aabd2d3",
     "long_name": "Mark G6YGR Teignmouth Base",
-    "last_heard": "2026-05-04T06:28:29.812013+00:00",
-    "snr": -18.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-04T07:40:08.610559+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
     "short_name": "YGRb",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
