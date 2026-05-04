@@ -1654,9 +1654,9 @@
   "!75e05160": {
     "id": "!75e05160",
     "long_name": "PotaJoe1",
-    "last_heard": "2026-05-04T08:04:18.719056+00:00",
-    "snr": 10.25,
-    "hops_away": 4,
+    "last_heard": "2026-05-04T08:42:26.971045+00:00",
+    "snr": -11.75,
+    "hops_away": 2,
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
     "role": ""
