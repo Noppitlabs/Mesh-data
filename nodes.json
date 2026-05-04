@@ -2022,5 +2022,15 @@
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
+  },
+  "!e2e2df4c": {
+    "id": "!e2e2df4c",
+    "long_name": "DICEY O'DONNELL'S (OFFICE)",
+    "last_heard": "2026-05-04T10:25:52.183154+00:00",
+    "snr": -17.5,
+    "hops_away": 2,
+    "short_name": "DC01",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
