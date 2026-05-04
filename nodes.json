@@ -2048,5 +2048,15 @@
     "short_name": "NKD2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "REPEATER"
+  },
+  "!4ef19b68": {
+    "id": "!4ef19b68",
+    "long_name": "lillygoTD10",
+    "last_heard": "2026-05-04T12:33:10.472734+00:00",
+    "snr": -15.0,
+    "hops_away": 3,
+    "short_name": "LGTD",
+    "hw_model": "T_DECK",
+    "role": ""
   }
 }
