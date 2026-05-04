@@ -2032,5 +2032,12 @@
     "short_name": "DC01",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!433ba350": {
+    "id": "!433ba350",
+    "long_name": "!433ba350",
+    "last_heard": "2026-05-04T10:36:54.728183+00:00",
+    "snr": -17.5,
+    "hops_away": 2
   }
 }
