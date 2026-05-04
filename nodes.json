@@ -1788,5 +1788,12 @@
     "short_name": "E1",
     "hw_model": "RAK4631",
     "role": "ROUTER"
+  },
+  "!69822bd4": {
+    "id": "!69822bd4",
+    "long_name": "!69822bd4",
+    "last_heard": "2026-05-04T00:19:24.602353+00:00",
+    "snr": -17.75,
+    "hops_away": 2
   }
 }
