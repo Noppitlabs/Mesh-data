@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-04T15:57:29.682955+00:00",
-    "snr": -11.25,
+    "last_heard": "2026-05-04T15:58:55.978960+00:00",
+    "snr": -7.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -249,9 +249,9 @@
   "!b6eeec2f": {
     "id": "!b6eeec2f",
     "long_name": "SCAP SLR",
-    "last_heard": "2026-05-04T11:58:49.740546+00:00",
-    "snr": -11.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-04T15:58:44.600896+00:00",
+    "snr": -8.0,
+    "hops_away": 6,
     "short_name": "SCAP",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
