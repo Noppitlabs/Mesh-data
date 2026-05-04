@@ -1174,12 +1174,12 @@
   },
   "!7a6d7b14": {
     "id": "!7a6d7b14",
-    "long_name": "Meshtastic 7b14",
-    "last_heard": "2026-04-28T16:58:12.556684+00:00",
-    "snr": 9.75,
+    "long_name": "TheRoamingGnome",
+    "last_heard": "2026-05-04T15:59:58.027730+00:00",
+    "snr": 6.5,
     "hops_away": 0,
-    "short_name": "7b14",
-    "hw_model": "UNSET",
+    "short_name": "TRG1",
+    "hw_model": "TBEAM",
     "role": ""
   },
   "!a20c3088": {
