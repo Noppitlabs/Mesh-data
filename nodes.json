@@ -148,10 +148,13 @@
   },
   "!d715c89d": {
     "id": "!d715c89d",
-    "long_name": "!d715c89d",
-    "last_heard": "2026-05-04T01:38:35.333129+00:00",
-    "snr": -11.25,
-    "hops_away": 3
+    "long_name": "OSR0 - M7OSR",
+    "last_heard": "2026-05-04T03:38:34.489799+00:00",
+    "snr": 11.75,
+    "hops_away": 3,
+    "short_name": "OSR0",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
   },
   "!4359694c": {
     "id": "!4359694c",
