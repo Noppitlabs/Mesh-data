@@ -1955,5 +1955,15 @@
     "last_heard": "2026-05-04T05:17:07.360434+00:00",
     "snr": -11.5,
     "hops_away": 3
+  },
+  "!da5459d8": {
+    "id": "!da5459d8",
+    "long_name": "ForestofDeanGL15BASE",
+    "last_heard": "2026-05-04T05:24:11.533516+00:00",
+    "snr": -19.0,
+    "hops_away": 0,
+    "short_name": "STV2",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
