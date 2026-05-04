@@ -706,8 +706,8 @@
   "!db29ef28": {
     "id": "!db29ef28",
     "long_name": "RX_Roam",
-    "last_heard": "2026-05-04T17:46:08.523545+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-05-04T22:24:07.134491+00:00",
+    "snr": -12.75,
     "hops_away": 6,
     "short_name": "ef28",
     "hw_model": "HELTEC_V3",
