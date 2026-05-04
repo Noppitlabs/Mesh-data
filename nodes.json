@@ -1621,9 +1621,9 @@
   "!9e9d1a00": {
     "id": "!9e9d1a00",
     "long_name": "Mobile",
-    "last_heard": "2026-05-03T21:42:25.160327+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-04T00:58:49.525836+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "FCN2",
     "hw_model": "HELTEC_V3",
     "role": ""
