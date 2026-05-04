@@ -1992,5 +1992,15 @@
     "short_name": "79a0",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!794eb20a": {
+    "id": "!794eb20a",
+    "long_name": "EXWire Server",
+    "last_heard": "2026-05-04T08:28:24.948964+00:00",
+    "snr": -18.0,
+    "hops_away": 2,
+    "short_name": "exw1",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
