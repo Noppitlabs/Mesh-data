@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-04T15:28:21.271964+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-05-04T15:34:21.842381+00:00",
+    "snr": -13.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-04T15:34:18.267769+00:00",
+    "last_heard": "2026-05-04T15:34:25.149685+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-05-04T15:08:41.535718+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-05-04T15:34:44.660121+00:00",
+    "snr": -10.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
