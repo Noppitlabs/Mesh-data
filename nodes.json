@@ -1884,9 +1884,9 @@
   "!279bcbf0": {
     "id": "!279bcbf0",
     "long_name": "ellis-yagi",
-    "last_heard": "2026-05-04T12:18:53.659701+00:00",
-    "snr": -15.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-04T12:39:02.083468+00:00",
+    "snr": 13.0,
+    "hops_away": 3,
     "short_name": "EG5y",
     "hw_model": "HELTEC_HT62",
     "role": ""
