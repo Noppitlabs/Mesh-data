@@ -1194,10 +1194,13 @@
   },
   "!6b84c577": {
     "id": "!6b84c577",
-    "long_name": "!6b84c577",
-    "last_heard": "2026-05-04T05:45:39.358769+00:00",
-    "snr": -18.25,
-    "hops_away": 2
+    "long_name": "Phil BTY3 \ud83d\udc4d",
+    "last_heard": "2026-05-04T06:09:05.130712+00:00",
+    "snr": -19.25,
+    "hops_away": 2,
+    "short_name": "BTY3",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!a39d095a": {
     "id": "!a39d095a",
