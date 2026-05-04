@@ -1882,5 +1882,15 @@
     "short_name": "BSON",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!02e60d74": {
+    "id": "!02e60d74",
+    "long_name": "Posset-HM1",
+    "last_heard": "2026-05-04T03:24:53.336653+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
+    "short_name": "HM1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
