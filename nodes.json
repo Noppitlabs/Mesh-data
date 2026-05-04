@@ -1393,9 +1393,9 @@
   "!6c741ec0": {
     "id": "!6c741ec0",
     "long_name": "dm_1_1ec0",
-    "last_heard": "2026-05-04T02:49:23.932610+00:00",
-    "snr": -18.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-04T05:50:53.894553+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
     "short_name": "dm_1",
     "hw_model": "TBEAM",
     "role": ""
