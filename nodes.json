@@ -1922,5 +1922,15 @@
     "last_heard": "2026-05-04T03:48:52.027397+00:00",
     "snr": -19.25,
     "hops_away": 4
+  },
+  "!e2e3816c": {
+    "id": "!e2e3816c",
+    "long_name": "Buster Crab",
+    "last_heard": "2026-05-04T04:11:00.531477+00:00",
+    "snr": -18.0,
+    "hops_away": 2,
+    "short_name": "816c",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
