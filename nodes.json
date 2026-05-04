@@ -526,9 +526,9 @@
   "!040930e4": {
     "id": "!040930e4",
     "long_name": "tredelerch",
-    "last_heard": "2026-05-04T03:52:07.429110+00:00",
-    "snr": -9.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-04T06:52:05.133988+00:00",
+    "snr": 12.5,
+    "hops_away": 2,
     "short_name": "M31C",
     "hw_model": "HELTEC_V3",
     "role": ""
