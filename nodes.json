@@ -1309,13 +1309,10 @@
   },
   "!9e7dec32": {
     "id": "!9e7dec32",
-    "long_name": "M7ARW 1\ud83d\udce1",
-    "last_heard": "2026-04-27T21:55:32.784696+00:00",
-    "snr": -8.5,
-    "hops_away": 4,
-    "short_name": "ARW1",
-    "hw_model": "T_ECHO",
-    "role": ""
+    "long_name": "!9e7dec32",
+    "last_heard": "2026-05-04T00:49:51.734130+00:00",
+    "snr": -18.0,
+    "hops_away": 3
   },
   "!a20a17a0": {
     "id": "!a20a17a0",
