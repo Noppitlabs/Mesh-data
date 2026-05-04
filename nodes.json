@@ -1938,5 +1938,12 @@
     "short_name": "816c",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!1de8d2bc": {
+    "id": "!1de8d2bc",
+    "long_name": "!1de8d2bc",
+    "last_heard": "2026-05-04T04:41:19.795952+00:00",
+    "snr": -17.75,
+    "hops_away": 2
   }
 }
