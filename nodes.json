@@ -2058,5 +2058,15 @@
     "short_name": "LGTD",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!0309722e": {
+    "id": "!0309722e",
+    "long_name": "Tony's PICO",
+    "last_heard": "2026-05-04T12:35:27.188914+00:00",
+    "snr": -15.75,
+    "hops_away": 5,
+    "short_name": "PICO",
+    "hw_model": "RPI_PICO",
+    "role": ""
   }
 }
