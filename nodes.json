@@ -1871,10 +1871,13 @@
   },
   "!279bcbf0": {
     "id": "!279bcbf0",
-    "long_name": "!279bcbf0",
-    "last_heard": "2026-05-04T02:50:35.380700+00:00",
-    "snr": -16.75,
-    "hops_away": 1
+    "long_name": "ellis-yagi",
+    "last_heard": "2026-05-04T04:20:55.933659+00:00",
+    "snr": -17.75,
+    "hops_away": 2,
+    "short_name": "EG5y",
+    "hw_model": "HELTEC_HT62",
+    "role": ""
   },
   "!699c36d4": {
     "id": "!699c36d4",
