@@ -1010,13 +1010,10 @@
   },
   "!dad907dc": {
     "id": "!dad907dc",
-    "long_name": "Meshtastic 07dc",
-    "last_heard": "2026-04-23T12:26:37.346663+00:00",
-    "snr": -17.75,
-    "hops_away": 5,
-    "short_name": "07dc",
-    "hw_model": "UNSET",
-    "role": ""
+    "long_name": "!dad907dc",
+    "last_heard": "2026-05-04T15:55:39.240946+00:00",
+    "snr": -7.25,
+    "hops_away": 5
   },
   "!a2eb40d4": {
     "id": "!a2eb40d4",
