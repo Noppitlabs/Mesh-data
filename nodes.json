@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-04T15:44:47.456053+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-05-04T15:46:17.424111+00:00",
+    "snr": -17.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-04T15:45:07.727721+00:00",
+    "last_heard": "2026-05-04T15:46:07.770368+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
