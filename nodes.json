@@ -508,10 +508,13 @@
   },
   "!307221d3": {
     "id": "!307221d3",
-    "long_name": "!307221d3",
-    "last_heard": "2026-05-04T18:49:25.134908+00:00",
-    "snr": -12.25,
-    "hops_away": 7
+    "long_name": "Tony G6GLP",
+    "last_heard": "2026-05-05T09:20:23.567932+00:00",
+    "snr": -15.0,
+    "hops_away": 7,
+    "short_name": "GLPp",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!6b5324d5": {
     "id": "!6b5324d5",
