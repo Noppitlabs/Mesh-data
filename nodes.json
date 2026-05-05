@@ -2099,5 +2099,15 @@
     "short_name": "TOM",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!da633928": {
+    "id": "!da633928",
+    "long_name": "M0PCZ/m",
+    "last_heard": "2026-05-05T07:31:55.416380+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
+    "short_name": "PCZM",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
