@@ -2122,5 +2122,15 @@
     "short_name": "86a8",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!a20cf354": {
+    "id": "!a20cf354",
+    "long_name": "Marky Marrow",
+    "last_heard": "2026-05-05T12:36:31.569397+00:00",
+    "snr": 11.0,
+    "hops_away": 3,
+    "short_name": "mrrw",
+    "hw_model": "T_DECK",
+    "role": ""
   }
 }
