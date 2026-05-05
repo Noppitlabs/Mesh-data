@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-05T12:17:47.983999+00:00",
-    "snr": -20.0,
-    "hops_away": 0,
+    "last_heard": "2026-05-05T12:55:04.351653+00:00",
+    "snr": -18.5,
+    "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -1255,8 +1255,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-05T11:50:37.315826+00:00",
-    "snr": 11.0,
+    "last_heard": "2026-05-05T12:55:09.006232+00:00",
+    "snr": -18.5,
     "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
