@@ -2086,8 +2086,8 @@
   "!b03b3ffc": {
     "id": "!b03b3ffc",
     "long_name": "Meshtastic 3ffc",
-    "last_heard": "2026-05-05T07:53:01.104610+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-05-05T13:53:02.317123+00:00",
+    "snr": -12.75,
     "hops_away": 3,
     "short_name": "3ffc",
     "hw_model": "HELTEC_V3",
