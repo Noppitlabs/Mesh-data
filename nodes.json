@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-05T10:18:16.446317+00:00",
-    "snr": 11.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-05T10:20:04.068614+00:00",
+    "snr": -13.25,
+    "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1245,9 +1245,9 @@
   "!74f0fbd0": {
     "id": "!74f0fbd0",
     "long_name": "YT-1300f (M7OXC)",
-    "last_heard": "2026-05-05T10:14:51.169966+00:00",
-    "snr": -13.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-05T10:20:40.463957+00:00",
+    "snr": -17.25,
+    "hops_away": 3,
     "short_name": "fbd0",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
