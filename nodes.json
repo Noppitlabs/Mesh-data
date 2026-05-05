@@ -2132,5 +2132,15 @@
     "short_name": "mrrw",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!da55eed4": {
+    "id": "!da55eed4",
+    "long_name": "jons house ",
+    "last_heard": "2026-05-05T15:46:58.011661+00:00",
+    "snr": -15.0,
+    "hops_away": 5,
+    "short_name": "skyn",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
