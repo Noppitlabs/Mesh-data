@@ -1298,13 +1298,10 @@
   },
   "!bba83df4": {
     "id": "!bba83df4",
-    "long_name": "GCM0005 - Edible MQTT \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-04-27T13:12:59.726185+00:00",
-    "snr": -7.25,
-    "hops_away": 5,
-    "short_name": "3df4",
-    "hw_model": "TBEAM",
-    "role": ""
+    "long_name": "!bba83df4",
+    "last_heard": "2026-05-05T17:37:09.960756+00:00",
+    "snr": -10.75,
+    "hops_away": 7
   },
   "!effc6eae": {
     "id": "!effc6eae",
