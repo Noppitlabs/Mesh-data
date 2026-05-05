@@ -1,5 +1,16 @@
 [
   {
+    "id": 754688429,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Hopefully it means I can go home and hour earlier\ud83e\udd2a",
+    "timestamp": "2026-05-05T12:12:28.793709+00:00",
+    "channel": 0,
+    "snr": -18.25,
+    "hops": 3
+  },
+  {
     "id": 754688427,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -526,14 +537,6 @@
     "to": "^all",
     "text": "Testing",
     "timestamp": "2026-04-20T11:57:33.214664+00:00",
-    "channel": 0
-  },
-  {
-    "id": 1733333836,
-    "from": "!ba33ffb8",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-04-20T11:53:42.614298Z",
     "channel": 0
   }
 ]
