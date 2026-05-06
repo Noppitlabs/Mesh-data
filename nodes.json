@@ -2173,5 +2173,15 @@
     "short_name": "PNTX",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!b469b04d": {
+    "id": "!b469b04d",
+    "long_name": "Penylan b04d",
+    "last_heard": "2026-05-06T10:14:50.202171+00:00",
+    "snr": -20.25,
+    "hops_away": 5,
+    "short_name": "b04d",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
