@@ -2110,9 +2110,9 @@
   "!b2a786a8": {
     "id": "!b2a786a8",
     "long_name": "Meshtastic 86a8",
-    "last_heard": "2026-05-05T12:01:18.356509+00:00",
-    "snr": -15.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-06T09:00:16.552413+00:00",
+    "snr": -15.5,
+    "hops_away": 6,
     "short_name": "86a8",
     "hw_model": "HELTEC_V4",
     "role": ""
