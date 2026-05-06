@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-06T08:03:59.089556+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-05-06T08:05:29.082150+00:00",
+    "snr": -15.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -316,9 +316,9 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-05-06T07:53:08.429963+00:00",
-    "snr": -6.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-06T08:05:03.715437+00:00",
+    "snr": -7.75,
+    "hops_away": 3,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
     "role": ""
