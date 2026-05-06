@@ -616,9 +616,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-05-06T05:32:11.299775+00:00",
-    "snr": -5.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-06T05:40:15.017326+00:00",
+    "snr": -5.75,
+    "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
@@ -1252,8 +1252,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-06T04:16:51.340710+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-05-06T05:40:03.468899+00:00",
+    "snr": -13.5,
     "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
