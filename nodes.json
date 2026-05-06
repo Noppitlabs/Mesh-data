@@ -516,9 +516,9 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-05-06T01:51:50.470682+00:00",
-    "snr": -19.25,
-    "hops_away": 1,
+    "last_heard": "2026-05-06T02:42:43.097350+00:00",
+    "snr": -6.75,
+    "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
     "role": "ROUTER"
