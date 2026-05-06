@@ -2183,5 +2183,15 @@
     "short_name": "b04d",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!cf428a6d": {
+    "id": "!cf428a6d",
+    "long_name": "TQ1 Solar Node",
+    "last_heard": "2026-05-06T13:18:06.363789+00:00",
+    "snr": -14.75,
+    "hops_away": 7,
+    "short_name": "TQ1S",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": ""
   }
 }
