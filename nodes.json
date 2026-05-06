@@ -1340,9 +1340,9 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-05-05T06:37:27.342622+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-05-06T06:37:38.270983+00:00",
+    "snr": -8.25,
+    "hops_away": 3,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_MUTE"
