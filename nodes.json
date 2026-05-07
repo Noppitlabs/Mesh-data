@@ -2196,5 +2196,12 @@
     "short_name": "TQ1S",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
+  },
+  "!1fa05c64": {
+    "id": "!1fa05c64",
+    "long_name": "!1fa05c64",
+    "last_heard": "2026-05-07T09:30:45.970926+00:00",
+    "snr": -8.25,
+    "hops_away": 6
   }
 }
