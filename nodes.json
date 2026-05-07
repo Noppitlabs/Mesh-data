@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-07T20:08:28.898847+00:00",
-    "snr": -11.5,
-    "hops_away": 1,
+    "last_heard": "2026-05-07T20:11:25.664202+00:00",
+    "snr": -13.0,
+    "hops_away": 2,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -293,8 +293,8 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-05-07T19:37:01.131606+00:00",
-    "snr": 12.5,
+    "last_heard": "2026-05-07T20:11:23.205415+00:00",
+    "snr": 10.25,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
