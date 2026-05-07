@@ -2216,5 +2216,15 @@
     "short_name": "HELT",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!0404d940": {
+    "id": "!0404d940",
+    "long_name": "VeNT Stick",
+    "last_heard": "2026-05-07T14:12:19.678912+00:00",
+    "snr": -14.5,
+    "hops_away": 6,
+    "short_name": "VeNT",
+    "hw_model": "HELTEC_WSL_V3",
+    "role": ""
   }
 }
