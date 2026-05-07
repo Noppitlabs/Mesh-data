@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-07T20:44:38.814850+00:00",
-    "snr": -12.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-07T20:47:21.677480+00:00",
+    "snr": -9.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1281,9 +1281,9 @@
   "!bba83df4": {
     "id": "!bba83df4",
     "long_name": "GCM0005 - Edible MQTT \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-05-07T19:03:01.785226+00:00",
-    "snr": -17.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-07T20:47:26.848540+00:00",
+    "snr": -9.5,
+    "hops_away": 6,
     "short_name": "3df4",
     "hw_model": "TBEAM",
     "role": ""
