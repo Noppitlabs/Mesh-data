@@ -1337,10 +1337,13 @@
   },
   "!0407d65c": {
     "id": "!0407d65c",
-    "long_name": "!0407d65c",
-    "last_heard": "2026-05-07T20:11:13.375265+00:00",
-    "snr": -12.25,
-    "hops_away": 6
+    "long_name": "Meshtastic d65c",
+    "last_heard": "2026-05-07T20:12:44.850144+00:00",
+    "snr": -14.25,
+    "hops_away": 7,
+    "short_name": "d65c",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!02edde20": {
     "id": "!02edde20",
