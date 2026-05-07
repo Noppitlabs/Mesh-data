@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-07T20:14:19.023213+00:00",
+    "last_heard": "2026-05-07T20:15:20.232436+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -453,8 +453,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-05-07T19:32:50.930524+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-05-07T20:15:52.769191+00:00",
+    "snr": -13.75,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
