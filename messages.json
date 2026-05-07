@@ -1,5 +1,16 @@
 [
   {
+    "id": 770076428,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "G",
+    "timestamp": "2026-05-07T20:05:55.378802+00:00",
+    "channel": 0,
+    "snr": -15.0,
+    "hops": 6
+  },
+  {
     "id": 2730839576,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 9.0,
     "hops": 1
-  },
-  {
-    "id": 721658928,
-    "from": "!c6d0ea7e",
-    "from_name": "XXA-ea7e",
-    "to": "^all",
-    "text": "Woopse, dupes!",
-    "timestamp": "2026-04-21T13:20:44.512663+00:00",
-    "channel": 0,
-    "snr": 12.75,
-    "hops": 5
   }
 ]
