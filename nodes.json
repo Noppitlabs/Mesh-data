@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-07T15:34:07.141536+00:00",
+    "last_heard": "2026-05-07T15:35:08.248992+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -289,9 +289,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-05-07T15:33:56.057396+00:00",
-    "snr": -12.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-07T15:35:38.734544+00:00",
+    "snr": -13.25,
+    "hops_away": 5,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
