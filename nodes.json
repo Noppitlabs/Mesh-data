@@ -1337,13 +1337,10 @@
   },
   "!0407d65c": {
     "id": "!0407d65c",
-    "long_name": "Meshtastic d65c",
-    "last_heard": "2026-04-27T17:00:19.157218+00:00",
-    "snr": -2.75,
-    "hops_away": 7,
-    "short_name": "d65c",
-    "hw_model": "UNSET",
-    "role": ""
+    "long_name": "!0407d65c",
+    "last_heard": "2026-05-07T20:11:13.375265+00:00",
+    "snr": -12.25,
+    "hops_away": 6
   },
   "!02edde20": {
     "id": "!02edde20",
