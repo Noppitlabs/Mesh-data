@@ -1400,9 +1400,9 @@
   "!69852264": {
     "id": "!69852264",
     "long_name": "Greenbox4",
-    "last_heard": "2026-05-05T05:05:35.662288+00:00",
-    "snr": -6.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-07T03:08:10.048308+00:00",
+    "snr": -7.75,
+    "hops_away": 5,
     "short_name": "Grn4",
     "hw_model": "HELTEC_V4",
     "role": "ROUTER"
