@@ -689,9 +689,9 @@
   "!9e7572d4": {
     "id": "!9e7572d4",
     "long_name": "Meshtastic 72d4",
-    "last_heard": "2026-05-07T15:12:48.481020+00:00",
-    "snr": -13.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-07T16:55:15.876307+00:00",
+    "snr": -18.25,
+    "hops_away": 7,
     "short_name": "72d4",
     "hw_model": "HELTEC_V3",
     "role": ""
