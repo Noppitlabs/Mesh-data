@@ -2257,5 +2257,12 @@
     "short_name": "TTEC",
     "hw_model": "T_ECHO",
     "role": ""
+  },
+  "!517e63e3": {
+    "id": "!517e63e3",
+    "long_name": "!517e63e3",
+    "last_heard": "2026-05-08T09:25:42.850319+00:00",
+    "snr": -13.25,
+    "hops_away": 4
   }
 }
