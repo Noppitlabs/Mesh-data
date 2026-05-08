@@ -2363,5 +2363,12 @@
     "short_name": "J3BA",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!433ba934": {
+    "id": "!433ba934",
+    "long_name": "!433ba934",
+    "last_heard": "2026-05-08T22:05:36.253846+00:00",
+    "snr": -19.5,
+    "hops_away": 6
   }
 }
