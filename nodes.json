@@ -2353,5 +2353,15 @@
     "last_heard": "2026-05-08T20:45:27.943940+00:00",
     "snr": -16.25,
     "hops_away": 5
+  },
+  "!c4d70266": {
+    "id": "!c4d70266",
+    "long_name": "James3D-Base",
+    "last_heard": "2026-05-08T21:58:31.840614+00:00",
+    "snr": -15.25,
+    "hops_away": 6,
+    "short_name": "J3BA",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
