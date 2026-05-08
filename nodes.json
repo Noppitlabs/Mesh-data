@@ -63,9 +63,9 @@
   "!43b59df4": {
     "id": "!43b59df4",
     "long_name": "2E0HYY",
-    "last_heard": "2026-05-08T07:35:32.180172+00:00",
-    "snr": -12.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-08T08:11:51.999651+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "KM02",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -724,8 +724,8 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-05-07T15:23:53.622066+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-05-08T08:12:25.994316+00:00",
+    "snr": -11.0,
     "hops_away": 6,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
