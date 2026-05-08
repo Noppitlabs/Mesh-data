@@ -380,8 +380,8 @@
   "!81500cc4": {
     "id": "!81500cc4",
     "long_name": "Jasespace.com",
-    "last_heard": "2026-05-08T12:00:26.352052+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-05-08T12:05:17.132759+00:00",
+    "snr": -16.0,
     "hops_away": 0,
     "short_name": "JASE",
     "hw_model": "M5STACK_C6L",
@@ -711,9 +711,9 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-05-08T08:23:06.419710+00:00",
-    "snr": -13.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-08T12:05:04.982127+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
     "role": ""
