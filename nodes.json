@@ -113,9 +113,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-05-08T12:59:12.515453+00:00",
-    "snr": -18.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-08T13:23:05.947875+00:00",
+    "snr": -20.25,
+    "hops_away": 4,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -885,9 +885,9 @@
   "!9ea1fe80": {
     "id": "!9ea1fe80",
     "long_name": "ED3",
-    "last_heard": "2026-05-08T11:49:33.955531+00:00",
-    "snr": -11.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-08T13:23:44.494354+00:00",
+    "snr": -17.5,
+    "hops_away": 5,
     "short_name": "ED3",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
