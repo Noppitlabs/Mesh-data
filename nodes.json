@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-08T15:49:20.694106+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-05-08T15:51:12.285432+00:00",
+    "snr": -15.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -133,9 +133,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-05-08T14:25:22.448511+00:00",
-    "snr": -15.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-08T15:51:49.213075+00:00",
+    "snr": -17.25,
+    "hops_away": 4,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
