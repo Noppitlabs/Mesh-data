@@ -83,9 +83,9 @@
   "!75e98560": {
     "id": "!75e98560",
     "long_name": "StJ1- G7LJN",
-    "last_heard": "2026-05-08T07:22:45.966528+00:00",
-    "snr": -12.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-08T09:10:37.621194+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
     "short_name": "StJ1",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -183,8 +183,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-08T08:47:09.012417+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-05-08T09:10:03.986715+00:00",
+    "snr": -14.0,
     "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
