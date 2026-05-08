@@ -914,13 +914,10 @@
   },
   "!5ccaa577": {
     "id": "!5ccaa577",
-    "long_name": "Finn Mobile2",
-    "last_heard": "2026-05-07T04:01:29.919102+00:00",
-    "snr": -10.25,
-    "hops_away": 7,
-    "short_name": "Fin2",
-    "hw_model": "SEEED_WIO_TRACKER_L1",
-    "role": "CLIENT_MUTE"
+    "long_name": "!5ccaa577",
+    "last_heard": "2026-05-08T16:39:20.663145+00:00",
+    "snr": -14.5,
+    "hops_away": 7
   },
   "!1c72386c": {
     "id": "!1c72386c",
