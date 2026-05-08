@@ -123,9 +123,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-05-08T08:07:03.247553+00:00",
-    "snr": -10.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-08T08:10:39.333667+00:00",
+    "snr": -20.0,
+    "hops_away": 3,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -183,8 +183,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-08T07:47:08.818344+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-05-08T08:10:03.793605+00:00",
+    "snr": -14.5,
     "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
