@@ -233,9 +233,9 @@
   "!433ca780": {
     "id": "!433ca780",
     "long_name": "Nugg",
-    "last_heard": "2026-05-08T04:00:48.574302+00:00",
-    "snr": -13.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-08T04:40:33.893702+00:00",
+    "snr": -18.25,
+    "hops_away": 5,
     "short_name": "NUGG",
     "hw_model": "HELTEC_V3",
     "role": ""
