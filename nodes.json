@@ -2349,5 +2349,12 @@
     "short_name": "Air5",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!1c71c8ae": {
+    "id": "!1c71c8ae",
+    "long_name": "!1c71c8ae",
+    "last_heard": "2026-05-08T20:45:27.943940+00:00",
+    "snr": -16.25,
+    "hops_away": 5
   }
 }
