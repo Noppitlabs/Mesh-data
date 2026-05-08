@@ -2343,9 +2343,9 @@
   "!7d559f73": {
     "id": "!7d559f73",
     "long_name": "Air Scout 5",
-    "last_heard": "2026-05-08T19:53:39.281233+00:00",
-    "snr": -11.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-08T19:54:20.822248+00:00",
+    "snr": -9.75,
+    "hops_away": 4,
     "short_name": "Air5",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
