@@ -2287,5 +2287,12 @@
     "short_name": "WRP",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!163b3fd6": {
+    "id": "!163b3fd6",
+    "long_name": "!163b3fd6",
+    "last_heard": "2026-05-08T10:30:58.111604+00:00",
+    "snr": -13.25,
+    "hops_away": 5
   }
 }
