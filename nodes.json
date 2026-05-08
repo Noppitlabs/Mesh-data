@@ -1179,12 +1179,12 @@
   },
   "!6b84c577": {
     "id": "!6b84c577",
-    "long_name": "Meshtastic c577",
-    "last_heard": "2026-05-07T13:41:30.027943+00:00",
-    "snr": -13.75,
+    "long_name": "Phil BTY3 \ud83d\udc4d",
+    "last_heard": "2026-05-08T07:33:56.792162+00:00",
+    "snr": -8.5,
     "hops_away": 4,
-    "short_name": "c577",
-    "hw_model": "UNSET",
+    "short_name": "BTY3",
+    "hw_model": "TRACKER_T1000_E",
     "role": ""
   },
   "!a39d095a": {
