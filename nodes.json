@@ -2277,5 +2277,15 @@
     "short_name": "TD10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
+  },
+  "!da547404": {
+    "id": "!da547404",
+    "long_name": "GU4WRP",
+    "last_heard": "2026-05-08T10:23:11.011287+00:00",
+    "snr": -13.25,
+    "hops_away": 4,
+    "short_name": "WRP",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
