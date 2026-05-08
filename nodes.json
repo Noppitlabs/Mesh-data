@@ -2210,10 +2210,13 @@
   },
   "!69857a44": {
     "id": "!69857a44",
-    "long_name": "!69857a44",
-    "last_heard": "2026-05-08T10:10:17.960066+00:00",
-    "snr": -19.5,
-    "hops_away": 6
+    "long_name": "GCM001-BeauSejour\ud83c\uddec\ud83c\uddec\u2600",
+    "last_heard": "2026-05-08T16:37:31.263625+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
+    "short_name": "BEAU",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!6983e570": {
     "id": "!6983e570",
