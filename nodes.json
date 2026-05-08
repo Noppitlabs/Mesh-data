@@ -123,8 +123,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-05-08T10:13:05.399623+00:00",
-    "snr": -17.75,
+    "last_heard": "2026-05-08T10:15:57.489514+00:00",
+    "snr": -18.75,
     "hops_away": 5,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -2093,8 +2093,8 @@
   "!a20cf354": {
     "id": "!a20cf354",
     "long_name": "markymarrow",
-    "last_heard": "2026-05-06T20:32:27.120372+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-05-08T10:16:01.851181+00:00",
+    "snr": -13.75,
     "hops_away": 3,
     "short_name": "mrrw",
     "hw_model": "T_DECK",
