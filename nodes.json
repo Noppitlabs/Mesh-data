@@ -2251,9 +2251,9 @@
   "!3d44bdde": {
     "id": "!3d44bdde",
     "long_name": "Tommy T-Echo",
-    "last_heard": "2026-05-08T08:52:20.660358+00:00",
-    "snr": -11.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-08T09:37:49.836689+00:00",
+    "snr": -8.75,
+    "hops_away": 2,
     "short_name": "TTEC",
     "hw_model": "T_ECHO",
     "role": ""
