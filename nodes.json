@@ -2333,9 +2333,9 @@
   "!2ff9f6a5": {
     "id": "!2ff9f6a5",
     "long_name": "Air Scout 7",
-    "last_heard": "2026-05-08T19:56:53.017177+00:00",
-    "snr": -17.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-08T19:58:15.285229+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
     "short_name": "Air7",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
