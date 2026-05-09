@@ -2390,8 +2390,8 @@
   "!93f661cf": {
     "id": "!93f661cf",
     "long_name": "Meshtastic 61cf",
-    "last_heard": "2026-05-09T01:53:08.738805+00:00",
-    "snr": -15.25,
+    "last_heard": "2026-05-09T02:14:06.554376+00:00",
+    "snr": -14.0,
     "hops_away": 4,
     "short_name": "61cf",
     "hw_model": "TRACKER_T1000_E",
