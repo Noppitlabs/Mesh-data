@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-09T12:54:26.898770+00:00",
-    "snr": -13.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-09T12:56:15.344107+00:00",
+    "snr": -14.75,
+    "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -126,7 +126,7 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-05-09T12:54:14.998177+00:00",
+    "last_heard": "2026-05-09T12:56:26.930028+00:00",
     "snr": -14.25,
     "hops_away": 4,
     "short_name": "MOHS",
