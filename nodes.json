@@ -860,10 +860,13 @@
   },
   "!fbb5bd0f": {
     "id": "!fbb5bd0f",
-    "long_name": "!fbb5bd0f",
-    "last_heard": "2026-05-09T16:35:27.333285+00:00",
-    "snr": -16.25,
-    "hops_away": 4
+    "long_name": "unreturnable home",
+    "last_heard": "2026-05-09T19:49:15.140050+00:00",
+    "snr": -8.25,
+    "hops_away": 5,
+    "short_name": "URHM",
+    "hw_model": "RAK4631",
+    "role": ""
   },
   "!da65a77c": {
     "id": "!da65a77c",
