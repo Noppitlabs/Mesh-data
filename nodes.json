@@ -2228,9 +2228,9 @@
   "!33665d78": {
     "id": "!33665d78",
     "long_name": "GCM0010 - Portelet \ud83c\uddec\ud83c\uddec \ud83d\udd0c",
-    "last_heard": "2026-05-08T22:21:18.306431+00:00",
-    "snr": -14.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-09T00:05:21.790123+00:00",
+    "snr": -15.75,
+    "hops_away": 6,
     "short_name": "5d78",
     "hw_model": "HELTEC_V3",
     "role": ""
