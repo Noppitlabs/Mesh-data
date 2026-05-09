@@ -995,10 +995,13 @@
   },
   "!dad907dc": {
     "id": "!dad907dc",
-    "long_name": "!dad907dc",
-    "last_heard": "2026-05-05T15:31:46.100393+00:00",
-    "snr": 12.5,
-    "hops_away": 7
+    "long_name": "Tarr Exmoor Mobile ",
+    "last_heard": "2026-05-09T10:48:41.927321+00:00",
+    "snr": -13.0,
+    "hops_away": 4,
+    "short_name": "TE 1",
+    "hw_model": "TBEAM",
+    "role": ""
   },
   "!a2eb40d4": {
     "id": "!a2eb40d4",
