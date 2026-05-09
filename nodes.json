@@ -136,9 +136,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-05-09T15:28:09.832364+00:00",
-    "snr": -14.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-09T15:40:14.068891+00:00",
+    "snr": -13.25,
+    "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -183,8 +183,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-09T15:06:22.600994+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-05-09T15:41:10.766240+00:00",
+    "snr": -18.25,
     "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
