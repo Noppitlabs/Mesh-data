@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-09T10:21:32.999201+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-05-09T10:24:17.685581+00:00",
+    "snr": -14.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -183,8 +183,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-09T09:04:12.861616+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-05-09T10:24:09.429777+00:00",
+    "snr": -15.25,
     "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
