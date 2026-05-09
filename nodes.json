@@ -2412,9 +2412,9 @@
   "!acaaa51c": {
     "id": "!acaaa51c",
     "long_name": "RC02",
-    "last_heard": "2026-05-09T03:15:04.834153+00:00",
-    "snr": -16.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-09T18:34:23.860388+00:00",
+    "snr": -11.0,
+    "hops_away": 4,
     "short_name": "RC02",
     "hw_model": "HELTEC_V3",
     "role": ""
