@@ -2416,9 +2416,9 @@
   "!2698ed13": {
     "id": "!2698ed13",
     "long_name": "Neil-Seeed-T1000",
-    "last_heard": "2026-05-09T08:49:02.901399+00:00",
-    "snr": -16.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-09T09:02:36.985963+00:00",
+    "snr": -16.0,
+    "hops_away": 2,
     "short_name": "MAD2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
