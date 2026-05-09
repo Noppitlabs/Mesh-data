@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-09T08:43:55.076807+00:00",
+    "last_heard": "2026-05-09T08:43:56.424362+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2396,8 +2396,8 @@
   "!93f661cf": {
     "id": "!93f661cf",
     "long_name": "Meshtastic 61cf",
-    "last_heard": "2026-05-09T07:36:59.764030+00:00",
-    "snr": -14.25,
+    "last_heard": "2026-05-09T08:44:15.386121+00:00",
+    "snr": -15.25,
     "hops_away": 4,
     "short_name": "61cf",
     "hw_model": "TRACKER_T1000_E",
