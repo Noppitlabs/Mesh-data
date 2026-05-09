@@ -2502,5 +2502,12 @@
     "short_name": "anon",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!713c4c31": {
+    "id": "!713c4c31",
+    "long_name": "!713c4c31",
+    "last_heard": "2026-05-09T19:23:45.185883+00:00",
+    "snr": -7.75,
+    "hops_away": 6
   }
 }
