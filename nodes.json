@@ -2406,5 +2406,15 @@
     "short_name": "RC02",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!2698ed13": {
+    "id": "!2698ed13",
+    "long_name": "Neil-Seeed-T1000",
+    "last_heard": "2026-05-09T02:41:27.665893+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
+    "short_name": "MAD2",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   }
 }
