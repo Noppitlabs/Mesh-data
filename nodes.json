@@ -600,9 +600,9 @@
   "!c6d0ea7e": {
     "id": "!c6d0ea7e",
     "long_name": "XXA-ea7e",
-    "last_heard": "2026-05-09T17:35:53.882556+00:00",
-    "snr": -14.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-09T17:43:21.072724+00:00",
+    "snr": -14.0,
+    "hops_away": 4,
     "short_name": "XXAm",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
