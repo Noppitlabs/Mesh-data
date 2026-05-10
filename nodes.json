@@ -2581,5 +2581,12 @@
     "short_name": "7744",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!98e90f12": {
+    "id": "!98e90f12",
+    "long_name": "!98e90f12",
+    "last_heard": "2026-05-10T03:09:33.717597+00:00",
+    "snr": -18.75,
+    "hops_away": 6
   }
 }
