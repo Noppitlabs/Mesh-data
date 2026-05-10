@@ -2539,5 +2539,15 @@
     "short_name": "G4PZ",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!a6962ea8": {
+    "id": "!a6962ea8",
+    "long_name": "Meshtastic 2ea8",
+    "last_heard": "2026-05-10T01:39:28.338745+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
+    "short_name": "TKV",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
