@@ -2618,5 +2618,15 @@
     "short_name": "CaFN",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
+  },
+  "!f9925470": {
+    "id": "!f9925470",
+    "long_name": "Meshtastic 5470",
+    "last_heard": "2026-05-10T08:04:46.640014+00:00",
+    "snr": -7.5,
+    "hops_away": 3,
+    "short_name": "5470",
+    "hw_model": "TLORA_V2_1_1P6",
+    "role": ""
   }
 }
