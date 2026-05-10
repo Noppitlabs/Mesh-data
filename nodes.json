@@ -2531,9 +2531,9 @@
   "!da741904": {
     "id": "!da741904",
     "long_name": "Meshtastic 1904",
-    "last_heard": "2026-05-10T05:17:28.291850+00:00",
-    "snr": -6.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-10T06:05:40.042093+00:00",
+    "snr": -8.0,
+    "hops_away": 5,
     "short_name": "1904",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
