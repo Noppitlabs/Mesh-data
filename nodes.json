@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-10T01:49:30.669516+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-05-10T01:51:07.440455+00:00",
+    "snr": -15.0,
     "hops_away": 2,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -286,9 +286,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-05-10T01:12:49.009498+00:00",
+    "last_heard": "2026-05-10T01:51:19.197278+00:00",
     "snr": -9.75,
-    "hops_away": 4,
+    "hops_away": 5,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
