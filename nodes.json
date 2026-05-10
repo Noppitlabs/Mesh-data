@@ -2645,5 +2645,15 @@
     "short_name": "C1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!db57a270": {
+    "id": "!db57a270",
+    "long_name": "Meshtastic a270",
+    "last_heard": "2026-05-10T15:31:58.859010+00:00",
+    "snr": -18.5,
+    "hops_away": 4,
+    "short_name": "a270",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
