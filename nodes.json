@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-10T20:21:29.012529+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-05-10T20:21:55.487916+00:00",
+    "snr": -12.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -2319,9 +2319,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-05-10T20:21:53.878974+00:00",
-    "snr": -11.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-10T20:22:09.033948+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": ""
