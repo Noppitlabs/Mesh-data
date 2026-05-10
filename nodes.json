@@ -2662,5 +2662,15 @@
     "last_heard": "2026-05-10T17:08:14.767603+00:00",
     "snr": -14.25,
     "hops_away": 3
+  },
+  "!33b9577e": {
+    "id": "!33b9577e",
+    "long_name": "Thigh",
+    "last_heard": "2026-05-10T17:20:14.879943+00:00",
+    "snr": -15.5,
+    "hops_away": 7,
+    "short_name": "TH",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
