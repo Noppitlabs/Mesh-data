@@ -2520,5 +2520,15 @@
     "last_heard": "2026-05-09T23:35:26.326572+00:00",
     "snr": -12.25,
     "hops_away": 7
+  },
+  "!e2e38978": {
+    "id": "!e2e38978",
+    "long_name": "G4PZK",
+    "last_heard": "2026-05-10T01:12:09.696205+00:00",
+    "snr": -11.0,
+    "hops_away": 6,
+    "short_name": "G4PZ",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
