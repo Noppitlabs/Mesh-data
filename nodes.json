@@ -2649,8 +2649,8 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Meshtastic a270",
-    "last_heard": "2026-05-10T15:33:05.736266+00:00",
-    "snr": -15.75,
+    "last_heard": "2026-05-10T15:55:35.833957+00:00",
+    "snr": -13.0,
     "hops_away": 6,
     "short_name": "a270",
     "hw_model": "HELTEC_V3",
