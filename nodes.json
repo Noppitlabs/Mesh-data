@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-05-10T02:01:42.587408+00:00",
-    "snr": -7.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-10T02:41:06.470156+00:00",
+    "snr": -10.75,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -406,9 +406,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-05-10T00:56:15.700832+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-10T02:41:10.210832+00:00",
+    "snr": -7.5,
+    "hops_away": 4,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
