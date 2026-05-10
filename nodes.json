@@ -2121,8 +2121,8 @@
   "!da55eed4": {
     "id": "!da55eed4",
     "long_name": "jons house ",
-    "last_heard": "2026-05-10T06:47:00.807889+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-05-10T09:47:04.577775+00:00",
+    "snr": -13.0,
     "hops_away": 4,
     "short_name": "skyn",
     "hw_model": "HELTEC_V3",
@@ -2420,9 +2420,9 @@
   "!93f661cf": {
     "id": "!93f661cf",
     "long_name": "Meshtastic 61cf",
-    "last_heard": "2026-05-10T06:02:02.185682+00:00",
-    "snr": -7.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-10T09:47:26.009983+00:00",
+    "snr": -13.0,
+    "hops_away": 6,
     "short_name": "61cf",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
