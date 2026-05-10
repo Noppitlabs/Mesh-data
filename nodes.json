@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-10T06:58:32.064684+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-05-10T07:02:56.948511+00:00",
+    "snr": -11.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -546,7 +546,7 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-05-10T04:46:13.963287+00:00",
+    "last_heard": "2026-05-10T07:03:06.703536+00:00",
     "snr": -12.0,
     "hops_away": 2,
     "short_name": "SR#9",
