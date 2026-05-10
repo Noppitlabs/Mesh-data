@@ -2655,5 +2655,12 @@
     "short_name": "a270",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!f2c8c490": {
+    "id": "!f2c8c490",
+    "long_name": "!f2c8c490",
+    "last_heard": "2026-05-10T17:08:14.767603+00:00",
+    "snr": -14.25,
+    "hops_away": 3
   }
 }
