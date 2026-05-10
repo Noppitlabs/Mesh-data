@@ -2552,5 +2552,15 @@
     "short_name": "TKV",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!7c5cc180": {
+    "id": "!7c5cc180",
+    "long_name": "L5Mark-3",
+    "last_heard": "2026-05-10T01:59:37.498490+00:00",
+    "snr": -11.0,
+    "hops_away": 4,
+    "short_name": "L5-3",
+    "hw_model": "HELTEC_V3",
+    "role": "ROUTER_LATE"
   }
 }
