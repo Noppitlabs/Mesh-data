@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-05-10T10:22:58.368191+00:00",
-    "snr": -11.0,
+    "last_heard": "2026-05-10T11:38:09.557095+00:00",
+    "snr": -11.25,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -426,9 +426,9 @@
   "!62f8b250": {
     "id": "!62f8b250",
     "long_name": "M0ABR base",
-    "last_heard": "2026-05-10T06:50:37.289643+00:00",
-    "snr": -8.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-10T11:38:27.549056+00:00",
+    "snr": -18.25,
+    "hops_away": 6,
     "short_name": "base",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
