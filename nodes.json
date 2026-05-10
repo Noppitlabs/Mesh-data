@@ -1145,9 +1145,9 @@
   "!f5460a60": {
     "id": "!f5460a60",
     "long_name": "B2A",
-    "last_heard": "2026-05-09T12:16:51.797539+00:00",
-    "snr": -15.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-10T05:29:33.688623+00:00",
+    "snr": -7.75,
+    "hops_away": 6,
     "short_name": "B2A",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
