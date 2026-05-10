@@ -1,5 +1,16 @@
 [
   {
+    "id": 865196531,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Wow! Cardiff! Didn't realise I had the range for that",
+    "timestamp": "2026-05-10T17:35:55.504303+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 5
+  },
+  {
     "id": 1859325859,
     "from": "!a0cb4648",
     "from_name": "!a0cb4648",
@@ -536,17 +547,6 @@
     "timestamp": "2026-04-29T12:06:01.472628+00:00",
     "channel": 0,
     "snr": -10.75,
-    "hops": 6
-  },
-  {
-    "id": 274481921,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "1 hop",
-    "timestamp": "2026-04-28T11:57:22.302503+00:00",
-    "channel": 0,
-    "snr": -15.75,
     "hops": 6
   }
 ]
