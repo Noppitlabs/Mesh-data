@@ -850,9 +850,9 @@
   "!7c5ad0f4": {
     "id": "!7c5ad0f4",
     "long_name": "\ud83d\udccdBangers&Mesh",
-    "last_heard": "2026-05-11T03:26:32.541446+00:00",
-    "snr": -13.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-11T09:26:27.846926+00:00",
+    "snr": -15.0,
+    "hops_away": 3,
     "short_name": "BnM",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
