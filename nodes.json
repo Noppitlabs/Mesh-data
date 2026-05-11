@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-11T22:18:46.211954+00:00",
+    "last_heard": "2026-05-11T22:19:46.254096+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2776,5 +2776,12 @@
     "short_name": "Qkrs",
     "hw_model": "T_ECHO",
     "role": ""
+  },
+  "!cae810a9": {
+    "id": "!cae810a9",
+    "long_name": "!cae810a9",
+    "last_heard": "2026-05-11T22:19:21.344046+00:00",
+    "snr": -11.0,
+    "hops_away": 6
   }
 }
