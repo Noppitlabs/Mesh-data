@@ -586,8 +586,8 @@
   "!a1cd3ec8": {
     "id": "!a1cd3ec8",
     "long_name": "ROVER",
-    "last_heard": "2026-05-11T18:33:30.164982+00:00",
-    "snr": 9.75,
+    "last_heard": "2026-05-11T18:37:21.505235+00:00",
+    "snr": 11.0,
     "hops_away": 0,
     "short_name": "R0VR",
     "hw_model": "TBEAM_1_WATT",
