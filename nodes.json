@@ -2753,5 +2753,15 @@
     "last_heard": "2026-05-11T15:48:03.430358+00:00",
     "snr": -10.0,
     "hops_away": 4
+  },
+  "!e010afc8": {
+    "id": "!e010afc8",
+    "long_name": "Meshtastic~afc8",
+    "last_heard": "2026-05-11T15:48:18.918420+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
+    "short_name": "afc8",
+    "hw_model": "CROWPANEL",
+    "role": "CLIENT_MUTE"
   }
 }
