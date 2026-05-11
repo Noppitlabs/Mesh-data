@@ -1,5 +1,16 @@
 [
   {
+    "id": 1720279428,
+    "from": "!43b59df4",
+    "from_name": "2E0HYY Keith",
+    "to": "^all",
+    "text": "Anyone planning to drive Northbound M5, junctions 21 - 20 this morning, be aware traffic currently at a standstill due to a serious RTC.",
+    "timestamp": "2026-05-11T09:58:10.741179+00:00",
+    "channel": 0,
+    "snr": -15.0,
+    "hops": 3
+  },
+  {
     "id": 1720279422,
     "from": "!43b59df4",
     "from_name": "2E0HYY Keith",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 3
-  },
-  {
-    "id": 174024620,
-    "from": "!da633928",
-    "from_name": "M0PCZ/m",
-    "to": "^all",
-    "text": "Test. Newport Park, Topsham, Exeter",
-    "timestamp": "2026-05-05T09:22:06.712863+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 2
   }
 ]
