@@ -2709,5 +2709,15 @@
     "short_name": "DCHQ",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!da56dd40": {
+    "id": "!da56dd40",
+    "long_name": "SC Home Base",
+    "last_heard": "2026-05-11T07:58:31.162384+00:00",
+    "snr": -11.5,
+    "hops_away": 3,
+    "short_name": "SCHm",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
