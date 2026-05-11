@@ -2783,5 +2783,15 @@
     "last_heard": "2026-05-11T22:19:21.344046+00:00",
     "snr": -11.0,
     "hops_away": 6
+  },
+  "!e522414f": {
+    "id": "!e522414f",
+    "long_name": "In Flight",
+    "last_heard": "2026-05-11T22:22:42.677309+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
+    "short_name": "414f",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
   }
 }
