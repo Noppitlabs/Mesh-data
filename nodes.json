@@ -673,9 +673,9 @@
   "!142612f6": {
     "id": "!142612f6",
     "long_name": "NRF52 Solar (Yellow)",
-    "last_heard": "2026-05-11T19:10:04.278244+00:00",
-    "snr": -11.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-11T19:24:26.566443+00:00",
+    "snr": -13.75,
+    "hops_away": 5,
     "short_name": "YLLO",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "CLIENT_MUTE"
