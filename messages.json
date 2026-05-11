@@ -1,5 +1,16 @@
 [
   {
+    "id": 1720279466,
+    "from": "!43b59df4",
+    "from_name": "2E0HYY Keith",
+    "to": "^all",
+    "text": "My phone was already on latest update Mark. The node update sorted the lost connection problem.",
+    "timestamp": "2026-05-11T10:16:08.490165+00:00",
+    "channel": 0,
+    "snr": -14.75,
+    "hops": 2
+  },
+  {
     "id": 1720279435,
     "from": "!43b59df4",
     "from_name": "2E0HYY Keith",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-05T09:32:12.934020+00:00",
     "channel": 0,
     "snr": -14.75,
-    "hops": 2
-  },
-  {
-    "id": 1324955129,
-    "from": "!da633928",
-    "from_name": "M0PCZ/m",
-    "to": "^all",
-    "text": "Oh, said 10.27 on mine ?",
-    "timestamp": "2026-05-05T09:30:36.380135+00:00",
-    "channel": 0,
-    "snr": -16.0,
     "hops": 2
   }
 ]
