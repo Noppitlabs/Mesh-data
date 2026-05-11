@@ -2729,10 +2729,13 @@
   },
   "!849b59c8": {
     "id": "!849b59c8",
-    "long_name": "!849b59c8",
-    "last_heard": "2026-05-11T09:10:22.185529+00:00",
-    "snr": -15.0,
-    "hops_away": 6
+    "long_name": "Puck Telecom",
+    "last_heard": "2026-05-11T12:03:10.269951+00:00",
+    "snr": -9.0,
+    "hops_away": 5,
+    "short_name": "PUCK",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   },
   "!433f03cc": {
     "id": "!433f03cc",
