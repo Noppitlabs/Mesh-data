@@ -2453,9 +2453,9 @@
   "!da6558e0": {
     "id": "!da6558e0",
     "long_name": "Meshtastic 58e0",
-    "last_heard": "2026-05-10T05:52:38.551089+00:00",
-    "snr": -12.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-11T08:52:27.636301+00:00",
+    "snr": -11.25,
+    "hops_away": 3,
     "short_name": "58e0",
     "hw_model": "HELTEC_V3",
     "role": ""
