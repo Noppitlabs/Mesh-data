@@ -1051,9 +1051,9 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-05-11T12:30:28.781277+00:00",
-    "snr": -10.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-11T12:33:14.893886+00:00",
+    "snr": 11.25,
+    "hops_away": 3,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
