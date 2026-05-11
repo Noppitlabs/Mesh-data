@@ -486,9 +486,9 @@
   "!7a60aebb": {
     "id": "!7a60aebb",
     "long_name": "Ipplepen Relay",
-    "last_heard": "2026-05-11T13:53:53.411871+00:00",
-    "snr": -17.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-11T15:30:04.665739+00:00",
+    "snr": -16.5,
+    "hops_away": 4,
     "short_name": "FCN3",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -1243,8 +1243,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-11T15:26:10.618216+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-05-11T15:30:13.722124+00:00",
+    "snr": -15.75,
     "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
