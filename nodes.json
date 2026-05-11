@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-11T09:39:34.584014+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-05-11T09:42:15.342763+00:00",
+    "snr": -16.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-11T09:39:38.785317+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-05-11T09:42:52.141076+00:00",
+    "snr": -15.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
