@@ -416,9 +416,9 @@
   "!da56b4a0": {
     "id": "!da56b4a0",
     "long_name": "M0PCZ ",
-    "last_heard": "2026-05-11T17:38:32.612229+00:00",
-    "snr": -11.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-11T18:29:30.340570+00:00",
+    "snr": 10.25,
+    "hops_away": 7,
     "short_name": "PCZ",
     "hw_model": "HELTEC_V3",
     "role": ""
