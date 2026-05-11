@@ -2793,5 +2793,12 @@
     "short_name": "414f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!db2f0e2c": {
+    "id": "!db2f0e2c",
+    "long_name": "!db2f0e2c",
+    "last_heard": "2026-05-11T22:23:51.494027+00:00",
+    "snr": -9.0,
+    "hops_away": 4
   }
 }
