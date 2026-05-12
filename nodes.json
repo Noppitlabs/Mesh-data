@@ -802,13 +802,13 @@
   },
   "!a4c2bc74": {
     "id": "!a4c2bc74",
-    "long_name": "Meshtastic bc74",
-    "last_heard": "2026-05-12T14:18:40.071266+00:00",
-    "snr": -6.0,
-    "hops_away": 5,
-    "short_name": "bc74",
+    "long_name": "BACKPACK 1",
+    "last_heard": "2026-05-12T15:28:18.157732+00:00",
+    "snr": -13.5,
+    "hops_away": 3,
+    "short_name": "BPK1",
     "hw_model": "XIAO_NRF52_KIT",
-    "role": ""
+    "role": "CLIENT_MUTE"
   },
   "!fe93d41f": {
     "id": "!fe93d41f",
