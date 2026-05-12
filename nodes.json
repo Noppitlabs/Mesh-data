@@ -1541,9 +1541,9 @@
   "!da5afb4c": {
     "id": "!da5afb4c",
     "long_name": "ellis-omni",
-    "last_heard": "2026-05-12T06:13:21.952438+00:00",
-    "snr": -8.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-12T08:31:28.797856+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
     "short_name": "EG5o",
     "hw_model": "TLORA_T3_S3",
     "role": ""
