@@ -696,9 +696,9 @@
   "!a0e0b080": {
     "id": "!a0e0b080",
     "long_name": "JamesT-Echo",
-    "last_heard": "2026-05-11T21:43:24.652327+00:00",
-    "snr": -9.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-12T00:30:38.606236+00:00",
+    "snr": -9.0,
+    "hops_away": 6,
     "short_name": "J19E",
     "hw_model": "T_ECHO",
     "role": ""
