@@ -1748,13 +1748,10 @@
   },
   "!e33bbdf0": {
     "id": "!e33bbdf0",
-    "long_name": "Sennan onan \ud83c\udf34\ud83c\udf05\ud83c\udf1e\ud83c\udfe1",
-    "last_heard": "2026-05-04T06:06:39.026822+00:00",
-    "snr": -18.25,
-    "hops_away": 3,
-    "short_name": "Sen1",
-    "hw_model": "TBEAM",
-    "role": "CLIENT_BASE"
+    "long_name": "!e33bbdf0",
+    "last_heard": "2026-05-12T01:09:47.511271+00:00",
+    "snr": -9.25,
+    "hops_away": 4
   },
   "!43b708bc": {
     "id": "!43b708bc",
