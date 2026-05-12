@@ -2838,5 +2838,12 @@
     "short_name": "BBBC",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_CLIENT"
+  },
+  "!e33bc5b4": {
+    "id": "!e33bc5b4",
+    "long_name": "!e33bc5b4",
+    "last_heard": "2026-05-12T01:52:14.122063+00:00",
+    "snr": -8.25,
+    "hops_away": 4
   }
 }
