@@ -1668,9 +1668,9 @@
   "!bff187e8": {
     "id": "!bff187e8",
     "long_name": "Meshtastic 87e8",
-    "last_heard": "2026-05-12T03:08:42.652959+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-12T04:15:02.904973+00:00",
+    "snr": -18.5,
+    "hops_away": 2,
     "short_name": "87e8",
     "hw_model": "TBEAM",
     "role": ""
@@ -2319,8 +2319,8 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-05-12T03:48:26.545386+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-05-12T04:15:12.028274+00:00",
+    "snr": 11.25,
     "hops_away": 4,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
