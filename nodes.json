@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-05-12T09:15:01.665721+00:00",
-    "snr": -5.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-12T09:40:11.905621+00:00",
+    "snr": -10.25,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -266,9 +266,9 @@
   "!db527920": {
     "id": "!db527920",
     "long_name": "Riverside\ud83e\udd17",
-    "last_heard": "2026-05-12T08:52:39.889774+00:00",
-    "snr": -5.75,
-    "hops_away": 4,
+    "last_heard": "2026-05-12T09:40:04.575156+00:00",
+    "snr": -11.5,
+    "hops_away": 7,
     "short_name": "Rive",
     "hw_model": "HELTEC_V3",
     "role": ""
