@@ -59,8 +59,8 @@
   "!ae617064": {
     "id": "!ae617064",
     "long_name": "Meshtastic 7064",
-    "last_heard": "2026-05-12T04:27:22.646347+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-05-12T04:39:03.842814+00:00",
+    "snr": -7.75,
     "hops_away": 4,
     "short_name": "rh3",
     "hw_model": "SEEED_XIAO_S3",
@@ -576,8 +576,8 @@
   "!2519bfe8": {
     "id": "!2519bfe8",
     "long_name": "G8UWE#EX8",
-    "last_heard": "2026-05-12T03:20:03.867726+00:00",
-    "snr": -7.75,
+    "last_heard": "2026-05-12T04:39:04.595541+00:00",
+    "snr": -9.0,
     "hops_away": 1,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
