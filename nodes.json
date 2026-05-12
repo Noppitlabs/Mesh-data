@@ -1571,9 +1571,9 @@
   "!49b5d660": {
     "id": "!49b5d660",
     "long_name": "ryu_BASE",
-    "last_heard": "2026-05-11T14:13:35.760078+00:00",
-    "snr": -13.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-12T01:03:57.209510+00:00",
+    "snr": -9.5,
+    "hops_away": 7,
     "short_name": "ryuB",
     "hw_model": "HELTEC_V4",
     "role": ""
