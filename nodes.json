@@ -186,9 +186,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-12T18:42:27.652936+00:00",
-    "snr": -19.75,
-    "hops_away": 0,
+    "last_heard": "2026-05-12T19:09:28.921546+00:00",
+    "snr": 11.0,
+    "hops_away": 2,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
