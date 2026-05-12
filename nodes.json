@@ -1823,13 +1823,10 @@
   },
   "!da63a70c": {
     "id": "!da63a70c",
-    "long_name": "Meshtastic a70c",
-    "last_heard": "2026-05-04T05:34:50.133996+00:00",
-    "snr": -17.5,
-    "hops_away": 2,
-    "short_name": "a70c",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!da63a70c",
+    "last_heard": "2026-05-12T02:36:52.624787+00:00",
+    "snr": -9.5,
+    "hops_away": 3
   },
   "!a7df87aa": {
     "id": "!a7df87aa",
