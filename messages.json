@@ -1,5 +1,16 @@
 [
   {
+    "id": 2568801041,
+    "from": "!c6d0ea7e",
+    "from_name": "XXA-ea7e",
+    "to": "^all",
+    "text": "Good morning!\ud83c\udf05 ",
+    "timestamp": "2026-05-12T06:42:31.150360+00:00",
+    "channel": 0,
+    "snr": -11.0,
+    "hops": 4
+  },
+  {
     "id": 1374052802,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.0,
     "hops": 3
-  },
-  {
-    "id": 376306743,
-    "from": "!da56f7a0",
-    "from_name": "Tether's End",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-05-06T19:44:11.156158+00:00",
-    "channel": 0,
-    "snr": -14.25,
-    "hops": 4
   }
 ]
