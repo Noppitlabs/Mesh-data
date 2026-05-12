@@ -2903,9 +2903,9 @@
   "!f6fcd7a4": {
     "id": "!f6fcd7a4",
     "long_name": "Meshtastic d7a4",
-    "last_heard": "2026-05-12T14:51:42.385101+00:00",
-    "snr": -6.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-12T16:49:50.495507+00:00",
+    "snr": -12.5,
+    "hops_away": 3,
     "short_name": "d7a4",
     "hw_model": "HELTEC_V3",
     "role": ""
