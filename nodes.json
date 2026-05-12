@@ -686,8 +686,8 @@
   "!9e7572d4": {
     "id": "!9e7572d4",
     "long_name": "Meshtastic 72d4",
-    "last_heard": "2026-05-12T13:55:53.104610+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-05-12T16:45:03.566327+00:00",
+    "snr": -10.75,
     "hops_away": 5,
     "short_name": "72d4",
     "hw_model": "HELTEC_V3",
@@ -1239,9 +1239,9 @@
   "!74f0fbd0": {
     "id": "!74f0fbd0",
     "long_name": "YT-1300f (M7OXC)",
-    "last_heard": "2026-05-12T16:19:12.258302+00:00",
-    "snr": -12.25,
-    "hops_away": 4,
+    "last_heard": "2026-05-12T16:45:19.292391+00:00",
+    "snr": -11.25,
+    "hops_away": 2,
     "short_name": "fbd0",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
