@@ -2889,5 +2889,12 @@
     "short_name": "WHPT",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!9938c014": {
+    "id": "!9938c014",
+    "long_name": "!9938c014",
+    "last_heard": "2026-05-12T10:49:54.635909+00:00",
+    "snr": -13.5,
+    "hops_away": 4
   }
 }
