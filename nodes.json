@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-05-12T20:09:29.447402+00:00",
-    "snr": -14.25,
-    "hops_away": 1,
+    "last_heard": "2026-05-12T20:40:21.643505+00:00",
+    "snr": -11.5,
+    "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-05-12T20:38:59.017824+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-05-12T20:40:29.184845+00:00",
+    "snr": -12.25,
     "hops_away": 5,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
