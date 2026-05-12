@@ -2636,9 +2636,9 @@
   "!faf342f4": {
     "id": "!faf342f4",
     "long_name": "Coldridge~",
-    "last_heard": "2026-05-10T15:07:54.172734+00:00",
-    "snr": -13.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-12T11:33:30.966423+00:00",
+    "snr": -7.0,
+    "hops_away": 2,
     "short_name": "C1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
