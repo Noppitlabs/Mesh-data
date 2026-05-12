@@ -2746,10 +2746,13 @@
   },
   "!9e9d8d74": {
     "id": "!9e9d8d74",
-    "long_name": "!9e9d8d74",
-    "last_heard": "2026-05-12T05:50:24.230914+00:00",
-    "snr": -6.0,
-    "hops_away": 4
+    "long_name": "cmos 8d74",
+    "last_heard": "2026-05-12T05:51:02.423590+00:00",
+    "snr": -7.5,
+    "hops_away": 4,
+    "short_name": "8d74",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!e010afc8": {
     "id": "!e010afc8",
