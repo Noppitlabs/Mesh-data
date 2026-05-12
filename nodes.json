@@ -2262,9 +2262,9 @@
   "!ecf68b75": {
     "id": "!ecf68b75",
     "long_name": "MATT (M0MRP/M)",
-    "last_heard": "2026-05-12T00:58:57.266053+00:00",
-    "snr": -7.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-12T11:12:41.278379+00:00",
+    "snr": -13.75,
+    "hops_away": 4,
     "short_name": "MATT",
     "hw_model": "T_ECHO",
     "role": ""
