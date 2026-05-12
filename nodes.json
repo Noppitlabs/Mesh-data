@@ -2201,9 +2201,9 @@
   "!da5e0380": {
     "id": "!da5e0380",
     "long_name": "HELTEC 2W0JMK",
-    "last_heard": "2026-05-12T02:07:44.158544+00:00",
-    "snr": -9.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-12T02:18:58.480272+00:00",
+    "snr": -20.0,
+    "hops_away": 2,
     "short_name": "HELT",
     "hw_model": "HELTEC_V3",
     "role": ""
