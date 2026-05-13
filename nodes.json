@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-13T17:58:44.815887+00:00",
+    "last_heard": "2026-05-13T17:59:12.901493+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -1246,9 +1246,9 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-13T15:26:10.829877+00:00",
-    "snr": 9.75,
-    "hops_away": 2,
+    "last_heard": "2026-05-13T17:59:14.606749+00:00",
+    "snr": -18.25,
+    "hops_away": 0,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
