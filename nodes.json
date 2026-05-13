@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-13T03:46:12.697477+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-05-13T03:48:19.217496+00:00",
+    "snr": -3.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -1987,8 +1987,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-05-13T03:12:15.399173+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-05-13T03:48:11.738356+00:00",
+    "snr": -4.75,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
