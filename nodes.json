@@ -2507,9 +2507,9 @@
   "!fbd990c6": {
     "id": "!fbd990c6",
     "long_name": "The Black Swan",
-    "last_heard": "2026-05-13T16:48:39.634249+00:00",
-    "snr": 11.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-13T17:49:04.094214+00:00",
+    "snr": -14.75,
+    "hops_away": 1,
     "short_name": "TBS5",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
