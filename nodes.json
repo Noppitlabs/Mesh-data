@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-13T07:49:19.052353+00:00",
+    "last_heard": "2026-05-13T07:49:20.476313+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2111,8 +2111,8 @@
   "!a20cf354": {
     "id": "!a20cf354",
     "long_name": "markymarrow",
-    "last_heard": "2026-05-13T02:30:20.826480+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-05-13T07:49:21.386616+00:00",
+    "snr": -13.5,
     "hops_away": 3,
     "short_name": "mrrw",
     "hw_model": "T_DECK",
