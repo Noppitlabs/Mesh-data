@@ -1192,9 +1192,9 @@
   "!6b84c577": {
     "id": "!6b84c577",
     "long_name": "Phil BTY3 \ud83d\udc4d",
-    "last_heard": "2026-05-12T23:12:58.770046+00:00",
-    "snr": -5.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-13T07:10:42.266189+00:00",
+    "snr": -12.25,
+    "hops_away": 4,
     "short_name": "BTY3",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
