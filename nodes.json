@@ -2703,8 +2703,8 @@
   "!6f80b7a4": {
     "id": "!6f80b7a4",
     "long_name": "Mesh DCHQ \ud83d\udce1",
-    "last_heard": "2026-05-10T22:51:47.002513+00:00",
-    "snr": -17.0,
+    "last_heard": "2026-05-13T00:28:49.052473+00:00",
+    "snr": -5.0,
     "hops_away": 6,
     "short_name": "DCHQ",
     "hw_model": "HELTEC_MESH_NODE_T114",
