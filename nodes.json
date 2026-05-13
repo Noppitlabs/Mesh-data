@@ -1999,10 +1999,13 @@
   },
   "!da54471c": {
     "id": "!da54471c",
-    "long_name": "!da54471c",
-    "last_heard": "2026-05-12T06:06:04.804618+00:00",
-    "snr": -19.0,
-    "hops_away": 5
+    "long_name": "PAC MOBILE",
+    "last_heard": "2026-05-13T00:04:40.641294+00:00",
+    "snr": -3.5,
+    "hops_away": 7,
+    "short_name": "PM",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!ea8fe024": {
     "id": "!ea8fe024",
