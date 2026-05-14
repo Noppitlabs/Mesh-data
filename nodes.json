@@ -2978,9 +2978,9 @@
   "!76dd3202": {
     "id": "!76dd3202",
     "long_name": "AVALON1",
-    "last_heard": "2026-05-14T15:59:25.939684+00:00",
-    "snr": -8.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-14T16:22:52.106281+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
     "short_name": "AVA1",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
