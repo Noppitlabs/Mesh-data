@@ -1423,10 +1423,13 @@
   },
   "!13eb6ced": {
     "id": "!13eb6ced",
-    "long_name": "!13eb6ced",
-    "last_heard": "2026-05-14T10:07:01.576470+00:00",
-    "snr": -10.5,
-    "hops_away": 5
+    "long_name": "Meshtastic 6ced",
+    "last_heard": "2026-05-14T19:27:27.879499+00:00",
+    "snr": -7.75,
+    "hops_away": 7,
+    "short_name": "6ced",
+    "hw_model": "UNSET",
+    "role": ""
   },
   "!849c17e0": {
     "id": "!849c17e0",
