@@ -573,9 +573,9 @@
   "!2519bfe8": {
     "id": "!2519bfe8",
     "long_name": "G8UWE#EX8",
-    "last_heard": "2026-05-14T01:07:43.615124+00:00",
-    "snr": -4.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-14T01:46:34.144861+00:00",
+    "snr": -0.25,
+    "hops_away": 1,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
     "role": ""
