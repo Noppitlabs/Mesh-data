@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-14T02:46:10.133299+00:00",
-    "snr": -0.75,
+    "last_heard": "2026-05-14T02:47:10.368828+00:00",
+    "snr": -0.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-05-14T02:32:17.723511+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-05-14T02:47:21.941160+00:00",
+    "snr": -0.75,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
