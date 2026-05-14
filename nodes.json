@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-14T08:40:38.565509+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-05-14T08:41:26.268838+00:00",
+    "snr": -9.25,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -286,9 +286,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-05-14T07:58:32.343259+00:00",
-    "snr": 0.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-14T08:41:49.552545+00:00",
+    "snr": -10.5,
+    "hops_away": 6,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
