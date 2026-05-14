@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-05-14T05:05:26.483442+00:00",
-    "snr": 0.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-14T05:27:18.538240+00:00",
+    "snr": -0.5,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
