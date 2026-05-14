@@ -2957,5 +2957,15 @@
     "last_heard": "2026-05-13T01:52:11.196308+00:00",
     "snr": -4.75,
     "hops_away": 6
+  },
+  "!849ae2b0": {
+    "id": "!849ae2b0",
+    "long_name": "LM_BASE_1",
+    "last_heard": "2026-05-14T00:43:29.240722+00:00",
+    "snr": -7.5,
+    "hops_away": 3,
+    "short_name": "LMB1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
