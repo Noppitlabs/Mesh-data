@@ -2094,9 +2094,9 @@
   "!da633928": {
     "id": "!da633928",
     "long_name": "M0PCZ/m",
-    "last_heard": "2026-05-14T08:59:23.812209+00:00",
-    "snr": -13.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-14T14:17:53.177425+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "PCZM",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
