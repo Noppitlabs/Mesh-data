@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-14T08:55:11.289998+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-05-14T08:56:26.866485+00:00",
+    "snr": -13.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -1632,9 +1632,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-05-14T08:45:02.992944+00:00",
-    "snr": -10.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-14T08:56:32.018731+00:00",
+    "snr": -13.0,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
