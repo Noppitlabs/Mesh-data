@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-14T22:45:00.187369+00:00",
+    "last_heard": "2026-05-14T22:46:00.231015+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2747,9 +2747,9 @@
   "!9e9d8d74": {
     "id": "!9e9d8d74",
     "long_name": "cmos 8d74",
-    "last_heard": "2026-05-14T21:56:11.145568+00:00",
-    "snr": -8.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-14T22:46:54.936717+00:00",
+    "snr": -9.25,
+    "hops_away": 6,
     "short_name": "8d74",
     "hw_model": "HELTEC_V3",
     "role": ""
