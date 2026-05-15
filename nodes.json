@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-15T22:54:03.602780+00:00",
+    "last_heard": "2026-05-15T22:55:03.637203+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -306,8 +306,8 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-05-15T22:46:56.551529+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-05-15T22:55:05.342754+00:00",
+    "snr": -9.5,
     "hops_away": 3,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
