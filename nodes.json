@@ -1418,9 +1418,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Meshtastic 6ced",
-    "last_heard": "2026-05-14T23:55:05.837790+00:00",
-    "snr": -11.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-15T02:01:46.475880+00:00",
+    "snr": -5.5,
+    "hops_away": 5,
     "short_name": "6ced",
     "hw_model": "UNSET",
     "role": ""
