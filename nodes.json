@@ -403,8 +403,8 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-05-15T08:00:13.759468+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-05-15T10:15:37.019754+00:00",
+    "snr": -19.5,
     "hops_away": 4,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
@@ -1498,9 +1498,9 @@
   "!6982bcb0": {
     "id": "!6982bcb0",
     "long_name": "Hambridge V4 - Paul ",
-    "last_heard": "2026-05-12T15:42:27.148499+00:00",
-    "snr": -9.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-15T10:15:34.139890+00:00",
+    "snr": -14.75,
+    "hops_away": 6,
     "short_name": "HMB4",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
