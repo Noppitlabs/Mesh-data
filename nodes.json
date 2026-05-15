@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-05-15T05:19:52.555168+00:00",
-    "snr": -13.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-15T05:22:33.214820+00:00",
+    "snr": -5.0,
+    "hops_away": 7,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -196,9 +196,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-05-15T03:34:10.701288+00:00",
-    "snr": -5.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-15T05:22:19.441522+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
