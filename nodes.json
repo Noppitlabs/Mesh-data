@@ -2551,13 +2551,10 @@
   },
   "!a6962ea8": {
     "id": "!a6962ea8",
-    "long_name": "Meshtastic 2ea8",
-    "last_heard": "2026-05-12T06:30:56.860760+00:00",
-    "snr": -10.25,
-    "hops_away": 3,
-    "short_name": "TKV",
-    "hw_model": "HELTEC_V4",
-    "role": ""
+    "long_name": "!a6962ea8",
+    "last_heard": "2026-05-16T04:49:39.368018+00:00",
+    "snr": -4.0,
+    "hops_away": 5
   },
   "!7c5cc180": {
     "id": "!7c5cc180",
