@@ -2980,9 +2980,9 @@
   "!a0c93994": {
     "id": "!a0c93994",
     "long_name": "WhatsApp Freeman",
-    "last_heard": "2026-05-16T09:06:42.112346+00:00",
-    "snr": -11.25,
-    "hops_away": 4,
+    "last_heard": "2026-05-16T12:39:38.255944+00:00",
+    "snr": -9.0,
+    "hops_away": 6,
     "short_name": "Fman",
     "hw_model": "PRIVATE_HW",
     "role": ""
