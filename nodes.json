@@ -1404,9 +1404,9 @@
   "!02e5e404": {
     "id": "!02e5e404",
     "long_name": "Granite-fixed",
-    "last_heard": "2026-05-16T02:37:16.467115+00:00",
-    "snr": -5.0,
-    "hops_away": 6,
+    "last_heard": "2026-05-16T12:22:10.005556+00:00",
+    "snr": -7.75,
+    "hops_away": 4,
     "short_name": "ash1",
     "hw_model": "HELTEC_V4",
     "role": ""
