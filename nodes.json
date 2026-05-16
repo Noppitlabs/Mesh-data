@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-16T02:27:04.688004+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-05-16T02:29:14.735014+00:00",
+    "snr": -4.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -2001,9 +2001,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-05-16T00:53:24.455878+00:00",
-    "snr": -4.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-16T02:29:18.064133+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
