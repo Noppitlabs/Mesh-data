@@ -2996,5 +2996,15 @@
     "short_name": "8004",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!8487d3e4": {
+    "id": "!8487d3e4",
+    "long_name": "Meshtastic d3e4",
+    "last_heard": "2026-05-16T13:51:13.380846+00:00",
+    "snr": -10.0,
+    "hops_away": 1,
+    "short_name": "d3e4",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
