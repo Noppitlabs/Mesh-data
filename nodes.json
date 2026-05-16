@@ -386,9 +386,9 @@
   "!81500cc4": {
     "id": "!81500cc4",
     "long_name": "Jasespace.com",
-    "last_heard": "2026-05-16T18:28:37.462229+00:00",
-    "snr": -17.5,
-    "hops_away": 1,
+    "last_heard": "2026-05-16T18:57:58.201368+00:00",
+    "snr": -18.75,
+    "hops_away": 2,
     "short_name": "JASE",
     "hw_model": "M5STACK_C6L",
     "role": ""
