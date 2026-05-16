@@ -2976,5 +2976,15 @@
     "last_heard": "2026-05-15T10:39:02.323583+00:00",
     "snr": -14.25,
     "hops_away": 4
+  },
+  "!a0c93994": {
+    "id": "!a0c93994",
+    "long_name": "WhatsApp Freeman",
+    "last_heard": "2026-05-16T09:06:42.112346+00:00",
+    "snr": -11.25,
+    "hops_away": 4,
+    "short_name": "Fman",
+    "hw_model": "PRIVATE_HW",
+    "role": ""
   }
 }
