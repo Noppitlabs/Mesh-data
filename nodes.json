@@ -779,10 +779,13 @@
   },
   "!02d4cd04": {
     "id": "!02d4cd04",
-    "long_name": "!02d4cd04",
-    "last_heard": "2026-05-15T12:14:14.901504+00:00",
-    "snr": -14.25,
-    "hops_away": 4
+    "long_name": "Preston~Bowyer",
+    "last_heard": "2026-05-16T00:07:43.202944+00:00",
+    "snr": -4.0,
+    "hops_away": 3,
+    "short_name": "T4",
+    "hw_model": "RAK4631",
+    "role": "ROUTER"
   },
   "!56e04c5a": {
     "id": "!56e04c5a",
