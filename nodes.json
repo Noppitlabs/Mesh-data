@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-17T11:27:49.286831+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-05-17T11:29:34.042883+00:00",
+    "snr": -14.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -453,9 +453,9 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-05-17T11:28:48.561576+00:00",
-    "snr": -14.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-17T11:29:16.790113+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
