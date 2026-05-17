@@ -2374,13 +2374,10 @@
   },
   "!c4d70266": {
     "id": "!c4d70266",
-    "long_name": "James3D-Base",
-    "last_heard": "2026-05-13T21:29:16.822792+00:00",
-    "snr": -6.0,
-    "hops_away": 7,
-    "short_name": "J3BA",
-    "hw_model": "RAK4631",
-    "role": ""
+    "long_name": "!c4d70266",
+    "last_heard": "2026-05-17T12:25:07.199625+00:00",
+    "snr": -9.5,
+    "hops_away": 4
   },
   "!433ba934": {
     "id": "!433ba934",
