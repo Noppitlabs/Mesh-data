@@ -1,5 +1,16 @@
 [
   {
+    "id": 1108452840,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": "Currently good as I've altered my mast grounding",
+    "timestamp": "2026-05-17T17:08:41.460465+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 4
+  },
+  {
     "id": 1108452838,
     "from": "!da56b48c",
     "from_name": "SR#1 V3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.75,
     "hops": 3
-  },
-  {
-    "id": 2730839593,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-05-12T06:52:07.061706+00:00",
-    "channel": 0,
-    "snr": -8.75,
-    "hops": 2
   }
 ]
