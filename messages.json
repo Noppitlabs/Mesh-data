@@ -1,5 +1,16 @@
 [
   {
+    "id": 1666009987,
+    "from": "!9ea2a1ac",
+    "from_name": "!9ea2a1ac",
+    "to": "^all",
+    "text": "3 hops",
+    "timestamp": "2026-05-17T16:24:10.271477+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 5
+  },
+  {
     "id": 1666009983,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.0,
     "hops": 2
-  },
-  {
-    "id": 56191458,
-    "from": "!c6d0ea7e",
-    "from_name": "XXA-ea7e",
-    "to": "^all",
-    "text": "Received :)",
-    "timestamp": "2026-05-12T06:38:53.268745+00:00",
-    "channel": 0,
-    "snr": -10.5,
-    "hops": 4
   }
 ]
