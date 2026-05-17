@@ -553,9 +553,9 @@
   "!9e9fc148": {
     "id": "!9e9fc148",
     "long_name": "Somerlea Willand ",
-    "last_heard": "2026-05-17T03:29:42.042335+00:00",
-    "snr": -5.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-17T05:01:55.428062+00:00",
+    "snr": -8.25,
+    "hops_away": 4,
     "short_name": "SW",
     "hw_model": "HELTEC_V3",
     "role": ""
