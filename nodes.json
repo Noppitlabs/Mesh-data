@@ -1660,9 +1660,9 @@
   "!da56951c": {
     "id": "!da56951c",
     "long_name": "PAC-Telford",
-    "last_heard": "2026-05-16T19:41:03.036269+00:00",
-    "snr": -13.0,
-    "hops_away": 7,
+    "last_heard": "2026-05-17T03:50:29.862597+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
     "short_name": "951c",
     "hw_model": "HELTEC_V3",
     "role": ""
