@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-17T00:03:10.508376+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-05-17T00:04:09.519585+00:00",
+    "snr": -14.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -2304,9 +2304,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-05-16T23:44:30.488242+00:00",
-    "snr": -12.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-17T00:03:59.782686+00:00",
+    "snr": -12.75,
+    "hops_away": 4,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": ""
