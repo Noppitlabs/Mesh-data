@@ -1,5 +1,16 @@
 [
   {
+    "id": 2006801679,
+    "from": "!ea8fe024",
+    "from_name": "MQT base 01.4",
+    "to": "^all",
+    "text": "It looks to be. Similar signal to RDEx which is normally a good sign.",
+    "timestamp": "2026-05-18T07:05:29.611700+00:00",
+    "channel": 0,
+    "snr": -8.25,
+    "hops": 2
+  },
+  {
     "id": 2006801676,
     "from": "!ea8fe024",
     "from_name": "MQT base 01.4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.0,
     "hops": 4
-  },
-  {
-    "id": 3064814043,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "I had to Google that! Sounds stressful! I'm more of a enjoying the sunshine sort of fella!",
-    "timestamp": "2026-05-12T09:37:12.116014+00:00",
-    "channel": 0,
-    "snr": -10.0,
-    "hops": 2
   }
 ]
