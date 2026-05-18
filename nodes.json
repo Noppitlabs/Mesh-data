@@ -229,9 +229,9 @@
   "!e2e536d4": {
     "id": "!e2e536d4",
     "long_name": "Farmer Giles Attic",
-    "last_heard": "2026-05-18T16:35:39.647040+00:00",
-    "snr": -14.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-18T22:20:36.153123+00:00",
+    "snr": -10.0,
+    "hops_away": 2,
     "short_name": "FGA",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1592,9 +1592,9 @@
   "!9ef0c1e4": {
     "id": "!9ef0c1e4",
     "long_name": "Meshtastic c1e4",
-    "last_heard": "2026-05-18T21:40:08.366780+00:00",
-    "snr": -9.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-18T22:20:15.054909+00:00",
+    "snr": -8.75,
+    "hops_away": 2,
     "short_name": "c1e4",
     "hw_model": "TLORA_T3_S3",
     "role": ""
