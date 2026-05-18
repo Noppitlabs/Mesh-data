@@ -2068,10 +2068,13 @@
   },
   "!da629650": {
     "id": "!da629650",
-    "long_name": "!da629650",
-    "last_heard": "2026-05-18T01:55:53.881459+00:00",
-    "snr": -14.75,
-    "hops_away": 5
+    "long_name": "M7TWC",
+    "last_heard": "2026-05-18T02:35:42.449759+00:00",
+    "snr": -9.0,
+    "hops_away": 6,
+    "short_name": "TOM",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!da633928": {
     "id": "!da633928",
