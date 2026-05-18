@@ -2829,9 +2829,9 @@
   "!61069d2c": {
     "id": "!61069d2c",
     "long_name": "Mobile de Johm \ud83e\udd20",
-    "last_heard": "2026-05-12T05:04:14.966280+00:00",
-    "snr": -8.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-18T00:18:01.001305+00:00",
+    "snr": -7.5,
+    "hops_away": 7,
     "short_name": "CDB.",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
