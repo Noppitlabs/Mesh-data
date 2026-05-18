@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-05-18T05:29:31.903184+00:00",
-    "snr": -16.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-18T06:16:57.915610+00:00",
+    "snr": -11.75,
+    "hops_away": 6,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
