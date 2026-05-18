@@ -1,5 +1,16 @@
 [
   {
+    "id": 1108452848,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": ".hey ho!",
+    "timestamp": "2026-05-18T18:45:32.087569+00:00",
+    "channel": 0,
+    "snr": -19.5,
+    "hops": 4
+  },
+  {
     "id": 4158209093,
     "from": "!9ef0c1e4",
     "from_name": "Meshtastic c1e4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 3
-  },
-  {
-    "id": 1607821417,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-05-13T07:16:56.139145+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 5
   }
 ]
