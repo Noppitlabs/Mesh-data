@@ -1,5 +1,16 @@
 [
   {
+    "id": 2006801674,
+    "from": "!ea8fe024",
+    "from_name": "MQT base 01.4",
+    "to": "^all",
+    "text": "Back up to 12, I suspect it's an app issue with list connection. Thanks",
+    "timestamp": "2026-05-18T06:58:39.950527+00:00",
+    "channel": 0,
+    "snr": -7.25,
+    "hops": 2
+  },
+  {
     "id": 2006801671,
     "from": "!ea8fe024",
     "from_name": "MQT base 01.4",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-12T09:36:39.090955+00:00",
     "channel": 0,
     "snr": -10.75,
-    "hops": 3
-  },
-  {
-    "id": 4081359970,
-    "from": "!a9ec592d",
-    "from_name": "!a9ec592d",
-    "to": "^all",
-    "text": "Are there any Ingress players or groups on here? ",
-    "timestamp": "2026-05-12T08:29:07.485386+00:00",
-    "channel": 0,
-    "snr": -12.25,
     "hops": 3
   }
 ]
