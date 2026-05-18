@@ -3050,9 +3050,9 @@
   "!da635ddc": {
     "id": "!da635ddc",
     "long_name": "Meshtastic 5ddc",
-    "last_heard": "2026-05-18T13:35:09.244768+00:00",
-    "snr": -15.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-18T13:39:05.253541+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "5ddc",
     "hw_model": "HELTEC_V3",
     "role": ""
