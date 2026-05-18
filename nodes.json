@@ -3018,5 +3018,12 @@
     "short_name": "7MRB",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!69232a1f": {
+    "id": "!69232a1f",
+    "long_name": "!69232a1f",
+    "last_heard": "2026-05-18T08:38:41.180561+00:00",
+    "snr": -13.75,
+    "hops_away": 2
   }
 }
