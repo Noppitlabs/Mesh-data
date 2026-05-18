@@ -423,9 +423,9 @@
   "!62f8b250": {
     "id": "!62f8b250",
     "long_name": "M0ABR base",
-    "last_heard": "2026-05-18T08:38:04.167257+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-18T16:24:15.914665+00:00",
+    "snr": -14.75,
+    "hops_away": 6,
     "short_name": "base",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
