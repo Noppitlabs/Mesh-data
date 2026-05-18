@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-18T01:19:55.994802+00:00",
-    "snr": -17.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-18T01:22:21.480628+00:00",
+    "snr": -11.75,
+    "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -386,8 +386,8 @@
   "!81500cc4": {
     "id": "!81500cc4",
     "long_name": "Jasespace.com",
-    "last_heard": "2026-05-18T00:34:53.405514+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-05-18T01:22:38.424602+00:00",
+    "snr": -16.25,
     "hops_away": 0,
     "short_name": "JASE",
     "hw_model": "M5STACK_C6L",
