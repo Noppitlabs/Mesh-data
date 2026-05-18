@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-18T07:22:57.722014+00:00",
-    "snr": -5.75,
-    "hops_away": 1,
+    "last_heard": "2026-05-18T07:23:36.652730+00:00",
+    "snr": -6.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -169,8 +169,8 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SOLAR",
-    "last_heard": "2026-05-18T05:42:07.730919+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-05-18T07:23:42.198901+00:00",
+    "snr": -6.0,
     "hops_away": 6,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
