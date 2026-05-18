@@ -2723,8 +2723,8 @@
   "!9e9d8d74": {
     "id": "!9e9d8d74",
     "long_name": "cmos 8d74",
-    "last_heard": "2026-05-18T02:39:06.462700+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-05-18T02:47:17.861524+00:00",
+    "snr": -11.75,
     "hops_away": 5,
     "short_name": "8d74",
     "hw_model": "HELTEC_V3",
