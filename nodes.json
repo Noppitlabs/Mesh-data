@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-19T19:23:10.324924+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-05-19T19:41:52.298564+00:00",
+    "snr": -20.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-19T19:32:22.660250+00:00",
-    "snr": -18.75,
-    "hops_away": 1,
+    "last_heard": "2026-05-19T19:47:29.673499+00:00",
+    "snr": -18.0,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-19T19:37:09.215204+00:00",
+    "last_heard": "2026-05-19T19:47:09.631961+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-05-19T17:22:36.805613+00:00",
-    "snr": -15.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-19T19:40:52.167991+00:00",
+    "snr": -18.5,
+    "hops_away": 3,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -773,9 +773,9 @@
   "!433e3450": {
     "id": "!433e3450",
     "long_name": "Simcom Wildcard ",
-    "last_heard": "2026-05-19T16:48:59.002607+00:00",
-    "snr": -14.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-19T19:37:31.233815+00:00",
+    "snr": -18.5,
+    "hops_away": 5,
     "short_name": "WLCD",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3011,8 +3011,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-05-19T16:42:34.470995+00:00",
-    "snr": -17.75,
+    "last_heard": "2026-05-19T19:44:29.572256+00:00",
+    "snr": -18.75,
     "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
