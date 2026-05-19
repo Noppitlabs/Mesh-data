@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-19T20:29:18.029683+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-05-19T20:37:09.267436+00:00",
+    "snr": -17.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-19T20:35:36.403464+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-05-19T20:37:49.382633+00:00",
+    "snr": -15.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-19T20:36:16.500534+00:00",
+    "last_heard": "2026-05-19T20:37:29.327398+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3011,9 +3011,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-05-19T20:33:32.110308+00:00",
-    "snr": -16.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-19T20:36:49.236455+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
