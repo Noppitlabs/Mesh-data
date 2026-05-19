@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-19T02:40:24.370585+00:00",
+    "last_heard": "2026-05-19T02:40:25.826356+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -179,8 +179,8 @@
   "!c0c32250": {
     "id": "!c0c32250",
     "long_name": "Summer House",
-    "last_heard": "2026-05-18T21:49:39.981900+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-05-19T02:40:32.039451+00:00",
+    "snr": -11.75,
     "hops_away": 3,
     "short_name": "2250",
     "hw_model": "TBEAM",
