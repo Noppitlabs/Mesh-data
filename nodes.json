@@ -3110,9 +3110,9 @@
   "!c47b318e": {
     "id": "!c47b318e",
     "long_name": "G8GON#318",
-    "last_heard": "2026-05-19T23:03:28.225264+00:00",
-    "snr": -16.75,
-    "hops_away": 1,
+    "last_heard": "2026-05-19T23:11:48.546730+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "318e",
     "hw_model": "RAK4631",
     "role": ""
