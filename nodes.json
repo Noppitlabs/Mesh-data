@@ -2590,10 +2590,13 @@
   },
   "!04c57fe8": {
     "id": "!04c57fe8",
-    "long_name": "!04c57fe8",
-    "last_heard": "2026-05-19T12:58:50.346461+00:00",
-    "snr": -13.25,
-    "hops_away": 4
+    "long_name": "Cardiff North Base",
+    "last_heard": "2026-05-19T14:36:23.832503+00:00",
+    "snr": -5.0,
+    "hops_away": 3,
+    "short_name": "CaFN",
+    "hw_model": "HELTEC_V4",
+    "role": "CLIENT_BASE"
   },
   "!f9925470": {
     "id": "!f9925470",
