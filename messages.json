@@ -1,5 +1,16 @@
 [
   {
+    "id": 1425605253,
+    "from": "!5ac7d46f",
+    "from_name": "Slimjim Portable T114",
+    "to": "^all",
+    "text": "\ud83d\ude42",
+    "timestamp": "2026-05-19T09:16:56.196197+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 3
+  },
+  {
     "id": 1425605248,
     "from": "!5ac7d46f",
     "from_name": "!5ac7d46f",
@@ -534,17 +545,6 @@
     "to": "^all",
     "text": "\ud83c\udf7a",
     "timestamp": "2026-05-13T15:05:05.218428+00:00",
-    "channel": 0,
-    "snr": -11.25,
-    "hops": 5
-  },
-  {
-    "id": 1449745127,
-    "from": "!da655af4",
-    "from_name": "ALAN PIXEL",
-    "to": "^all",
-    "text": "No solar wahhhhh!!",
-    "timestamp": "2026-05-13T07:55:09.720682+00:00",
     "channel": 0,
     "snr": -11.25,
     "hops": 5
