@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-19T20:38:01.682209+00:00",
-    "snr": -17.75,
-    "hops_away": 2,
+    "last_heard": "2026-05-19T20:39:36.780837+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-19T20:39:12.242832+00:00",
+    "last_heard": "2026-05-19T20:40:43.142852+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -1623,9 +1623,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-05-19T19:19:40.127036+00:00",
-    "snr": -17.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-19T20:40:03.066871+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -3011,7 +3011,7 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-05-19T20:36:49.236455+00:00",
+    "last_heard": "2026-05-19T20:40:48.161385+00:00",
     "snr": -17.75,
     "hops_away": 3,
     "short_name": "D34-",
