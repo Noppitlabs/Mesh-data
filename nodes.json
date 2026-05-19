@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-19T20:33:37.746994+00:00",
-    "snr": -17.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-19T20:34:48.405475+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-19T20:33:12.011679+00:00",
+    "last_heard": "2026-05-19T20:34:28.343412+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1331,9 +1331,9 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-05-19T17:34:18.525933+00:00",
-    "snr": -18.75,
-    "hops_away": 2,
+    "last_heard": "2026-05-19T20:34:08.300156+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_MUTE"
