@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-19T07:03:34.075886+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-05-19T07:05:11.676700+00:00",
+    "snr": -8.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -309,9 +309,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-05-19T06:38:15.237585+00:00",
-    "snr": -8.75,
-    "hops_away": 7,
+    "last_heard": "2026-05-19T07:05:03.610123+00:00",
+    "snr": -8.5,
+    "hops_away": 4,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
