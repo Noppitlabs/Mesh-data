@@ -1740,10 +1740,13 @@
   },
   "!43b708bc": {
     "id": "!43b708bc",
-    "long_name": "!43b708bc",
-    "last_heard": "2026-05-19T11:40:58.674427+00:00",
-    "snr": -13.25,
-    "hops_away": 5
+    "long_name": "NLC Base",
+    "last_heard": "2026-05-19T18:34:57.520185+00:00",
+    "snr": -18.75,
+    "hops_away": 6,
+    "short_name": "NLCB",
+    "hw_model": "HELTEC_WSL_V3",
+    "role": ""
   },
   "!ea8ee54c": {
     "id": "!ea8ee54c",
