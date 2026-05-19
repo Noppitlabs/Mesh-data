@@ -1,5 +1,16 @@
 [
   {
+    "id": 1607821453,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "1\ufe0f\u20e3",
+    "timestamp": "2026-05-19T11:32:41.435910+00:00",
+    "channel": 0,
+    "snr": -13.75,
+    "hops": 3
+  },
+  {
     "id": 1607821452,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.5,
     "hops": 3
-  },
-  {
-    "id": 3064822818,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "7 hops to Exeter here in Division 2.",
-    "timestamp": "2026-05-15T13:24:05.237607+00:00",
-    "channel": 0,
-    "snr": -16.25,
-    "hops": 2
   }
 ]
