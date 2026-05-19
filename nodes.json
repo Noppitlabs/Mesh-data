@@ -2598,9 +2598,9 @@
   "!f9925470": {
     "id": "!f9925470",
     "long_name": "Meshtastic 5470",
-    "last_heard": "2026-05-10T08:35:54.529733+00:00",
-    "snr": -6.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-19T17:06:31.221171+00:00",
+    "snr": -16.0,
+    "hops_away": 0,
     "short_name": "5470",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
