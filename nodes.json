@@ -3080,9 +3080,9 @@
   "!5ac7d46f": {
     "id": "!5ac7d46f",
     "long_name": "Slimjim Portable T114",
-    "last_heard": "2026-05-19T13:47:34.283891+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-19T13:52:35.289889+00:00",
+    "snr": -11.25,
+    "hops_away": 3,
     "short_name": "sj32",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "CLIENT_MUTE"
