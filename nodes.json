@@ -3100,9 +3100,9 @@
   "!8fa62cf0": {
     "id": "!8fa62cf0",
     "long_name": "SiD test hel v4",
-    "last_heard": "2026-05-19T18:52:20.505356+00:00",
-    "snr": -20.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-19T18:57:32.078731+00:00",
+    "snr": -18.5,
+    "hops_away": 3,
     "short_name": "2cf0",
     "hw_model": "HELTEC_V4",
     "role": ""
