@@ -369,9 +369,9 @@
   "!798e872d": {
     "id": "!798e872d",
     "long_name": "Mark~G6OMT",
-    "last_heard": "2026-05-19T20:50:50.812403+00:00",
-    "snr": -13.25,
-    "hops_away": 1,
+    "last_heard": "2026-05-20T04:20:34.390822+00:00",
+    "snr": -13.0,
+    "hops_away": 2,
     "short_name": "R1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
