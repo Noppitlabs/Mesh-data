@@ -949,10 +949,13 @@
   },
   "!d45a9bc8": {
     "id": "!d45a9bc8",
-    "long_name": "!d45a9bc8",
-    "last_heard": "2026-05-19T01:58:04.551599+00:00",
-    "snr": -17.75,
-    "hops_away": 5
+    "long_name": "Dlion",
+    "last_heard": "2026-05-20T05:32:32.656716+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
+    "short_name": "Dln",
+    "hw_model": "SEEED_XIAO_S3",
+    "role": "CLIENT_BASE"
   },
   "!43b70dc8": {
     "id": "!43b70dc8",
