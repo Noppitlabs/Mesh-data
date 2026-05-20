@@ -910,9 +910,9 @@
   "!433c4f80": {
     "id": "!433c4f80",
     "long_name": "Black Dog ",
-    "last_heard": "2026-05-11T10:56:12.382469+00:00",
-    "snr": -9.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-20T16:56:25.125718+00:00",
+    "snr": -11.5,
+    "hops_away": 6,
     "short_name": "Dog",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
