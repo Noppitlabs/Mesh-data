@@ -2559,13 +2559,10 @@
   },
   "!433a7744": {
     "id": "!433a7744",
-    "long_name": "Meshtastic 7744",
-    "last_heard": "2026-05-11T05:58:03.561519+00:00",
-    "snr": -14.75,
-    "hops_away": 5,
-    "short_name": "7744",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!433a7744",
+    "last_heard": "2026-05-21T16:49:33.469578+00:00",
+    "snr": -13.25,
+    "hops_away": 6
   },
   "!98e90f12": {
     "id": "!98e90f12",
