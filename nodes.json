@@ -3020,10 +3020,10 @@
   },
   "!aca9fff0": {
     "id": "!aca9fff0",
-    "long_name": "Mr Bs Meshtastic Base",
-    "last_heard": "2026-05-18T16:33:31.281831+00:00",
-    "snr": -16.75,
-    "hops_away": 6,
+    "long_name": "Mr Bs Meshtastic m7mrb",
+    "last_heard": "2026-05-21T19:26:00.970528+00:00",
+    "snr": -7.75,
+    "hops_away": 5,
     "short_name": "7MRB",
     "hw_model": "HELTEC_V3",
     "role": ""
