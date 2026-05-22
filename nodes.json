@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-22T19:11:31.258454+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-05-22T19:12:54.002238+00:00",
+    "snr": -10.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-22T19:11:11.531685+00:00",
+    "last_heard": "2026-05-22T19:12:11.556949+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2139,8 +2139,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-05-22T09:58:59.023977+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-05-22T19:12:36.604285+00:00",
+    "snr": -6.25,
     "hops_away": 4,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
