@@ -3196,5 +3196,15 @@
     "last_heard": "2026-05-22T18:26:43.212419+00:00",
     "snr": -7.75,
     "hops_away": 4
+  },
+  "!da548228": {
+    "id": "!da548228",
+    "long_name": "Cydertastic",
+    "last_heard": "2026-05-22T20:03:28.098518+00:00",
+    "snr": -14.75,
+    "hops_away": 3,
+    "short_name": "Cydr",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
