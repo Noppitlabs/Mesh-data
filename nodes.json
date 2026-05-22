@@ -2972,8 +2972,8 @@
   "!50448004": {
     "id": "!50448004",
     "long_name": "Meshtastic 8004",
-    "last_heard": "2026-05-22T19:22:35.077765+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-05-22T19:22:55.653756+00:00",
+    "snr": -6.5,
     "hops_away": 2,
     "short_name": "8004",
     "hw_model": "TRACKER_T1000_E",
