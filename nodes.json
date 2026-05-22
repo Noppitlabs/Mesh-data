@@ -3178,5 +3178,15 @@
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!04093090": {
+    "id": "!04093090",
+    "long_name": "Meshtastic 3090",
+    "last_heard": "2026-05-22T06:54:42.629176+00:00",
+    "snr": -8.5,
+    "hops_away": 5,
+    "short_name": "3090",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
