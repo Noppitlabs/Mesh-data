@@ -890,9 +890,9 @@
   "!da65b0c8": {
     "id": "!da65b0c8",
     "long_name": "Simcom Station 1",
-    "last_heard": "2026-05-21T07:06:01.615616+00:00",
-    "snr": -16.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-22T22:06:07.709279+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
     "short_name": "SCS1",
     "hw_model": "HELTEC_V3",
     "role": ""
