@@ -1350,13 +1350,10 @@
   },
   "!02edde20": {
     "id": "!02edde20",
-    "long_name": "Meshtastic de20",
-    "last_heard": "2026-04-27T17:10:39.960513+00:00",
-    "snr": -19.25,
-    "hops_away": 3,
-    "short_name": "de20",
-    "hw_model": "UNSET",
-    "role": ""
+    "long_name": "!02edde20",
+    "last_heard": "2026-05-22T10:37:07.639114+00:00",
+    "snr": -10.75,
+    "hops_away": 7
   },
   "!e2e4afd8": {
     "id": "!e2e4afd8",
