@@ -2194,13 +2194,10 @@
   },
   "!da5e0380": {
     "id": "!da5e0380",
-    "long_name": "HELTEC 2W0JMK",
-    "last_heard": "2026-05-12T02:18:58.480272+00:00",
-    "snr": -20.0,
-    "hops_away": 2,
-    "short_name": "HELT",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!da5e0380",
+    "last_heard": "2026-05-22T08:23:23.342704+00:00",
+    "snr": -10.0,
+    "hops_away": 4
   },
   "!0404d940": {
     "id": "!0404d940",
