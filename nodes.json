@@ -2166,8 +2166,8 @@
   "!cf428a6d": {
     "id": "!cf428a6d",
     "long_name": "TQ1 Solar Node",
-    "last_heard": "2026-05-22T07:18:13.602904+00:00",
-    "snr": -11.25,
+    "last_heard": "2026-05-22T16:21:22.985182+00:00",
+    "snr": -3.5,
     "hops_away": 6,
     "short_name": "TQ1S",
     "hw_model": "SEEED_SOLAR_NODE",
