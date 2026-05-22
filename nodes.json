@@ -1832,9 +1832,9 @@
   "!199e58bb": {
     "id": "!199e58bb",
     "long_name": "Mobile",
-    "last_heard": "2026-05-20T15:14:56.726810+00:00",
-    "snr": -11.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-22T07:26:18.510051+00:00",
+    "snr": -13.0,
+    "hops_away": 7,
     "short_name": "Mob1",
     "hw_model": "SEEED_WIO_TRACKER_L1",
     "role": ""
