@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-22T22:23:41.768683+00:00",
-    "snr": -9.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-22T22:29:17.067630+00:00",
+    "snr": -11.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-22T22:27:19.874773+00:00",
+    "last_heard": "2026-05-22T22:28:19.913558+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2978,8 +2978,8 @@
   "!50448004": {
     "id": "!50448004",
     "long_name": "Meshtastic 8004",
-    "last_heard": "2026-05-22T22:27:30.423182+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-05-22T22:28:39.972905+00:00",
+    "snr": -10.5,
     "hops_away": 2,
     "short_name": "8004",
     "hw_model": "TRACKER_T1000_E",
