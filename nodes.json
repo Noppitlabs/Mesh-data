@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-22T15:49:13.668837+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-05-22T15:50:14.226383+00:00",
+    "snr": -2.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -2969,9 +2969,9 @@
   "!50448004": {
     "id": "!50448004",
     "long_name": "Meshtastic 8004",
-    "last_heard": "2026-05-22T15:47:27.605857+00:00",
-    "snr": -2.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-22T15:50:03.912484+00:00",
+    "snr": -3.25,
+    "hops_away": 3,
     "short_name": "8004",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
