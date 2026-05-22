@@ -566,7 +566,7 @@
   "!433ea6a0": {
     "id": "!433ea6a0",
     "long_name": "Meshtastic a6a0",
-    "last_heard": "2026-05-22T20:23:16.041061+00:00",
+    "last_heard": "2026-05-22T20:23:22.834429+00:00",
     "snr": -11.25,
     "hops_away": 3,
     "short_name": "a6a0",
@@ -3183,8 +3183,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan",
-    "last_heard": "2026-05-22T20:18:07.018721+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-05-22T20:23:17.606016+00:00",
+    "snr": -11.5,
     "hops_away": 0,
     "short_name": "TBS3",
     "hw_model": "RAK4631",
