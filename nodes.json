@@ -3228,9 +3228,9 @@
   "!960e2766": {
     "id": "!960e2766",
     "long_name": "Neil-Mobile",
-    "last_heard": "2026-05-23T08:32:18.110660+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-23T08:38:40.502708+00:00",
+    "snr": -13.25,
+    "hops_away": 5,
     "short_name": "MADJ",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
