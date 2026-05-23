@@ -3144,9 +3144,9 @@
   "!6985a75c": {
     "id": "!6985a75c",
     "long_name": "Nexus14Tech3",
-    "last_heard": "2026-05-23T17:53:31.689584+00:00",
-    "snr": -4.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-23T18:03:07.109459+00:00",
+    "snr": -7.25,
+    "hops_away": 5,
     "short_name": "N14C",
     "hw_model": "HELTEC_V4",
     "role": ""
