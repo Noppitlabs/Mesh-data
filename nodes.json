@@ -3257,5 +3257,12 @@
     "short_name": "Td1 ",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!ecee4da1": {
+    "id": "!ecee4da1",
+    "long_name": "!ecee4da1",
+    "last_heard": "2026-05-23T22:47:07.213838+00:00",
+    "snr": -13.75,
+    "hops_away": 7
   }
 }
