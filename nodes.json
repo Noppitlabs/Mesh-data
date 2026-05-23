@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-05-23T12:33:05.097953+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-05-23T12:45:04.484372+00:00",
+    "snr": -13.75,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -2987,9 +2987,9 @@
   "!50448004": {
     "id": "!50448004",
     "long_name": "Meshtastic 8004",
-    "last_heard": "2026-05-23T12:44:15.210381+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-23T12:45:11.784720+00:00",
+    "snr": -11.75,
+    "hops_away": 3,
     "short_name": "8004",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
