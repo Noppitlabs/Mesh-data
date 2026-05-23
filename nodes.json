@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-23T12:58:04.874994+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-05-23T12:59:03.920129+00:00",
+    "snr": -7.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -2151,8 +2151,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-05-23T08:44:31.171804+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-05-23T12:58:59.360842+00:00",
+    "snr": -7.75,
     "hops_away": 5,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
