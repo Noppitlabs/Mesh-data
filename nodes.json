@@ -1678,10 +1678,13 @@
   },
   "!9ea3db18": {
     "id": "!9ea3db18",
-    "long_name": "!9ea3db18",
-    "last_heard": "2026-05-22T19:52:38.169625+00:00",
-    "snr": -10.75,
-    "hops_away": 5
+    "long_name": "Meshtastic db18",
+    "last_heard": "2026-05-23T20:13:18.881443+00:00",
+    "snr": -7.75,
+    "hops_away": 7,
+    "short_name": "db18",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!5bfc4afe": {
     "id": "!5bfc4afe",
