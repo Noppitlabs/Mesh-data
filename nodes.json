@@ -2433,13 +2433,10 @@
   },
   "!2698ed13": {
     "id": "!2698ed13",
-    "long_name": "Neil-Seeed-T1000",
-    "last_heard": "2026-05-09T09:07:06.127227+00:00",
-    "snr": -18.0,
-    "hops_away": 5,
-    "short_name": "MAD2",
-    "hw_model": "TRACKER_T1000_E",
-    "role": "CLIENT_MUTE"
+    "long_name": "!2698ed13",
+    "last_heard": "2026-05-23T06:58:24.130608+00:00",
+    "snr": -10.0,
+    "hops_away": 5
   },
   "!da6558e0": {
     "id": "!da6558e0",
