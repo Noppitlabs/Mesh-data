@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-23T00:16:28.333086+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-05-23T00:17:27.701077+00:00",
+    "snr": -9.0,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -3189,8 +3189,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan",
-    "last_heard": "2026-05-22T23:23:27.618307+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-05-23T00:18:14.939900+00:00",
+    "snr": -6.75,
     "hops_away": 0,
     "short_name": "TBS3",
     "hw_model": "RAK4631",
