@@ -3462,5 +3462,12 @@
     "short_name": "abac",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!901f9a67": {
+    "id": "!901f9a67",
+    "long_name": "!901f9a67",
+    "last_heard": "2026-05-24T10:27:01.638603+00:00",
+    "snr": -8.75,
+    "hops_away": 5
   }
 }
