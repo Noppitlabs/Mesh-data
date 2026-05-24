@@ -2523,10 +2523,13 @@
   },
   "!713c4c31": {
     "id": "!713c4c31",
-    "long_name": "!713c4c31",
-    "last_heard": "2026-05-21T06:15:38.952855+00:00",
-    "snr": -17.25,
-    "hops_away": 7
+    "long_name": "StAustellSimon",
+    "last_heard": "2026-05-24T04:59:50.731448+00:00",
+    "snr": -15.0,
+    "hops_away": 7,
+    "short_name": "STAS",
+    "hw_model": "RAK4631",
+    "role": ""
   },
   "!da741904": {
     "id": "!da741904",
