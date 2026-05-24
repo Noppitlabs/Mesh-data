@@ -3486,5 +3486,15 @@
     "last_heard": "2026-05-24T14:13:38.610806+00:00",
     "snr": -11.75,
     "hops_away": 7
+  },
+  "!02a6cce6": {
+    "id": "!02a6cce6",
+    "long_name": "Meshtastic~cce6",
+    "last_heard": "2026-05-24T15:40:32.812547+00:00",
+    "snr": -10.25,
+    "hops_away": 1,
+    "short_name": "cce6",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_MUTE"
   }
 }
