@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-24T03:47:37.553692+00:00",
+    "last_heard": "2026-05-24T03:48:35.898769+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2795,9 +2795,9 @@
   "!433c1b9c": {
     "id": "!433c1b9c",
     "long_name": "M3",
-    "last_heard": "2026-05-23T22:35:30.611256+00:00",
-    "snr": -17.75,
-    "hops_away": 7,
+    "last_heard": "2026-05-24T03:48:44.246405+00:00",
+    "snr": -12.75,
+    "hops_away": 5,
     "short_name": "M3",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "CLIENT_MUTE"
