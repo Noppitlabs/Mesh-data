@@ -3337,5 +3337,12 @@
     "short_name": "4lrf",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!43577b9c": {
+    "id": "!43577b9c",
+    "long_name": "!43577b9c",
+    "last_heard": "2026-05-24T03:40:49.100476+00:00",
+    "snr": -14.0,
+    "hops_away": 3
   }
 }
