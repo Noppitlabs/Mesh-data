@@ -1077,9 +1077,9 @@
   "!a2ea1df4": {
     "id": "!a2ea1df4",
     "long_name": "GCM0002 - L'islet \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-05-24T21:03:24.915412+00:00",
-    "snr": -8.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-24T22:03:24.526593+00:00",
+    "snr": -8.0,
+    "hops_away": 7,
     "short_name": "1df4",
     "hw_model": "STATION_G2",
     "role": ""
