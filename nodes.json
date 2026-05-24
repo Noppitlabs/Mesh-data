@@ -1414,9 +1414,9 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-05-24T05:30:10.223511+00:00",
-    "snr": -13.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-24T05:48:37.404664+00:00",
+    "snr": -15.0,
+    "hops_away": 4,
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
