@@ -1669,8 +1669,8 @@
   "!da56951c": {
     "id": "!da56951c",
     "long_name": "PAC-Telford",
-    "last_heard": "2026-05-24T09:59:40.377861+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-05-24T10:32:55.638473+00:00",
+    "snr": -9.5,
     "hops_away": 7,
     "short_name": "951c",
     "hw_model": "HELTEC_V3",
@@ -2036,9 +2036,9 @@
   "!433ba350": {
     "id": "!433ba350",
     "long_name": "NKD-NKDM",
-    "last_heard": "2026-05-24T10:22:38.682407+00:00",
-    "snr": -9.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-24T10:33:12.061167+00:00",
+    "snr": -10.0,
+    "hops_away": 3,
     "short_name": "NKD2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "REPEATER"
