@@ -1483,13 +1483,10 @@
   },
   "!1969b119": {
     "id": "!1969b119",
-    "long_name": "PlymSteve",
-    "last_heard": "2026-04-28T05:31:34.097330+00:00",
-    "snr": -6.0,
-    "hops_away": 5,
-    "short_name": "Egg4",
-    "hw_model": "TRACKER_T1000_E",
-    "role": "CLIENT_MUTE"
+    "long_name": "!1969b119",
+    "last_heard": "2026-05-24T10:26:51.363909+00:00",
+    "snr": -8.5,
+    "hops_away": 4
   },
   "!849c72a0": {
     "id": "!849c72a0",
