@@ -3496,5 +3496,12 @@
     "short_name": "cce6",
     "hw_model": "RAK4631",
     "role": "CLIENT_MUTE"
+  },
+  "!02ecfb84": {
+    "id": "!02ecfb84",
+    "long_name": "!02ecfb84",
+    "last_heard": "2026-05-24T18:36:24.251070+00:00",
+    "snr": -5.5,
+    "hops_away": 3
   }
 }
