@@ -1,5 +1,16 @@
 [
   {
+    "id": 3149871323,
+    "from": "!43b59df4",
+    "from_name": "2E0HYY Keith",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-05-24T08:30:40.737609+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 2
+  },
+  {
     "id": 4072298400,
     "from": "!0409d1c0",
     "from_name": "M7FYU",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 4
-  },
-  {
-    "id": 865196559,
-    "from": "!a0c93994",
-    "from_name": "WhatsApp Freeman",
-    "to": "^all",
-    "text": "Wow, Im only using a little esp32 and an old pc antenna, couldn't possibly get the range you can",
-    "timestamp": "2026-05-17T17:18:46.417653+00:00",
-    "channel": 0,
-    "snr": -11.0,
-    "hops": 5
   }
 ]
