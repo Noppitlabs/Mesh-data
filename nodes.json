@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-05-24T08:23:24.679962+00:00",
-    "snr": -16.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-24T09:26:12.826429+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
@@ -2820,9 +2820,9 @@
   "!9e75890c": {
     "id": "!9e75890c",
     "long_name": "Mike Jones ",
-    "last_heard": "2026-05-24T09:23:14.373756+00:00",
-    "snr": -10.25,
-    "hops_away": 4,
+    "last_heard": "2026-05-24T09:26:09.430360+00:00",
+    "snr": -8.25,
+    "hops_away": 7,
     "short_name": "ODP2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "TRACKER"
