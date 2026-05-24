@@ -3057,9 +3057,9 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "Meshtastic fff0",
-    "last_heard": "2026-05-24T16:47:50.311985+00:00",
-    "snr": -11.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-24T19:56:55.478166+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
     "short_name": "fff0",
     "hw_model": "HELTEC_V3",
     "role": ""
