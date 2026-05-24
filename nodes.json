@@ -3536,5 +3536,15 @@
     "short_name": "REGM",
     "hw_model": "HELTEC_V4",
     "role": "ROUTER"
+  },
+  "!da622310": {
+    "id": "!da622310",
+    "long_name": "flat white",
+    "last_heard": "2026-05-24T23:51:54.832230+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
+    "short_name": "FW",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
