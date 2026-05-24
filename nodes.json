@@ -1598,9 +1598,9 @@
   "!9ef0c1e4": {
     "id": "!9ef0c1e4",
     "long_name": "Meshtastic c1e4",
-    "last_heard": "2026-05-24T08:20:22.993980+00:00",
-    "snr": -16.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-24T10:23:36.733587+00:00",
+    "snr": -8.75,
+    "hops_away": 6,
     "short_name": "c1e4",
     "hw_model": "TLORA_T3_S3",
     "role": ""
