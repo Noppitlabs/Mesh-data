@@ -3374,5 +3374,12 @@
     "short_name": "PAIG",
     "hw_model": "PORTDUINO",
     "role": ""
+  },
+  "!da5686a4": {
+    "id": "!da5686a4",
+    "long_name": "!da5686a4",
+    "last_heard": "2026-05-24T04:30:34.662906+00:00",
+    "snr": -16.5,
+    "hops_away": 3
   }
 }
