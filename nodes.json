@@ -3310,5 +3310,15 @@
     "short_name": "M0",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!04389188": {
+    "id": "!04389188",
+    "long_name": "Meshtastic 9188",
+    "last_heard": "2026-05-24T00:53:17.592927+00:00",
+    "snr": -18.5,
+    "hops_away": 2,
+    "short_name": "9188",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
