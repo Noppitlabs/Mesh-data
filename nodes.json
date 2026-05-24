@@ -3290,5 +3290,15 @@
     "short_name": "1a8c",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
+  },
+  "!0acb4d18": {
+    "id": "!0acb4d18",
+    "long_name": "Meshtastic 4d18",
+    "last_heard": "2026-05-24T00:26:37.900285+00:00",
+    "snr": -5.75,
+    "hops_away": 4,
+    "short_name": "4d18",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
