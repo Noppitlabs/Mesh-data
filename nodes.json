@@ -3526,5 +3526,15 @@
     "last_heard": "2026-05-24T23:11:03.819680+00:00",
     "snr": -9.0,
     "hops_away": 6
+  },
+  "!1ba5908c": {
+    "id": "!1ba5908c",
+    "long_name": "EGM Route",
+    "last_heard": "2026-05-24T23:22:21.166886+00:00",
+    "snr": -11.75,
+    "hops_away": 3,
+    "short_name": "REGM",
+    "hw_model": "HELTEC_V4",
+    "role": "ROUTER"
   }
 }
