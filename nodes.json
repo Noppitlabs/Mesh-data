@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-24T01:13:47.247661+00:00",
-    "snr": -19.25,
-    "hops_away": 1,
+    "last_heard": "2026-05-24T01:15:03.122095+00:00",
+    "snr": -15.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -616,8 +616,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-05-23T23:45:46.467991+00:00",
-    "snr": -14.25,
+    "last_heard": "2026-05-24T01:15:01.623254+00:00",
+    "snr": -16.75,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
