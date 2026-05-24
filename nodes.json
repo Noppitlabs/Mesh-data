@@ -2484,8 +2484,8 @@
   "!f6f96ec0": {
     "id": "!f6f96ec0",
     "long_name": "EGM Base",
-    "last_heard": "2026-05-24T04:06:51.192534+00:00",
-    "snr": -15.0,
+    "last_heard": "2026-05-24T04:22:00.670363+00:00",
+    "snr": -14.75,
     "hops_away": 4,
     "short_name": "HEGM",
     "hw_model": "HELTEC_V3",
