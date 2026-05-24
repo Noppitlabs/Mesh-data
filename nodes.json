@@ -2456,13 +2456,10 @@
   },
   "!9eecae9c": {
     "id": "!9eecae9c",
-    "long_name": "AleBurton",
-    "last_heard": "2026-05-13T22:56:03.352077+00:00",
-    "snr": -4.5,
-    "hops_away": 7,
-    "short_name": "ALBU",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!9eecae9c",
+    "last_heard": "2026-05-24T02:01:53.457445+00:00",
+    "snr": -17.5,
+    "hops_away": 0
   },
   "!671db3f6": {
     "id": "!671db3f6",
