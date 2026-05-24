@@ -903,9 +903,9 @@
   "!9ea1fe80": {
     "id": "!9ea1fe80",
     "long_name": "ED3",
-    "last_heard": "2026-05-22T00:57:31.412478+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-24T04:12:57.484624+00:00",
+    "snr": -14.75,
+    "hops_away": 4,
     "short_name": "ED3",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
