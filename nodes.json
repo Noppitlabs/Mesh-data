@@ -575,11 +575,11 @@
   },
   "!2519bfe8": {
     "id": "!2519bfe8",
-    "long_name": "G8UWE#EX8",
-    "last_heard": "2026-05-16T15:42:43.264373+00:00",
-    "snr": -8.5,
-    "hops_away": 2,
-    "short_name": "EX8#",
+    "long_name": "Meshtastic bfe8",
+    "last_heard": "2026-05-25T19:59:26.444603+00:00",
+    "snr": -15.25,
+    "hops_away": 1,
+    "short_name": "bfe8",
     "hw_model": "RAK4631",
     "role": ""
   },
