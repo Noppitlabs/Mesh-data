@@ -1,5 +1,16 @@
 [
   {
+    "id": 2563297800,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "Happy that Puck Telecom is up and running again and that Heltec didn't do a number on me \ud83d\ude05",
+    "timestamp": "2026-05-25T13:05:02.562407+00:00",
+    "channel": 0,
+    "snr": -9.0,
+    "hops": 6
+  },
+  {
     "id": 2563297788,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.75,
     "hops": 3
-  },
-  {
-    "id": 1425605248,
-    "from": "!5ac7d46f",
-    "from_name": "!5ac7d46f",
-    "to": "^all",
-    "text": "Day trip to Torquay today.",
-    "timestamp": "2026-05-19T08:53:48.325243+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 1
   }
 ]
