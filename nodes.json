@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-25T09:03:53.572051+00:00",
-    "snr": -14.25,
+    "last_heard": "2026-05-25T09:05:08.975015+00:00",
+    "snr": -10.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -3200,8 +3200,8 @@
   "!cfb37091": {
     "id": "!cfb37091",
     "long_name": "Resilience 1 Winkleigh \u2600\ufe0f ",
-    "last_heard": "2026-05-25T08:05:01.666170+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-05-25T09:05:10.986326+00:00",
+    "snr": -11.25,
     "hops_away": 4,
     "short_name": "RES1",
     "hw_model": "RAK4631",
