@@ -2492,9 +2492,9 @@
   "!a0cb4648": {
     "id": "!a0cb4648",
     "long_name": "Puck Roaming",
-    "last_heard": "2026-05-24T12:11:50.918372+00:00",
-    "snr": -10.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-25T12:49:03.420325+00:00",
+    "snr": -8.75,
+    "hops_away": 4,
     "short_name": "PUCK",
     "hw_model": "HELTEC_V3",
     "role": ""
