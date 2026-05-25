@@ -3297,10 +3297,13 @@
   },
   "!28fe5597": {
     "id": "!28fe5597",
-    "long_name": "!28fe5597",
-    "last_heard": "2026-05-25T02:54:18.907584+00:00",
-    "snr": -16.25,
-    "hops_away": 4
+    "long_name": "Murphtastic-Chip",
+    "last_heard": "2026-05-25T03:45:55.050500+00:00",
+    "snr": -13.75,
+    "hops_away": 4,
+    "short_name": "Chip",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!d71a1a8c": {
     "id": "!d71a1a8c",
