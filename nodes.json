@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-25T09:09:53.818952+00:00",
-    "snr": -13.5,
-    "hops_away": 1,
+    "last_heard": "2026-05-25T09:11:17.825698+00:00",
+    "snr": -4.0,
+    "hops_away": 2,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
