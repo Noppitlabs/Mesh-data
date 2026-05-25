@@ -566,9 +566,9 @@
   "!433ea6a0": {
     "id": "!433ea6a0",
     "long_name": "Meshtastic a6a0",
-    "last_heard": "2026-05-25T20:23:16.004023+00:00",
-    "snr": -14.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-25T20:39:50.908451+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
     "short_name": "a6a0",
     "hw_model": "HELTEC_V3",
     "role": ""
