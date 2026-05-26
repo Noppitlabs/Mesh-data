@@ -3649,5 +3649,12 @@
     "short_name": "F402",
     "hw_model": "HELTEC_MESH_POCKET",
     "role": "CLIENT_MUTE"
+  },
+  "!1c49639c": {
+    "id": "!1c49639c",
+    "long_name": "!1c49639c",
+    "last_heard": "2026-05-26T20:38:10.287132+00:00",
+    "snr": -17.25,
+    "hops_away": 6
   }
 }
