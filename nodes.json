@@ -3626,5 +3626,15 @@
     "last_heard": "2026-05-26T19:37:44.631948+00:00",
     "snr": -8.25,
     "hops_away": 4
+  },
+  "!0cd04f4f": {
+    "id": "!0cd04f4f",
+    "long_name": "Meshtastic 4f4f",
+    "last_heard": "2026-05-26T19:54:15.185015+00:00",
+    "snr": -8.25,
+    "hops_away": 6,
+    "short_name": "4f4f",
+    "hw_model": "THINKNODE_M1",
+    "role": "TRACKER"
   }
 }
