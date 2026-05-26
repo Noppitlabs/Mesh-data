@@ -2132,9 +2132,9 @@
   "!a20cf354": {
     "id": "!a20cf354",
     "long_name": "markymarrow",
-    "last_heard": "2026-05-26T16:37:01.506056+00:00",
-    "snr": -16.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-26T22:36:59.640579+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
     "short_name": "mrrw",
     "hw_model": "T_DECK",
     "role": ""
