@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-26T21:12:00.843204+00:00",
-    "snr": -2.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-26T21:16:05.309086+00:00",
+    "snr": -19.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3483,9 +3483,9 @@
   "!6984abac": {
     "id": "!6984abac",
     "long_name": "GCM0014 - St Clements \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-05-26T20:15:06.124655+00:00",
-    "snr": -18.0,
-    "hops_away": 6,
+    "last_heard": "2026-05-26T21:16:14.954907+00:00",
+    "snr": -19.25,
+    "hops_away": 7,
     "short_name": "abac",
     "hw_model": "HELTEC_V4",
     "role": ""
