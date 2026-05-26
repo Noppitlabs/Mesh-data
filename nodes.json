@@ -2835,9 +2835,9 @@
   "!9e75890c": {
     "id": "!9e75890c",
     "long_name": "Mike Jones ",
-    "last_heard": "2026-05-26T23:40:45.681149+00:00",
-    "snr": -12.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-26T23:47:32.866277+00:00",
+    "snr": -13.25,
+    "hops_away": 5,
     "short_name": "ODP2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "TRACKER"
