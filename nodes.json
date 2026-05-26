@@ -1782,13 +1782,10 @@
   },
   "!69822bd4": {
     "id": "!69822bd4",
-    "long_name": "RC_BASE",
-    "last_heard": "2026-05-10T01:59:01.756702+00:00",
-    "snr": -13.0,
-    "hops_away": 3,
-    "short_name": "RC00",
-    "hw_model": "HELTEC_V4",
-    "role": "CLIENT_BASE"
+    "long_name": "!69822bd4",
+    "last_heard": "2026-05-26T05:27:52.305495+00:00",
+    "snr": -13.25,
+    "hops_away": 3
   },
   "!da65ba18": {
     "id": "!da65ba18",
