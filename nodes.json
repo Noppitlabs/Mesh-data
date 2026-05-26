@@ -89,9 +89,9 @@
   "!75e98560": {
     "id": "!75e98560",
     "long_name": "StJ1- G7LJN",
-    "last_heard": "2026-05-26T18:25:07.007672+00:00",
-    "snr": -4.75,
-    "hops_away": 7,
+    "last_heard": "2026-05-26T18:30:26.429149+00:00",
+    "snr": -9.5,
+    "hops_away": 6,
     "short_name": "StJ1",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -506,9 +506,9 @@
   "!307221d3": {
     "id": "!307221d3",
     "long_name": "Tony G6GLP",
-    "last_heard": "2026-05-26T11:09:38.848523+00:00",
-    "snr": -16.5,
-    "hops_away": 7,
+    "last_heard": "2026-05-26T18:30:03.434124+00:00",
+    "snr": -9.5,
+    "hops_away": 5,
     "short_name": "GLPp",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
