@@ -1,5 +1,16 @@
 [
   {
+    "id": 1837898493,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-05-26T09:27:46.946684+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 7
+  },
+  {
     "id": 2563297800,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-19T09:18:17.780734+00:00",
     "channel": 0,
     "snr": -9.5,
-    "hops": 3
-  },
-  {
-    "id": 1425605253,
-    "from": "!5ac7d46f",
-    "from_name": "Slimjim Portable T114",
-    "to": "^all",
-    "text": "\ud83d\ude42",
-    "timestamp": "2026-05-19T09:16:56.196197+00:00",
-    "channel": 0,
-    "snr": -8.75,
     "hops": 3
   }
 ]
