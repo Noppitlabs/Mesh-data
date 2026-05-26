@@ -3639,5 +3639,15 @@
     "short_name": "4f4f",
     "hw_model": "THINKNODE_M1",
     "role": "TRACKER"
+  },
+  "!960e7a1c": {
+    "id": "!960e7a1c",
+    "long_name": "Fforestfach Pocket",
+    "last_heard": "2026-05-26T19:59:25.082186+00:00",
+    "snr": -18.0,
+    "hops_away": 7,
+    "short_name": "F402",
+    "hw_model": "HELTEC_MESH_POCKET",
+    "role": "CLIENT_MUTE"
   }
 }
