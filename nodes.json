@@ -1534,9 +1534,9 @@
   "!9ea2a1ac": {
     "id": "!9ea2a1ac",
     "long_name": "Posset Base",
-    "last_heard": "2026-05-27T09:36:42.705254+00:00",
-    "snr": -19.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-27T11:06:38.203973+00:00",
+    "snr": -13.25,
+    "hops_away": 6,
     "short_name": "PoBa",
     "hw_model": "HELTEC_V3",
     "role": ""
