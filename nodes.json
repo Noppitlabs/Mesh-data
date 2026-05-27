@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-27T12:38:27.708632+00:00",
-    "snr": -4.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-27T12:49:18.060678+00:00",
+    "snr": -14.5,
+    "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-27T12:39:32.887770+00:00",
-    "snr": -3.5,
-    "hops_away": 3,
+    "last_heard": "2026-05-27T12:47:09.226548+00:00",
+    "snr": -14.0,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-27T12:40:13.322658+00:00",
+    "last_heard": "2026-05-27T12:49:13.664555+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -69,8 +69,8 @@
   "!43b59df4": {
     "id": "!43b59df4",
     "long_name": "2E0HYY Keith",
-    "last_heard": "2026-05-27T09:41:38.914639+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-05-27T12:41:38.325335+00:00",
+    "snr": -17.25,
     "hops_away": 2,
     "short_name": "KM02",
     "hw_model": "HELTEC_V3",
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-05-27T11:10:06.168623+00:00",
-    "snr": -16.75,
-    "hops_away": 4,
+    "last_heard": "2026-05-27T12:42:15.277728+00:00",
+    "snr": -17.75,
+    "hops_away": 5,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
@@ -309,9 +309,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-05-27T12:23:37.874128+00:00",
-    "snr": -15.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-27T12:45:34.944170+00:00",
+    "snr": -4.0,
+    "hops_away": 4,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1077,9 +1077,9 @@
   "!a2ea1df4": {
     "id": "!a2ea1df4",
     "long_name": "GCM0002 - L'islet \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-05-27T10:18:13.137788+00:00",
-    "snr": -15.75,
-    "hops_away": 4,
+    "last_heard": "2026-05-27T12:48:17.572644+00:00",
+    "snr": -17.0,
+    "hops_away": 5,
     "short_name": "1df4",
     "hw_model": "STATION_G2",
     "role": ""
@@ -3062,9 +3062,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-05-27T12:32:50.938866+00:00",
-    "snr": -13.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-27T12:48:39.963184+00:00",
+    "snr": -15.0,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
@@ -3252,8 +3252,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan",
-    "last_heard": "2026-05-27T12:41:02.396378+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-05-27T12:41:18.485000+00:00",
+    "snr": -2.75,
     "hops_away": 0,
     "short_name": "TBS3",
     "hw_model": "RAK4631",
