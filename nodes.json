@@ -3602,9 +3602,9 @@
   "!043ad348": {
     "id": "!043ad348",
     "long_name": "Meshtastic d348",
-    "last_heard": "2026-05-27T01:29:01.962124+00:00",
-    "snr": -14.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-27T02:09:07.064419+00:00",
+    "snr": -16.5,
+    "hops_away": 4,
     "short_name": "d348",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
