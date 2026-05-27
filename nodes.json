@@ -1533,10 +1533,13 @@
   },
   "!9ea2a1ac": {
     "id": "!9ea2a1ac",
-    "long_name": "!9ea2a1ac",
-    "last_heard": "2026-05-20T19:02:13.227218+00:00",
-    "snr": -13.0,
-    "hops_away": 6
+    "long_name": "Posset Base",
+    "last_heard": "2026-05-27T07:52:39.549381+00:00",
+    "snr": -11.25,
+    "hops_away": 6,
+    "short_name": "PoBa",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!da5afb4c": {
     "id": "!da5afb4c",
