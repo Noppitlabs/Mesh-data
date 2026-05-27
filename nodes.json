@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-27T12:05:01.129041+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-05-27T12:10:46.354798+00:00",
+    "snr": -16.75,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-27T12:04:13.784841+00:00",
-    "snr": -17.25,
+    "last_heard": "2026-05-27T12:09:50.438307+00:00",
+    "snr": -16.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-27T12:06:14.510726+00:00",
+    "last_heard": "2026-05-27T12:11:12.159710+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -39,9 +39,9 @@
   "!da655af4": {
     "id": "!da655af4",
     "long_name": "ALAN PIXEL",
-    "last_heard": "2026-05-26T17:21:49.742162+00:00",
-    "snr": -17.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-27T12:09:04.304759+00:00",
+    "snr": -18.5,
+    "hops_away": 4,
     "short_name": "ALAN",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-27T10:33:52.187484+00:00",
-    "snr": -18.25,
-    "hops_away": 0,
+    "last_heard": "2026-05-27T12:09:02.470061+00:00",
+    "snr": -17.5,
+    "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -606,8 +606,8 @@
   "!c6d0ea7e": {
     "id": "!c6d0ea7e",
     "long_name": "XXA-ea7e",
-    "last_heard": "2026-05-27T07:47:05.206171+00:00",
-    "snr": -17.25,
+    "last_heard": "2026-05-27T12:07:49.286235+00:00",
+    "snr": -13.0,
     "hops_away": 5,
     "short_name": "XXAm",
     "hw_model": "TRACKER_T1000_E",
@@ -786,9 +786,9 @@
   "!02d4cd04": {
     "id": "!02d4cd04",
     "long_name": "Preston~Bowyer",
-    "last_heard": "2026-05-27T00:26:16.890429+00:00",
-    "snr": -16.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-27T12:08:49.988052+00:00",
+    "snr": -14.25,
+    "hops_away": 5,
     "short_name": "T4",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -1060,9 +1060,9 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-05-27T11:47:21.420878+00:00",
-    "snr": -16.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-27T12:10:00.526781+00:00",
+    "snr": -18.25,
+    "hops_away": 3,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
@@ -3062,9 +3062,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-05-27T11:58:30.992674+00:00",
-    "snr": -13.75,
-    "hops_away": 2,
+    "last_heard": "2026-05-27T12:08:51.774647+00:00",
+    "snr": -7.25,
+    "hops_away": 4,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
