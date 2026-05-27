@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-27T02:20:47.271047+00:00",
+    "last_heard": "2026-05-27T02:20:48.963939+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -696,9 +696,9 @@
   "!a0e0b080": {
     "id": "!a0e0b080",
     "long_name": "JamesT-Echo",
-    "last_heard": "2026-05-26T22:42:40.360889+00:00",
-    "snr": -6.75,
-    "hops_away": 7,
+    "last_heard": "2026-05-27T02:21:21.722954+00:00",
+    "snr": -14.25,
+    "hops_away": 6,
     "short_name": "J19E",
     "hw_model": "T_ECHO",
     "role": ""
