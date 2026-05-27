@@ -1239,9 +1239,9 @@
   "!74f0fbd0": {
     "id": "!74f0fbd0",
     "long_name": "YT-1300f (M7OXC)",
-    "last_heard": "2026-05-26T18:07:49.394463+00:00",
-    "snr": -11.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-27T08:15:04.298186+00:00",
+    "snr": -11.75,
+    "hops_away": 4,
     "short_name": "fbd0",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -3062,9 +3062,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-05-27T08:10:52.278180+00:00",
-    "snr": -12.5,
-    "hops_away": 2,
+    "last_heard": "2026-05-27T08:15:06.127625+00:00",
+    "snr": -12.25,
+    "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
