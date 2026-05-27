@@ -3370,9 +3370,9 @@
   "!9e76a7c4": {
     "id": "!9e76a7c4",
     "long_name": "F4LRF",
-    "last_heard": "2026-05-24T02:51:18.672834+00:00",
-    "snr": -13.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-27T06:26:45.522901+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
     "short_name": "4lrf",
     "hw_model": "HELTEC_V3",
     "role": ""
