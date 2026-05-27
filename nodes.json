@@ -3615,9 +3615,9 @@
   "!043c3154": {
     "id": "!043c3154",
     "long_name": "Meshtastic 3154",
-    "last_heard": "2026-05-27T04:19:39.509381+00:00",
-    "snr": -9.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-27T05:46:52.317478+00:00",
+    "snr": -11.25,
+    "hops_away": 5,
     "short_name": "3154",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
