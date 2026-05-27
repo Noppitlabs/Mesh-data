@@ -406,9 +406,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-05-27T09:41:28.759908+00:00",
-    "snr": -14.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-27T11:40:34.668877+00:00",
+    "snr": -2.5,
+    "hops_away": 3,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
@@ -3252,8 +3252,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan",
-    "last_heard": "2026-05-27T10:32:12.451784+00:00",
-    "snr": -2.5,
+    "last_heard": "2026-05-27T11:40:57.446993+00:00",
+    "snr": -2.75,
     "hops_away": 0,
     "short_name": "TBS3",
     "hw_model": "RAK4631",
