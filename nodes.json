@@ -1212,9 +1212,9 @@
   "!43b58464": {
     "id": "!43b58464",
     "long_name": "Jon",
-    "last_heard": "2026-05-26T19:55:45.803535+00:00",
-    "snr": -14.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-27T09:29:20.542598+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
     "short_name": "8464",
     "hw_model": "HELTEC_V3",
     "role": ""
