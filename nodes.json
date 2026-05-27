@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-27T11:37:10.799138+00:00",
+    "last_heard": "2026-05-27T11:40:10.906231+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2165,9 +2165,9 @@
   "!db517d8c": {
     "id": "!db517d8c",
     "long_name": "HaddonHill123",
-    "last_heard": "2026-05-27T10:53:14.338834+00:00",
-    "snr": -16.0,
-    "hops_away": 4,
+    "last_heard": "2026-05-27T11:38:43.832794+00:00",
+    "snr": -1.0,
+    "hops_away": 5,
     "short_name": "G1",
     "hw_model": "HELTEC_V3",
     "role": ""
