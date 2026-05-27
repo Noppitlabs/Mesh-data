@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-27T01:02:57.448408+00:00",
-    "snr": -13.75,
-    "hops_away": 1,
+    "last_heard": "2026-05-27T01:05:07.621521+00:00",
+    "snr": -14.75,
+    "hops_away": 3,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -446,9 +446,9 @@
   "!433daaf8": {
     "id": "!433daaf8",
     "long_name": "Taunton ",
-    "last_heard": "2026-05-27T00:38:07.479565+00:00",
-    "snr": -13.75,
-    "hops_away": 6,
+    "last_heard": "2026-05-27T01:05:03.436242+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "TA2",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
