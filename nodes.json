@@ -3655,10 +3655,13 @@
   },
   "!1c49639c": {
     "id": "!1c49639c",
-    "long_name": "!1c49639c",
-    "last_heard": "2026-05-26T20:38:13.491970+00:00",
-    "snr": -17.25,
-    "hops_away": 6
+    "long_name": "Nathan G7KUJ ",
+    "last_heard": "2026-05-27T00:52:41.468937+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
+    "short_name": "7KUJ",
+    "hw_model": "TBEAM",
+    "role": ""
   },
   "!433f2958": {
     "id": "!433f2958",
