@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-28T20:50:25.227772+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-05-28T20:55:25.372750+00:00",
+    "snr": -11.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -1111,9 +1111,9 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "GCM017-LancresseRoad\ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-05-28T19:34:29.178480+00:00",
-    "snr": -13.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-28T20:55:03.894955+00:00",
+    "snr": -12.25,
+    "hops_away": 5,
     "short_name": "59a7",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
