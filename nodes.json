@@ -3766,5 +3766,15 @@
     "short_name": "Bug2",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!43b6b78c": {
+    "id": "!43b6b78c",
+    "long_name": "MU6GBG - Gavin@Lanoe.net",
+    "last_heard": "2026-05-28T15:45:49.043138+00:00",
+    "snr": -13.0,
+    "hops_away": 4,
+    "short_name": "b78c",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
