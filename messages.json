@@ -1,5 +1,16 @@
 [
   {
+    "id": 1389579816,
+    "from": "!5bfc4afe",
+    "from_name": "!5bfc4afe",
+    "to": "^all",
+    "text": "Yes, nice.",
+    "timestamp": "2026-05-28T21:10:27.596338+00:00",
+    "channel": 0,
+    "snr": -11.5,
+    "hops": 4
+  },
+  {
     "id": 1615920323,
     "from": "!f661ed84",
     "from_name": "!f661ed84",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-20T18:28:17.550074+00:00",
     "channel": 0,
     "snr": -14.0,
-    "hops": 5
-  },
-  {
-    "id": 1118700256,
-    "from": "!433daaf8",
-    "from_name": "Taunton ",
-    "to": "^all",
-    "text": "Evening all",
-    "timestamp": "2026-05-20T18:15:10.802796+00:00",
-    "channel": 0,
-    "snr": -12.0,
     "hops": 5
   }
 ]
