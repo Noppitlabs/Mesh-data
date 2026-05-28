@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-28T15:24:34.775051+00:00",
-    "snr": -5.25,
-    "hops_away": 2,
+    "last_heard": "2026-05-28T15:25:18.553963+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3048,8 +3048,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-05-28T14:58:19.426439+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-05-28T15:25:05.629800+00:00",
+    "snr": -4.75,
     "hops_away": 3,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
