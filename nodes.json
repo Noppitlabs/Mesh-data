@@ -2413,9 +2413,9 @@
   "!1c71c8ae": {
     "id": "!1c71c8ae",
     "long_name": "GU1LRO Solar",
-    "last_heard": "2026-05-27T19:58:14.348732+00:00",
-    "snr": -8.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-28T11:27:40.867378+00:00",
+    "snr": -18.5,
+    "hops_away": 7,
     "short_name": "cobo",
     "hw_model": "RAK4631",
     "role": ""
