@@ -1,5 +1,16 @@
 [
   {
+    "id": 1615920323,
+    "from": "!f661ed84",
+    "from_name": "!f661ed84",
+    "to": "^all",
+    "text": "4\ufe0f\u20e3",
+    "timestamp": "2026-05-28T20:03:07.950435+00:00",
+    "channel": 0,
+    "snr": -17.5,
+    "hops": 6
+  },
+  {
     "id": 1615920297,
     "from": "!f661ed84",
     "from_name": "!f661ed84",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.0,
     "hops": 5
-  },
-  {
-    "id": 3064829637,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Aye aye. 7 hops to Exeter.",
-    "timestamp": "2026-05-20T16:06:25.870637+00:00",
-    "channel": 0,
-    "snr": -15.25,
-    "hops": 2
   }
 ]
