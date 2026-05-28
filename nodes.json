@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-28T12:04:12.784426+00:00",
+    "last_heard": "2026-05-28T12:05:12.824643+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3235,9 +3235,9 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-05-28T11:20:39.953301+00:00",
-    "snr": -5.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-28T12:05:04.772151+00:00",
+    "snr": -17.5,
+    "hops_away": 6,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
