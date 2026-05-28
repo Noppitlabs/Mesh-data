@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-28T16:33:43.047411+00:00",
-    "snr": -15.0,
+    "last_heard": "2026-05-28T16:35:24.218719+00:00",
+    "snr": -15.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -436,9 +436,9 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-05-28T13:49:10.704574+00:00",
-    "snr": -6.25,
-    "hops_away": 1,
+    "last_heard": "2026-05-28T16:35:05.217705+00:00",
+    "snr": -18.0,
+    "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
     "role": "ROUTER"
