@@ -3756,5 +3756,15 @@
     "short_name": "Mr B",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!f6fba300": {
+    "id": "!f6fba300",
+    "long_name": "Mr Bs M7MRB 2",
+    "last_heard": "2026-05-28T11:25:55.766809+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
+    "short_name": "Bug2",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
