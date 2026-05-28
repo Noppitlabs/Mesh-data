@@ -1370,9 +1370,9 @@
   "!e2e4afd8": {
     "id": "!e2e4afd8",
     "long_name": "Meshtastic bewu2",
-    "last_heard": "2026-05-27T18:32:53.773588+00:00",
-    "snr": -11.5,
-    "hops_away": 0,
+    "last_heard": "2026-05-28T17:34:53.271007+00:00",
+    "snr": -13.25,
+    "hops_away": -2,
     "short_name": "Bew2",
     "hw_model": "HELTEC_V3",
     "role": ""
