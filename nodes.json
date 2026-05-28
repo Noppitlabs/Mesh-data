@@ -3265,9 +3265,9 @@
   "!bdf0ccd4": {
     "id": "!bdf0ccd4",
     "long_name": "0HZYh",
-    "last_heard": "2026-05-28T18:55:05.367215+00:00",
-    "snr": -7.0,
-    "hops_away": 6,
+    "last_heard": "2026-05-28T18:58:53.902465+00:00",
+    "snr": -14.5,
+    "hops_away": 7,
     "short_name": "HZYh",
     "hw_model": "TBEAM",
     "role": "TRACKER"
