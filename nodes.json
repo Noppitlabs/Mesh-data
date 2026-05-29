@@ -1745,9 +1745,9 @@
   "!9e9fb118": {
     "id": "!9e9fb118",
     "long_name": "Meshtastic b118",
-    "last_heard": "2026-05-28T17:19:52.135915+00:00",
-    "snr": -14.25,
-    "hops_away": 4,
+    "last_heard": "2026-05-29T11:19:45.386637+00:00",
+    "snr": -19.0,
+    "hops_away": 7,
     "short_name": "b118",
     "hw_model": "HELTEC_V3",
     "role": ""
