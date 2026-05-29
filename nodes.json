@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-29T08:43:40.171894+00:00",
-    "snr": -14.25,
+    "last_heard": "2026-05-29T08:48:03.920751+00:00",
+    "snr": -13.5,
     "hops_away": 1,
     "short_name": "8GON",
     "hw_model": "HELTEC_V3",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-29T08:45:05.587446+00:00",
+    "last_heard": "2026-05-29T08:47:05.668353+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-05-29T08:42:17.918350+00:00",
-    "snr": -11.75,
-    "hops_away": 3,
+    "last_heard": "2026-05-29T08:48:23.976132+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1704,9 +1704,9 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "!5bfc4afe",
-    "last_heard": "2026-05-29T08:43:58.201648+00:00",
-    "snr": -12.75,
-    "hops_away": 3
+    "last_heard": "2026-05-29T08:47:45.754118+00:00",
+    "snr": -9.75,
+    "hops_away": 6
   },
   "!38496e39": {
     "id": "!38496e39",
@@ -2685,9 +2685,9 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-05-29T07:23:14.333194+00:00",
-    "snr": -1.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-29T08:47:25.713034+00:00",
+    "snr": -9.5,
+    "hops_away": 4,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
