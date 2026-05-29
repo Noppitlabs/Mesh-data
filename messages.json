@@ -1,5 +1,16 @@
 [
   {
+    "id": 1112159012,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "Puck Exeter",
+    "timestamp": "2026-05-29T18:52:03.043844+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 3
+  },
+  {
     "id": 1607821506,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 3
-  },
-  {
-    "id": 1600582143,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "Holding up in the air \ud83d\ude06",
-    "timestamp": "2026-05-24T12:11:49.831452+00:00",
-    "channel": 0,
-    "snr": -10.75,
-    "hops": 5
   }
 ]
