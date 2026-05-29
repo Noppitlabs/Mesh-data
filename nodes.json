@@ -3218,9 +3218,9 @@
   "!cfb37091": {
     "id": "!cfb37091",
     "long_name": "Resilience 1 Winkleigh \u2600\ufe0f ",
-    "last_heard": "2026-05-29T10:09:34.850146+00:00",
-    "snr": -17.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-29T14:49:31.721389+00:00",
+    "snr": -12.75,
+    "hops_away": 5,
     "short_name": "RES1",
     "hw_model": "RAK4631",
     "role": "ROUTER"
