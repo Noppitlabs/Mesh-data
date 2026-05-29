@@ -3344,9 +3344,9 @@
   "!d71a1a8c": {
     "id": "!d71a1a8c",
     "long_name": "IRIS",
-    "last_heard": "2026-05-29T14:21:50.993771+00:00",
-    "snr": -6.5,
-    "hops_away": 6,
+    "last_heard": "2026-05-29T17:21:45.739743+00:00",
+    "snr": -9.75,
+    "hops_away": 5,
     "short_name": "1a8c",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
