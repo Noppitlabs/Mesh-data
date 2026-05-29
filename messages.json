@@ -1,5 +1,16 @@
 [
   {
+    "id": 1737391189,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "Welcome to Exeter \ud83d\udc4b",
+    "timestamp": "2026-05-29T18:52:53.601417+00:00",
+    "channel": 0,
+    "snr": -2.5,
+    "hops": 5
+  },
+  {
     "id": 1112159012,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.75,
     "hops": 4
-  },
-  {
-    "id": 3149871955,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-05-24T13:53:17.057158+00:00",
-    "channel": 0,
-    "snr": -10.75,
-    "hops": 3
   }
 ]
