@@ -1778,9 +1778,9 @@
   "!ea8ee54c": {
     "id": "!ea8ee54c",
     "long_name": "Hambridge Seeed",
-    "last_heard": "2026-05-29T02:54:01.981445+00:00",
-    "snr": -16.25,
-    "hops_away": 7,
+    "last_heard": "2026-05-29T04:04:10.238692+00:00",
+    "snr": -1.75,
+    "hops_away": 5,
     "short_name": "HBse",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_MUTE"
