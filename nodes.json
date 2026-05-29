@@ -2,7 +2,7 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "G8GON/M",
-    "last_heard": "2026-05-29T05:28:44.959623+00:00",
+    "last_heard": "2026-05-29T05:30:28.505961+00:00",
     "snr": -2.0,
     "hops_away": 2,
     "short_name": "8GON",
@@ -1252,8 +1252,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-05-29T00:26:12.449878+00:00",
-    "snr": -15.25,
+    "last_heard": "2026-05-29T05:30:04.514677+00:00",
+    "snr": -17.25,
     "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
