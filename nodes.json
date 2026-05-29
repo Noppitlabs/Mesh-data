@@ -1872,10 +1872,13 @@
   },
   "!ba6a9048": {
     "id": "!ba6a9048",
-    "long_name": "!ba6a9048",
-    "last_heard": "2026-05-28T19:39:06.300879+00:00",
-    "snr": -14.5,
-    "hops_away": 5
+    "long_name": "Hempsted Castle",
+    "last_heard": "2026-05-29T16:24:05.589840+00:00",
+    "snr": -12.25,
+    "hops_away": 6,
+    "short_name": "9048",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!cebc35e7": {
     "id": "!cebc35e7",
