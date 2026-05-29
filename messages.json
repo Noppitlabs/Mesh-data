@@ -1,5 +1,16 @@
 [
   {
+    "id": 847381256,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "There were a lot of channel Island nodes showing as online yesterday I saw. How does a hop cross that much water?\ud83e\udd14",
+    "timestamp": "2026-05-29T07:51:01.595787+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 3
+  },
+  {
     "id": 1607821502,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -3.25,
     "hops": 5
-  },
-  {
-    "id": 2288932016,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "\u2665\ufe0f",
-    "timestamp": "2026-05-22T02:25:51.734188+00:00",
-    "channel": 0,
-    "snr": -10.5,
-    "hops": 6
   }
 ]
