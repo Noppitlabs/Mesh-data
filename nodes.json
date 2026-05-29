@@ -2044,9 +2044,9 @@
   "!e2e2df4c": {
     "id": "!e2e2df4c",
     "long_name": "DICEY O'DONNELL'S (OFFICE)",
-    "last_heard": "2026-05-29T05:55:48.905956+00:00",
-    "snr": -2.25,
-    "hops_away": 3,
+    "last_heard": "2026-05-29T10:50:08.763755+00:00",
+    "snr": -16.5,
+    "hops_away": 2,
     "short_name": "DC01",
     "hw_model": "HELTEC_V3",
     "role": ""
