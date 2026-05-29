@@ -3855,5 +3855,12 @@
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!c051ce1e": {
+    "id": "!c051ce1e",
+    "long_name": "!c051ce1e",
+    "last_heard": "2026-05-29T18:37:46.047650+00:00",
+    "snr": -2.25,
+    "hops_away": 7
   }
 }
