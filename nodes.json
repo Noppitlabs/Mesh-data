@@ -219,9 +219,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-05-29T01:22:45.651769+00:00",
-    "snr": -15.25,
-    "hops_away": 4,
+    "last_heard": "2026-05-29T01:28:19.154644+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
