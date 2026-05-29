@@ -2904,10 +2904,13 @@
   },
   "!06cb1b54": {
     "id": "!06cb1b54",
-    "long_name": "!06cb1b54",
-    "last_heard": "2026-05-29T16:01:02.234439+00:00",
-    "snr": -13.25,
-    "hops_away": 4
+    "long_name": "Meshtastic 1b54",
+    "last_heard": "2026-05-29T16:17:58.060222+00:00",
+    "snr": -14.5,
+    "hops_away": 6,
+    "short_name": "LFOX",
+    "hw_model": "TLORA_V2_1_1P6",
+    "role": ""
   },
   "!ea8fd728": {
     "id": "!ea8fd728",
