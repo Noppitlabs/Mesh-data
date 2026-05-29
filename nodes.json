@@ -3228,9 +3228,9 @@
   "!02ed70a0": {
     "id": "!02ed70a0",
     "long_name": "GCM0005 - Edible \ud83c\uddec\ud83c\uddec \ud83d\udd0c",
-    "last_heard": "2026-05-28T21:02:30.884952+00:00",
-    "snr": -11.75,
-    "hops_away": 5,
+    "last_heard": "2026-05-29T15:45:18.574121+00:00",
+    "snr": -7.5,
+    "hops_away": 7,
     "short_name": "70a0",
     "hw_model": "HELTEC_V3",
     "role": ""
