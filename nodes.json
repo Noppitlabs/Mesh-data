@@ -1225,9 +1225,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-05-28T20:31:06.353037+00:00",
-    "snr": -16.5,
-    "hops_away": 5,
+    "last_heard": "2026-05-29T14:45:02.941701+00:00",
+    "snr": -14.25,
+    "hops_away": 4,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
