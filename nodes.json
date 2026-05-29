@@ -3575,8 +3575,8 @@
   "!1ba5908c": {
     "id": "!1ba5908c",
     "long_name": "EGM Route",
-    "last_heard": "2026-05-26T17:52:05.681156+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-05-29T17:17:47.777387+00:00",
+    "snr": -10.5,
     "hops_away": 3,
     "short_name": "REGM",
     "hw_model": "HELTEC_V4",
