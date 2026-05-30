@@ -883,9 +883,9 @@
   "!da65a77c": {
     "id": "!da65a77c",
     "long_name": "Teignmouth 001",
-    "last_heard": "2026-05-30T05:53:40.199749+00:00",
-    "snr": -15.75,
-    "hops_away": 4,
+    "last_heard": "2026-05-30T06:53:37.855541+00:00",
+    "snr": -15.25,
+    "hops_away": 2,
     "short_name": "TQ14",
     "hw_model": "HELTEC_V3",
     "role": ""
