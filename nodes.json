@@ -506,9 +506,9 @@
   "!307221d3": {
     "id": "!307221d3",
     "long_name": "Tony G6GLP",
-    "last_heard": "2026-05-30T17:06:10.953436+00:00",
-    "snr": -16.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-30T17:42:50.216341+00:00",
+    "snr": -17.25,
+    "hops_away": 7,
     "short_name": "GLPp",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
