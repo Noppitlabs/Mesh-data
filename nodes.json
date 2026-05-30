@@ -3911,5 +3911,15 @@
     "short_name": "LIN",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!9eed11f8": {
+    "id": "!9eed11f8",
+    "long_name": "Knappster",
+    "last_heard": "2026-05-30T02:37:13.034462+00:00",
+    "snr": -0.25,
+    "hops_away": 7,
+    "short_name": "KNAP",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
