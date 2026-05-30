@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-30T06:34:01.670007+00:00",
+    "last_heard": "2026-05-30T06:35:04.193039+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2868,9 +2868,9 @@
   "!9e75890c": {
     "id": "!9e75890c",
     "long_name": "Mike Jones ",
-    "last_heard": "2026-05-30T06:33:25.630002+00:00",
-    "snr": -17.0,
-    "hops_away": 6,
+    "last_heard": "2026-05-30T06:35:31.128945+00:00",
+    "snr": -15.5,
+    "hops_away": 7,
     "short_name": "ODP2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "TRACKER"
