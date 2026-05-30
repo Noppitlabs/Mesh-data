@@ -3948,9 +3948,12 @@
   },
   "!bd50253c": {
     "id": "!bd50253c",
-    "long_name": "!bd50253c",
-    "last_heard": "2026-05-30T14:12:18.320992+00:00",
-    "snr": -4.75,
-    "hops_away": 2
+    "long_name": "Hythe Mobile",
+    "last_heard": "2026-05-30T15:22:56.521882+00:00",
+    "snr": -18.0,
+    "hops_away": 3,
+    "short_name": "HMOB",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
