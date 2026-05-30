@@ -1,5 +1,16 @@
 [
   {
+    "id": 3545694278,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": "\ud83e\udd17",
+    "timestamp": "2026-05-30T19:18:24.433280+00:00",
+    "channel": 0,
+    "snr": -2.25,
+    "hops": 6
+  },
+  {
     "id": 3545694277,
     "from": "!da56b48c",
     "from_name": "SR#1 V3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.0,
     "hops": 6
-  },
-  {
-    "id": 3149872715,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "Just a tad hot !",
-    "timestamp": "2026-05-26T12:51:37.356739+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 2
   }
 ]
