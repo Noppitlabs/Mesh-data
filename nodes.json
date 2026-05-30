@@ -2855,9 +2855,9 @@
   "!433c1b9c": {
     "id": "!433c1b9c",
     "long_name": "M3",
-    "last_heard": "2026-05-30T14:18:43.843818+00:00",
-    "snr": -14.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-30T17:22:13.315775+00:00",
+    "snr": -18.75,
+    "hops_away": 4,
     "short_name": "M3",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "CLIENT_MUTE"
