@@ -3156,10 +3156,13 @@
   },
   "!83efb30f": {
     "id": "!83efb30f",
-    "long_name": "!83efb30f",
-    "last_heard": "2026-05-30T01:46:13.533918+00:00",
-    "snr": -14.25,
-    "hops_away": 4
+    "long_name": "Murphtastic-Crisp",
+    "last_heard": "2026-05-30T01:46:58.466094+00:00",
+    "snr": -14.75,
+    "hops_away": 4,
+    "short_name": "Crsp",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!5ac7d46f": {
     "id": "!5ac7d46f",
