@@ -456,9 +456,9 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-05-30T17:28:19.906393+00:00",
-    "snr": -18.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-30T17:35:11.640686+00:00",
+    "snr": -18.25,
+    "hops_away": 3,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
@@ -3255,8 +3255,8 @@
   "!02ed70a0": {
     "id": "!02ed70a0",
     "long_name": "GCM0005 - Edible \ud83c\uddec\ud83c\uddec \ud83d\udd0c",
-    "last_heard": "2026-05-30T15:37:41.251350+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-05-30T17:35:03.044153+00:00",
+    "snr": -20.0,
     "hops_away": 6,
     "short_name": "70a0",
     "hw_model": "HELTEC_V3",
