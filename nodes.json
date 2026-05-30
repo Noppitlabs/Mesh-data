@@ -1318,8 +1318,8 @@
   "!effc6eae": {
     "id": "!effc6eae",
     "long_name": "BS34",
-    "last_heard": "2026-05-30T01:03:20.894932+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-05-30T21:03:03.871009+00:00",
+    "snr": -18.0,
     "hops_away": 4,
     "short_name": "BS34",
     "hw_model": "HELTEC_MESH_NODE_T114",
