@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-05-30T16:23:45.675701+00:00",
-    "snr": -16.25,
-    "hops_away": 1,
+    "last_heard": "2026-05-30T16:25:04.267648+00:00",
+    "snr": -15.75,
+    "hops_away": 3,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1164,9 +1164,9 @@
   "!a9fed67f": {
     "id": "!a9fed67f",
     "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-05-30T13:20:10.056101+00:00",
-    "snr": -11.0,
-    "hops_away": 5,
+    "last_heard": "2026-05-30T16:25:16.678912+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
