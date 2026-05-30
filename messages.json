@@ -1,5 +1,16 @@
 [
   {
+    "id": 1112159048,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "5\ufe0f\u20e3",
+    "timestamp": "2026-05-30T11:05:07.900394+00:00",
+    "channel": 0,
+    "snr": -17.0,
+    "hops": 5
+  },
+  {
     "id": 122139796,
     "from": "!db58f8d4",
     "from_name": "!db58f8d4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.5,
     "hops": 2
-  },
-  {
-    "id": 4072304846,
-    "from": "!0409d1c0",
-    "from_name": "M7FYU",
-    "to": "^all",
-    "text": "4 hops Plymouth",
-    "timestamp": "2026-05-26T09:35:17.400589+00:00",
-    "channel": 0,
-    "snr": -16.5,
-    "hops": 5
   }
 ]
