@@ -3955,5 +3955,12 @@
     "short_name": "HMOB",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!daad8180": {
+    "id": "!daad8180",
+    "long_name": "!daad8180",
+    "last_heard": "2026-05-30T16:28:18.598215+00:00",
+    "snr": -17.25,
+    "hops_away": 4
   }
 }
