@@ -3934,5 +3934,12 @@
     "short_name": "WSHN",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER"
+  },
+  "!94e83e8f": {
+    "id": "!94e83e8f",
+    "long_name": "!94e83e8f",
+    "last_heard": "2026-05-30T08:46:01.804091+00:00",
+    "snr": -17.5,
+    "hops_away": 7
   }
 }
