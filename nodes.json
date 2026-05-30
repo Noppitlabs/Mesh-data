@@ -3835,9 +3835,9 @@
   "!02ea1ec0": {
     "id": "!02ea1ec0",
     "long_name": "Nexus14Tech D",
-    "last_heard": "2026-05-29T23:38:07.026013+00:00",
+    "last_heard": "2026-05-30T00:29:33.437028+00:00",
     "snr": -15.25,
-    "hops_away": 4,
+    "hops_away": 6,
     "short_name": "N14D",
     "hw_model": "HELTEC_MESH_SOLAR",
     "role": ""
