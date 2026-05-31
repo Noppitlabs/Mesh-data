@@ -1935,9 +1935,9 @@
   "!13a91580": {
     "id": "!13a91580",
     "long_name": "James3D-Mobile1",
-    "last_heard": "2026-05-31T06:57:33.474107+00:00",
-    "snr": -0.25,
-    "hops_away": 6,
+    "last_heard": "2026-05-31T07:45:33.130975+00:00",
+    "snr": -1.5,
+    "hops_away": 7,
     "short_name": "J3M1",
     "hw_model": "NOMADSTAR_METEOR_PRO",
     "role": ""
