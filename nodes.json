@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-05-31T18:54:37.724613+00:00",
+    "last_heard": "2026-05-31T18:55:37.784498+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2929,9 +2929,9 @@
   "!06cb1b54": {
     "id": "!06cb1b54",
     "long_name": "Meshtastic 1b54",
-    "last_heard": "2026-05-31T14:06:52.434183+00:00",
-    "snr": -2.25,
-    "hops_away": 5,
+    "last_heard": "2026-05-31T18:55:04.996848+00:00",
+    "snr": -20.25,
+    "hops_away": 4,
     "short_name": "LFOX",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
