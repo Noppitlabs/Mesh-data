@@ -3776,9 +3776,9 @@
   "!9ee74d10": {
     "id": "!9ee74d10",
     "long_name": "Meshtastic 4d10",
-    "last_heard": "2026-05-31T16:54:07.557861+00:00",
-    "snr": -18.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-31T19:20:03.651859+00:00",
+    "snr": -15.75,
+    "hops_away": 1,
     "short_name": "4d10",
     "hw_model": "HELTEC_V3",
     "role": ""
