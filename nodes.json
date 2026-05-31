@@ -3995,5 +3995,12 @@
     "short_name": "MAGr",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!7ba5e3e9": {
+    "id": "!7ba5e3e9",
+    "long_name": "!7ba5e3e9",
+    "last_heard": "2026-05-31T13:24:51.362484+00:00",
+    "snr": -14.75,
+    "hops_away": 3
   }
 }
