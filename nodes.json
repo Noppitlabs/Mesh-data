@@ -3968,5 +3968,15 @@
     "short_name": "MW0U",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
+  },
+  "!f68e1508": {
+    "id": "!f68e1508",
+    "long_name": "T147005-1508",
+    "last_heard": "2026-05-31T10:51:04.789433+00:00",
+    "snr": -18.0,
+    "hops_away": 3,
+    "short_name": "1508",
+    "hw_model": "THINKNODE_M5",
+    "role": ""
   }
 }
