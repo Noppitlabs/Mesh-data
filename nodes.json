@@ -3972,9 +3972,9 @@
   "!f68e1508": {
     "id": "!f68e1508",
     "long_name": "T147005-1508",
-    "last_heard": "2026-05-31T10:51:04.789433+00:00",
-    "snr": -18.0,
-    "hops_away": 3,
+    "last_heard": "2026-05-31T12:19:44.997670+00:00",
+    "snr": -11.75,
+    "hops_away": 7,
     "short_name": "1508",
     "hw_model": "THINKNODE_M5",
     "role": ""
