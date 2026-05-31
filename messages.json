@@ -1,5 +1,16 @@
 [
   {
+    "id": 3545694289,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": "3\ufe0f\u20e3",
+    "timestamp": "2026-05-31T18:54:03.960742+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 3
+  },
+  {
     "id": 1087538052,
     "from": "!da5afb4c",
     "from_name": "ellis-omni",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 2
-  },
-  {
-    "id": 3693980434,
-    "from": "!c6d0ea7e",
-    "from_name": "XXA-ea7e",
-    "to": "^all",
-    "text": "Afternoon all",
-    "timestamp": "2026-05-27T12:07:47.782196+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 5
   }
 ]
