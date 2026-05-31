@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-05-31T12:14:50.233039+00:00",
-    "snr": -15.0,
-    "hops_away": 2,
+    "last_heard": "2026-05-31T12:41:41.403242+00:00",
+    "snr": -12.75,
+    "hops_away": 3,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
