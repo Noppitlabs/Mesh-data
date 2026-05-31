@@ -3962,9 +3962,9 @@
   "!daad8180": {
     "id": "!daad8180",
     "long_name": "Meshtastic Mw0usk ",
-    "last_heard": "2026-05-31T09:27:25.900880+00:00",
-    "snr": -13.5,
-    "hops_away": 4,
+    "last_heard": "2026-05-31T17:23:11.789215+00:00",
+    "snr": -2.25,
+    "hops_away": 6,
     "short_name": "MW0U",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
