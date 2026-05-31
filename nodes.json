@@ -3985,5 +3985,15 @@
     "last_heard": "2026-05-31T11:26:46.380549+00:00",
     "snr": -13.75,
     "hops_away": 3
+  },
+  "!da63b068": {
+    "id": "!da63b068",
+    "long_name": "Magor -> bit.ly/magr",
+    "last_heard": "2026-05-31T12:11:27.435242+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
+    "short_name": "MAGr",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
