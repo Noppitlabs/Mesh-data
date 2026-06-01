@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-06-01T07:23:50.010772+00:00",
-    "snr": null,
+    "last_heard": "2026-06-01T08:23:50.864777+00:00",
+    "snr": -5.0,
     "hops_away": 4,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
