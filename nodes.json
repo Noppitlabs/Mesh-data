@@ -3081,8 +3081,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-01T02:31:31.676018+00:00",
-    "snr": -0.5,
+    "last_heard": "2026-06-01T02:58:24.356200+00:00",
+    "snr": -1.0,
     "hops_away": 3,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
