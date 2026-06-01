@@ -3674,9 +3674,9 @@
   "!59517113": {
     "id": "!59517113",
     "long_name": "Mobile GG Winkleigh Base",
-    "last_heard": "2026-06-01T03:22:33.057745+00:00",
-    "snr": -2.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-01T03:35:26.943004+00:00",
+    "snr": -1.25,
+    "hops_away": 6,
     "short_name": "MOB1",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "CLIENT_MUTE"
