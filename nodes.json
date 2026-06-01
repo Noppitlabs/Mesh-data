@@ -796,8 +796,8 @@
   "!56e04c5a": {
     "id": "!56e04c5a",
     "long_name": "SEEED T1000E",
-    "last_heard": "2026-06-01T16:47:24.426631+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-06-01T21:00:03.275560+00:00",
+    "snr": -7.5,
     "hops_away": 5,
     "short_name": "SEED",
     "hw_model": "TRACKER_T1000_E",
