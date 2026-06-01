@@ -446,9 +446,9 @@
   "!433daaf8": {
     "id": "!433daaf8",
     "long_name": "Taunton ",
-    "last_heard": "2026-06-01T03:33:46.941762+00:00",
-    "snr": -3.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-01T06:06:53.410455+00:00",
+    "snr": -1.25,
+    "hops_away": 6,
     "short_name": "TA2",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
