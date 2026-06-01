@@ -259,9 +259,9 @@
   "!da638a8c": {
     "id": "!da638a8c",
     "long_name": "North Molton Attic",
-    "last_heard": "2026-06-01T09:22:55.054301+00:00",
-    "snr": -3.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-01T12:37:22.923065+00:00",
+    "snr": -13.25,
+    "hops_away": 5,
     "short_name": "EXM2",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
