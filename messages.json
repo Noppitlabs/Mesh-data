@@ -1,5 +1,16 @@
 [
   {
+    "id": 1484969467,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "RX test in Exeter",
+    "timestamp": "2026-06-02T20:03:22.506791+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 3
+  },
+  {
     "id": 326917010,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -3.0,
     "hops": 6
-  },
-  {
-    "id": 1389579816,
-    "from": "!5bfc4afe",
-    "from_name": "!5bfc4afe",
-    "to": "^all",
-    "text": "Yes, nice.",
-    "timestamp": "2026-05-28T21:10:27.596338+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 4
   }
 ]
