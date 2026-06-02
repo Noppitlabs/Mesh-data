@@ -1,5 +1,16 @@
 [
   {
+    "id": 2760540868,
+    "from": "!f661ed84",
+    "from_name": "!f661ed84",
+    "to": "^all",
+    "text": "3\ufe0f\u20e3",
+    "timestamp": "2026-06-02T19:00:34.777417+00:00",
+    "channel": 0,
+    "snr": -10.75,
+    "hops": 5
+  },
+  {
     "id": 1761197562,
     "from": "!56a58fd9",
     "from_name": "Mesh_EX15 HT1",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 6
-  },
-  {
-    "id": 334836697,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "morning, do we have any rain in Devon today? :)",
-    "timestamp": "2026-05-28T08:27:57.609194+00:00",
-    "channel": 0,
-    "snr": -12.5,
-    "hops": 2
   }
 ]
