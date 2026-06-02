@@ -736,9 +736,9 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-06-02T10:09:13.373361+00:00",
-    "snr": -12.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-02T22:57:20.088678+00:00",
+    "snr": -16.0,
+    "hops_away": 7,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
     "role": ""
