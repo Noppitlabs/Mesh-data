@@ -1040,9 +1040,9 @@
   "!9eed0e74": {
     "id": "!9eed0e74",
     "long_name": "Maia Base",
-    "last_heard": "2026-06-02T10:23:32.007145+00:00",
-    "snr": -12.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-02T21:30:24.002377+00:00",
+    "snr": -6.5,
+    "hops_away": 3,
     "short_name": "Maia",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
