@@ -1,5 +1,16 @@
 [
   {
+    "id": 1761197562,
+    "from": "!56a58fd9",
+    "from_name": "Mesh_EX15 HT1",
+    "to": "^all",
+    "text": "5 hops to Hemyock",
+    "timestamp": "2026-06-02T14:17:00.598637+00:00",
+    "channel": 0,
+    "snr": -19.75,
+    "hops": 7
+  },
+  {
     "id": 2760540848,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 2
-  },
-  {
-    "id": 826582057,
-    "from": "!9ee74d10",
-    "from_name": "Meshtastic 4d10",
-    "to": "^all",
-    "text": "Finally it\u2019s cool here",
-    "timestamp": "2026-05-28T07:57:31.468971+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 3
   }
 ]
