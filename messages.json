@@ -1,5 +1,16 @@
 [
   {
+    "id": 1299621134,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "Two hops across Exeter to me",
+    "timestamp": "2026-06-02T20:05:13.243509+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 5
+  },
+  {
     "id": 326917012,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-29T07:39:18.436592+00:00",
     "channel": 0,
     "snr": -0.75,
-    "hops": 3
-  },
-  {
-    "id": 1607821498,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-05-29T06:39:14.041772+00:00",
-    "channel": 0,
-    "snr": -3.0,
     "hops": 3
   }
 ]
