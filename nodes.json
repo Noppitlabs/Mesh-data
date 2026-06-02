@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-02T01:17:24.627729+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-06-02T01:50:21.476834+00:00",
+    "snr": -17.5,
     "hops_away": 3,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -2935,8 +2935,8 @@
   "!06cb1b54": {
     "id": "!06cb1b54",
     "long_name": "Meshtastic 1b54",
-    "last_heard": "2026-06-02T01:32:06.162562+00:00",
-    "snr": -17.25,
+    "last_heard": "2026-06-02T01:50:04.548337+00:00",
+    "snr": -17.5,
     "hops_away": 4,
     "short_name": "LFOX",
     "hw_model": "TLORA_V2_1_1P6",
