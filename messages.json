@@ -1,5 +1,16 @@
 [
   {
+    "id": 2760540848,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "Puck is roaming in Taunton (\u2060\u00a0\u2060\u2579\u2060\u25bd\u2060\u2579\u2060\u00a0\u2060)",
+    "timestamp": "2026-06-02T13:55:49.985895+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 6
+  },
+  {
     "id": 1112159426,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 3
-  },
-  {
-    "id": 1014517448,
-    "from": "!9ef0c1e4",
-    "from_name": "Meshtastic c1e4",
-    "to": "^all",
-    "text": "RX Tiverton",
-    "timestamp": "2026-05-28T05:14:12.456497+00:00",
-    "channel": 0,
-    "snr": -2.25,
-    "hops": 5
   }
 ]
