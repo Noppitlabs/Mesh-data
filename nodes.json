@@ -4038,5 +4038,12 @@
     "short_name": "vnn-",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!d94ac3e1": {
+    "id": "!d94ac3e1",
+    "long_name": "!d94ac3e1",
+    "last_heard": "2026-06-02T21:48:55.346486+00:00",
+    "snr": 8.0,
+    "hops_away": 0
   }
 }
