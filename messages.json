@@ -1,5 +1,16 @@
 [
   {
+    "id": 1112159426,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "Puck is roaming in Taunton (\u2060\u00a0\u2060\u2579\u2060\u25bd\u2060\u2579\u2060\u00a0\u2060)",
+    "timestamp": "2026-06-02T10:07:52.537961+00:00",
+    "channel": 0,
+    "snr": -13.5,
+    "hops": 6
+  },
+  {
     "id": 1112159251,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -2.25,
     "hops": 5
-  },
-  {
-    "id": 515107281,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "5 hops Exeter",
-    "timestamp": "2026-05-27T20:38:54.458649+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 2
   }
 ]
