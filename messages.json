@@ -1,5 +1,16 @@
 [
   {
+    "id": 848404790,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "And one of those hops is probably my base \ud83d\ude04",
+    "timestamp": "2026-06-02T20:05:48.575193+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 3
+  },
+  {
     "id": 1299621134,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-29T07:46:57.556403+00:00",
     "channel": 0,
     "snr": -1.0,
-    "hops": 3
-  },
-  {
-    "id": 1274098207,
-    "from": "!ea8fe024",
-    "from_name": "MQT base 01.4",
-    "to": "^all",
-    "text": "Good morning",
-    "timestamp": "2026-05-29T07:39:18.436592+00:00",
-    "channel": 0,
-    "snr": -0.75,
     "hops": 3
   }
 ]
