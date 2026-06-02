@@ -1,5 +1,16 @@
 [
   {
+    "id": 1633706011,
+    "from": "!56a58fd9",
+    "from_name": "Mesh_EX15 HT1",
+    "to": "^all",
+    "text": "2 hops to Hemyock",
+    "timestamp": "2026-06-02T20:21:15.487042+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 4
+  },
+  {
     "id": 848404790,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -536,17 +547,6 @@
     "timestamp": "2026-05-29T07:47:16.676457+00:00",
     "channel": 0,
     "snr": -1.25,
-    "hops": 3
-  },
-  {
-    "id": 847381246,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Happy Friday to the SW meshtastic gang from Pinhoe",
-    "timestamp": "2026-05-29T07:46:57.556403+00:00",
-    "channel": 0,
-    "snr": -1.0,
     "hops": 3
   }
 ]
