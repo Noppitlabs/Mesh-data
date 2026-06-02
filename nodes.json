@@ -3294,9 +3294,9 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan",
-    "last_heard": "2026-06-01T23:59:12.136829+00:00",
-    "snr": -13.5,
-    "hops_away": 1,
+    "last_heard": "2026-06-02T00:59:11.670824+00:00",
+    "snr": -4.25,
+    "hops_away": 0,
     "short_name": "TBS3",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
