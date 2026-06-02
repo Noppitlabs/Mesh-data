@@ -1659,9 +1659,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-02T12:05:55.202383+00:00",
-    "snr": -15.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-02T12:20:24.657245+00:00",
+    "snr": -13.75,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -2038,9 +2038,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-06-02T11:28:08.182609+00:00",
-    "snr": -11.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-02T12:20:05.156935+00:00",
+    "snr": -12.75,
+    "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
