@@ -3937,8 +3937,8 @@
   "!ca915bad": {
     "id": "!ca915bad",
     "long_name": "WSTH Hill Node Repeater",
-    "last_heard": "2026-05-30T04:28:35.400942+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-06-03T01:24:54.990356+00:00",
+    "snr": -16.25,
     "hops_away": 7,
     "short_name": "WSHN",
     "hw_model": "HELTEC_MESH_NODE_T114",
