@@ -546,9 +546,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-06-03T13:29:04.645417+00:00",
-    "snr": -12.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-03T13:41:18.288837+00:00",
+    "snr": -14.75,
+    "hops_away": 4,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
