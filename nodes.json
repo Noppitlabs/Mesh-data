@@ -4058,5 +4058,15 @@
     "last_heard": "2026-06-03T12:34:32.019506+00:00",
     "snr": -11.75,
     "hops_away": 5
+  },
+  "!fa39f7b4": {
+    "id": "!fa39f7b4",
+    "long_name": "Ellis Yagi",
+    "last_heard": "2026-06-03T12:40:11.545014+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
+    "short_name": "EG5y",
+    "hw_model": "HELTEC_HT62",
+    "role": ""
   }
 }
