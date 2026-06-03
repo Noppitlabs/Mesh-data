@@ -546,8 +546,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-06-03T21:02:08.223408+00:00",
-    "snr": -18.0,
+    "last_heard": "2026-06-03T21:25:08.367242+00:00",
+    "snr": -16.25,
     "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
@@ -3319,4 +3319,774 @@
   },
   "!da548228": {
     "id": "!da548228",
-    "long_name": "Cydertastic"
+    "long_name": "Cydertastic",
+    "last_heard": "2026-05-22T20:03:28.098518+00:00",
+    "snr": -14.75,
+    "hops_away": 3,
+    "short_name": "Cydr",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!960e2766": {
+    "id": "!960e2766",
+    "long_name": "Neil-Mobile",
+    "last_heard": "2026-05-23T22:51:00.358755+00:00",
+    "snr": -14.25,
+    "hops_away": 6,
+    "short_name": "MADJ",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
+  },
+  "!087daeb5": {
+    "id": "!087daeb5",
+    "long_name": "!087daeb5",
+    "last_heard": "2026-05-23T17:52:16.069638+00:00",
+    "snr": -2.75,
+    "hops_away": 3
+  },
+  "!da5c91d8": {
+    "id": "!da5c91d8",
+    "long_name": "Thistledown 1 ",
+    "last_heard": "2026-05-30T07:58:51.868574+00:00",
+    "snr": -0.25,
+    "hops_away": 5,
+    "short_name": "Td1 ",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!ecee4da1": {
+    "id": "!ecee4da1",
+    "long_name": "!ecee4da1",
+    "last_heard": "2026-05-24T05:08:31.520855+00:00",
+    "snr": -16.5,
+    "hops_away": 5
+  },
+  "!28fe5597": {
+    "id": "!28fe5597",
+    "long_name": "Murphtastic-Chip",
+    "last_heard": "2026-05-30T13:41:05.107903+00:00",
+    "snr": -14.25,
+    "hops_away": 4,
+    "short_name": "Chip",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
+  },
+  "!d71a1a8c": {
+    "id": "!d71a1a8c",
+    "long_name": "IRIS",
+    "last_heard": "2026-05-29T23:21:43.269335+00:00",
+    "snr": -14.25,
+    "hops_away": 4,
+    "short_name": "1a8c",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": "CLIENT_BASE"
+  },
+  "!0acb4d18": {
+    "id": "!0acb4d18",
+    "long_name": "Meshtastic 4d18",
+    "last_heard": "2026-05-25T21:26:59.200017+00:00",
+    "snr": -7.75,
+    "hops_away": 6,
+    "short_name": "4d18",
+    "hw_model": "HELTEC_V4",
+    "role": ""
+  },
+  "!433b4bc4": {
+    "id": "!433b4bc4",
+    "long_name": "M0",
+    "last_heard": "2026-05-24T00:52:22.364991+00:00",
+    "snr": -18.0,
+    "hops_away": 4,
+    "short_name": "M0",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!04389188": {
+    "id": "!04389188",
+    "long_name": "Meshtastic 9188",
+    "last_heard": "2026-05-24T00:53:17.592927+00:00",
+    "snr": -18.5,
+    "hops_away": 2,
+    "short_name": "9188",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
+  },
+  "!e33bbd80": {
+    "id": "!e33bbd80",
+    "long_name": "!e33bbd80",
+    "last_heard": "2026-05-27T01:40:47.777300+00:00",
+    "snr": -11.0,
+    "hops_away": 6
+  },
+  "!9e76a7c4": {
+    "id": "!9e76a7c4",
+    "long_name": "F4LRF",
+    "last_heard": "2026-05-30T03:10:46.897206+00:00",
+    "snr": -0.5,
+    "hops_away": 3,
+    "short_name": "4lrf",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!43577b9c": {
+    "id": "!43577b9c",
+    "long_name": "GJ7DTA Anthony 3",
+    "last_heard": "2026-05-30T23:29:43.737332+00:00",
+    "snr": -16.0,
+    "hops_away": 2,
+    "short_name": "GA3",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!da567ab8": {
+    "id": "!da567ab8",
+    "long_name": "puffin billy--(Tim)",
+    "last_heard": "2026-05-24T05:01:28.152383+00:00",
+    "snr": -16.25,
+    "hops_away": 3,
+    "short_name": "pb",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!59543b8d": {
+    "id": "!59543b8d",
+    "long_name": "!59543b8d",
+    "last_heard": "2026-05-24T04:01:18.256231+00:00",
+    "snr": -15.0,
+    "hops_away": 2
+  },
+  "!cdfc46ef": {
+    "id": "!cdfc46ef",
+    "long_name": "Paignton RAK",
+    "last_heard": "2026-06-03T21:00:46.787905+00:00",
+    "snr": -15.5,
+    "hops_away": 7,
+    "short_name": "PAIG",
+    "hw_model": "PORTDUINO",
+    "role": ""
+  },
+  "!da5686a4": {
+    "id": "!da5686a4",
+    "long_name": "!da5686a4",
+    "last_heard": "2026-05-24T04:30:34.662906+00:00",
+    "snr": -16.5,
+    "hops_away": 3
+  },
+  "!db295fa0": {
+    "id": "!db295fa0",
+    "long_name": "!db295fa0",
+    "last_heard": "2026-05-24T15:10:43.025771+00:00",
+    "snr": -9.5,
+    "hops_away": 5
+  },
+  "!1fc1a154": {
+    "id": "!1fc1a154",
+    "long_name": "!1fc1a154",
+    "last_heard": "2026-05-30T04:55:03.416179+00:00",
+    "snr": -16.0,
+    "hops_away": 1
+  },
+  "!433a61e0": {
+    "id": "!433a61e0",
+    "long_name": "!433a61e0",
+    "last_heard": "2026-05-25T05:53:26.987894+00:00",
+    "snr": -14.75,
+    "hops_away": 7
+  },
+  "!040843cc": {
+    "id": "!040843cc",
+    "long_name": "wlv3_43cc",
+    "last_heard": "2026-05-29T22:22:58.127529+00:00",
+    "snr": -14.5,
+    "hops_away": 6,
+    "short_name": "wlv3",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!da56a920": {
+    "id": "!da56a920",
+    "long_name": "Meshtastic a920",
+    "last_heard": "2026-05-27T03:31:53.256670+00:00",
+    "snr": -15.75,
+    "hops_away": 3,
+    "short_name": "a920",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!da63bc78": {
+    "id": "!da63bc78",
+    "long_name": "sj27 Slimjim j-pole",
+    "last_heard": "2026-06-01T22:10:57.717588+00:00",
+    "snr": -18.75,
+    "hops_away": 6,
+    "short_name": "sj27",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
+  },
+  "!33690dec": {
+    "id": "!33690dec",
+    "long_name": "!33690dec",
+    "last_heard": "2026-05-24T07:01:20.503730+00:00",
+    "snr": -18.25,
+    "hops_away": 6
+  },
+  "!62be88e2": {
+    "id": "!62be88e2",
+    "long_name": "!62be88e2",
+    "last_heard": "2026-05-30T01:16:58.280943+00:00",
+    "snr": -14.25,
+    "hops_away": 7
+  },
+  "!6984abac": {
+    "id": "!6984abac",
+    "long_name": "GCM0014 - St Clements \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
+    "last_heard": "2026-05-30T17:16:50.253412+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
+    "short_name": "abac",
+    "hw_model": "HELTEC_V4",
+    "role": ""
+  },
+  "!901f9a67": {
+    "id": "!901f9a67",
+    "long_name": "!901f9a67",
+    "last_heard": "2026-05-24T10:27:01.638603+00:00",
+    "snr": -8.75,
+    "hops_away": 5
+  },
+  "!433c4cdc": {
+    "id": "!433c4cdc",
+    "long_name": "!433c4cdc",
+    "last_heard": "2026-05-26T19:46:17.173643+00:00",
+    "snr": -9.75,
+    "hops_away": 6
+  },
+  "!49b61974": {
+    "id": "!49b61974",
+    "long_name": "!49b61974",
+    "last_heard": "2026-06-02T16:07:30.056482+00:00",
+    "snr": -19.0,
+    "hops_away": 7
+  },
+  "!02a6cce6": {
+    "id": "!02a6cce6",
+    "long_name": "Meshtastic~cce6",
+    "last_heard": "2026-05-24T15:40:32.812547+00:00",
+    "snr": -10.25,
+    "hops_away": 1,
+    "short_name": "cce6",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_MUTE"
+  },
+  "!02ecfb84": {
+    "id": "!02ecfb84",
+    "long_name": "!02ecfb84",
+    "last_heard": "2026-05-24T18:36:24.251070+00:00",
+    "snr": -5.5,
+    "hops_away": 3
+  },
+  "!0f14569c": {
+    "id": "!0f14569c",
+    "long_name": "Tower of Power",
+    "last_heard": "2026-05-30T01:39:35.598317+00:00",
+    "snr": -13.0,
+    "hops_away": 5,
+    "short_name": "299m",
+    "hw_model": "TLORA_V2_1_1P6",
+    "role": ""
+  },
+  "!a035265c": {
+    "id": "!a035265c",
+    "long_name": "!a035265c",
+    "last_heard": "2026-05-30T13:08:32.050213+00:00",
+    "snr": -15.75,
+    "hops_away": 7
+  },
+  "!1ba5908c": {
+    "id": "!1ba5908c",
+    "long_name": "EGM Route",
+    "last_heard": "2026-05-29T17:17:47.777387+00:00",
+    "snr": -10.5,
+    "hops_away": 3,
+    "short_name": "REGM",
+    "hw_model": "HELTEC_V4",
+    "role": "ROUTER"
+  },
+  "!da622310": {
+    "id": "!da622310",
+    "long_name": "flat white",
+    "last_heard": "2026-05-24T23:51:54.832230+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
+    "short_name": "FW",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!33602644": {
+    "id": "!33602644",
+    "long_name": "Meshtastic 2644",
+    "last_heard": "2026-05-31T00:25:31.565570+00:00",
+    "snr": -2.5,
+    "hops_away": 7,
+    "short_name": "2644",
+    "hw_model": "LILYGO_TBEAM_S3_CORE",
+    "role": ""
+  },
+  "!fe71fd56": {
+    "id": "!fe71fd56",
+    "long_name": "!fe71fd56",
+    "last_heard": "2026-05-25T07:43:19.777315+00:00",
+    "snr": -14.0,
+    "hops_away": 4
+  },
+  "!9e003124": {
+    "id": "!9e003124",
+    "long_name": "!9e003124",
+    "last_heard": "2026-05-26T12:35:09.346155+00:00",
+    "snr": -12.25,
+    "hops_away": 5
+  },
+  "!b03cfa70": {
+    "id": "!b03cfa70",
+    "long_name": "!b03cfa70",
+    "last_heard": "2026-05-26T03:14:21.904028+00:00",
+    "snr": -12.5,
+    "hops_away": 7
+  },
+  "!043ad348": {
+    "id": "!043ad348",
+    "long_name": "Meshtastic d348",
+    "last_heard": "2026-05-27T09:14:45.038494+00:00",
+    "snr": -14.25,
+    "hops_away": 5,
+    "short_name": "d348",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
+  },
+  "!043c3154": {
+    "id": "!043c3154",
+    "long_name": "Meshtastic 3154",
+    "last_heard": "2026-05-30T01:11:58.216179+00:00",
+    "snr": -14.25,
+    "hops_away": 5,
+    "short_name": "3154",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
+  },
+  "!69856cc0": {
+    "id": "!69856cc0",
+    "long_name": "!69856cc0",
+    "last_heard": "2026-05-30T07:33:27.305767+00:00",
+    "snr": -14.75,
+    "hops_away": 6
+  },
+  "!59517113": {
+    "id": "!59517113",
+    "long_name": "Mobile GG Winkleigh Base",
+    "last_heard": "2026-06-03T19:22:43.559409+00:00",
+    "snr": -16.25,
+    "hops_away": 4,
+    "short_name": "MOB1",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": "CLIENT_MUTE"
+  },
+  "!0cd04f4f": {
+    "id": "!0cd04f4f",
+    "long_name": "Meshtastic 4f4f",
+    "last_heard": "2026-05-30T13:15:48.876860+00:00",
+    "snr": -13.5,
+    "hops_away": 4,
+    "short_name": "4f4f",
+    "hw_model": "THINKNODE_M1",
+    "role": "TRACKER"
+  },
+  "!960e7a1c": {
+    "id": "!960e7a1c",
+    "long_name": "Fforestfach Pocket",
+    "last_heard": "2026-05-27T00:59:54.048676+00:00",
+    "snr": -15.25,
+    "hops_away": 6,
+    "short_name": "F402",
+    "hw_model": "HELTEC_MESH_POCKET",
+    "role": "CLIENT_MUTE"
+  },
+  "!1c49639c": {
+    "id": "!1c49639c",
+    "long_name": "Nathan G7KUJ ",
+    "last_heard": "2026-05-27T00:52:41.468937+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
+    "short_name": "7KUJ",
+    "hw_model": "TBEAM",
+    "role": ""
+  },
+  "!433f2958": {
+    "id": "!433f2958",
+    "long_name": "!433f2958",
+    "last_heard": "2026-05-29T13:33:37.044236+00:00",
+    "snr": -16.25,
+    "hops_away": 6
+  },
+  "!49b6754c": {
+    "id": "!49b6754c",
+    "long_name": "!49b6754c",
+    "last_heard": "2026-05-27T07:36:14.298409+00:00",
+    "snr": -11.5,
+    "hops_away": 4
+  },
+  "!da63c0b4": {
+    "id": "!da63c0b4",
+    "long_name": "DECODED-N1",
+    "last_heard": "2026-06-03T08:19:45.852615+00:00",
+    "snr": -11.75,
+    "hops_away": 7,
+    "short_name": "c0b4",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!02e5a11c": {
+    "id": "!02e5a11c",
+    "long_name": "!02e5a11c",
+    "last_heard": "2026-06-03T12:57:04.580506+00:00",
+    "snr": -16.0,
+    "hops_away": 6
+  },
+  "!f661ed84": {
+    "id": "!f661ed84",
+    "long_name": "!f661ed84",
+    "last_heard": "2026-06-03T19:39:08.366711+00:00",
+    "snr": -16.0,
+    "hops_away": 5
+  },
+  "!11c464f3": {
+    "id": "!11c464f3",
+    "long_name": "Baraveha - Router\ud83d\udce1",
+    "last_heard": "2026-05-27T22:15:26.806474+00:00",
+    "snr": -14.0,
+    "hops_away": 5,
+    "short_name": "SW-1",
+    "hw_model": "RAK4631",
+    "role": "ROUTER"
+  },
+  "!b03e03a4": {
+    "id": "!b03e03a4",
+    "long_name": "!b03e03a4",
+    "last_heard": "2026-06-03T19:00:29.740738+00:00",
+    "snr": -16.75,
+    "hops_away": 7
+  },
+  "!f2454a5c": {
+    "id": "!f2454a5c",
+    "long_name": "TGN1",
+    "last_heard": "2026-05-29T23:22:52.502042+00:00",
+    "snr": 0.5,
+    "hops_away": 3,
+    "short_name": "TGN1",
+    "hw_model": "TBEAM",
+    "role": ""
+  },
+  "!9ee74d10": {
+    "id": "!9ee74d10",
+    "long_name": "Meshtastic 4d10",
+    "last_heard": "2026-06-03T14:20:08.115443+00:00",
+    "snr": -15.5,
+    "hops_away": 1,
+    "short_name": "4d10",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!9ea134a0": {
+    "id": "!9ea134a0",
+    "long_name": "Mr Bs portable mesh.",
+    "last_heard": "2026-06-03T04:53:36.605356+00:00",
+    "snr": -15.0,
+    "hops_away": 5,
+    "short_name": "Mr B",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!f6fba300": {
+    "id": "!f6fba300",
+    "long_name": "Mr Bs M7MRB 2",
+    "last_heard": "2026-06-02T18:53:53.450946+00:00",
+    "snr": -10.0,
+    "hops_away": 7,
+    "short_name": "Bug2",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!43b6b78c": {
+    "id": "!43b6b78c",
+    "long_name": "MU6GBG - Gavin@Lanoe.net",
+    "last_heard": "2026-05-28T15:45:49.043138+00:00",
+    "snr": -13.0,
+    "hops_away": 4,
+    "short_name": "b78c",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!9ee6f740": {
+    "id": "!9ee6f740",
+    "long_name": "!9ee6f740",
+    "last_heard": "2026-05-30T00:51:44.176312+00:00",
+    "snr": -14.5,
+    "hops_away": 3
+  },
+  "!85130eb1": {
+    "id": "!85130eb1",
+    "long_name": "!85130eb1",
+    "last_heard": "2026-06-02T17:36:41.407528+00:00",
+    "snr": -10.0,
+    "hops_away": 3
+  },
+  "!9e77932c": {
+    "id": "!9e77932c",
+    "long_name": "Meshtastic 932c",
+    "last_heard": "2026-05-29T11:37:37.309985+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
+    "short_name": "932c",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!89fd8d02": {
+    "id": "!89fd8d02",
+    "long_name": "!89fd8d02",
+    "last_heard": "2026-05-29T12:43:26.867716+00:00",
+    "snr": -3.25,
+    "hops_away": 7
+  },
+  "!02ea1ec0": {
+    "id": "!02ea1ec0",
+    "long_name": "Nexus14Tech D",
+    "last_heard": "2026-05-30T00:35:04.260554+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
+    "short_name": "N14D",
+    "hw_model": "HELTEC_MESH_SOLAR",
+    "role": ""
+  },
+  "!a1d779fc": {
+    "id": "!a1d779fc",
+    "long_name": "Meshtastic 79fc",
+    "last_heard": "2026-06-03T11:21:27.800145+00:00",
+    "snr": -13.25,
+    "hops_away": 7,
+    "short_name": "79fc",
+    "hw_model": "SEEED_XIAO_S3",
+    "role": ""
+  },
+  "!0c2a28f9": {
+    "id": "!0c2a28f9",
+    "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
+    "last_heard": "2026-05-30T15:52:49.894251+00:00",
+    "snr": -11.75,
+    "hops_away": 5,
+    "short_name": "ARSE",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
+  },
+  "!c051ce1e": {
+    "id": "!c051ce1e",
+    "long_name": "!c051ce1e",
+    "last_heard": "2026-05-29T18:37:46.047650+00:00",
+    "snr": -2.25,
+    "hops_away": 7
+  },
+  "!04093640": {
+    "id": "!04093640",
+    "long_name": "!04093640",
+    "last_heard": "2026-05-29T21:14:12.999901+00:00",
+    "snr": -15.0,
+    "hops_away": 5
+  },
+  "!fa9d104c": {
+    "id": "!fa9d104c",
+    "long_name": "!fa9d104c",
+    "last_heard": "2026-05-29T23:20:03.392395+00:00",
+    "snr": -14.25,
+    "hops_away": 6
+  },
+  "!da568164": {
+    "id": "!da568164",
+    "long_name": "ZTX2",
+    "last_heard": "2026-05-31T07:18:11.888971+00:00",
+    "snr": -16.0,
+    "hops_away": 5,
+    "short_name": "ZTX2",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!08ae5f8f": {
+    "id": "!08ae5f8f",
+    "long_name": "Linton Ridge",
+    "last_heard": "2026-05-30T01:33:40.584558+00:00",
+    "snr": -14.5,
+    "hops_away": 7,
+    "short_name": "LIN",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
+  },
+  "!9eed11f8": {
+    "id": "!9eed11f8",
+    "long_name": "Knappster",
+    "last_heard": "2026-05-30T13:32:25.683167+00:00",
+    "snr": -7.25,
+    "hops_away": 7,
+    "short_name": "KNAP",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!ca915bad": {
+    "id": "!ca915bad",
+    "long_name": "WSTH Hill Node Repeater",
+    "last_heard": "2026-06-03T01:24:54.990356+00:00",
+    "snr": -16.25,
+    "hops_away": 7,
+    "short_name": "WSHN",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": "ROUTER"
+  },
+  "!94e83e8f": {
+    "id": "!94e83e8f",
+    "long_name": "!94e83e8f",
+    "last_heard": "2026-05-30T08:46:01.804091+00:00",
+    "snr": -17.5,
+    "hops_away": 7
+  },
+  "!daa3e8a0": {
+    "id": "!daa3e8a0",
+    "long_name": "!daa3e8a0",
+    "last_heard": "2026-05-31T15:05:01.053871+00:00",
+    "snr": -14.75,
+    "hops_away": 5
+  },
+  "!bd50253c": {
+    "id": "!bd50253c",
+    "long_name": "Hythe Mobile",
+    "last_heard": "2026-05-30T15:22:56.521882+00:00",
+    "snr": -18.0,
+    "hops_away": 3,
+    "short_name": "HMOB",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!daad8180": {
+    "id": "!daad8180",
+    "long_name": "Meshtastic Mw0usk ",
+    "last_heard": "2026-05-31T17:23:11.789215+00:00",
+    "snr": -2.25,
+    "hops_away": 6,
+    "short_name": "MW0U",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": ""
+  },
+  "!f68e1508": {
+    "id": "!f68e1508",
+    "long_name": "T147005-1508",
+    "last_heard": "2026-05-31T12:19:44.997670+00:00",
+    "snr": -11.75,
+    "hops_away": 7,
+    "short_name": "1508",
+    "hw_model": "THINKNODE_M5",
+    "role": ""
+  },
+  "!53def144": {
+    "id": "!53def144",
+    "long_name": "!53def144",
+    "last_heard": "2026-05-31T11:26:46.380549+00:00",
+    "snr": -13.75,
+    "hops_away": 3
+  },
+  "!da63b068": {
+    "id": "!da63b068",
+    "long_name": "Magor -> bit.ly/magr",
+    "last_heard": "2026-05-31T12:11:27.435242+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
+    "short_name": "MAGr",
+    "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!7ba5e3e9": {
+    "id": "!7ba5e3e9",
+    "long_name": "!7ba5e3e9",
+    "last_heard": "2026-05-31T15:02:14.589437+00:00",
+    "snr": -16.5,
+    "hops_away": 2
+  },
+  "!da633af8": {
+    "id": "!da633af8",
+    "long_name": "Meshtastic 3af8",
+    "last_heard": "2026-06-03T12:22:55.518601+00:00",
+    "snr": -10.5,
+    "hops_away": 4,
+    "short_name": "3af8",
+    "hw_model": "HELTEC_V3",
+    "role": "ROUTER"
+  },
+  "!04007fd0": {
+    "id": "!04007fd0",
+    "long_name": "!04007fd0",
+    "last_heard": "2026-06-03T08:41:26.753628+00:00",
+    "snr": -9.75,
+    "hops_away": 6
+  },
+  "!6c73cd3c": {
+    "id": "!6c73cd3c",
+    "long_name": "venn-GH",
+    "last_heard": "2026-06-03T10:46:18.119404+00:00",
+    "snr": -16.5,
+    "hops_away": 2,
+    "short_name": "vnn-",
+    "hw_model": "TBEAM",
+    "role": ""
+  },
+  "!d94ac3e1": {
+    "id": "!d94ac3e1",
+    "long_name": "DLP Tech Ops Mobile ",
+    "last_heard": "2026-06-02T23:25:19.756392+00:00",
+    "snr": -13.5,
+    "hops_away": 2,
+    "short_name": "DLP1",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "TRACKER"
+  },
+  "!da543aec": {
+    "id": "!da543aec",
+    "long_name": "!da543aec",
+    "last_heard": "2026-06-03T21:14:36.990427+00:00",
+    "snr": -15.75,
+    "hops_away": 4
+  },
+  "!fa39f7b4": {
+    "id": "!fa39f7b4",
+    "long_name": "Ellis Yagi",
+    "last_heard": "2026-06-03T12:40:11.545014+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
+    "short_name": "EG5y",
+    "hw_model": "HELTEC_HT62",
+    "role": ""
+  },
+  "!b29f9e00": {
+    "id": "!b29f9e00",
+    "long_name": "Robsv4",
+    "last_heard": "2026-06-03T15:31:00.479185+00:00",
+    "snr": -17.75,
+    "hops_away": 6,
+    "short_name": "Rv4",
+    "hw_model": "HELTEC_V4",
+    "role": ""
+  },
+  "!4ecec2b0": {
+    "id": "!4ecec2b0",
+    "long_name": "NMC-Mob-TD",
+    "last_heard": "2026-06-03T16:55:44.258281+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
+    "short_name": "MC-m",
+    "hw_model": "T_DECK",
+    "role": ""
+  }
+}
