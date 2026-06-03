@@ -1958,9 +1958,9 @@
   "!1f7ff73d": {
     "id": "!1f7ff73d",
     "long_name": "FBRC1",
-    "last_heard": "2026-06-02T09:43:25.378546+00:00",
-    "snr": -11.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-03T04:57:38.796625+00:00",
+    "snr": -13.75,
+    "hops_away": 5,
     "short_name": "FBRC",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
