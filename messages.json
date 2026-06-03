@@ -1,5 +1,16 @@
 [
   {
+    "id": 3397408565,
+    "from": "!56a58fd9",
+    "from_name": "Mesh_EX15 HT1",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-06-03T20:31:44.535426+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 5
+  },
+  {
     "id": 326917025,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.25,
     "hops": 2
-  },
-  {
-    "id": 847381256,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "There were a lot of channel Island nodes showing as online yesterday I saw. How does a hop cross that much water?\ud83e\udd14",
-    "timestamp": "2026-05-29T07:51:01.595787+00:00",
-    "channel": 0,
-    "snr": -15.25,
-    "hops": 3
   }
 ]
