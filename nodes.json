@@ -4078,5 +4078,15 @@
     "short_name": "Rv4",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!4ecec2b0": {
+    "id": "!4ecec2b0",
+    "long_name": "NMC-Mob-TD",
+    "last_heard": "2026-06-03T16:45:58.514935+00:00",
+    "snr": -13.25,
+    "hops_away": 2,
+    "short_name": "MC-m",
+    "hw_model": "T_DECK",
+    "role": ""
   }
 }
