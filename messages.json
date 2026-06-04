@@ -1,5 +1,16 @@
 [
   {
+    "id": 1258197136,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "Hi mark time set database cleared and rebooted ,)",
+    "timestamp": "2026-06-04T15:42:20.351089+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 3
+  },
+  {
     "id": 1258197135,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.5,
     "hops": 3
-  },
-  {
-    "id": 1607821505,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-05-29T08:14:17.813336+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 2
   }
 ]
