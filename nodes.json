@@ -2789,9 +2789,9 @@
   "!a9ec592d": {
     "id": "!a9ec592d",
     "long_name": "Culm Valley",
-    "last_heard": "2026-06-04T06:40:59.762344+00:00",
-    "snr": -19.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-04T07:35:03.016981+00:00",
+    "snr": -17.5,
+    "hops_away": 3,
     "short_name": "CVLY",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
