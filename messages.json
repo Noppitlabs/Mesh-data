@@ -1,5 +1,16 @@
 [
   {
+    "id": 1258197144,
+    "from": "!da56f7a0",
+    "from_name": "Tether's End",
+    "to": "^all",
+    "text": "No it's not on the stacks but it is as high",
+    "timestamp": "2026-06-04T16:27:50.168396+00:00",
+    "channel": 0,
+    "snr": -12.0,
+    "hops": 2
+  },
+  {
     "id": 59629771,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -1.0,
     "hops": 6
-  },
-  {
-    "id": 980108699,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "3 hops to Exeter.",
-    "timestamp": "2026-05-29T19:56:31.357746+00:00",
-    "channel": 0,
-    "snr": -13.5,
-    "hops": 3
   }
 ]
