@@ -4088,5 +4088,12 @@
     "short_name": "MC-m",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!c7b292b5": {
+    "id": "!c7b292b5",
+    "long_name": "!c7b292b5",
+    "last_heard": "2026-06-04T15:12:38.259354+00:00",
+    "snr": -13.5,
+    "hops_away": 4
   }
 }
