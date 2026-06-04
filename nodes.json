@@ -3169,9 +3169,9 @@
   "!83efb30f": {
     "id": "!83efb30f",
     "long_name": "Murphtastic-Crisp",
-    "last_heard": "2026-06-04T13:14:32.820457+00:00",
-    "snr": -17.25,
-    "hops_away": 4,
+    "last_heard": "2026-06-04T15:53:02.598054+00:00",
+    "snr": -15.0,
+    "hops_away": 3,
     "short_name": "Crsp",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
