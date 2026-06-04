@@ -1,5 +1,16 @@
 [
   {
+    "id": 1258197139,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "Preserved what was saved",
+    "timestamp": "2026-06-04T15:44:00.251848+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 2
+  },
+  {
     "id": 1258197138,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 4
-  },
-  {
-    "id": 3767975112,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Its Friday!!! \ud83e\udd73",
-    "timestamp": "2026-05-29T17:44:50.459668+00:00",
-    "channel": 0,
-    "snr": -10.75,
-    "hops": 3
   }
 ]
