@@ -1,5 +1,16 @@
 [
   {
+    "id": 59629764,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "\ud83d\ude06",
+    "timestamp": "2026-06-04T16:04:42.112161+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 2
+  },
+  {
     "id": 1258197142,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.0,
     "hops": 4
-  },
-  {
-    "id": 1737391189,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "Welcome to Exeter \ud83d\udc4b",
-    "timestamp": "2026-05-29T18:52:53.601417+00:00",
-    "channel": 0,
-    "snr": -2.5,
-    "hops": 5
   }
 ]
