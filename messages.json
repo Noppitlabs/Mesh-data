@@ -1,5 +1,16 @@
 [
   {
+    "id": 59629771,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Yeah. Above and beyond. Meshtastic medal for you. It's it on one of those two towers?",
+    "timestamp": "2026-06-04T16:07:50.578794+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 2
+  },
+  {
     "id": 59629764,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.5,
     "hops": 3
-  },
-  {
-    "id": 1112159015,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "Thank you!!",
-    "timestamp": "2026-05-29T19:00:30.306358+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 4
   }
 ]
