@@ -1,5 +1,16 @@
 [
   {
+    "id": 1258197137,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "No idea just synced with phone",
+    "timestamp": "2026-06-04T15:43:10.460615+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 2
+  },
+  {
     "id": 1258197136,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 5
-  },
-  {
-    "id": 847381330,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-05-29T08:26:43.081692+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 3
   }
 ]
