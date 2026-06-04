@@ -1,5 +1,16 @@
 [
   {
+    "id": 1258197138,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "As it wernt set in config",
+    "timestamp": "2026-06-04T15:43:27.837764+00:00",
+    "channel": 0,
+    "snr": -13.25,
+    "hops": 2
+  },
+  {
     "id": 1258197137,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 3
-  },
-  {
-    "id": 2082299158,
-    "from": "!a6962ea8",
-    "from_name": "Meshtastic 2ea8",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-05-29T17:42:35.889239+00:00",
-    "channel": 0,
-    "snr": -10.5,
-    "hops": 5
   }
 ]
