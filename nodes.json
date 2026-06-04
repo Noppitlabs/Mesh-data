@@ -326,9 +326,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-06-04T20:20:07.277572+00:00",
-    "snr": -10.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-04T21:20:03.262005+00:00",
+    "snr": -11.25,
+    "hops_away": 7,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3087,9 +3087,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-04T20:58:21.529379+00:00",
-    "snr": -8.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-04T21:20:20.021236+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
