@@ -4122,5 +4122,12 @@
     "short_name": "4e14",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!1ca7f3ed": {
+    "id": "!1ca7f3ed",
+    "long_name": "!1ca7f3ed",
+    "last_heard": "2026-06-04T23:03:48.976869+00:00",
+    "snr": -9.0,
+    "hops_away": 6
   }
 }
