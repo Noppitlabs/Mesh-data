@@ -1,5 +1,16 @@
 [
   {
+    "id": 3473987072,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Latest alpha",
+    "timestamp": "2026-06-05T13:19:30.990419+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 2
+  },
+  {
     "id": 3473987071,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.0,
     "hops": 4
-  },
-  {
-    "id": 3545694278,
-    "from": "!da56b48c",
-    "from_name": "SR#1 V3",
-    "to": "^all",
-    "text": "\ud83e\udd17",
-    "timestamp": "2026-05-30T19:18:24.433280+00:00",
-    "channel": 0,
-    "snr": -2.25,
-    "hops": 6
   }
 ]
