@@ -4155,5 +4155,15 @@
     "short_name": "\ud83c\udf32",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!0404e714": {
+    "id": "!0404e714",
+    "long_name": "Exeter e714",
+    "last_heard": "2026-06-05T11:03:29.668191+00:00",
+    "snr": -13.25,
+    "hops_away": 3,
+    "short_name": "e714",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
