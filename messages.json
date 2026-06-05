@@ -1,5 +1,16 @@
 [
   {
+    "id": 1725626391,
+    "from": "!f661ed84",
+    "from_name": "!f661ed84",
+    "to": "^all",
+    "text": "6\ufe0f\u20e3",
+    "timestamp": "2026-06-05T07:14:29.447938+00:00",
+    "channel": 0,
+    "snr": -19.5,
+    "hops": 5
+  },
+  {
     "id": 4063047954,
     "from": "!a6962ea8",
     "from_name": "Meshtastic 2ea8",
@@ -534,17 +545,6 @@
     "to": "^all",
     "text": "Morning Mark \ud83d\ude0e",
     "timestamp": "2026-05-30T06:29:33.353235+00:00",
-    "channel": 0,
-    "snr": -0.5,
-    "hops": 3
-  },
-  {
-    "id": 1607821517,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\ude0e",
-    "timestamp": "2026-05-30T06:29:10.818683+00:00",
     "channel": 0,
     "snr": -0.5,
     "hops": 3
