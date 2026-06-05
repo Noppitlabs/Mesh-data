@@ -4165,5 +4165,15 @@
     "short_name": "e714",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!6c730ce8": {
+    "id": "!6c730ce8",
+    "long_name": "Tarr Exmoor S Repeater",
+    "last_heard": "2026-06-05T12:54:35.865962+00:00",
+    "snr": -19.5,
+    "hops_away": 4,
+    "short_name": "TE S",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
