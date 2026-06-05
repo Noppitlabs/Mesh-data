@@ -2584,9 +2584,9 @@
   "!713c4c31": {
     "id": "!713c4c31",
     "long_name": "StAustellSimon",
-    "last_heard": "2026-06-04T02:14:10.781176+00:00",
-    "snr": -11.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-05T04:42:15.140337+00:00",
+    "snr": -5.5,
+    "hops_away": 7,
     "short_name": "STAS",
     "hw_model": "RAK4631",
     "role": ""
