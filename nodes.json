@@ -4145,5 +4145,15 @@
     "short_name": "MJV2",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
+  },
+  "!f6fccfe8": {
+    "id": "!f6fccfe8",
+    "long_name": "Base69",
+    "last_heard": "2026-06-05T10:31:18.849283+00:00",
+    "snr": -15.0,
+    "hops_away": 7,
+    "short_name": "\ud83c\udf32",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
