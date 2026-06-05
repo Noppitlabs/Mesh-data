@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-06-05T21:41:25.591761+00:00",
-    "snr": -8.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-05T22:40:53.027214+00:00",
+    "snr": -8.5,
+    "hops_away": 5,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -166,7 +166,7 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SOLAR",
-    "last_heard": "2026-06-05T20:31:20.699205+00:00",
+    "last_heard": "2026-06-05T22:40:04.417179+00:00",
     "snr": -9.25,
     "hops_away": 5,
     "short_name": "HWK",
