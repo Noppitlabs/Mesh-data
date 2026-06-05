@@ -4091,10 +4091,13 @@
   },
   "!c7b292b5": {
     "id": "!c7b292b5",
-    "long_name": "!c7b292b5",
-    "last_heard": "2026-06-05T00:39:29.813149+00:00",
-    "snr": -10.5,
-    "hops_away": 7
+    "long_name": "Robs T-echo",
+    "last_heard": "2026-06-05T00:48:31.733498+00:00",
+    "snr": -6.5,
+    "hops_away": 7,
+    "short_name": "Rob",
+    "hw_model": "T_ECHO",
+    "role": ""
   },
   "!433d6cc0": {
     "id": "!433d6cc0",
