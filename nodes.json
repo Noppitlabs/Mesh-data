@@ -953,9 +953,9 @@
   "!d45a9bc8": {
     "id": "!d45a9bc8",
     "long_name": "Dlion",
-    "last_heard": "2026-06-05T19:53:21.066753+00:00",
-    "snr": -15.5,
-    "hops_away": 6,
+    "last_heard": "2026-06-06T12:32:51.756252+00:00",
+    "snr": -16.25,
+    "hops_away": 5,
     "short_name": "Dln",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
