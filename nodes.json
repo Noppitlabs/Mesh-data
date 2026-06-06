@@ -59,9 +59,9 @@
   "!ae617064": {
     "id": "!ae617064",
     "long_name": "Meshtastic 7064",
-    "last_heard": "2026-06-06T13:02:56.274805+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-06T13:39:16.137646+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
     "short_name": "rh3",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
