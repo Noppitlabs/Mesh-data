@@ -3455,9 +3455,9 @@
   "!cdfc46ef": {
     "id": "!cdfc46ef",
     "long_name": "Paignton RAK",
-    "last_heard": "2026-06-05T21:11:01.277033+00:00",
-    "snr": -8.5,
-    "hops_away": 7,
+    "last_heard": "2026-06-06T15:41:25.114467+00:00",
+    "snr": -12.25,
+    "hops_away": 6,
     "short_name": "PAIG",
     "hw_model": "PORTDUINO",
     "role": ""
