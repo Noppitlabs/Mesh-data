@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-06T02:54:05.354806+00:00",
+    "last_heard": "2026-06-06T02:55:04.102255+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -246,9 +246,9 @@
   "!b6eeec2f": {
     "id": "!b6eeec2f",
     "long_name": "SCAP SLR",
-    "last_heard": "2026-06-05T21:42:08.865562+00:00",
-    "snr": -9.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-06T02:55:07.200641+00:00",
+    "snr": -16.5,
+    "hops_away": 4,
     "short_name": "SCAP",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
