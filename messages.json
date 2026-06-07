@@ -1,5 +1,16 @@
 [
   {
+    "id": 3780652834,
+    "from": "!04084e14",
+    "from_name": "G1FMU 4e14",
+    "to": "^all",
+    "text": "Sounds like a plan \ud83d\udc0d",
+    "timestamp": "2026-06-07T14:20:06.839120+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 6
+  },
+  {
     "id": 2697880756,
     "from": "!9ea1b288",
     "from_name": "SwallowsNest - Adam Cullompton",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.75,
     "hops": 2
-  },
-  {
-    "id": 721674459,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "test message two",
-    "timestamp": "2026-06-02T19:50:47.559706+00:00",
-    "channel": 0,
-    "snr": -7.25,
-    "hops": 3
   }
 ]
