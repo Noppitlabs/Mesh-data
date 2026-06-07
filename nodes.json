@@ -279,9 +279,9 @@
   "!da543618": {
     "id": "!da543618",
     "long_name": "Tiverton_G4ZAL1",
-    "last_heard": "2026-06-07T16:49:33.650974+00:00",
-    "snr": -12.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-07T22:49:28.387412+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
     "short_name": "ZAL1",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
