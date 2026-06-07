@@ -4234,5 +4234,15 @@
     "short_name": "Spg3",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": ""
+  },
+  "!da5c79a4": {
+    "id": "!da5c79a4",
+    "long_name": "MJV | Truro",
+    "last_heard": "2026-06-07T18:20:19.871826+00:00",
+    "snr": -12.75,
+    "hops_away": 5,
+    "short_name": "MJV",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
