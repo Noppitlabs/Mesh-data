@@ -4125,9 +4125,9 @@
   "!04084e14": {
     "id": "!04084e14",
     "long_name": "G1FMU 4e14",
-    "last_heard": "2026-06-07T13:53:19.537161+00:00",
-    "snr": -13.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-07T14:20:05.372641+00:00",
+    "snr": -16.0,
+    "hops_away": 6,
     "short_name": "4e14",
     "hw_model": "HELTEC_V3",
     "role": ""
