@@ -4220,5 +4220,15 @@
     "last_heard": "2026-06-07T09:02:26.298730+00:00",
     "snr": -11.5,
     "hops_away": 6
+  },
+  "!189e2820": {
+    "id": "!189e2820",
+    "long_name": "BS16 Indicator",
+    "last_heard": "2026-06-07T12:17:43.254752+00:00",
+    "snr": -13.5,
+    "hops_away": 5,
+    "short_name": "2820",
+    "hw_model": "SENSECAP_INDICATOR",
+    "role": ""
   }
 }
