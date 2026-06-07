@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-07T19:37:46.455492+00:00",
+    "last_heard": "2026-06-07T19:40:09.259712+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-06-07T19:18:52.004489+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-06-07T19:39:49.219731+00:00",
+    "snr": -14.25,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-06-07T18:53:14.549174+00:00",
-    "snr": -11.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-07T19:40:29.304503+00:00",
+    "snr": -12.75,
+    "hops_away": 3,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
@@ -289,9 +289,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-06-07T19:29:41.834657+00:00",
-    "snr": -9.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-07T19:39:29.178059+00:00",
+    "snr": -16.0,
+    "hops_away": 4,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -536,7 +536,7 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-06-07T19:09:53.316563+00:00",
+    "last_heard": "2026-06-07T19:39:06.550437+00:00",
     "snr": -12.5,
     "hops_away": 2,
     "short_name": "TE 5",
