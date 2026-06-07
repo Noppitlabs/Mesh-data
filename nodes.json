@@ -4247,5 +4247,15 @@
     "short_name": "MJV",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!b03be864": {
+    "id": "!b03be864",
+    "long_name": "Meshtastic e864",
+    "last_heard": "2026-06-07T20:02:30.729352+00:00",
+    "snr": -13.0,
+    "hops_away": 6,
+    "short_name": "e864",
+    "hw_model": "UNSET",
+    "role": ""
   }
 }
