@@ -4121,9 +4121,9 @@
   },
   "!04084e14": {
     "id": "!04084e14",
-    "long_name": "G1FMU 4e14",
-    "last_heard": "2026-06-07T14:20:08.067335+00:00",
-    "snr": -16.0,
+    "long_name": "Meshtastic 4e14",
+    "last_heard": "2026-06-07T17:11:54.784538+00:00",
+    "snr": -12.0,
     "hops_away": 6,
     "short_name": "4e14",
     "hw_model": "HELTEC_V3",
