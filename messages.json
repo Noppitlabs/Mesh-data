@@ -1,5 +1,16 @@
 [
   {
+    "id": 3529455195,
+    "from": "!065b41a2",
+    "from_name": "Tarr Exmoor 5 Repeater ",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-07T08:46:24.228402+00:00",
+    "channel": 0,
+    "snr": -13.75,
+    "hops": 3
+  },
+  {
     "id": 480276505,
     "from": "!aca9fff0",
     "from_name": "MrBs Meshtastic M7MRB",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.75,
     "hops": 7
-  },
-  {
-    "id": 2760540848,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "Puck is roaming in Taunton (\u2060\u00a0\u2060\u2579\u2060\u25bd\u2060\u2579\u2060\u00a0\u2060)",
-    "timestamp": "2026-06-02T13:55:49.985895+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 6
   }
 ]
