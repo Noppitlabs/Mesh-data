@@ -1,5 +1,16 @@
 [
   {
+    "id": 639271333,
+    "from": "!b03be864",
+    "from_name": "Meshtastic e864",
+    "to": "^all",
+    "text": "i dont speek emoji",
+    "timestamp": "2026-06-07T20:02:32.287726+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 6
+  },
+  {
     "id": 1381009358,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.75,
     "hops": 5
-  },
-  {
-    "id": 326917012,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-02T20:04:32.282886+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 2
   }
 ]
