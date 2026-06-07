@@ -1,5 +1,16 @@
 [
   {
+    "id": 480276505,
+    "from": "!aca9fff0",
+    "from_name": "MrBs Meshtastic M7MRB",
+    "to": "^all",
+    "text": "Morning all.",
+    "timestamp": "2026-06-07T08:17:55.566938+00:00",
+    "channel": 0,
+    "snr": -16.5,
+    "hops": 6
+  },
+  {
     "id": 883557652,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-02T13:55:49.985895+00:00",
     "channel": 0,
     "snr": -18.0,
-    "hops": 6
-  },
-  {
-    "id": 1112159426,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "Puck is roaming in Taunton (\u2060\u00a0\u2060\u2579\u2060\u25bd\u2060\u2579\u2060\u00a0\u2060)",
-    "timestamp": "2026-06-02T10:07:52.537961+00:00",
-    "channel": 0,
-    "snr": -13.5,
     "hops": 6
   }
 ]
