@@ -1623,13 +1623,10 @@
   },
   "!9e9d1a00": {
     "id": "!9e9d1a00",
-    "long_name": "Mobile",
-    "last_heard": "2026-06-06T14:11:37.141690+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
-    "short_name": "FCN2",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!9e9d1a00",
+    "last_heard": "2026-06-08T03:37:03.768478+00:00",
+    "snr": -16.0,
+    "hops_away": 5
   },
   "!da64b348": {
     "id": "!da64b348",
