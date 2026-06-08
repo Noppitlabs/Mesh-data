@@ -1442,9 +1442,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-06-07T23:39:09.540495+00:00",
-    "snr": -16.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-08T00:05:03.395828+00:00",
+    "snr": -19.0,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -4190,9 +4190,9 @@
   "!e5b418d5": {
     "id": "!e5b418d5",
     "long_name": "!e5b418d5",
-    "last_heard": "2026-06-07T22:47:49.831287+00:00",
-    "snr": -18.0,
-    "hops_away": 7
+    "last_heard": "2026-06-08T00:05:29.920508+00:00",
+    "snr": -19.25,
+    "hops_away": 4
   },
   "!da635ae8": {
     "id": "!da635ae8",
