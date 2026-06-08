@@ -4233,5 +4233,12 @@
     "short_name": "nnfl",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!f4e165fb": {
+    "id": "!f4e165fb",
+    "long_name": "!f4e165fb",
+    "last_heard": "2026-06-08T19:02:04.200482+00:00",
+    "snr": -16.25,
+    "hops_away": 6
   }
 }
