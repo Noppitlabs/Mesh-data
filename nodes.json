@@ -2896,9 +2896,9 @@
   "!06cb1b54": {
     "id": "!06cb1b54",
     "long_name": "Meshtastic 1b54",
-    "last_heard": "2026-06-08T07:27:19.947764+00:00",
-    "snr": -19.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-08T10:54:27.339357+00:00",
+    "snr": -15.75,
+    "hops_away": 3,
     "short_name": "LFOX",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
