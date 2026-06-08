@@ -4241,5 +4241,15 @@
     "short_name": "Futz",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!96a42812": {
+    "id": "!96a42812",
+    "long_name": "DUCK",
+    "last_heard": "2026-06-08T22:55:05.689300+00:00",
+    "snr": -17.5,
+    "hops_away": 3,
+    "short_name": "DUCK",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
