@@ -4240,5 +4240,15 @@
     "last_heard": "2026-06-08T19:02:04.200482+00:00",
     "snr": -16.25,
     "hops_away": 6
+  },
+  "!9e9e2f8c": {
+    "id": "!9e9e2f8c",
+    "long_name": "Meshtastic Futz",
+    "last_heard": "2026-06-08T19:43:42.348250+00:00",
+    "snr": -10.0,
+    "hops_away": 3,
+    "short_name": "Futz",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
