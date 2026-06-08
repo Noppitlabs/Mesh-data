@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-08T22:41:37.759598+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-06-08T22:45:03.299095+00:00",
+    "snr": -13.5,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -724,9 +724,9 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-06-08T22:13:23.219530+00:00",
-    "snr": -15.5,
-    "hops_away": 7,
+    "last_heard": "2026-06-08T22:45:22.701692+00:00",
+    "snr": -14.5,
+    "hops_away": 5,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
     "role": ""
