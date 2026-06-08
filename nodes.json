@@ -1162,9 +1162,9 @@
   "!da5ec92c": {
     "id": "!da5ec92c",
     "long_name": "Sion#2",
-    "last_heard": "2026-06-08T01:33:16.753697+00:00",
-    "snr": -16.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-08T20:28:26.586397+00:00",
+    "snr": -8.5,
+    "hops_away": 4,
     "short_name": "Sn#2",
     "hw_model": "HELTEC_V3",
     "role": ""
