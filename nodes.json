@@ -2206,9 +2206,9 @@
   "!1fa05c64": {
     "id": "!1fa05c64",
     "long_name": "Meshtastic 5c64",
-    "last_heard": "2026-06-09T04:29:48.251476+00:00",
-    "snr": -8.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-09T07:52:35.302335+00:00",
+    "snr": -11.25,
+    "hops_away": 3,
     "short_name": "5c64",
     "hw_model": "TBEAM",
     "role": ""
