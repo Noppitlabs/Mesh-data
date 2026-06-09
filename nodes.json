@@ -1853,10 +1853,13 @@
   },
   "!65bc3c8e": {
     "id": "!65bc3c8e",
-    "long_name": "!65bc3c8e",
-    "last_heard": "2026-06-09T02:53:03.730120+00:00",
-    "snr": -10.0,
-    "hops_away": 5
+    "long_name": "WSZ Mobile",
+    "last_heard": "2026-06-09T03:59:33.779313+00:00",
+    "snr": -8.5,
+    "hops_away": 5,
+    "short_name": "WSZ1",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!ba6a9048": {
     "id": "!ba6a9048",
