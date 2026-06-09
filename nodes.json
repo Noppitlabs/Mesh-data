@@ -1904,9 +1904,9 @@
   "!02e60d74": {
     "id": "!02e60d74",
     "long_name": "Posset-HM1",
-    "last_heard": "2026-06-07T18:06:55.093653+00:00",
-    "snr": -7.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T14:06:39.644718+00:00",
+    "snr": -9.75,
+    "hops_away": 3,
     "short_name": "HM1",
     "hw_model": "HELTEC_V3",
     "role": ""
