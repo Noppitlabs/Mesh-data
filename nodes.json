@@ -4050,9 +4050,9 @@
   "!c7b292b5": {
     "id": "!c7b292b5",
     "long_name": "Robs T-echo",
-    "last_heard": "2026-06-09T20:46:17.565744+00:00",
-    "snr": -18.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-09T21:17:18.417206+00:00",
+    "snr": -13.0,
+    "hops_away": 5,
     "short_name": "Rob",
     "hw_model": "T_ECHO",
     "role": ""
