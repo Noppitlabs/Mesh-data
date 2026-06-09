@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-09T14:27:38.218232+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-06-09T14:28:26.639479+00:00",
+    "snr": -11.75,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -1343,8 +1343,8 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-06-09T11:28:10.388321+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-06-09T14:28:14.868109+00:00",
+    "snr": -14.75,
     "hops_away": 2,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
