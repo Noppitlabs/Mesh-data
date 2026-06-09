@@ -934,9 +934,9 @@
   "!1c72386c": {
     "id": "!1c72386c",
     "long_name": "TINA 2",
-    "last_heard": "2026-06-09T05:19:53.267311+00:00",
-    "snr": -14.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-09T07:01:00.347589+00:00",
+    "snr": -14.25,
+    "hops_away": 5,
     "short_name": "TNA2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
