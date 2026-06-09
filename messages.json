@@ -1,5 +1,16 @@
 [
   {
+    "id": 650249515,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "3",
+    "timestamp": "2026-06-09T15:44:14.639641+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 5
+  },
+  {
     "id": 2742428850,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 3
-  },
-  {
-    "id": 3397408565,
-    "from": "!56a58fd9",
-    "from_name": "Mesh_EX15 HT1",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-03T20:31:44.535426+00:00",
-    "channel": 0,
-    "snr": -9.5,
-    "hops": 5
   }
 ]
