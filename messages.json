@@ -1,5 +1,16 @@
 [
   {
+    "id": 651544397,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "sh!t sorry wrong chat",
+    "timestamp": "2026-06-09T18:30:08.709593+00:00",
+    "channel": 0,
+    "snr": -13.75,
+    "hops": 2
+  },
+  {
     "id": 140159755,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.0,
     "hops": 2
-  },
-  {
-    "id": 1469490015,
-    "from": "!9ea2a1ac",
-    "from_name": "Posset Base",
-    "to": "^all",
-    "text": "Pong",
-    "timestamp": "2026-06-03T21:19:41.808502+00:00",
-    "channel": 0,
-    "snr": -16.25,
-    "hops": 6
   }
 ]
