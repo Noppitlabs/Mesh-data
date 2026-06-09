@@ -1,5 +1,16 @@
 [
   {
+    "id": 1604158375,
+    "from": "!0a71aab5",
+    "from_name": "!0a71aab5",
+    "to": "^all",
+    "text": "3 hops to the tag sounds di",
+    "timestamp": "2026-06-09T19:46:14.604616+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 6
+  },
+  {
     "id": 651544397,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 3
-  },
-  {
-    "id": 1258197135,
-    "from": "!e2864d04",
-    "from_name": "RDEw",
-    "to": "^all",
-    "text": "Test from rdew",
-    "timestamp": "2026-06-04T15:40:38.739570+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 2
   }
 ]
