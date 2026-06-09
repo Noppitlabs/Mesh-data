@@ -3817,10 +3817,13 @@
   },
   "!a1d779fc": {
     "id": "!a1d779fc",
-    "long_name": "!a1d779fc",
-    "last_heard": "2026-06-08T11:14:43.937582+00:00",
-    "snr": -14.0,
-    "hops_away": 6
+    "long_name": "Meshtastic 79fc",
+    "last_heard": "2026-06-09T12:59:24.931635+00:00",
+    "snr": -11.5,
+    "hops_away": 6,
+    "short_name": "79fc",
+    "hw_model": "SEEED_XIAO_S3",
+    "role": "CLIENT_BASE"
   },
   "!0c2a28f9": {
     "id": "!0c2a28f9",
