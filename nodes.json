@@ -169,9 +169,9 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SOLAR",
-    "last_heard": "2026-06-09T19:27:37.533001+00:00",
-    "snr": -13.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-09T19:40:04.403824+00:00",
+    "snr": -11.25,
+    "hops_away": 5,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER_LATE"
@@ -4114,9 +4114,9 @@
   "!0404e714": {
     "id": "!0404e714",
     "long_name": "Exeter e714",
-    "last_heard": "2026-06-09T17:56:06.023362+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T19:40:14.085583+00:00",
+    "snr": -12.75,
+    "hops_away": 3,
     "short_name": "e714",
     "hw_model": "HELTEC_V3",
     "role": ""
