@@ -343,9 +343,9 @@
   "!30327968": {
     "id": "!30327968",
     "long_name": "Meshtastic 7968",
-    "last_heard": "2026-06-09T20:06:18.089077+00:00",
-    "snr": -14.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-09T21:06:27.689294+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "7968",
     "hw_model": "HELTEC_V3",
     "role": ""
