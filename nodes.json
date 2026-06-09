@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-09T20:00:14.626494+00:00",
-    "snr": -14.75,
-    "hops_away": 1,
+    "last_heard": "2026-06-09T20:05:06.161054+00:00",
+    "snr": -12.0,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-09T20:00:54.393160+00:00",
+    "last_heard": "2026-06-09T20:05:48.646261+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -286,9 +286,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-06-09T19:54:32.830121+00:00",
-    "snr": -12.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-09T20:02:48.371572+00:00",
+    "snr": -14.75,
+    "hops_away": 7,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1638,8 +1638,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-09T19:47:21.092085+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-06-09T20:03:42.502317+00:00",
+    "snr": -13.0,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -3062,8 +3062,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-09T19:59:36.311598+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-06-09T20:05:26.194093+00:00",
+    "snr": -12.5,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
