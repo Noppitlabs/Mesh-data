@@ -1,5 +1,16 @@
 [
   {
+    "id": 2742428850,
+    "from": "!9ea0bce4",
+    "from_name": "Hyperion WirelessPaper",
+    "to": "^all",
+    "text": "Myttin da, fatla genes? \ud83d\ude01",
+    "timestamp": "2026-06-09T07:28:17.765096+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 4
+  },
+  {
     "id": 2630094201,
     "from": "!6982bcb0",
     "from_name": "Hambridge V4 - Paul ",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 5
-  },
-  {
-    "id": 326917025,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-03T19:39:32.711858+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 2
   }
 ]
