@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-09T20:05:48.646261+00:00",
+    "last_heard": "2026-06-09T20:07:59.314053+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-06-09T19:21:57.501713+00:00",
-    "snr": -13.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T20:09:09.285507+00:00",
+    "snr": -12.75,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-09T19:59:47.107956+00:00",
-    "snr": -13.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T20:09:29.691104+00:00",
+    "snr": -13.25,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -316,9 +316,9 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-06-09T17:52:26.144346+00:00",
-    "snr": -15.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T20:08:57.583147+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -343,9 +343,9 @@
   "!30327968": {
     "id": "!30327968",
     "long_name": "Meshtastic 7968",
-    "last_heard": "2026-06-09T18:34:30.251688+00:00",
-    "snr": -10.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T20:06:18.089077+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
     "short_name": "7968",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -540,8 +540,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-06-09T19:55:20.976865+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-06-09T20:08:34.392503+00:00",
+    "snr": -16.0,
     "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
@@ -1792,9 +1792,9 @@
   "!69822bd4": {
     "id": "!69822bd4",
     "long_name": "RC_BASE",
-    "last_heard": "2026-06-09T18:18:15.649931+00:00",
-    "snr": -15.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-09T20:05:58.511659+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
     "short_name": "RC00",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
@@ -4077,8 +4077,8 @@
   "!04084e14": {
     "id": "!04084e14",
     "long_name": "Meshtastic 4e14",
-    "last_heard": "2026-06-09T16:26:54.273325+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-06-09T20:06:48.160390+00:00",
+    "snr": -13.25,
     "hops_away": 4,
     "short_name": "4e14",
     "hw_model": "HELTEC_V3",
