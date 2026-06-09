@@ -1,5 +1,16 @@
 [
   {
+    "id": 192902843,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "test",
+    "timestamp": "2026-06-09T20:11:10.463945+00:00",
+    "channel": 0,
+    "snr": -14.0,
+    "hops": 7
+  },
+  {
     "id": 1158086338,
     "from": "!f669c178",
     "from_name": "Meshtastic c178",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-04T15:44:00.251848+00:00",
     "channel": 0,
     "snr": -11.75,
-    "hops": 2
-  },
-  {
-    "id": 1258197138,
-    "from": "!e2864d04",
-    "from_name": "RDEw",
-    "to": "^all",
-    "text": "As it wernt set in config",
-    "timestamp": "2026-06-04T15:43:27.837764+00:00",
-    "channel": 0,
-    "snr": -13.25,
     "hops": 2
   }
 ]
