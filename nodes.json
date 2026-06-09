@@ -4245,5 +4245,12 @@
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!db29e9ec": {
+    "id": "!db29e9ec",
+    "long_name": "!db29e9ec",
+    "last_heard": "2026-06-09T03:46:17.412001+00:00",
+    "snr": -16.75,
+    "hops_away": 3
   }
 }
