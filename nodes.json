@@ -4114,9 +4114,9 @@
   "!0404e714": {
     "id": "!0404e714",
     "long_name": "Exeter e714",
-    "last_heard": "2026-06-09T16:54:03.133550+00:00",
-    "snr": -8.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-09T17:56:06.023362+00:00",
+    "snr": -9.5,
+    "hops_away": 2,
     "short_name": "e714",
     "hw_model": "HELTEC_V3",
     "role": ""
