@@ -216,9 +216,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-06-10T15:52:15.279182+00:00",
-    "snr": -14.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-10T16:21:03.421782+00:00",
+    "snr": -14.0,
+    "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -2380,9 +2380,9 @@
   "!433c0074": {
     "id": "!433c0074",
     "long_name": "TR10 DCG",
-    "last_heard": "2026-06-03T08:22:09.816649+00:00",
+    "last_heard": "2026-06-10T16:21:12.056450+00:00",
     "snr": -14.5,
-    "hops_away": 6,
+    "hops_away": 3,
     "short_name": "TR10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
@@ -4308,5 +4308,15 @@
     "last_heard": "2026-06-09T23:11:16.696680+00:00",
     "snr": -19.25,
     "hops_away": 7
+  },
+  "!9e77b434": {
+    "id": "!9e77b434",
+    "long_name": "Tak_Tracker",
+    "last_heard": "2026-06-10T16:21:28.344023+00:00",
+    "snr": -17.5,
+    "hops_away": 3,
+    "short_name": "b434",
+    "hw_model": "HELTEC_WIRELESS_TRACKER",
+    "role": "TAK_TRACKER"
   }
 }
