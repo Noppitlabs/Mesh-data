@@ -256,8 +256,8 @@
   "!da638a8c": {
     "id": "!da638a8c",
     "long_name": "North Molton Attic",
-    "last_heard": "2026-06-10T09:37:44.272702+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-06-10T15:22:18.585932+00:00",
+    "snr": -15.75,
     "hops_away": 3,
     "short_name": "EXM2",
     "hw_model": "HELTEC_V3",
@@ -600,8 +600,8 @@
   "!c6d0ea7e": {
     "id": "!c6d0ea7e",
     "long_name": "XXA-ea7e",
-    "last_heard": "2026-06-10T09:58:25.976210+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-06-10T15:22:29.321799+00:00",
+    "snr": -16.5,
     "hops_away": 4,
     "short_name": "XXAm",
     "hw_model": "TRACKER_T1000_E",
