@@ -1,5 +1,16 @@
 [
   {
+    "id": 650249542,
+    "from": "!a0cb4648",
+    "from_name": "!a0cb4648",
+    "to": "^all",
+    "text": "2",
+    "timestamp": "2026-06-10T07:32:07.004712+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 5
+  },
+  {
     "id": 192902843,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-04T15:45:33.555415+00:00",
     "channel": 0,
     "snr": -15.25,
-    "hops": 2
-  },
-  {
-    "id": 1258197139,
-    "from": "!e2864d04",
-    "from_name": "RDEw",
-    "to": "^all",
-    "text": "Preserved what was saved",
-    "timestamp": "2026-06-04T15:44:00.251848+00:00",
-    "channel": 0,
-    "snr": -11.75,
     "hops": 2
   }
 ]
