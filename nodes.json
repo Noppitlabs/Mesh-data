@@ -1961,9 +1961,9 @@
   "!f1a8ce4f": {
     "id": "!f1a8ce4f",
     "long_name": "St Ives Solar Node 2E0XCN",
-    "last_heard": "2026-06-09T17:36:58.110127+00:00",
-    "snr": -8.25,
-    "hops_away": 4,
+    "last_heard": "2026-06-10T07:03:30.073498+00:00",
+    "snr": -7.25,
+    "hops_away": 5,
     "short_name": "Ives",
     "hw_model": "RAK4631",
     "role": ""
