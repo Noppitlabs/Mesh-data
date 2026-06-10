@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-10T07:45:37.625157+00:00",
-    "snr": -10.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-10T07:46:25.651413+00:00",
+    "snr": -12.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1239,8 +1239,8 @@
   "!74f0fbd0": {
     "id": "!74f0fbd0",
     "long_name": "YT-1300f (M7OXC)",
-    "last_heard": "2026-06-10T07:34:19.607417+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-06-10T07:46:22.102871+00:00",
+    "snr": -17.0,
     "hops_away": 2,
     "short_name": "fbd0",
     "hw_model": "TRACKER_T1000_E",
