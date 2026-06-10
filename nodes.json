@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-10T01:44:04.161417+00:00",
+    "last_heard": "2026-06-10T01:45:04.192606+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1490,9 +1490,9 @@
   "!1969b119": {
     "id": "!1969b119",
     "long_name": "PlymSteve",
-    "last_heard": "2026-06-09T21:21:27.751241+00:00",
-    "snr": -10.0,
-    "hops_away": 5,
+    "last_heard": "2026-06-10T01:45:22.953379+00:00",
+    "snr": -19.5,
+    "hops_away": 4,
     "short_name": "Egg4",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
