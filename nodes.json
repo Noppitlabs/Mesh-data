@@ -4311,11 +4311,11 @@
   },
   "!9e77b434": {
     "id": "!9e77b434",
-    "long_name": "Tak_Tracker",
-    "last_heard": "2026-06-10T16:21:31.982503+00:00",
-    "snr": -17.5,
+    "long_name": "TR-13 RW TRK",
+    "last_heard": "2026-06-10T16:24:56.478048+00:00",
+    "snr": -14.75,
     "hops_away": 3,
-    "short_name": "b434",
+    "short_name": "TR13",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "TAK_TRACKER"
   }
