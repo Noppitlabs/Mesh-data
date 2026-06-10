@@ -4080,9 +4080,9 @@
   "!04084e14": {
     "id": "!04084e14",
     "long_name": "Meshtastic 4e14",
-    "last_heard": "2026-06-10T02:57:25.274168+00:00",
-    "snr": -18.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-10T03:57:02.272026+00:00",
+    "snr": -17.5,
+    "hops_away": 5,
     "short_name": "4e14",
     "hw_model": "HELTEC_V3",
     "role": ""
