@@ -2520,13 +2520,10 @@
   },
   "!12d5dc7e": {
     "id": "!12d5dc7e",
-    "long_name": "timttmy-tag",
-    "last_heard": "2026-05-31T03:27:16.740962+00:00",
-    "snr": -0.25,
-    "hops_away": 5,
-    "short_name": "Wtag",
-    "hw_model": "WISMESH_TAG",
-    "role": "CLIENT_MUTE"
+    "long_name": "!12d5dc7e",
+    "last_heard": "2026-06-10T09:28:49.152521+00:00",
+    "snr": -11.75,
+    "hops_away": 6
   },
   "!fbd990c6": {
     "id": "!fbd990c6",
