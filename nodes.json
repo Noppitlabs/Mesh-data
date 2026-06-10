@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-10T16:20:42.486847+00:00",
+    "last_heard": "2026-06-10T16:21:42.524149+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1433,9 +1433,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-06-10T14:54:41.493602+00:00",
-    "snr": -18.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-10T16:22:09.041176+00:00",
+    "snr": -15.0,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -4312,7 +4312,7 @@
   "!9e77b434": {
     "id": "!9e77b434",
     "long_name": "Tak_Tracker",
-    "last_heard": "2026-06-10T16:21:28.344023+00:00",
+    "last_heard": "2026-06-10T16:21:31.982503+00:00",
     "snr": -17.5,
     "hops_away": 3,
     "short_name": "b434",
