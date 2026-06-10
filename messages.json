@@ -1,5 +1,16 @@
 [
   {
+    "id": 487562018,
+    "from": "!56a58fd9",
+    "from_name": "!56a58fd9",
+    "to": "^all",
+    "text": "Afternoon",
+    "timestamp": "2026-06-10T17:30:57.492932+00:00",
+    "channel": 0,
+    "snr": -18.25,
+    "hops": 3
+  },
+  {
     "id": 685424615,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-04T16:27:50.168396+00:00",
     "channel": 0,
     "snr": -12.0,
-    "hops": 2
-  },
-  {
-    "id": 59629771,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Yeah. Above and beyond. Meshtastic medal for you. It's it on one of those two towers?",
-    "timestamp": "2026-06-04T16:07:50.578794+00:00",
-    "channel": 0,
-    "snr": -13.0,
     "hops": 2
   }
 ]
