@@ -39,9 +39,9 @@
   "!da655af4": {
     "id": "!da655af4",
     "long_name": "ALAN PIXEL",
-    "last_heard": "2026-06-09T21:04:34.381050+00:00",
-    "snr": -17.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-10T07:09:48.838427+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
     "short_name": "ALAN",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
