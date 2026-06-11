@@ -4358,5 +4358,15 @@
     "short_name": "2cfc",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "CLIENT_MUTE"
+  },
+  "!4611cb8f": {
+    "id": "!4611cb8f",
+    "long_name": "WSZ3 cb8f",
+    "last_heard": "2026-06-11T03:39:34.481338+00:00",
+    "snr": -15.0,
+    "hops_away": 5,
+    "short_name": "WSZ3",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
