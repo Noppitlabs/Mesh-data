@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-11T01:04:04.085805+00:00",
+    "last_heard": "2026-06-11T01:05:04.122772+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4266,9 +4266,9 @@
   "!96a42812": {
     "id": "!96a42812",
     "long_name": "DUCK",
-    "last_heard": "2026-06-11T00:59:15.759102+00:00",
-    "snr": -14.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-11T01:05:13.400849+00:00",
+    "snr": -13.25,
+    "hops_away": 4,
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
