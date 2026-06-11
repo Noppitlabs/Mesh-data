@@ -3753,9 +3753,9 @@
   "!9ea134a0": {
     "id": "!9ea134a0",
     "long_name": "Meshtastic 34a0",
-    "last_heard": "2026-06-10T18:01:27.113257+00:00",
-    "snr": -10.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-11T02:52:53.288584+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "34a0",
     "hw_model": "HELTEC_V3",
     "role": ""
