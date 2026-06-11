@@ -4362,9 +4362,9 @@
   "!4611cb8f": {
     "id": "!4611cb8f",
     "long_name": "WSZ3 cb8f",
-    "last_heard": "2026-06-11T05:27:22.997739+00:00",
+    "last_heard": "2026-06-11T05:43:17.892105+00:00",
     "snr": -11.75,
-    "hops_away": 5,
+    "hops_away": 6,
     "short_name": "WSZ3",
     "hw_model": "RAK4631",
     "role": ""
