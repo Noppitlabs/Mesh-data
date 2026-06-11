@@ -4348,5 +4348,15 @@
     "last_heard": "2026-06-11T01:08:39.414425+00:00",
     "snr": -14.25,
     "hops_away": 6
+  },
+  "!30b22cfc": {
+    "id": "!30b22cfc",
+    "long_name": "Meshtastic 2cfc",
+    "last_heard": "2026-06-11T03:03:23.956831+00:00",
+    "snr": -13.75,
+    "hops_away": 6,
+    "short_name": "2cfc",
+    "hw_model": "XIAO_NRF52_KIT",
+    "role": "CLIENT_MUTE"
   }
 }
