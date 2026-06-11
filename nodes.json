@@ -4365,5 +4365,12 @@
     "short_name": "WSZ3",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!bdf0d2a8": {
+    "id": "!bdf0d2a8",
+    "long_name": "!bdf0d2a8",
+    "last_heard": "2026-06-11T19:04:10.570634+00:00",
+    "snr": -15.25,
+    "hops_away": 5
   }
 }
