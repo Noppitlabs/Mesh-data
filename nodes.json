@@ -4344,5 +4344,12 @@
     "short_name": "EXM3",
     "hw_model": "SENSECAP_INDICATOR",
     "role": ""
+  },
+  "!04086298": {
+    "id": "!04086298",
+    "long_name": "!04086298",
+    "last_heard": "2026-06-11T01:08:39.414425+00:00",
+    "snr": -14.25,
+    "hops_away": 6
   }
 }
