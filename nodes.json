@@ -4159,9 +4159,9 @@
   "!f669c178": {
     "id": "!f669c178",
     "long_name": "Meshtastic c178",
-    "last_heard": "2026-06-11T16:13:52.281166+00:00",
-    "snr": -13.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-12T01:26:54.238172+00:00",
+    "snr": -14.25,
+    "hops_away": 4,
     "short_name": "ARH2",
     "hw_model": "HELTEC_V4",
     "role": ""
