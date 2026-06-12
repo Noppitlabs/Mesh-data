@@ -920,9 +920,9 @@
   "!4eb5cccc": {
     "id": "!4eb5cccc",
     "long_name": "Mobile~Base",
-    "last_heard": "2026-06-11T11:24:29.180063+00:00",
-    "snr": -17.0,
-    "hops_away": 1,
+    "last_heard": "2026-06-12T15:49:58.481095+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "R2",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
