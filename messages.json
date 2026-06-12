@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772624973,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": "\ud83d\ude01",
+    "timestamp": "2026-06-12T21:08:37.974854+00:00",
+    "channel": 0,
+    "snr": -18.5,
+    "hops": 1
+  },
+  {
     "id": 2171943756,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-05T13:20:58.740347+00:00",
     "channel": 0,
     "snr": -14.5,
-    "hops": 2
-  },
-  {
-    "id": 1631582763,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83e\udd1e",
-    "timestamp": "2026-06-05T13:20:41.837406+00:00",
-    "channel": 0,
-    "snr": -13.25,
     "hops": 2
   }
 ]
