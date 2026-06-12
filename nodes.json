@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-12T15:58:29.478732+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-06-12T16:00:05.550171+00:00",
+    "snr": -14.0,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -600,9 +600,9 @@
   "!c6d0ea7e": {
     "id": "!c6d0ea7e",
     "long_name": "XXA-ea7e",
-    "last_heard": "2026-06-12T10:37:27.716498+00:00",
-    "snr": -13.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-12T16:00:10.313106+00:00",
+    "snr": -14.0,
+    "hops_away": 5,
     "short_name": "XXAm",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
