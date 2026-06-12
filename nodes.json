@@ -4373,9 +4373,9 @@
   "!02ee84f8": {
     "id": "!02ee84f8",
     "long_name": "Meshtastic 84f8",
-    "last_heard": "2026-06-12T14:51:07.182669+00:00",
-    "snr": -15.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-12T14:58:15.118845+00:00",
+    "snr": -11.75,
+    "hops_away": 5,
     "short_name": "84f8",
     "hw_model": "HELTEC_V3",
     "role": ""
