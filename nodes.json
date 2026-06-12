@@ -243,9 +243,9 @@
   "!b6eeec2f": {
     "id": "!b6eeec2f",
     "long_name": "SCAP SLR",
-    "last_heard": "2026-06-12T17:48:02.955906+00:00",
-    "snr": -16.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-12T22:46:56.352992+00:00",
+    "snr": -18.5,
+    "hops_away": 5,
     "short_name": "SCAP",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
