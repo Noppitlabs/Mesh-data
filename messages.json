@@ -1,5 +1,16 @@
 [
   {
+    "id": 2171943756,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Hi from killerton.",
+    "timestamp": "2026-06-12T19:37:10.202502+00:00",
+    "channel": 0,
+    "snr": -19.0,
+    "hops": 3
+  },
+  {
     "id": 282769121,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-05T13:20:41.837406+00:00",
     "channel": 0,
     "snr": -13.25,
-    "hops": 2
-  },
-  {
-    "id": 3473987072,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Latest alpha",
-    "timestamp": "2026-06-05T13:19:30.990419+00:00",
-    "channel": 0,
-    "snr": -16.75,
     "hops": 2
   }
 ]
