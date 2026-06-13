@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-13T00:29:03.317333+00:00",
+    "last_heard": "2026-06-13T00:30:03.358678+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-13T00:20:42.998532+00:00",
-    "snr": -17.75,
+    "last_heard": "2026-06-13T00:30:24.117882+00:00",
+    "snr": -16.5,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -590,8 +590,8 @@
   "!18aa75f6": {
     "id": "!18aa75f6",
     "long_name": "Gormenghast",
-    "last_heard": "2026-06-12T05:54:15.280520+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-06-13T00:30:05.053765+00:00",
+    "snr": -18.75,
     "hops_away": 3,
     "short_name": "gorm",
     "hw_model": "TRACKER_T1000_E",
