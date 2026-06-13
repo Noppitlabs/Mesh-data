@@ -4423,5 +4423,12 @@
     "short_name": "T2",
     "hw_model": "RAK4631",
     "role": "ROUTER"
+  },
+  "!07339f2b": {
+    "id": "!07339f2b",
+    "long_name": "!07339f2b",
+    "last_heard": "2026-06-13T06:29:13.291062+00:00",
+    "snr": -15.25,
+    "hops_away": 3
   }
 }
