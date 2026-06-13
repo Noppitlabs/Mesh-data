@@ -1,5 +1,16 @@
 [
   {
+    "id": 566751332,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "Goodnight",
+    "timestamp": "2026-06-13T22:53:14.440991+00:00",
+    "channel": 0,
+    "snr": -19.5,
+    "hops": 4
+  },
+  {
     "id": 458355297,
     "from": "!f4e165fb",
     "from_name": "St Ives Seeed Node",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-06T19:06:11.208498+00:00",
     "channel": 0,
     "snr": -6.25,
-    "hops": 5
-  },
-  {
-    "id": 2742428839,
-    "from": "!9ea0bce4",
-    "from_name": "Hyperion WirelessPaper",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-06T13:31:55.370263+00:00",
-    "channel": 0,
-    "snr": -13.5,
     "hops": 5
   }
 ]
