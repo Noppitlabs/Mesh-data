@@ -4221,10 +4221,13 @@
   },
   "!f4e165fb": {
     "id": "!f4e165fb",
-    "long_name": "!f4e165fb",
-    "last_heard": "2026-06-12T22:31:36.286274+00:00",
-    "snr": -19.0,
-    "hops_away": 5
+    "long_name": "St Ives Seeed Node",
+    "last_heard": "2026-06-13T02:21:01.625417+00:00",
+    "snr": -17.0,
+    "hops_away": 6,
+    "short_name": "Eia",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   },
   "!9e9e2f8c": {
     "id": "!9e9e2f8c",
