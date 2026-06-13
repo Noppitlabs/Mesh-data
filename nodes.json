@@ -4369,9 +4369,9 @@
   "!f0ece65b": {
     "id": "!f0ece65b",
     "long_name": "Air Scout 1",
-    "last_heard": "2026-06-13T07:08:37.447476+00:00",
+    "last_heard": "2026-06-13T07:13:27.346629+00:00",
     "snr": -14.0,
-    "hops_away": 4,
+    "hops_away": 3,
     "short_name": "Air1",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
