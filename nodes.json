@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-13T18:43:52.020286+00:00",
+    "last_heard": "2026-06-13T18:43:53.419211+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -363,9 +363,9 @@
   "!798e872d": {
     "id": "!798e872d",
     "long_name": "Mark~G6OMT",
-    "last_heard": "2026-06-13T06:44:25.505999+00:00",
-    "snr": -13.25,
-    "hops_away": 1,
+    "last_heard": "2026-06-13T18:44:49.082837+00:00",
+    "snr": -16.75,
+    "hops_away": 2,
     "short_name": "R1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
