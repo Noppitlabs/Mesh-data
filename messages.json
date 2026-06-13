@@ -1,5 +1,16 @@
 [
   {
+    "id": 109295100,
+    "from": "!5ccaa577",
+    "from_name": "Finn Mobile2",
+    "to": "^all",
+    "text": "Rx Torquay \ud83d\udc4b",
+    "timestamp": "2026-06-13T08:07:53.350080+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 6
+  },
+  {
     "id": 2534758177,
     "from": "!0409d1c0",
     "from_name": "M7FYU",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-05T13:21:48.663638+00:00",
     "channel": 0,
     "snr": -13.0,
-    "hops": 2
-  },
-  {
-    "id": 3473987075,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Saves me time between updates \ud83d\ude05",
-    "timestamp": "2026-06-05T13:21:32.961030+00:00",
-    "channel": 0,
-    "snr": -15.25,
     "hops": 2
   }
 ]
