@@ -2734,8 +2734,8 @@
   "!433f03cc": {
     "id": "!433f03cc",
     "long_name": "Meshtastic 03cc",
-    "last_heard": "2026-06-04T18:40:11.542733+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-06-13T16:31:46.706926+00:00",
+    "snr": -16.25,
     "hops_away": 7,
     "short_name": "03cc",
     "hw_model": "HELTEC_V3",
