@@ -1,5 +1,16 @@
 [
   {
+    "id": 1856009404,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Yes Tropo Ducting going on",
+    "timestamp": "2026-06-13T09:18:45.193458+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 1
+  },
+  {
     "id": 2374173459,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 2
-  },
-  {
-    "id": 997134771,
-    "from": "!b2a79cc0",
-    "from_name": "!b2a79cc0",
-    "to": "^all",
-    "text": "ping",
-    "timestamp": "2026-06-06T05:08:14.784585+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 7
   }
 ]
