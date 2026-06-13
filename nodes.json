@@ -1087,10 +1087,13 @@
   },
   "!55fbf3fc": {
     "id": "!55fbf3fc",
-    "long_name": "!55fbf3fc",
-    "last_heard": "2026-06-13T00:28:10.775272+00:00",
-    "snr": -19.5,
-    "hops_away": 4
+    "long_name": "whisper_f3fc",
+    "last_heard": "2026-06-13T03:28:53.150541+00:00",
+    "snr": -15.75,
+    "hops_away": 4,
+    "short_name": "f3fc",
+    "hw_model": "T_ECHO",
+    "role": ""
   },
   "!33637118": {
     "id": "!33637118",
