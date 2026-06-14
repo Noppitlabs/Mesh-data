@@ -4614,9 +4614,9 @@
   "!3f6adae1": {
     "id": "!3f6adae1",
     "long_name": "Meshtastic dae1",
-    "last_heard": "2026-06-14T21:21:59.137573+00:00",
-    "snr": -13.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-14T21:27:15.598896+00:00",
+    "snr": -11.75,
+    "hops_away": 2,
     "short_name": "dae1",
     "hw_model": "THINKNODE_M1",
     "role": ""
