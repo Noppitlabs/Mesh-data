@@ -1,5 +1,16 @@
 [
   {
+    "id": 538844078,
+    "from": "!433c4cdc",
+    "from_name": "!433c4cdc",
+    "to": "^all",
+    "text": "\u2600",
+    "timestamp": "2026-06-14T15:22:42.444555+00:00",
+    "channel": 0,
+    "snr": -13.5,
+    "hops": 7
+  },
+  {
     "id": 1873306302,
     "from": "!a20a197c",
     "from_name": "Meshtastic 197c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 3
-  },
-  {
-    "id": 1604158375,
-    "from": "!0a71aab5",
-    "from_name": "!0a71aab5",
-    "to": "^all",
-    "text": "3 hops to the tag sounds di",
-    "timestamp": "2026-06-09T19:46:14.604616+00:00",
-    "channel": 0,
-    "snr": -14.25,
-    "hops": 6
   }
 ]
