@@ -4578,5 +4578,15 @@
     "short_name": "JUMP",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!ddb733be": {
+    "id": "!ddb733be",
+    "long_name": "uconsoleAIO",
+    "last_heard": "2026-06-14T19:27:41.257675+00:00",
+    "snr": -15.75,
+    "hops_away": 5,
+    "short_name": "uc0n",
+    "hw_model": "PORTDUINO",
+    "role": "CLIENT_HIDDEN"
   }
 }
