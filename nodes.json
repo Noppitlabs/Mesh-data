@@ -4460,5 +4460,12 @@
     "short_name": "24b0",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!a2ebc500": {
+    "id": "!a2ebc500",
+    "long_name": "!a2ebc500",
+    "last_heard": "2026-06-14T03:38:32.271031+00:00",
+    "snr": -14.75,
+    "hops_away": 3
   }
 }
