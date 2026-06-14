@@ -3764,10 +3764,13 @@
   },
   "!89fd8d02": {
     "id": "!89fd8d02",
-    "long_name": "!89fd8d02",
-    "last_heard": "2026-06-14T06:56:37.425825+00:00",
-    "snr": -14.25,
-    "hops_away": 6
+    "long_name": "Knights Mountain - Relay\ud83d\udce1",
+    "last_heard": "2026-06-14T07:30:15.761343+00:00",
+    "snr": -18.25,
+    "hops_away": 6,
+    "short_name": "SW-3",
+    "hw_model": "NRF52_PROMICRO_DIY",
+    "role": ""
   },
   "!02ea1ec0": {
     "id": "!02ea1ec0",
