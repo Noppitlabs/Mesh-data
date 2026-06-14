@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-14T14:12:41.453685+00:00",
+    "last_heard": "2026-06-14T14:12:43.140134+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1138,9 +1138,9 @@
   "!a20a1884": {
     "id": "!a20a1884",
     "long_name": "Plouvara",
-    "last_heard": "2026-06-14T13:58:15.086653+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-14T14:13:18.388672+00:00",
+    "snr": -9.25,
+    "hops_away": 5,
     "short_name": "Plou",
     "hw_model": "STATION_G2",
     "role": ""
