@@ -1205,13 +1205,10 @@
   },
   "!43b58464": {
     "id": "!43b58464",
-    "long_name": "Jon",
-    "last_heard": "2026-05-30T06:59:21.119513+00:00",
-    "snr": -15.5,
-    "hops_away": 6,
-    "short_name": "8464",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!43b58464",
+    "last_heard": "2026-06-14T03:13:19.224707+00:00",
+    "snr": -17.0,
+    "hops_away": 6
   },
   "!da5473fc": {
     "id": "!da5473fc",
