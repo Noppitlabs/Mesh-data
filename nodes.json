@@ -3503,13 +3503,10 @@
   },
   "!0f14569c": {
     "id": "!0f14569c",
-    "long_name": "Tower of Power",
-    "last_heard": "2026-05-30T01:39:35.598317+00:00",
-    "snr": -13.0,
-    "hops_away": 5,
-    "short_name": "299m",
-    "hw_model": "TLORA_V2_1_1P6",
-    "role": ""
+    "long_name": "!0f14569c",
+    "last_heard": "2026-06-14T18:39:50.092574+00:00",
+    "snr": -14.0,
+    "hops_away": 5
   },
   "!a035265c": {
     "id": "!a035265c",
