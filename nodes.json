@@ -1157,10 +1157,13 @@
   },
   "!a9fed67f": {
     "id": "!a9fed67f",
-    "long_name": "!a9fed67f",
-    "last_heard": "2026-06-14T17:48:40.779607+00:00",
-    "snr": -16.75,
-    "hops_away": 4
+    "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
+    "last_heard": "2026-06-14T20:03:18.005811+00:00",
+    "snr": -14.75,
+    "hops_away": 7,
+    "short_name": "d67f",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
   },
   "!da5ec92c": {
     "id": "!da5ec92c",
