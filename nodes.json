@@ -3777,9 +3777,9 @@
   "!89fd8d02": {
     "id": "!89fd8d02",
     "long_name": "Knights Mountain - Relay\ud83d\udce1",
-    "last_heard": "2026-06-14T07:30:29.594409+00:00",
-    "snr": -17.75,
-    "hops_away": 5,
+    "last_heard": "2026-06-14T15:26:49.930609+00:00",
+    "snr": -9.0,
+    "hops_away": 7,
     "short_name": "SW-3",
     "hw_model": "NRF52_PROMICRO_DIY",
     "role": ""
