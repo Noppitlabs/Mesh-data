@@ -1132,9 +1132,9 @@
   "!a20a1884": {
     "id": "!a20a1884",
     "long_name": "Plouvara",
-    "last_heard": "2026-06-14T03:12:03.099478+00:00",
-    "snr": -16.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-14T03:27:59.210975+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
     "short_name": "Plou",
     "hw_model": "STATION_G2",
     "role": ""
