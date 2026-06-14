@@ -1,5 +1,16 @@
 [
   {
+    "id": 1873306302,
+    "from": "!a20a197c",
+    "from_name": "Meshtastic 197c",
+    "to": "^all",
+    "text": "Fan-Tas-Tic, take the opportunity to make long calls !",
+    "timestamp": "2026-06-14T13:36:51.327739+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 3
+  },
+  {
     "id": 1459231620,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.25,
     "hops": 6
-  },
-  {
-    "id": 651544397,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "sh!t sorry wrong chat",
-    "timestamp": "2026-06-09T18:30:08.709593+00:00",
-    "channel": 0,
-    "snr": -13.75,
-    "hops": 2
   }
 ]
