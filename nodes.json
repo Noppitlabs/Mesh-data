@@ -4471,5 +4471,12 @@
     "last_heard": "2026-06-14T06:39:23.000566+00:00",
     "snr": -19.0,
     "hops_away": 4
+  },
+  "!69cbacca": {
+    "id": "!69cbacca",
+    "long_name": "!69cbacca",
+    "last_heard": "2026-06-14T07:21:52.324255+00:00",
+    "snr": -19.0,
+    "hops_away": 5
   }
 }
