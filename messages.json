@@ -1,5 +1,16 @@
 [
   {
+    "id": 869458944,
+    "from": "!bb832698",
+    "from_name": "!bb832698",
+    "to": "^all",
+    "text": "Hi from Normandy",
+    "timestamp": "2026-06-14T07:30:49.630423+00:00",
+    "channel": 0,
+    "snr": -18.75,
+    "hops": 6
+  },
+  {
     "id": 2057809182,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-06T21:01:54.331193+00:00",
     "channel": 0,
     "snr": -17.25,
-    "hops": 2
-  },
-  {
-    "id": 614445300,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "test",
-    "timestamp": "2026-06-06T20:28:57.340950+00:00",
-    "channel": 0,
-    "snr": -7.5,
     "hops": 2
   }
 ]
