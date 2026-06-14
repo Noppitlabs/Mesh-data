@@ -1,5 +1,16 @@
 [
   {
+    "id": 1873306294,
+    "from": "!a20a197c",
+    "from_name": "Meshtastic 197c",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-14T12:55:33.760716+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 1
+  },
+  {
     "id": 375788538,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 4
-  },
-  {
-    "id": 2630094201,
-    "from": "!6982bcb0",
-    "from_name": "Hambridge V4 - Paul ",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-08T17:52:31.353746+00:00",
-    "channel": 0,
-    "snr": -16.5,
-    "hops": 5
   }
 ]
