@@ -1,5 +1,16 @@
 [
   {
+    "id": 1873306292,
+    "from": "!a20a197c",
+    "from_name": "Meshtastic 197c",
+    "to": "^all",
+    "text": "We are un flight EIGRY...",
+    "timestamp": "2026-06-14T12:44:24.874051+00:00",
+    "channel": 0,
+    "snr": -16.5,
+    "hops": 2
+  },
+  {
     "id": 1873306285,
     "from": "!a20a197c",
     "from_name": "Meshtastic 197c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.75,
     "hops": 2
-  },
-  {
-    "id": 832856763,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "ping pong",
-    "timestamp": "2026-06-07T22:36:01.387358+00:00",
-    "channel": 0,
-    "snr": -17.75,
-    "hops": 7
   }
 ]
