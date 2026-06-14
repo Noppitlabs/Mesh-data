@@ -4565,5 +4565,15 @@
     "short_name": "22e6",
     "hw_model": "TRACKER_T1000_E",
     "role": "TRACKER"
+  },
+  "!9e9fad70": {
+    "id": "!9e9fad70",
+    "long_name": "Jumpers",
+    "last_heard": "2026-06-14T19:07:36.496586+00:00",
+    "snr": -15.25,
+    "hops_away": 4,
+    "short_name": "JUMP",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
