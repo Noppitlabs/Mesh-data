@@ -1,5 +1,16 @@
 [
   {
+    "id": 1509120632,
+    "from": "!9ea0bce4",
+    "from_name": "Hyperion WirelessPaper",
+    "to": "^all",
+    "text": "I can hear you flying over, EIGRY \ud83d\ude1c",
+    "timestamp": "2026-06-14T13:10:31.792625+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 7
+  },
+  {
     "id": 1873306294,
     "from": "!a20a197c",
     "from_name": "Meshtastic 197c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.25,
     "hops": 5
-  },
-  {
-    "id": 2742428850,
-    "from": "!9ea0bce4",
-    "from_name": "Hyperion WirelessPaper",
-    "to": "^all",
-    "text": "Myttin da, fatla genes? \ud83d\ude01",
-    "timestamp": "2026-06-09T07:28:17.765096+00:00",
-    "channel": 0,
-    "snr": -9.5,
-    "hops": 4
   }
 ]
