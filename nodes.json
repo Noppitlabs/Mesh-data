@@ -4519,9 +4519,9 @@
   "!a20a197c": {
     "id": "!a20a197c",
     "long_name": "Meshtastic 197c",
-    "last_heard": "2026-06-14T12:43:12.268654+00:00",
-    "snr": -15.0,
-    "hops_away": 1,
+    "last_heard": "2026-06-14T12:44:23.368227+00:00",
+    "snr": -16.5,
+    "hops_away": 2,
     "short_name": "197c",
     "hw_model": "STATION_G2",
     "role": ""
