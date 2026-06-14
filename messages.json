@@ -1,5 +1,16 @@
 [
   {
+    "id": 1873306285,
+    "from": "!a20a197c",
+    "from_name": "Meshtastic 197c",
+    "to": "^all",
+    "text": "Range test",
+    "timestamp": "2026-06-14T12:43:11.183556+00:00",
+    "channel": 0,
+    "snr": -15.0,
+    "hops": 1
+  },
+  {
     "id": 167798530,
     "from": "!f4e165fb",
     "from_name": "St Ives Seeed Node",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 7
-  },
-  {
-    "id": 639271333,
-    "from": "!b03be864",
-    "from_name": "Meshtastic e864",
-    "to": "^all",
-    "text": "i dont speek emoji",
-    "timestamp": "2026-06-07T20:02:32.287726+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 6
   }
 ]
