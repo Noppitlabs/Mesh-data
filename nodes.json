@@ -4597,5 +4597,12 @@
     "short_name": "uc0n",
     "hw_model": "PORTDUINO",
     "role": "CLIENT_HIDDEN"
+  },
+  "!fea85b45": {
+    "id": "!fea85b45",
+    "long_name": "!fea85b45",
+    "last_heard": "2026-06-14T20:23:22.640664+00:00",
+    "snr": -8.25,
+    "hops_away": 5
   }
 }
