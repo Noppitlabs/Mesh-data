@@ -4607,5 +4607,15 @@
     "last_heard": "2026-06-14T20:23:22.640664+00:00",
     "snr": -8.25,
     "hops_away": 5
+  },
+  "!3f6adae1": {
+    "id": "!3f6adae1",
+    "long_name": "Meshtastic dae1",
+    "last_heard": "2026-06-14T21:16:58.321118+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
+    "short_name": "dae1",
+    "hw_model": "THINKNODE_M1",
+    "role": ""
   }
 }
