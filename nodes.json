@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-14T21:34:03.756596+00:00",
+    "last_heard": "2026-06-14T21:35:03.795237+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1074,9 +1074,9 @@
   "!a2ea1df4": {
     "id": "!a2ea1df4",
     "long_name": "GCM0002 - L'islet \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-06-14T21:20:36.285924+00:00",
-    "snr": -11.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-14T21:35:53.114702+00:00",
+    "snr": -17.0,
+    "hops_away": 6,
     "short_name": "1df4",
     "hw_model": "STATION_G2",
     "role": ""
