@@ -4219,9 +4219,9 @@
   "!f4e165fb": {
     "id": "!f4e165fb",
     "long_name": "St Ives Seeed Node",
-    "last_heard": "2026-06-14T13:57:23.828370+00:00",
-    "snr": -9.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-14T13:59:21.068371+00:00",
+    "snr": -11.0,
+    "hops_away": 5,
     "short_name": "Eia",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
