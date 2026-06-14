@@ -1,5 +1,16 @@
 [
   {
+    "id": 709047073,
+    "from": "!9ea0bce4",
+    "from_name": "Hyperion WirelessPaper",
+    "to": "^all",
+    "text": "Received in Truro",
+    "timestamp": "2026-06-14T12:49:00.000262+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 4
+  },
+  {
     "id": 221744488,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.5,
     "hops": 7
-  },
-  {
-    "id": 615061124,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-08T11:08:35.298144+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 4
   }
 ]
