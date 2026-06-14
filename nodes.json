@@ -4505,5 +4505,15 @@
     "last_heard": "2026-06-14T08:05:24.332201+00:00",
     "snr": -16.0,
     "hops_away": 6
+  },
+  "!f115bd68": {
+    "id": "!f115bd68",
+    "long_name": "GW1JFV",
+    "last_heard": "2026-06-14T11:07:54.139637+00:00",
+    "snr": -14.75,
+    "hops_away": 3,
+    "short_name": "1JFV",
+    "hw_model": "M5STACK_C6L",
+    "role": ""
   }
 }
