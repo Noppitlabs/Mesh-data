@@ -2676,9 +2676,9 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-06-15T19:43:16.132476+00:00",
-    "snr": -18.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-15T20:20:06.628567+00:00",
+    "snr": -17.0,
+    "hops_away": 3,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
