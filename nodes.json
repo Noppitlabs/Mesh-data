@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-15T13:43:43.926089+00:00",
+    "last_heard": "2026-06-15T13:43:45.671085+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -713,9 +713,9 @@
   "!9ea08c08": {
     "id": "!9ea08c08",
     "long_name": "Lanreath ",
-    "last_heard": "2026-06-15T07:56:32.083718+00:00",
-    "snr": -14.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-15T13:43:55.783433+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "Looe",
     "hw_model": "HELTEC_V3",
     "role": ""
