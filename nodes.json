@@ -3779,12 +3779,12 @@
   "!9e77932c": {
     "id": "!9e77932c",
     "long_name": "Meshtastic 932c",
-    "last_heard": "2026-05-29T11:37:37.309985+00:00",
-    "snr": -10.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-15T04:46:36.458910+00:00",
+    "snr": -16.5,
+    "hops_away": 4,
     "short_name": "932c",
     "hw_model": "HELTEC_V3",
-    "role": ""
+    "role": "CLIENT_MUTE"
   },
   "!89fd8d02": {
     "id": "!89fd8d02",
