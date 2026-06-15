@@ -2981,9 +2981,9 @@
   "!a0cb50ac": {
     "id": "!a0cb50ac",
     "long_name": "Eddie-M8EVM1",
-    "last_heard": "2026-06-13T21:09:20.889980+00:00",
-    "snr": -14.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-15T08:15:37.312953+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
     "short_name": "EVM1",
     "hw_model": "HELTEC_V3",
     "role": ""
