@@ -1,5 +1,16 @@
 [
   {
+    "id": 233678054,
+    "from": "!a20a197c",
+    "from_name": "EI-GRY",
+    "to": "^all",
+    "text": "Hol\u00e0, we have contact with Spain !!!",
+    "timestamp": "2026-06-15T15:54:05.892381+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 5
+  },
+  {
     "id": 194472644,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-10T18:22:19.614420+00:00",
     "channel": 0,
     "snr": -12.0,
-    "hops": 3
-  },
-  {
-    "id": 487562018,
-    "from": "!56a58fd9",
-    "from_name": "!56a58fd9",
-    "to": "^all",
-    "text": "Afternoon",
-    "timestamp": "2026-06-10T17:30:57.492932+00:00",
-    "channel": 0,
-    "snr": -18.25,
     "hops": 3
   }
 ]
