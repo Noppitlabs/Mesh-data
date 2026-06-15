@@ -4653,10 +4653,13 @@
   },
   "!da65ab58": {
     "id": "!da65ab58",
-    "long_name": "!da65ab58",
-    "last_heard": "2026-06-15T08:17:02.384295+00:00",
-    "snr": -14.75,
-    "hops_away": 6
+    "long_name": "Mobile Home \ud83d\udcf5",
+    "last_heard": "2026-06-15T16:49:09.176149+00:00",
+    "snr": -16.75,
+    "hops_away": 6,
+    "short_name": "MBHM",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!433c0b4c": {
     "id": "!433c0b4c",
