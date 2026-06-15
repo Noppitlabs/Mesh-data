@@ -4606,9 +4606,9 @@
   "!ddb733be": {
     "id": "!ddb733be",
     "long_name": "uconsoleAIO",
-    "last_heard": "2026-06-14T19:27:41.257675+00:00",
-    "snr": -15.75,
-    "hops_away": 5,
+    "last_heard": "2026-06-15T21:15:20.884420+00:00",
+    "snr": -10.25,
+    "hops_away": 3,
     "short_name": "uc0n",
     "hw_model": "PORTDUINO",
     "role": "CLIENT_HIDDEN"
