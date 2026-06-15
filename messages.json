@@ -1,5 +1,16 @@
 [
   {
+    "id": 2865074057,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-15T13:18:34.150218+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 3
+  },
+  {
     "id": 482636123,
     "from": "!5ccaa577",
     "from_name": "Finn Mobile2",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.0,
     "hops": 7
-  },
-  {
-    "id": 1158086338,
-    "from": "!f669c178",
-    "from_name": "Meshtastic c178",
-    "to": "^all",
-    "text": "Awesome \ud83e\udd294 hops\ud83d\ude00I \ud83c\udfca\u200d\u2640\ufe0fup there a lot \ud83c\udf0a",
-    "timestamp": "2026-06-09T19:51:27.495507+00:00",
-    "channel": 0,
-    "snr": -12.75,
-    "hops": 5
   }
 ]
