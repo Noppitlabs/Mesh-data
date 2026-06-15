@@ -2158,9 +2158,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-06-15T18:48:58.544236+00:00",
-    "snr": -12.25,
-    "hops_away": 1,
+    "last_heard": "2026-06-15T18:55:05.849166+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
