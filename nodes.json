@@ -1993,9 +1993,9 @@
   "!870f3e99": {
     "id": "!870f3e99",
     "long_name": "TOrr R0uter",
-    "last_heard": "2026-06-10T22:30:34.755480+00:00",
-    "snr": -14.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-15T21:30:25.559413+00:00",
+    "snr": -8.5,
+    "hops_away": 2,
     "short_name": "T0R0",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER_LATE"
