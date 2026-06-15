@@ -4223,9 +4223,9 @@
   "!9e773cbc": {
     "id": "!9e773cbc",
     "long_name": "Meshtastic 3cbc",
-    "last_heard": "2026-06-15T11:47:48.980630+00:00",
-    "snr": -16.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-15T20:30:34.048187+00:00",
+    "snr": -19.75,
+    "hops_away": 2,
     "short_name": "MURF",
     "hw_model": "HELTEC_V3",
     "role": ""
