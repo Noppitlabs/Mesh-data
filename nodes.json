@@ -1430,9 +1430,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-06-16T20:21:00.016041+00:00",
-    "snr": -12.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-16T20:50:18.297643+00:00",
+    "snr": -10.5,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3057,8 +3057,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-16T20:40:33.365903+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-06-16T20:50:03.331249+00:00",
+    "snr": -9.5,
     "hops_away": 2,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
