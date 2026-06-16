@@ -3467,13 +3467,10 @@
   },
   "!da63bc78": {
     "id": "!da63bc78",
-    "long_name": "sj27 Slimjim j-pole",
-    "last_heard": "2026-06-01T22:10:57.717588+00:00",
-    "snr": -18.75,
-    "hops_away": 6,
-    "short_name": "sj27",
-    "hw_model": "HELTEC_V3",
-    "role": "CLIENT_BASE"
+    "long_name": "!da63bc78",
+    "last_heard": "2026-06-16T09:39:30.500130+00:00",
+    "snr": -10.5,
+    "hops_away": 6
   },
   "!33690dec": {
     "id": "!33690dec",
