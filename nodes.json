@@ -336,9 +336,9 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-06-16T06:44:47.406842+00:00",
-    "snr": -8.25,
-    "hops_away": 4,
+    "last_heard": "2026-06-16T07:33:54.977303+00:00",
+    "snr": -8.0,
+    "hops_away": 3,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
     "role": ""
