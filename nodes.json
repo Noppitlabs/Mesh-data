@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-16T05:11:46.379834+00:00",
-    "snr": -15.75,
-    "hops_away": 1,
+    "last_heard": "2026-06-16T05:15:07.843385+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -2023,8 +2023,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-06-16T05:00:54.789965+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-16T05:15:03.552896+00:00",
+    "snr": -16.75,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
