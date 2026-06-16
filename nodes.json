@@ -3454,9 +3454,9 @@
   "!040843cc": {
     "id": "!040843cc",
     "long_name": "wlv3_43cc",
-    "last_heard": "2026-06-15T16:38:23.777647+00:00",
-    "snr": -17.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-16T17:16:12.395492+00:00",
+    "snr": -15.75,
+    "hops_away": 5,
     "short_name": "wlv3",
     "hw_model": "HELTEC_V3",
     "role": ""
