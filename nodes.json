@@ -2023,9 +2023,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-06-16T19:30:50.864266+00:00",
-    "snr": -13.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-16T19:31:53.555512+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
