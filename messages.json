@@ -1,5 +1,16 @@
 [
   {
+    "id": 572875588,
+    "from": "!336a3280",
+    "from_name": "nanoflower (TA13)",
+    "to": "^all",
+    "text": "\ud83d\ude40",
+    "timestamp": "2026-06-16T22:31:19.565262+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 3
+  },
+  {
     "id": 572875582,
     "from": "!336a3280",
     "from_name": "nanoflower (TA13)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 4
-  },
-  {
-    "id": 2697883760,
-    "from": "!9ea1b288",
-    "from_name": "SwallowsNest - Adam Cullompton",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-10T18:34:54.836130+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 2
   }
 ]
