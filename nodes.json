@@ -2713,9 +2713,9 @@
   "!56a58fd9": {
     "id": "!56a58fd9",
     "long_name": "Mesh_EX15 HT1",
-    "last_heard": "2026-06-15T12:46:36.567165+00:00",
-    "snr": -14.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-16T06:46:21.987067+00:00",
+    "snr": -9.25,
+    "hops_away": 4,
     "short_name": "ht01",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
