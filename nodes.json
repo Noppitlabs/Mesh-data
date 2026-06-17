@@ -4123,9 +4123,9 @@
   "!0404e714": {
     "id": "!0404e714",
     "long_name": "Meshtastic e714",
-    "last_heard": "2026-06-17T14:39:48.334081+00:00",
+    "last_heard": "2026-06-17T14:42:52.152936+00:00",
     "snr": -8.5,
-    "hops_away": 2,
+    "hops_away": 3,
     "short_name": "e714",
     "hw_model": "HELTEC_V3",
     "role": ""
