@@ -1,5 +1,16 @@
 [
   {
+    "id": 3357544055,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-17T11:43:23.861600+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 4
+  },
+  {
     "id": 431008452,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 5
-  },
-  {
-    "id": 1772624973,
-    "from": "!da56b48c",
-    "from_name": "SR#1 V3",
-    "to": "^all",
-    "text": "\ud83d\ude01",
-    "timestamp": "2026-06-12T21:08:37.974854+00:00",
-    "channel": 0,
-    "snr": -18.5,
-    "hops": 1
   }
 ]
