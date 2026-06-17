@@ -323,9 +323,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-06-17T01:25:38.927356+00:00",
-    "snr": -16.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-17T03:00:29.958216+00:00",
+    "snr": -11.75,
+    "hops_away": 7,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -540,9 +540,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-06-17T01:12:00.352182+00:00",
-    "snr": -14.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-17T03:00:19.639706+00:00",
+    "snr": -11.5,
+    "hops_away": 4,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
