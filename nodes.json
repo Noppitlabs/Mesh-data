@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-17T11:54:47.606097+00:00",
-    "snr": -9.0,
-    "hops_away": 5,
+    "last_heard": "2026-06-17T11:57:46.089821+00:00",
+    "snr": -9.25,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -4393,9 +4393,9 @@
   "!bdf0d2a8": {
     "id": "!bdf0d2a8",
     "long_name": "!bdf0d2a8",
-    "last_heard": "2026-06-17T10:57:29.533282+00:00",
-    "snr": -12.25,
-    "hops_away": 5
+    "last_heard": "2026-06-17T11:57:40.737706+00:00",
+    "snr": -10.0,
+    "hops_away": 6
   },
   "!02ee84f8": {
     "id": "!02ee84f8",
