@@ -1,5 +1,16 @@
 [
   {
+    "id": 662259956,
+    "from": "!9ea1b288",
+    "from_name": "SwallowsNest - Adam Cullompton",
+    "to": "^all",
+    "text": "Pong",
+    "timestamp": "2026-06-17T14:49:07.473015+00:00",
+    "channel": 0,
+    "snr": -8.25,
+    "hops": 2
+  },
+  {
     "id": 3357544055,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 6
-  },
-  {
-    "id": 2534758177,
-    "from": "!0409d1c0",
-    "from_name": "M7FYU",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-12T21:57:17.978495+00:00",
-    "channel": 0,
-    "snr": -17.75,
-    "hops": 5
   }
 ]
