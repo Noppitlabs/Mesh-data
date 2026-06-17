@@ -4800,5 +4800,15 @@
     "last_heard": "2026-06-17T08:58:08.966870+00:00",
     "snr": -10.75,
     "hops_away": 5
+  },
+  "!a7adbd85": {
+    "id": "!a7adbd85",
+    "long_name": "MP client 2",
+    "last_heard": "2026-06-17T12:48:06.568156+00:00",
+    "snr": -9.0,
+    "hops_away": 6,
+    "short_name": "MPc2",
+    "hw_model": "HELTEC_MESH_POCKET",
+    "role": ""
   }
 }
