@@ -1908,10 +1908,13 @@
   },
   "!699c36d4": {
     "id": "!699c36d4",
-    "long_name": "!699c36d4",
-    "last_heard": "2026-06-17T02:29:02.747392+00:00",
-    "snr": -14.75,
-    "hops_away": 7
+    "long_name": "BiSON 36d4",
+    "last_heard": "2026-06-17T06:21:03.781086+00:00",
+    "snr": -11.5,
+    "hops_away": 7,
+    "short_name": "BSON",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!02e60d74": {
     "id": "!02e60d74",
