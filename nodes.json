@@ -740,9 +740,9 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-06-17T17:59:01.166410+00:00",
-    "snr": -11.25,
-    "hops_away": 4,
+    "last_heard": "2026-06-17T18:31:05.958682+00:00",
+    "snr": -10.75,
+    "hops_away": 7,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
