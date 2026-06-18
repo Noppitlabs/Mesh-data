@@ -1,5 +1,16 @@
 [
   {
+    "id": 761142849,
+    "from": "!932e30cd",
+    "from_name": "G0MOH Solar \u2600\ufe0f",
+    "to": "^all",
+    "text": "Yes, 1 hop to Okehampton.",
+    "timestamp": "2026-06-18T20:41:49.444656+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 3
+  },
+  {
     "id": 3921204776,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 7
-  },
-  {
-    "id": 375788536,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-13T09:58:10.466198+00:00",
-    "channel": 0,
-    "snr": -17.25,
-    "hops": 3
   }
 ]
