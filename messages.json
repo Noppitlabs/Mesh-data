@@ -1,5 +1,16 @@
 [
   {
+    "id": 720878050,
+    "from": "!a2ea1df4",
+    "from_name": "GCM0002 - L'islet \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
+    "to": "^all",
+    "text": "Evening all",
+    "timestamp": "2026-06-18T20:56:54.831985+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 6
+  },
+  {
     "id": 2327323650,
     "from": "!2687afb1",
     "from_name": "Cider Village OMNI RAK",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.5,
     "hops": 3
-  },
-  {
-    "id": 566751332,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "Goodnight",
-    "timestamp": "2026-06-13T22:53:14.440991+00:00",
-    "channel": 0,
-    "snr": -19.5,
-    "hops": 4
   }
 ]
