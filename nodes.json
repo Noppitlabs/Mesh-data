@@ -4816,5 +4816,12 @@
     "short_name": "MPc2",
     "hw_model": "HELTEC_MESH_POCKET",
     "role": ""
+  },
+  "!da5af428": {
+    "id": "!da5af428",
+    "long_name": "!da5af428",
+    "last_heard": "2026-06-18T05:17:54.235198+00:00",
+    "snr": -15.5,
+    "hops_away": 2
   }
 }
