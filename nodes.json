@@ -2164,7 +2164,7 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-06-18T02:44:20.595752+00:00",
+    "last_heard": "2026-06-18T02:46:14.696712+00:00",
     "snr": -12.5,
     "hops_away": 1,
     "short_name": "MESH",
@@ -4019,9 +4019,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-06-18T02:21:37.218329+00:00",
-    "snr": -9.75,
-    "hops_away": 7,
+    "last_heard": "2026-06-18T02:45:17.615522+00:00",
+    "snr": -13.25,
+    "hops_away": 5,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
