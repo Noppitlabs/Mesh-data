@@ -1,5 +1,16 @@
 [
   {
+    "id": 66582991,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "good morning ping pong players",
+    "timestamp": "2026-06-18T08:44:25.232981+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 2
+  },
+  {
     "id": 271621141,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.0,
     "hops": 1
-  },
-  {
-    "id": 2374173459,
-    "from": "!c90ed460",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-13T09:18:23.728109+00:00",
-    "channel": 0,
-    "snr": -19.5,
-    "hops": 5
   }
 ]
