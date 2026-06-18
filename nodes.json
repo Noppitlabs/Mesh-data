@@ -4860,5 +4860,15 @@
     "last_heard": "2026-06-18T18:47:09.345790+00:00",
     "snr": -13.25,
     "hops_away": 4
+  },
+  "!79f67b08": {
+    "id": "!79f67b08",
+    "long_name": "JERSEY ",
+    "last_heard": "2026-06-18T19:04:12.961407+00:00",
+    "snr": -14.5,
+    "hops_away": 5,
+    "short_name": "JRSY",
+    "hw_model": "RAK4631",
+    "role": "ROUTER"
   }
 }
