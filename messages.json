@@ -1,5 +1,16 @@
 [
   {
+    "id": 2327323650,
+    "from": "!2687afb1",
+    "from_name": "Cider Village OMNI RAK",
+    "to": "^all",
+    "text": "Thanks, shame it was not direct :-)",
+    "timestamp": "2026-06-18T20:48:17.479984+00:00",
+    "channel": 0,
+    "snr": -8.0,
+    "hops": 2
+  },
+  {
     "id": 761142849,
     "from": "!932e30cd",
     "from_name": "G0MOH Solar \u2600\ufe0f",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.5,
     "hops": 4
-  },
-  {
-    "id": 458355297,
-    "from": "!f4e165fb",
-    "from_name": "St Ives Seeed Node",
-    "to": "^all",
-    "text": "Pong",
-    "timestamp": "2026-06-13T21:43:27.399783+00:00",
-    "channel": 0,
-    "snr": -15.75,
-    "hops": 7
   }
 ]
