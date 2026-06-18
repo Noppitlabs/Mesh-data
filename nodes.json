@@ -1717,9 +1717,9 @@
   "!38496e39": {
     "id": "!38496e39",
     "long_name": "Spitfire",
-    "last_heard": "2026-06-18T18:12:14.897977+00:00",
-    "snr": -12.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-18T20:18:28.910296+00:00",
+    "snr": -9.25,
+    "hops_away": 7,
     "short_name": "Sptf",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
