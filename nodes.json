@@ -4015,9 +4015,9 @@
   "!d94ac3e1": {
     "id": "!d94ac3e1",
     "long_name": "DLP Tech Ops Mobile ",
-    "last_heard": "2026-06-18T19:31:49.573811+00:00",
-    "snr": -0.25,
-    "hops_away": 0,
+    "last_heard": "2026-06-18T19:43:46.350865+00:00",
+    "snr": -10.0,
+    "hops_away": 2,
     "short_name": "DLP1",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
