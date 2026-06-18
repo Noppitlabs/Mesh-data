@@ -1774,9 +1774,9 @@
   "!43b708bc": {
     "id": "!43b708bc",
     "long_name": "NLC Base",
-    "last_heard": "2026-06-18T20:49:51.230113+00:00",
-    "snr": -9.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-18T21:38:46.225662+00:00",
+    "snr": -10.0,
+    "hops_away": 4,
     "short_name": "NLCB",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
