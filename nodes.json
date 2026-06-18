@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-18T07:11:27.308624+00:00",
+    "last_heard": "2026-06-18T07:12:29.305628+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2749,8 +2749,8 @@
   "!da56dd40": {
     "id": "!da56dd40",
     "long_name": "SC Home Base",
-    "last_heard": "2026-06-16T19:13:02.378185+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-18T07:13:09.728450+00:00",
+    "snr": -11.25,
     "hops_away": 3,
     "short_name": "SCHm",
     "hw_model": "HELTEC_V3",
