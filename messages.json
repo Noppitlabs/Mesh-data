@@ -1,5 +1,16 @@
 [
   {
+    "id": 3921204776,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "sj27 - Pong - 3 hops",
+    "timestamp": "2026-06-18T13:29:41.047614+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 7
+  },
+  {
     "id": 66582991,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.25,
     "hops": 3
-  },
-  {
-    "id": 1856009404,
-    "from": "!c90ed460",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Yes Tropo Ducting going on",
-    "timestamp": "2026-06-13T09:18:45.193458+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 1
   }
 ]
