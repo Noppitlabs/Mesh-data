@@ -4640,9 +4640,9 @@
   "!fea85b45": {
     "id": "!fea85b45",
     "long_name": "G7RZU-2",
-    "last_heard": "2026-06-18T18:18:23.447424+00:00",
-    "snr": -12.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-18T18:37:06.642938+00:00",
+    "snr": -16.25,
+    "hops_away": 4,
     "short_name": "rzu2",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
