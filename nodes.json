@@ -2375,9 +2375,9 @@
   "!90a0f6f4": {
     "id": "!90a0f6f4",
     "long_name": "GCM0016 - Capelles \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-06-18T19:26:15.917492+00:00",
-    "snr": -14.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-19T00:01:57.730571+00:00",
+    "snr": -6.5,
+    "hops_away": 6,
     "short_name": "f6f4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
