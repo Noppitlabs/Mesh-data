@@ -4251,9 +4251,9 @@
   "!336a3280": {
     "id": "!336a3280",
     "long_name": "nanoflower (TA13)",
-    "last_heard": "2026-06-18T20:02:25.474841+00:00",
-    "snr": -7.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-19T04:09:17.255741+00:00",
+    "snr": -7.0,
+    "hops_away": 3,
     "short_name": "nnfl",
     "hw_model": "HELTEC_V3",
     "role": ""
