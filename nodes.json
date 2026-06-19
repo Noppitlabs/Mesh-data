@@ -3582,13 +3582,10 @@
   },
   "!33602644": {
     "id": "!33602644",
-    "long_name": "Meshtastic 2644",
-    "last_heard": "2026-05-31T00:25:31.565570+00:00",
-    "snr": -2.5,
-    "hops_away": 7,
-    "short_name": "2644",
-    "hw_model": "LILYGO_TBEAM_S3_CORE",
-    "role": ""
+    "long_name": "!33602644",
+    "last_heard": "2026-06-19T00:57:21.416909+00:00",
+    "snr": -6.0,
+    "hops_away": 7
   },
   "!fe71fd56": {
     "id": "!fe71fd56",
