@@ -4897,8 +4897,8 @@
   "!d82e3c67": {
     "id": "!d82e3c67",
     "long_name": "Snip Meshtastic 3c67",
-    "last_heard": "2026-06-20T03:36:36.381330+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-06-20T05:33:02.371482+00:00",
+    "snr": -11.25,
     "hops_away": 5,
     "short_name": "SNIP",
     "hw_model": "SEEED_WIO_TRACKER_L1",
