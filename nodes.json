@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-20T05:48:24.852028+00:00",
+    "last_heard": "2026-06-20T05:48:26.596715+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4572,9 +4572,9 @@
   "!f115bd68": {
     "id": "!f115bd68",
     "long_name": "GW1JFV",
-    "last_heard": "2026-06-20T05:39:06.199155+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T05:49:03.621211+00:00",
+    "snr": -10.5,
+    "hops_away": 5,
     "short_name": "1JFV",
     "hw_model": "M5STACK_C6L",
     "role": ""
