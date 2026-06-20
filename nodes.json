@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-20T11:49:41.923686+00:00",
+    "last_heard": "2026-06-20T11:50:41.957593+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -216,8 +216,8 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-06-20T11:17:04.019941+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-06-20T11:50:47.221551+00:00",
+    "snr": -8.5,
     "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
