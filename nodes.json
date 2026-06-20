@@ -2032,8 +2032,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-06-20T11:02:47.071887+00:00",
-    "snr": -10.5,
+    "last_heard": "2026-06-20T11:37:49.820486+00:00",
+    "snr": -12.0,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -4934,9 +4934,9 @@
   "!433e2d80": {
     "id": "!433e2d80",
     "long_name": "Simcom M2",
-    "last_heard": "2026-06-20T11:16:29.083578+00:00",
-    "snr": -11.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-20T11:37:44.805146+00:00",
+    "snr": -13.0,
+    "hops_away": 7,
     "short_name": "SCM2",
     "hw_model": "HELTEC_V3",
     "role": ""
