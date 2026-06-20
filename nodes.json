@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-20T23:38:54.781437+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-06-20T23:39:24.664208+00:00",
+    "snr": -7.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-06-20T23:24:10.689336+00:00",
-    "snr": -7.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T23:39:15.334739+00:00",
+    "snr": -8.0,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
