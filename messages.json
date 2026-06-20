@@ -1,5 +1,16 @@
 [
   {
+    "id": 2949085836,
+    "from": "!04086298",
+    "from_name": "!04086298",
+    "to": "^all",
+    "text": "1\ufe0f\u20e3",
+    "timestamp": "2026-06-20T09:57:06.023458+00:00",
+    "channel": 0,
+    "snr": -10.75,
+    "hops": 6
+  },
+  {
     "id": 842493986,
     "from": "!133a8e1e",
     "from_name": "M7FJD~Tag",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.0,
     "hops": 1
-  },
-  {
-    "id": 167798530,
-    "from": "!f4e165fb",
-    "from_name": "St Ives Seeed Node",
-    "to": "^all",
-    "text": "Road trip to port Isaac \ud83d\ude0e\ud83d\ude0e\ud83d\ude0e",
-    "timestamp": "2026-06-14T10:40:03.993197+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 5
   }
 ]
