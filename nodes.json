@@ -2069,9 +2069,9 @@
   "!433ba350": {
     "id": "!433ba350",
     "long_name": "NKD-NKDM",
-    "last_heard": "2026-06-20T06:34:41.452330+00:00",
-    "snr": -15.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T06:56:31.259638+00:00",
+    "snr": -12.75,
+    "hops_away": 2,
     "short_name": "NKD2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "REPEATER"
@@ -3083,9 +3083,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-20T06:53:04.977733+00:00",
-    "snr": -18.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-20T06:56:36.249296+00:00",
+    "snr": -13.25,
+    "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
