@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-20T15:13:32.794978+00:00",
-    "snr": -11.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T15:14:21.995981+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-20T15:11:39.202425+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-20T15:13:52.649329+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
