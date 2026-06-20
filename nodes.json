@@ -403,9 +403,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-06-20T05:00:58.427877+00:00",
-    "snr": -11.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-20T06:44:02.207943+00:00",
+    "snr": -12.0,
+    "hops_away": 3,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
@@ -3066,8 +3066,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-20T06:14:33.537176+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-06-20T06:43:34.549131+00:00",
+    "snr": -11.75,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
