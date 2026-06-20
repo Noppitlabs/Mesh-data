@@ -3706,13 +3706,10 @@
   },
   "!da63c0b4": {
     "id": "!da63c0b4",
-    "long_name": "DECODED-N1",
-    "last_heard": "2026-06-03T08:19:45.852615+00:00",
-    "snr": -11.75,
-    "hops_away": 7,
-    "short_name": "c0b4",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!da63c0b4",
+    "last_heard": "2026-06-20T19:07:24.852104+00:00",
+    "snr": -18.25,
+    "hops_away": 6
   },
   "!02e5a11c": {
     "id": "!02e5a11c",
