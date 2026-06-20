@@ -1,5 +1,16 @@
 [
   {
+    "id": 3874897335,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Yep, clocked you with just 1 hop away",
+    "timestamp": "2026-06-20T11:42:04.661265+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 3
+  },
+  {
     "id": 2949085836,
     "from": "!04086298",
     "from_name": "!04086298",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.5,
     "hops": 2
-  },
-  {
-    "id": 1873306285,
-    "from": "!a20a197c",
-    "from_name": "Meshtastic 197c",
-    "to": "^all",
-    "text": "Range test",
-    "timestamp": "2026-06-14T12:43:11.183556+00:00",
-    "channel": 0,
-    "snr": -15.0,
-    "hops": 1
   }
 ]
