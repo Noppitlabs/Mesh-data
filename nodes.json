@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-20T16:13:52.817108+00:00",
+    "last_heard": "2026-06-20T16:14:53.317933+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1653,8 +1653,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-20T15:29:39.909682+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-20T16:14:58.541780+00:00",
+    "snr": -12.0,
     "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
