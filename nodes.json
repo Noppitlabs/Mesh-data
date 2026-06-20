@@ -2801,10 +2801,13 @@
   },
   "!e010afc8": {
     "id": "!e010afc8",
-    "long_name": "!e010afc8",
-    "last_heard": "2026-05-25T13:37:00.632799+00:00",
-    "snr": -8.25,
-    "hops_away": 1
+    "long_name": "Meshtastic~afc8",
+    "last_heard": "2026-06-20T12:42:14.643932+00:00",
+    "snr": -5.75,
+    "hops_away": 1,
+    "short_name": "afc8",
+    "hw_model": "CROWPANEL",
+    "role": "CLIENT_MUTE"
   },
   "!ae312a0f": {
     "id": "!ae312a0f",
