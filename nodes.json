@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-20T22:07:30.112980+00:00",
-    "snr": -8.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T22:18:14.322990+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -369,8 +369,8 @@
   "!798e872d": {
     "id": "!798e872d",
     "long_name": "Exmouth~East",
-    "last_heard": "2026-06-20T19:35:12.003780+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-06-20T22:18:12.015582+00:00",
+    "snr": -5.5,
     "hops_away": 1,
     "short_name": "R1",
     "hw_model": "RAK4631",
