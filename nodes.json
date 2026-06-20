@@ -1506,9 +1506,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-06-20T14:53:26.882902+00:00",
-    "snr": -10.75,
-    "hops_away": 5,
+    "last_heard": "2026-06-20T16:22:55.165048+00:00",
+    "snr": -12.0,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1653,9 +1653,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-20T16:14:58.541780+00:00",
-    "snr": -12.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T16:22:58.935995+00:00",
+    "snr": -11.25,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
