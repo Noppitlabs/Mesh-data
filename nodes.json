@@ -4923,5 +4923,12 @@
     "short_name": "F4HB",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!bf67e619": {
+    "id": "!bf67e619",
+    "long_name": "!bf67e619",
+    "last_heard": "2026-06-20T08:31:22.012989+00:00",
+    "snr": -11.75,
+    "hops_away": 7
   }
 }
