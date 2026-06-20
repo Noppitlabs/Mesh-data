@@ -19,7 +19,7 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-20T17:57:44.512142+00:00",
+    "last_heard": "2026-06-20T17:58:59.340717+00:00",
     "snr": -6.75,
     "hops_away": 1,
     "short_name": "GZG",
@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-06-20T16:44:26.009048+00:00",
-    "snr": -13.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T17:59:04.074356+00:00",
+    "snr": -7.25,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
