@@ -726,9 +726,9 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-06-20T21:27:51.631528+00:00",
-    "snr": -8.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T23:37:51.318692+00:00",
+    "snr": -7.75,
+    "hops_away": 2,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2055,9 +2055,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-06-20T21:04:31.586574+00:00",
-    "snr": -5.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T23:38:01.223752+00:00",
+    "snr": -7.5,
+    "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
