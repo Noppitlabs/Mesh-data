@@ -4937,9 +4937,9 @@
   "!433e2d80": {
     "id": "!433e2d80",
     "long_name": "Simcom M2",
-    "last_heard": "2026-06-20T15:51:21.641832+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-20T16:42:18.062931+00:00",
+    "snr": -11.5,
+    "hops_away": 7,
     "short_name": "SCM2",
     "hw_model": "HELTEC_V3",
     "role": ""
