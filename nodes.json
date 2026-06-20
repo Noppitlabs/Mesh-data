@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-20T14:50:49.566237+00:00",
+    "last_heard": "2026-06-20T14:51:50.983457+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1626,8 +1626,8 @@
   "!5fde9453": {
     "id": "!5fde9453",
     "long_name": "TE 7 Tarr Exmoor",
-    "last_heard": "2026-06-19T11:52:08.432525+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-06-20T14:52:40.850467+00:00",
+    "snr": -13.75,
     "hops_away": 3,
     "short_name": "TE 7",
     "hw_model": "TRACKER_T1000_E",
