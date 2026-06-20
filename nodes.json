@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-20T22:17:06.352384+00:00",
+    "last_heard": "2026-06-20T22:17:08.129943+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -1864,9 +1864,9 @@
   "!a7df87aa": {
     "id": "!a7df87aa",
     "long_name": "Pendoggett_Duel_Core_Solar",
-    "last_heard": "2026-06-20T05:44:53.886870+00:00",
-    "snr": -12.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T22:17:58.380882+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "PENS",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER_LATE"
