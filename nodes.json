@@ -653,9 +653,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-06-20T10:30:09.454227+00:00",
-    "snr": -11.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T13:16:35.291346+00:00",
+    "snr": -8.0,
+    "hops_away": 3,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
@@ -733,9 +733,9 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-06-20T03:05:17.490568+00:00",
-    "snr": -10.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-20T13:16:22.573119+00:00",
+    "snr": -7.5,
+    "hops_away": 6,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
     "role": ""
