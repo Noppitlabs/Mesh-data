@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-20T05:47:58.386054+00:00",
-    "snr": -11.25,
-    "hops_away": 1,
+    "last_heard": "2026-06-20T05:49:05.922279+00:00",
+    "snr": -16.75,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1790,8 +1790,8 @@
   "!ea8ee54c": {
     "id": "!ea8ee54c",
     "long_name": "Hambridge Seeed",
-    "last_heard": "2026-06-20T05:01:41.532554+00:00",
-    "snr": -11.25,
+    "last_heard": "2026-06-20T05:49:23.407617+00:00",
+    "snr": -11.5,
     "hops_away": 3,
     "short_name": "HBse",
     "hw_model": "SEEED_XIAO_S3",
