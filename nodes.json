@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "Meshtastic 33e8",
-    "last_heard": "2026-06-20T09:00:58.342818+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-06-20T09:47:26.720810+00:00",
+    "snr": -5.25,
     "hops_away": 1,
     "short_name": "33e8",
     "hw_model": "HELTEC_V3",
@@ -129,7 +129,7 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-20T09:45:08.044716+00:00",
+    "last_heard": "2026-06-20T09:47:22.242146+00:00",
     "snr": -6.75,
     "hops_away": 2,
     "short_name": "MOHS",
