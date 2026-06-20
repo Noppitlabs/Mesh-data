@@ -1975,9 +1975,9 @@
   "!1de8d2bc": {
     "id": "!1de8d2bc",
     "long_name": "Upper  Lanreath ",
-    "last_heard": "2026-06-20T14:41:12.888004+00:00",
-    "snr": -10.0,
-    "hops_away": 5,
+    "last_heard": "2026-06-20T17:35:57.838706+00:00",
+    "snr": -6.5,
+    "hops_away": 4,
     "short_name": "Smon",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -3086,8 +3086,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-20T17:32:34.413157+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-06-20T17:36:05.504632+00:00",
+    "snr": -7.25,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
