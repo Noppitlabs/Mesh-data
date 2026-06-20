@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-20T20:04:13.134356+00:00",
-    "snr": -8.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T20:36:51.838249+00:00",
+    "snr": -18.5,
+    "hops_away": 1,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2176,8 +2176,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-06-20T20:34:27.273491+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-06-20T20:36:28.568251+00:00",
+    "snr": -8.5,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
