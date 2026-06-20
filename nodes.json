@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-20T02:34:17.063060+00:00",
+    "last_heard": "2026-06-20T02:35:18.587243+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1975,9 +1975,9 @@
   "!1de8d2bc": {
     "id": "!1de8d2bc",
     "long_name": "Upper  Lanreath ",
-    "last_heard": "2026-06-20T01:34:06.285558+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T02:36:04.049236+00:00",
+    "snr": -15.75,
+    "hops_away": 4,
     "short_name": "Smon",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
