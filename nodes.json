@@ -2697,8 +2697,8 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-06-20T08:46:55.866232+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-06-20T08:58:36.224480+00:00",
+    "snr": -5.5,
     "hops_away": 3,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
@@ -3066,9 +3066,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-20T08:46:47.174415+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T08:58:35.112018+00:00",
+    "snr": -5.0,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
@@ -4829,8 +4829,8 @@
   "!da5af428": {
     "id": "!da5af428",
     "long_name": "!da5af428",
-    "last_heard": "2026-06-20T07:29:01.390723+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-20T08:58:52.698310+00:00",
+    "snr": -5.75,
     "hops_away": 2
   },
   "!9e7631d4": {
