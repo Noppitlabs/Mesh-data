@@ -1,5 +1,16 @@
 [
   {
+    "id": 2615428888,
+    "from": "!133a8e1e",
+    "from_name": "M7FJD~Tag",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-06-20T07:41:40.896867+00:00",
+    "channel": 0,
+    "snr": -12.0,
+    "hops": 3
+  },
+  {
     "id": 874786169,
     "from": "!2687afb1",
     "from_name": "Cider Village OMNI RAK",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.75,
     "hops": 6
-  },
-  {
-    "id": 1459231610,
-    "from": "!9ea0bce4",
-    "from_name": "Hyperion WirelessPaper",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-14T07:39:18.099931+00:00",
-    "channel": 0,
-    "snr": -18.5,
-    "hops": 4
   }
 ]
