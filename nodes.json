@@ -613,8 +613,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-06-20T15:24:54.030916+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-20T16:12:54.529795+00:00",
+    "snr": -15.75,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
@@ -1191,9 +1191,9 @@
   "!a20c3088": {
     "id": "!a20c3088",
     "long_name": "Plerin",
-    "last_heard": "2026-06-19T05:59:41.582867+00:00",
-    "snr": -7.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-20T16:13:02.037511+00:00",
+    "snr": -16.0,
+    "hops_away": 7,
     "short_name": "Pler",
     "hw_model": "STATION_G2",
     "role": ""
