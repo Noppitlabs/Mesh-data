@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-20T08:41:06.275309+00:00",
-    "snr": -10.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T08:41:35.653441+00:00",
+    "snr": -5.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -2052,9 +2052,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-06-20T07:59:50.191694+00:00",
-    "snr": -13.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-20T08:42:17.113975+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
