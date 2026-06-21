@@ -5022,5 +5022,12 @@
     "short_name": "RADS",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!d3191f41": {
+    "id": "!d3191f41",
+    "long_name": "!d3191f41",
+    "last_heard": "2026-06-21T21:12:39.365582+00:00",
+    "snr": -18.75,
+    "hops_away": 7
   }
 }
