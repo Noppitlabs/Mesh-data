@@ -1,5 +1,16 @@
 [
   {
+    "id": 4017880864,
+    "from": "!b2a78f18",
+    "from_name": "timttmy-V4",
+    "to": "^all",
+    "text": "\ud83d\ude0e",
+    "timestamp": "2026-06-21T09:12:50.405452+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 4
+  },
+  {
     "id": 238744015,
     "from": "!336a3280",
     "from_name": "nanoflower (TA13)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.5,
     "hops": 7
-  },
-  {
-    "id": 1873306294,
-    "from": "!a20a197c",
-    "from_name": "Meshtastic 197c",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-14T12:55:33.760716+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 1
   }
 ]
