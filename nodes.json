@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T19:59:04.755421+00:00",
+    "last_heard": "2026-06-21T20:00:04.798284+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5011,6 +5011,16 @@
     "hops_away": 6,
     "short_name": "c320",
     "hw_model": "HELTEC_V3",
+    "role": ""
+  },
+  "!4ef19010": {
+    "id": "!4ef19010",
+    "long_name": "bdRads T-Deck",
+    "last_heard": "2026-06-21T20:00:47.131263+00:00",
+    "snr": -17.25,
+    "hops_away": 3,
+    "short_name": "RADS",
+    "hw_model": "T_DECK",
     "role": ""
   }
 }
