@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T15:00:51.253529+00:00",
+    "last_heard": "2026-06-21T15:01:51.302205+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -726,8 +726,8 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-06-21T15:00:47.985763+00:00",
-    "snr": -17.0,
+    "last_heard": "2026-06-21T15:01:59.582031+00:00",
+    "snr": -15.25,
     "hops_away": 2,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
@@ -4959,7 +4959,7 @@
   "!93d67ebc": {
     "id": "!93d67ebc",
     "long_name": "VegeMesh",
-    "last_heard": "2026-06-21T15:01:45.920846+00:00",
+    "last_heard": "2026-06-21T15:01:48.848216+00:00",
     "snr": -15.75,
     "hops_away": 4,
     "short_name": "VEGE",
