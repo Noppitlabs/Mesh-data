@@ -4992,5 +4992,15 @@
     "short_name": "test",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!b03bc558": {
+    "id": "!b03bc558",
+    "long_name": "Simcom WT1",
+    "last_heard": "2026-06-21T13:03:34.797043+00:00",
+    "snr": -13.25,
+    "hops_away": 6,
+    "short_name": "SCW1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
