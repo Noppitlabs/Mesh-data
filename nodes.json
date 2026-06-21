@@ -2259,8 +2259,8 @@
   "!0404d940": {
     "id": "!0404d940",
     "long_name": "Meshtastic d940",
-    "last_heard": "2026-06-21T07:52:40.720543+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-06-21T19:52:15.322957+00:00",
+    "snr": -17.75,
     "hops_away": 5,
     "short_name": "d940",
     "hw_model": "HELTEC_WSL_V3",
