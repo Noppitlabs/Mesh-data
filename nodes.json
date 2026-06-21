@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "M7FJD~Tag",
-    "last_heard": "2026-06-21T00:33:45.141199+00:00",
-    "snr": -8.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-21T00:47:33.540524+00:00",
+    "snr": -19.0,
+    "hops_away": 1,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -2176,9 +2176,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-06-20T23:43:37.133527+00:00",
-    "snr": -7.0,
-    "hops_away": 1,
+    "last_heard": "2026-06-21T00:47:17.704348+00:00",
+    "snr": -6.75,
+    "hops_away": 3,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
