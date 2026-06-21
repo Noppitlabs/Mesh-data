@@ -99,7 +99,7 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-06-21T10:53:01.587949+00:00",
+    "last_heard": "2026-06-21T10:53:04.338289+00:00",
     "snr": -12.75,
     "hops_away": 3,
     "short_name": "FJDt",
@@ -2703,9 +2703,9 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-06-21T08:20:52.269642+00:00",
-    "snr": -18.75,
-    "hops_away": 1,
+    "last_heard": "2026-06-21T10:53:10.599824+00:00",
+    "snr": -12.5,
+    "hops_away": 4,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
