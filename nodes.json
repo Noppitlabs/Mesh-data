@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-21T18:29:40.305589+00:00",
-    "snr": -16.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T18:36:34.087454+00:00",
+    "snr": -17.75,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -2299,9 +2299,9 @@
   "!6983e570": {
     "id": "!6983e570",
     "long_name": "GCM0008 - St Clair Hill\ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-06-19T01:54:45.182001+00:00",
-    "snr": -6.75,
-    "hops_away": 7,
+    "last_heard": "2026-06-21T18:36:51.468089+00:00",
+    "snr": -17.0,
+    "hops_away": 4,
     "short_name": "e570",
     "hw_model": "HELTEC_V4",
     "role": ""
