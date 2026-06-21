@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T21:22:08.395016+00:00",
+    "last_heard": "2026-06-21T21:22:10.367621+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2199,9 +2199,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-06-21T19:02:37.093285+00:00",
-    "snr": -17.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T21:23:01.630246+00:00",
+    "snr": -18.75,
+    "hops_away": 2,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
