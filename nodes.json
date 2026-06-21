@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T00:15:13.139448+00:00",
+    "last_heard": "2026-06-21T00:16:14.919658+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -776,8 +776,8 @@
   "!433e3450": {
     "id": "!433e3450",
     "long_name": "Simcom Wildcard ",
-    "last_heard": "2026-06-20T22:09:43.313577+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-06-21T00:17:07.274311+00:00",
+    "snr": -9.5,
     "hops_away": 3,
     "short_name": "WLCD",
     "hw_model": "HELTEC_V3",
