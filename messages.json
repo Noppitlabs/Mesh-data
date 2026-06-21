@@ -1,5 +1,16 @@
 [
   {
+    "id": 1087343884,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "I use CORE_PORTNUMS_ONLY, and I have a few yellow padlocks on clients, but not hundreds.",
+    "timestamp": "2026-06-21T10:15:36.194589+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 4
+  },
+  {
     "id": 2050791056,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 4
-  },
-  {
-    "id": 233678054,
-    "from": "!a20a197c",
-    "from_name": "EI-GRY",
-    "to": "^all",
-    "text": "Hol\u00e0, we have contact with Spain !!!",
-    "timestamp": "2026-06-15T15:54:05.892381+00:00",
-    "channel": 0,
-    "snr": -16.0,
-    "hops": 5
   }
 ]
