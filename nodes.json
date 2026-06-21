@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-21T11:23:35.132499+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-21T11:25:02.632208+00:00",
+    "snr": -12.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1656,8 +1656,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-21T11:15:00.996683+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-06-21T11:25:04.878325+00:00",
+    "snr": -16.25,
     "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -3784,8 +3784,8 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr Bs M7MRB 2",
-    "last_heard": "2026-06-21T11:08:59.687754+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-06-21T11:25:14.430439+00:00",
+    "snr": -10.75,
     "hops_away": 5,
     "short_name": "Bug2",
     "hw_model": "HELTEC_V3",
