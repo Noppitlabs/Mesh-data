@@ -1529,7 +1529,7 @@
   "!9ea0bce4": {
     "id": "!9ea0bce4",
     "long_name": "Hyperion WirelessPaper",
-    "last_heard": "2026-06-21T16:12:15.192697+00:00",
+    "last_heard": "2026-06-21T16:12:17.960133+00:00",
     "snr": -16.75,
     "hops_away": 3,
     "short_name": "HPRN",
@@ -3095,9 +3095,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-21T16:09:10.677482+00:00",
-    "snr": -16.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T16:12:45.115293+00:00",
+    "snr": -16.75,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
