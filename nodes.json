@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-21T15:02:45.530465+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-06-21T15:06:58.397832+00:00",
+    "snr": -15.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T15:06:51.515436+00:00",
+    "last_heard": "2026-06-21T15:06:53.298259+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-06-21T13:05:58.623207+00:00",
-    "snr": -13.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-21T15:06:54.428042+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
@@ -3078,8 +3078,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-21T14:58:35.130810+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-06-21T15:06:55.507876+00:00",
+    "snr": -14.75,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
