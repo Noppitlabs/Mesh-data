@@ -616,8 +616,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-06-21T05:58:05.000239+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-06-21T06:59:55.406890+00:00",
+    "snr": -10.0,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
@@ -2370,9 +2370,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-06-21T06:25:02.776361+00:00",
-    "snr": -5.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-21T06:59:34.866637+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": ""
