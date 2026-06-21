@@ -1,5 +1,16 @@
 [
   {
+    "id": 841489009,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "My base is showing 80 nodes without public keys. They appear to be from a long way, Ireland, France, Guernsey, and around Cheltenham & Gloucester.",
+    "timestamp": "2026-06-21T10:37:32.672314+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 2
+  },
+  {
     "id": 1167043832,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.25,
     "hops": 3
-  },
-  {
-    "id": 2865074058,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-16T10:05:39.848167+00:00",
-    "channel": 0,
-    "snr": -12.5,
-    "hops": 2
   }
 ]
