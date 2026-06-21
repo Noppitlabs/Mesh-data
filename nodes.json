@@ -516,9 +516,9 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-06-21T07:18:51.983809+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T10:18:42.418160+00:00",
+    "snr": -14.25,
+    "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2639,9 +2639,9 @@
   "!98e90f12": {
     "id": "!98e90f12",
     "long_name": "Carbis_Bay CBay",
-    "last_heard": "2026-06-21T02:39:39.690374+00:00",
-    "snr": -6.0,
-    "hops_away": 5,
+    "last_heard": "2026-06-21T10:19:04.762555+00:00",
+    "snr": -17.5,
+    "hops_away": 3,
     "short_name": "CBay",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
