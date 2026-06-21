@@ -1,5 +1,16 @@
 [
   {
+    "id": 2050791056,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "I'll try turning Ignore MQTT off, leave OK to MQTT off. Leave that for a few days and will report back?",
+    "timestamp": "2026-06-21T10:11:52.738868+00:00",
+    "channel": 0,
+    "snr": -13.5,
+    "hops": 3
+  },
+  {
     "id": 1964624635,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 5
-  },
-  {
-    "id": 194472644,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-15T15:52:43.445931+00:00",
-    "channel": 0,
-    "snr": -16.5,
-    "hops": 3
   }
 ]
