@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-21T16:23:35.766717+00:00",
-    "snr": -15.25,
+    "last_heard": "2026-06-21T16:45:57.340692+00:00",
+    "snr": -15.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -3078,8 +3078,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-21T16:17:19.974178+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-06-21T16:46:03.356429+00:00",
+    "snr": -15.75,
     "hops_away": 2,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
