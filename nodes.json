@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-21T13:35:07.414376+00:00",
-    "snr": -12.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-21T13:36:52.208490+00:00",
+    "snr": -12.25,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1666,8 +1666,8 @@
   "!75e05160": {
     "id": "!75e05160",
     "long_name": "PotaJoe1",
-    "last_heard": "2026-06-21T09:01:33.804882+00:00",
-    "snr": -15.25,
+    "last_heard": "2026-06-21T13:37:14.427965+00:00",
+    "snr": -13.25,
     "hops_away": 6,
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
@@ -3078,9 +3078,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-21T13:01:33.944259+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-21T13:36:51.059720+00:00",
+    "snr": -12.25,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
