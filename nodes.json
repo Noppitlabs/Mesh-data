@@ -526,9 +526,9 @@
   "!040930e4": {
     "id": "!040930e4",
     "long_name": "tredelerch",
-    "last_heard": "2026-06-21T07:54:27.653485+00:00",
-    "snr": -19.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T12:03:47.443612+00:00",
+    "snr": -10.5,
+    "hops_away": 4,
     "short_name": "M31C",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
@@ -2038,9 +2038,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-06-21T11:29:15.780312+00:00",
-    "snr": -11.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-21T12:03:49.530574+00:00",
+    "snr": -11.5,
+    "hops_away": 3,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
