@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T07:36:32.470986+00:00",
+    "last_heard": "2026-06-21T07:36:34.121556+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -229,8 +229,8 @@
   "!e2e536d4": {
     "id": "!e2e536d4",
     "long_name": "Farmer Giles Attic",
-    "last_heard": "2026-06-15T20:53:44.904890+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-06-21T07:36:55.950984+00:00",
+    "snr": -18.5,
     "hops_away": 2,
     "short_name": "FGA",
     "hw_model": "HELTEC_V3",
