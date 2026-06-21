@@ -1,5 +1,16 @@
 [
   {
+    "id": 1167043832,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "Maybe? I'm only showing 65 nodes online, of those only 2 have yellow padlocks.",
+    "timestamp": "2026-06-21T10:24:57.649179+00:00",
+    "channel": 0,
+    "snr": -12.0,
+    "hops": 2
+  },
+  {
     "id": 1087343884,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 2
-  },
-  {
-    "id": 2115908615,
-    "from": "!a0cb4648",
-    "from_name": "!a0cb4648",
-    "to": "^all",
-    "text": "Taunton test",
-    "timestamp": "2026-06-16T10:03:24.496116+00:00",
-    "channel": 0,
-    "snr": -12.75,
-    "hops": 4
   }
 ]
