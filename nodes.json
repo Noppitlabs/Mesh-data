@@ -159,8 +159,8 @@
   "!4359694c": {
     "id": "!4359694c",
     "long_name": "Meshtastic 694c",
-    "last_heard": "2026-06-21T13:47:10.991038+00:00",
-    "snr": -14.25,
+    "last_heard": "2026-06-21T14:20:12.857622+00:00",
+    "snr": -12.75,
     "hops_away": 1,
     "short_name": "694c",
     "hw_model": "HELTEC_V3",
@@ -556,9 +556,9 @@
   "!9e9fc148": {
     "id": "!9e9fc148",
     "long_name": "Somerlea Willand ",
-    "last_heard": "2026-06-21T12:04:47.978305+00:00",
-    "snr": -11.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T14:20:20.908934+00:00",
+    "snr": -13.0,
+    "hops_away": 4,
     "short_name": "SW",
     "hw_model": "HELTEC_V3",
     "role": ""
