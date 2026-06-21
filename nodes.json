@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T16:04:55.157380+00:00",
+    "last_heard": "2026-06-21T16:05:53.880526+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1509,8 +1509,8 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-06-21T04:24:38.081843+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-06-21T16:06:17.579144+00:00",
+    "snr": -16.0,
     "hops_away": 5,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
