@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-21T04:26:24.083999+00:00",
+    "last_heard": "2026-06-21T04:27:24.116129+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4112,9 +4112,9 @@
   "!394f2a16": {
     "id": "!394f2a16",
     "long_name": "MJV | Truro Solar",
-    "last_heard": "2026-06-21T02:26:36.338928+00:00",
-    "snr": -19.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-21T04:26:49.379963+00:00",
+    "snr": -17.75,
+    "hops_away": 6,
     "short_name": "MJV2",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
