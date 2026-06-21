@@ -1,5 +1,16 @@
 [
   {
+    "id": 2082392225,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "No not really \ud83e\udd37\ud83c\udffb\u200d\u2642",
+    "timestamp": "2026-06-21T09:53:17.917177+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 4
+  },
+  {
     "id": 1197407741,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-15T15:46:45.257104+00:00",
     "channel": 0,
     "snr": -17.5,
-    "hops": 2
-  },
-  {
-    "id": 1015734053,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "Rx in Exeter, 4 hops \ud83d\udc4d",
-    "timestamp": "2026-06-15T15:45:53.331644+00:00",
-    "channel": 0,
-    "snr": -16.5,
     "hops": 2
   }
 ]
