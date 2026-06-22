@@ -516,8 +516,8 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-06-21T16:18:50.132469+00:00",
-    "snr": -14.25,
+    "last_heard": "2026-06-22T10:18:45.687675+00:00",
+    "snr": -9.5,
     "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
@@ -656,9 +656,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-06-22T09:19:20.633392+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-06-22T10:18:49.730697+00:00",
+    "snr": -16.75,
+    "hops_away": 3,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
