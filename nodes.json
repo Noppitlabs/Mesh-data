@@ -3033,10 +3033,13 @@
   },
   "!e2e380b4": {
     "id": "!e2e380b4",
-    "long_name": "!e2e380b4",
-    "last_heard": "2026-06-22T18:54:53.466365+00:00",
-    "snr": -7.0,
-    "hops_away": 7
+    "long_name": "M1CNO Galhampton",
+    "last_heard": "2026-06-22T20:12:45.523001+00:00",
+    "snr": -3.75,
+    "hops_away": 5,
+    "short_name": "Gal",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!76dd3202": {
     "id": "!76dd3202",
