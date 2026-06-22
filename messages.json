@@ -1,5 +1,16 @@
 [
   {
+    "id": 1958496474,
+    "from": "!a35af184",
+    "from_name": "Egg",
+    "to": "^all",
+    "text": "Then will leave as is. Thx for info",
+    "timestamp": "2026-06-22T20:07:00.507589+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 4
+  },
+  {
     "id": 1807329749,
     "from": "!a35af184",
     "from_name": "Egg",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.0,
     "hops": 2
-  },
-  {
-    "id": 1816748066,
-    "from": "!0409d1c0",
-    "from_name": "M7FYU",
-    "to": "^all",
-    "text": "Morning all \ud83d\udc4b",
-    "timestamp": "2026-06-20T07:36:25.267775+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 6
   }
 ]
