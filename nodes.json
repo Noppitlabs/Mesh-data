@@ -5039,5 +5039,15 @@
     "short_name": "f184",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!0406ae94": {
+    "id": "!0406ae94",
+    "long_name": "puentedizj",
+    "last_heard": "2026-06-22T13:28:57.704595+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
+    "short_name": "PDJ",
+    "hw_model": "HELTEC_WIRELESS_TRACKER",
+    "role": ""
   }
 }
