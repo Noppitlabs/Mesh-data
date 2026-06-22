@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-22T18:17:03.689924+00:00",
-    "snr": -8.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-22T18:20:17.645426+00:00",
+    "snr": -13.25,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-06-22T17:34:59.174008+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-22T18:20:04.077348+00:00",
+    "snr": -7.25,
+    "hops_away": 5,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
