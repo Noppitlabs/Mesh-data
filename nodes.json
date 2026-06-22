@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-22T13:52:49.980101+00:00",
+    "last_heard": "2026-06-22T13:53:50.177725+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1783,8 +1783,8 @@
   "!43b708bc": {
     "id": "!43b708bc",
     "long_name": "NLC Base",
-    "last_heard": "2026-06-22T07:49:02.185447+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-06-22T13:53:54.403015+00:00",
+    "snr": -15.25,
     "hops_away": 6,
     "short_name": "NLCB",
     "hw_model": "HELTEC_WSL_V3",
