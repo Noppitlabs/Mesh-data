@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-22T14:16:06.583479+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-06-22T14:17:51.647531+00:00",
+    "snr": -13.75,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -536,9 +536,9 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-06-22T11:14:34.004411+00:00",
-    "snr": -14.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-22T14:18:21.808419+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
     "role": "ROUTER"
