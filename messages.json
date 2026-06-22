@@ -1,5 +1,16 @@
 [
   {
+    "id": 322550949,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Hi Mark how are you? Very hot... Don't want to go anywhere \ud83e\udd37\ud83c\udffb\u200d\u2642 hope they will shut schools so I could take kids to the beach \ud83e\udd37\ud83c\udffb\u200d\u2642",
+    "timestamp": "2026-06-22T19:41:52.848838+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 4
+  },
+  {
     "id": 496005173,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 7
-  },
-  {
-    "id": 66582991,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "good morning ping pong players",
-    "timestamp": "2026-06-18T08:44:25.232981+00:00",
-    "channel": 0,
-    "snr": -9.5,
-    "hops": 2
   }
 ]
