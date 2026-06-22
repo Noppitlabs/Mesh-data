@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-06-22T19:55:02.519230+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-06-22T20:54:08.440875+00:00",
+    "snr": -15.5,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -1783,8 +1783,8 @@
   "!43b708bc": {
     "id": "!43b708bc",
     "long_name": "NLC Base",
-    "last_heard": "2026-06-22T20:07:41.393055+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-06-22T20:54:19.240498+00:00",
+    "snr": -11.5,
     "hops_away": 6,
     "short_name": "NLCB",
     "hw_model": "HELTEC_WSL_V3",
