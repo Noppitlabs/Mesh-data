@@ -5032,11 +5032,11 @@
   },
   "!a35af184": {
     "id": "!a35af184",
-    "long_name": "Meshtastic f184",
-    "last_heard": "2026-06-22T16:19:51.683272+00:00",
-    "snr": -18.25,
+    "long_name": "Egg",
+    "last_heard": "2026-06-22T17:00:10.209792+00:00",
+    "snr": -9.75,
     "hops_away": 2,
-    "short_name": "f184",
+    "short_name": "Egg",
     "hw_model": "HELTEC_V4",
     "role": ""
   },
