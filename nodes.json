@@ -319,9 +319,9 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-06-22T19:01:40.355942+00:00",
-    "snr": -3.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-22T20:06:14.533856+00:00",
+    "snr": -5.25,
+    "hops_away": 3,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
     "role": ""
