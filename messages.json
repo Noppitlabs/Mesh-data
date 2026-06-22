@@ -1,5 +1,16 @@
 [
   {
+    "id": 1705028477,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Well rumor going around they plan to shut Wednesday and Thursday so would be perfect \ud83e\udd37\ud83c\udffb\u200d\u2642\ud83e\udd29",
+    "timestamp": "2026-06-22T19:55:37.167075+00:00",
+    "channel": 0,
+    "snr": -4.75,
+    "hops": 2
+  },
+  {
     "id": 29601211,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 6
-  },
-  {
-    "id": 2327323650,
-    "from": "!2687afb1",
-    "from_name": "Cider Village OMNI RAK",
-    "to": "^all",
-    "text": "Thanks, shame it was not direct :-)",
-    "timestamp": "2026-06-18T20:48:17.479984+00:00",
-    "channel": 0,
-    "snr": -8.0,
-    "hops": 2
   }
 ]
