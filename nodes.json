@@ -5049,5 +5049,15 @@
     "short_name": "PDJ",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
+  },
+  "!043332e0": {
+    "id": "!043332e0",
+    "long_name": "Meshtastic 32e0",
+    "last_heard": "2026-06-22T21:06:41.998634+00:00",
+    "snr": -8.5,
+    "hops_away": 5,
+    "short_name": "32e0",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
