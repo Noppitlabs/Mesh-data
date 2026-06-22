@@ -4043,11 +4043,11 @@
   },
   "!fa39f7b4": {
     "id": "!fa39f7b4",
-    "long_name": "Ellis Yagi",
-    "last_heard": "2026-06-21T20:53:26.610210+00:00",
-    "snr": -19.0,
+    "long_name": "TA2 Yagi",
+    "last_heard": "2026-06-22T19:13:20.338135+00:00",
+    "snr": -4.5,
     "hops_away": 3,
-    "short_name": "EG5y",
+    "short_name": "TA2y",
     "hw_model": "HELTEC_HT62",
     "role": ""
   },
