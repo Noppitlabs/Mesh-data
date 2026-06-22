@@ -5029,5 +5029,15 @@
     "last_heard": "2026-06-21T21:12:39.365582+00:00",
     "snr": -18.75,
     "hops_away": 7
+  },
+  "!a35af184": {
+    "id": "!a35af184",
+    "long_name": "Meshtastic f184",
+    "last_heard": "2026-06-22T12:44:34.718188+00:00",
+    "snr": -12.0,
+    "hops_away": 2,
+    "short_name": "f184",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
