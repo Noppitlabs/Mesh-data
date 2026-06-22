@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-22T20:49:05.256948+00:00",
+    "last_heard": "2026-06-22T20:50:05.305389+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4037,9 +4037,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-06-22T20:16:26.658429+00:00",
-    "snr": -7.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-22T20:50:12.872414+00:00",
+    "snr": -3.75,
+    "hops_away": 5,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
