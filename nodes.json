@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-22T07:48:33.373417+00:00",
+    "last_heard": "2026-06-22T07:48:35.191906+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -1783,8 +1783,8 @@
   "!43b708bc": {
     "id": "!43b708bc",
     "long_name": "NLC Base",
-    "last_heard": "2026-06-22T04:36:12.435902+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-06-22T07:49:02.185447+00:00",
+    "snr": -9.75,
     "hops_away": 6,
     "short_name": "NLCB",
     "hw_model": "HELTEC_WSL_V3",
