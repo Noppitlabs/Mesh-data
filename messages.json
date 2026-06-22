@@ -1,5 +1,16 @@
 [
   {
+    "id": 912258290,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Why whats wrong with this sea?",
+    "timestamp": "2026-06-22T19:49:04.345553+00:00",
+    "channel": 0,
+    "snr": -4.75,
+    "hops": 2
+  },
+  {
     "id": 322550949,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 3
-  },
-  {
-    "id": 3921204776,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "sj27 - Pong - 3 hops",
-    "timestamp": "2026-06-18T13:29:41.047614+00:00",
-    "channel": 0,
-    "snr": -16.0,
-    "hops": 7
   }
 ]
