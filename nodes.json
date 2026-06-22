@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-22T17:17:37.018047+00:00",
+    "last_heard": "2026-06-22T17:17:56.664652+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -536,9 +536,9 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-06-22T17:14:41.596270+00:00",
-    "snr": -6.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-22T17:17:38.787001+00:00",
+    "snr": -3.25,
+    "hops_away": 2,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
     "role": "ROUTER"
