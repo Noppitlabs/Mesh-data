@@ -2038,9 +2038,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-06-22T20:10:41.234519+00:00",
-    "snr": -6.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-22T20:49:16.754621+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
@@ -2179,9 +2179,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-06-22T19:48:36.270604+00:00",
-    "snr": -4.5,
-    "hops_away": 1,
+    "last_heard": "2026-06-22T20:49:07.028899+00:00",
+    "snr": -12.75,
+    "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
