@@ -1,5 +1,16 @@
 [
   {
+    "id": 2938717880,
+    "from": "!2687afb1",
+    "from_name": "Cider Village OMNI RAK",
+    "to": "^all",
+    "text": "Good Morning Meshers. Today the weather will be..... SCORCHIO :-)",
+    "timestamp": "2026-06-22T07:08:15.297233+00:00",
+    "channel": 0,
+    "snr": -16.25,
+    "hops": 2
+  },
+  {
     "id": 1370557445,
     "from": "!2687afb1",
     "from_name": "Cider Village OMNI RAK",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.25,
     "hops": 2
-  },
-  {
-    "id": 3357544055,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-17T11:43:23.861600+00:00",
-    "channel": 0,
-    "snr": -10.25,
-    "hops": 4
   }
 ]
