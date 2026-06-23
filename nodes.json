@@ -736,9 +736,9 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-06-23T08:14:14.291283+00:00",
-    "snr": -16.0,
-    "hops_away": 5,
+    "last_heard": "2026-06-23T08:34:36.211706+00:00",
+    "snr": -19.0,
+    "hops_away": 7,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
     "role": ""
@@ -1439,9 +1439,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-06-23T08:00:10.006620+00:00",
-    "snr": -18.5,
-    "hops_away": 6,
+    "last_heard": "2026-06-23T08:34:42.312407+00:00",
+    "snr": -19.25,
+    "hops_away": 4,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
