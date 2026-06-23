@@ -1,5 +1,16 @@
 [
   {
+    "id": 3906342936,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-23T10:24:05.106619+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 2
+  },
+  {
     "id": 3906342935,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-20T11:44:51.488260+00:00",
     "channel": 0,
     "snr": -11.0,
-    "hops": 3
-  },
-  {
-    "id": 3874897335,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "Yep, clocked you with just 1 hop away",
-    "timestamp": "2026-06-20T11:42:04.661265+00:00",
-    "channel": 0,
-    "snr": -8.75,
     "hops": 3
   }
 ]
