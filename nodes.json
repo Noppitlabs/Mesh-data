@@ -4002,10 +4002,13 @@
   },
   "!da633af8": {
     "id": "!da633af8",
-    "long_name": "!da633af8",
-    "last_heard": "2026-06-22T17:27:23.698088+00:00",
-    "snr": -2.5,
-    "hops_away": 6
+    "long_name": "Meshtastic 3af8",
+    "last_heard": "2026-06-23T23:26:40.827683+00:00",
+    "snr": -12.5,
+    "hops_away": 6,
+    "short_name": "3af8",
+    "hw_model": "HELTEC_V3",
+    "role": "ROUTER"
   },
   "!04007fd0": {
     "id": "!04007fd0",
