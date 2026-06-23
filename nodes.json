@@ -19,7 +19,7 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-23T15:49:04.130933+00:00",
+    "last_heard": "2026-06-23T15:50:14.850958+00:00",
     "snr": -9.0,
     "hops_away": 1,
     "short_name": "GZG",
@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-06-23T15:41:25.874952+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-06-23T15:50:03.851475+00:00",
+    "snr": -8.75,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
