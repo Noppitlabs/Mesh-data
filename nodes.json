@@ -1981,9 +1981,9 @@
   "!1de8d2bc": {
     "id": "!1de8d2bc",
     "long_name": "Upper  Lanreath ",
-    "last_heard": "2026-06-23T16:37:45.701287+00:00",
-    "snr": -5.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-23T17:55:12.052601+00:00",
+    "snr": -11.75,
+    "hops_away": 5,
     "short_name": "Smon",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
