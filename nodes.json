@@ -5070,9 +5070,9 @@
   "!d30b5c76": {
     "id": "!d30b5c76",
     "long_name": "ed",
-    "last_heard": "2026-06-23T19:46:04.010432+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-23T20:10:46.720743+00:00",
+    "snr": -7.75,
+    "hops_away": 3,
     "short_name": "5c76",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
