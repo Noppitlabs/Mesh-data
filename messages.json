@@ -1,5 +1,16 @@
 [
   {
+    "id": 1488720792,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Lightweight. 32 here.",
+    "timestamp": "2026-06-23T19:04:27.819183+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 3
+  },
+  {
     "id": 426785638,
     "from": "!2687afb1",
     "from_name": "Cider Village OMNI RAK",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-21T09:17:30.043280+00:00",
     "channel": 0,
     "snr": -16.25,
-    "hops": 2
-  },
-  {
-    "id": 2615428909,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-21T09:17:06.124281+00:00",
-    "channel": 0,
-    "snr": -17.0,
     "hops": 2
   }
 ]
