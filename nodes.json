@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-23T16:23:55.850478+00:00",
+    "last_heard": "2026-06-23T16:23:57.504475+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2440,9 +2440,9 @@
   "!1c71c8ae": {
     "id": "!1c71c8ae",
     "long_name": "GU1LRO Solar",
-    "last_heard": "2026-06-21T20:02:04.846182+00:00",
-    "snr": -17.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-23T16:24:05.532245+00:00",
+    "snr": -9.0,
+    "hops_away": 6,
     "short_name": "cobo",
     "hw_model": "RAK4631",
     "role": ""
