@@ -1,5 +1,16 @@
 [
   {
+    "id": 711748838,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "\ud83e\udd86",
+    "timestamp": "2026-06-23T10:28:16.914216+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 2
+  },
+  {
     "id": 19745629,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 7
-  },
-  {
-    "id": 1764642257,
-    "from": "!336a3280",
-    "from_name": "nanoflower (TA13)",
-    "to": "^all",
-    "text": "Receiving in south P!",
-    "timestamp": "2026-06-20T14:43:04.041180+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 4
   }
 ]
