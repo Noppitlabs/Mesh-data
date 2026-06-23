@@ -1,5 +1,16 @@
 [
   {
+    "id": 3906342937,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-23T10:24:11.232177+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 2
+  },
+  {
     "id": 3906342936,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 2
-  },
-  {
-    "id": 3874897341,
-    "from": "!93d67ebc",
-    "from_name": "!93d67ebc",
-    "to": "^all",
-    "text": "Currently sat at top of hill in West knoyle, where are you based?",
-    "timestamp": "2026-06-20T11:44:51.488260+00:00",
-    "channel": 0,
-    "snr": -11.0,
-    "hops": 3
   }
 ]
