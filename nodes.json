@@ -456,8 +456,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-06-23T12:06:15.471820+00:00",
-    "snr": -1.5,
+    "last_heard": "2026-06-23T12:40:46.982594+00:00",
+    "snr": -7.25,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -2169,7 +2169,7 @@
   "!da55eed4": {
     "id": "!da55eed4",
     "long_name": "jons house ",
-    "last_heard": "2026-06-23T12:16:57.533803+00:00",
+    "last_heard": "2026-06-23T12:40:57.164364+00:00",
     "snr": -4.75,
     "hops_away": 5,
     "short_name": "skyn",
