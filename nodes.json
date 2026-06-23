@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-23T18:34:12.933380+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-06-23T18:36:03.586011+00:00",
+    "snr": -8.25,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -4841,9 +4841,9 @@
   "!da5af428": {
     "id": "!da5af428",
     "long_name": "B12PAC Mobile",
-    "last_heard": "2026-06-23T18:09:21.060452+00:00",
-    "snr": -10.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-23T18:36:23.720104+00:00",
+    "snr": -9.75,
+    "hops_away": 3,
     "short_name": "TA2m",
     "hw_model": "TLORA_T3_S3",
     "role": ""
