@@ -4892,12 +4892,12 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Cider Village OMNI RAK",
-    "last_heard": "2026-06-23T10:37:13.074292+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-06-23T12:29:50.959774+00:00",
+    "snr": -3.75,
     "hops_away": 2,
     "short_name": "TA2r",
     "hw_model": "RAK4631",
-    "role": ""
+    "role": "CLIENT_BASE"
   },
   "!a1ab6dac": {
     "id": "!a1ab6dac",
