@@ -1,5 +1,16 @@
 [
   {
+    "id": 1804327703,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": "Ha as I got called away too ;)",
+    "timestamp": "2026-06-23T15:02:36.732069+00:00",
+    "channel": 0,
+    "snr": -6.25,
+    "hops": 2
+  },
+  {
     "id": 2073606238,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.25,
     "hops": 3
-  },
-  {
-    "id": 4017880864,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "\ud83d\ude0e",
-    "timestamp": "2026-06-21T09:12:50.405452+00:00",
-    "channel": 0,
-    "snr": -15.25,
-    "hops": 4
   }
 ]
