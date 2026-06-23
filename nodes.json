@@ -3098,9 +3098,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-23T02:38:49.998601+00:00",
-    "snr": -15.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-23T02:42:17.214006+00:00",
+    "snr": -18.75,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
