@@ -1499,9 +1499,9 @@
   "!1969b119": {
     "id": "!1969b119",
     "long_name": "PlymSteve",
-    "last_heard": "2026-06-22T16:46:17.228883+00:00",
-    "snr": -14.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-23T07:45:49.295680+00:00",
+    "snr": -16.25,
+    "hops_away": 4,
     "short_name": "Egg4",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
