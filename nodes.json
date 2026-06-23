@@ -4161,9 +4161,9 @@
   "!da31878c": {
     "id": "!da31878c",
     "long_name": "Meshtastic 878c",
-    "last_heard": "2026-06-23T14:48:10.571036+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-06-23T14:53:00.295059+00:00",
+    "snr": -7.25,
+    "hops_away": 4,
     "short_name": "878c",
     "hw_model": "PRIVATE_HW",
     "role": ""
