@@ -1,5 +1,16 @@
 [
   {
+    "id": 656031699,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "keep the chillers running to keep all the snowflakes cool",
+    "timestamp": "2026-06-23T10:19:59.433386+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 2
+  },
+  {
     "id": 63537234,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.25,
     "hops": 4
-  },
-  {
-    "id": 2615428888,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-20T07:41:40.896867+00:00",
-    "channel": 0,
-    "snr": -12.0,
-    "hops": 3
   }
 ]
