@@ -1,5 +1,16 @@
 [
   {
+    "id": 3385505726,
+    "from": "!2687afb1",
+    "from_name": "Cider Village OMNI RAK",
+    "to": "^all",
+    "text": "5 hops to here, but that migh be me not you ",
+    "timestamp": "2026-06-23T10:37:11.802564+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 2
+  },
+  {
     "id": 711748838,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.5,
     "hops": 4
-  },
-  {
-    "id": 1192100187,
-    "from": "!da5c79a4",
-    "from_name": "MJV | Truro",
-    "to": "^all",
-    "text": "\ud83d\udc4b\ud83d\udc4b",
-    "timestamp": "2026-06-20T16:05:31.175277+00:00",
-    "channel": 0,
-    "snr": -16.75,
-    "hops": 7
   }
 ]
