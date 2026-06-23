@@ -1,5 +1,16 @@
 [
   {
+    "id": 19745629,
+    "from": "!e2864d04",
+    "from_name": "RDEw",
+    "to": "^all",
+    "text": "Where are you?",
+    "timestamp": "2026-06-23T10:28:12.237573+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 2
+  },
+  {
     "id": 3906342937,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 4
-  },
-  {
-    "id": 1140532349,
-    "from": "!133a8e1e",
-    "from_name": "M7FJD~Tag",
-    "to": "^all",
-    "text": "Rx you in Exeter, 2 hops\ud83d\udc30",
-    "timestamp": "2026-06-20T11:46:52.102467+00:00",
-    "channel": 0,
-    "snr": -10.5,
-    "hops": 2
   }
 ]
