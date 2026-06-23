@@ -1,5 +1,16 @@
 [
   {
+    "id": 98252144,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "\ud83e\udd76",
+    "timestamp": "2026-06-23T10:20:40.149387+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 2
+  },
+  {
     "id": 656031699,
     "from": "!e2864d04",
     "from_name": "RDEw",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.5,
     "hops": 3
-  },
-  {
-    "id": 529904,
-    "from": "!0409d1c0",
-    "from_name": "M7FYU",
-    "to": "^all",
-    "text": "Morning Mark",
-    "timestamp": "2026-06-20T07:44:41.644742+00:00",
-    "channel": 0,
-    "snr": -11.25,
-    "hops": 4
   }
 ]
