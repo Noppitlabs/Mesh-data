@@ -1,5 +1,16 @@
 [
   {
+    "id": 88345412,
+    "from": "!43b59df4",
+    "from_name": "2E0HYY Keith",
+    "to": "^all",
+    "text": "I booked via the link on Tues and got Appt yesterday. I am now a hearing aid user...all free of charge. Free batts also whenever I am getting low.",
+    "timestamp": "2026-06-24T11:31:54.067152+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 2
+  },
+  {
     "id": 1992772164,
     "from": "!43b59df4",
     "from_name": "2E0HYY Keith",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.75,
     "hops": 2
-  },
-  {
-    "id": 29601211,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Ah its ok, we never go to exmouth or around, no offence \ud83d\ude05 if we got to the beach its cornwall for us, somewhere in st ives bay \ud83e\udd29",
-    "timestamp": "2026-06-22T19:52:35.945768+00:00",
-    "channel": 0,
-    "snr": -4.75,
-    "hops": 3
   }
 ]
