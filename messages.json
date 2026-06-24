@@ -1,5 +1,16 @@
 [
   {
+    "id": 1731532167,
+    "from": "!da5c79a4",
+    "from_name": "M7XMV | Truro",
+    "to": "^all",
+    "text": "There's no air in that place. Stifling in Summer.",
+    "timestamp": "2026-06-24T08:16:40.133142+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 5
+  },
+  {
     "id": 796189550,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-21T10:42:50.369933+00:00",
     "channel": 0,
     "snr": -13.75,
-    "hops": 2
-  },
-  {
-    "id": 1289726218,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "So maybe a bit of tropo going on \ud83e\udd14",
-    "timestamp": "2026-06-21T10:38:16.678610+00:00",
-    "channel": 0,
-    "snr": -12.0,
     "hops": 2
   }
 ]
