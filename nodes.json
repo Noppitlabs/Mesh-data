@@ -5082,5 +5082,12 @@
     "short_name": "5c76",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!166fc3ad": {
+    "id": "!166fc3ad",
+    "long_name": "!166fc3ad",
+    "last_heard": "2026-06-24T01:27:37.438521+00:00",
+    "snr": -13.25,
+    "hops_away": 3
   }
 }
