@@ -1,5 +1,16 @@
 [
   {
+    "id": 796189887,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-24T10:37:12.576333+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 3
+  },
+  {
     "id": 796189884,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -2.75,
     "hops": 3
-  },
-  {
-    "id": 388137180,
-    "from": "!a35af184",
-    "from_name": "Egg",
-    "to": "^all",
-    "text": "Hello , test from Exeter.",
-    "timestamp": "2026-06-22T18:59:04.699255+00:00",
-    "channel": 0,
-    "snr": -6.5,
-    "hops": 2
   }
 ]
