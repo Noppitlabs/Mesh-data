@@ -5160,5 +5160,15 @@
     "last_heard": "2026-06-24T11:44:09.879663+00:00",
     "snr": -6.0,
     "hops_away": 6
+  },
+  "!57d38f67": {
+    "id": "!57d38f67",
+    "long_name": "Meshtastic 8f67",
+    "last_heard": "2026-06-24T16:26:04.400732+00:00",
+    "snr": -17.0,
+    "hops_away": 3,
+    "short_name": "8f67",
+    "hw_model": "HELTEC_MESH_POCKET",
+    "role": "CLIENT_MUTE"
   }
 }
