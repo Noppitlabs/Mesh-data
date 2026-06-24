@@ -4596,8 +4596,8 @@
   "!f115bd68": {
     "id": "!f115bd68",
     "long_name": "GW1JFV",
-    "last_heard": "2026-06-24T09:35:21.284718+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-06-24T09:45:20.628116+00:00",
+    "snr": -13.0,
     "hops_away": 4,
     "short_name": "1JFV",
     "hw_model": "M5STACK_C6L",
