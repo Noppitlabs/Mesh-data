@@ -5153,5 +5153,12 @@
     "short_name": "CAPE",
     "hw_model": "RAK4631",
     "role": "ROUTER"
+  },
+  "!f94946bd": {
+    "id": "!f94946bd",
+    "long_name": "!f94946bd",
+    "last_heard": "2026-06-24T11:44:09.879663+00:00",
+    "snr": -6.0,
+    "hops_away": 6
   }
 }
