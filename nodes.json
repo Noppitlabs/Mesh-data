@@ -1840,9 +1840,9 @@
   "!9e7601b4": {
     "id": "!9e7601b4",
     "long_name": "Meshtastic 01b4",
-    "last_heard": "2026-06-23T16:04:42.462186+00:00",
-    "snr": -8.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-24T15:35:51.233259+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "01b4",
     "hw_model": "HELTEC_V3",
     "role": ""
