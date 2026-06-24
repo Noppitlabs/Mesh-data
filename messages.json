@@ -1,5 +1,16 @@
 [
   {
+    "id": 1725576907,
+    "from": "!9ea0bce4",
+    "from_name": "Hyperion WirelessPaper",
+    "to": "^all",
+    "text": "A lot of tropo around it seems, must be the high pressure and heat",
+    "timestamp": "2026-06-24T08:38:23.086444+00:00",
+    "channel": 0,
+    "snr": -19.25,
+    "hops": 5
+  },
+  {
     "id": 1731532167,
     "from": "!da5c79a4",
     "from_name": "M7XMV | Truro",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 3
-  },
-  {
-    "id": 2615428922,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-21T10:42:50.369933+00:00",
-    "channel": 0,
-    "snr": -13.75,
-    "hops": 2
   }
 ]
