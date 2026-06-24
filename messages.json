@@ -1,5 +1,16 @@
 [
   {
+    "id": 670607046,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Lovely weather \ud83e\udd37\ud83c\udffb\u200d\u2642\ud83e\udd75 good morning \ud83e\udd75",
+    "timestamp": "2026-06-24T07:36:01.108294+00:00",
+    "channel": 0,
+    "snr": -18.75,
+    "hops": 2
+  },
+  {
     "id": 2771531826,
     "from": "!bb832698",
     "from_name": "!bb832698",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 4
-  },
-  {
-    "id": 2050791056,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "I'll try turning Ignore MQTT off, leave OK to MQTT off. Leave that for a few days and will report back?",
-    "timestamp": "2026-06-21T10:11:52.738868+00:00",
-    "channel": 0,
-    "snr": -13.5,
-    "hops": 3
   }
 ]
