@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-06-24T08:19:23.919342+00:00",
-    "snr": -17.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-24T10:50:05.273871+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -279,9 +279,9 @@
   "!da543618": {
     "id": "!da543618",
     "long_name": "Tiverton_G4ZAL1",
-    "last_heard": "2026-06-24T04:50:34.408996+00:00",
-    "snr": -10.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-24T10:50:34.482395+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
     "short_name": "ZAL1",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
