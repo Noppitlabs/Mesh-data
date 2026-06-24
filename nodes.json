@@ -1106,10 +1106,13 @@
   },
   "!33637118": {
     "id": "!33637118",
-    "long_name": "!33637118",
-    "last_heard": "2026-06-24T21:14:54.775501+00:00",
-    "snr": -8.75,
-    "hops_away": 5
+    "long_name": "EI3HGB-H",
+    "last_heard": "2026-06-24T21:27:57.294987+00:00",
+    "snr": -17.25,
+    "hops_away": 5,
+    "short_name": "HGBH",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!7eb259a7": {
     "id": "!7eb259a7",
