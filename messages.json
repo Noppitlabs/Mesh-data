@@ -1,5 +1,16 @@
 [
   {
+    "id": 919222331,
+    "from": "!ddd5b823",
+    "from_name": "!ddd5b823",
+    "to": "^all",
+    "text": "\ud83d\udc4e",
+    "timestamp": "2026-06-24T20:16:18.375675+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 5
+  },
+  {
     "id": 3027645523,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-22T20:04:35.903178+00:00",
     "channel": 0,
     "snr": -6.0,
-    "hops": 2
-  },
-  {
-    "id": 9196458,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Yes",
-    "timestamp": "2026-06-22T20:02:02.989442+00:00",
-    "channel": 0,
-    "snr": -5.5,
     "hops": 2
   }
 ]
