@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-24T12:45:48.348705+00:00",
+    "last_heard": "2026-06-24T12:46:48.372806+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1295,9 +1295,9 @@
   "!2234c21f": {
     "id": "!2234c21f",
     "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-06-24T11:22:20.719480+00:00",
-    "snr": -5.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-24T12:46:47.001602+00:00",
+    "snr": -16.0,
+    "hops_away": 7,
     "short_name": "c21f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
