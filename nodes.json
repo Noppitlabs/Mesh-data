@@ -5122,5 +5122,12 @@
     "short_name": "RSn1",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!da546fb4": {
+    "id": "!da546fb4",
+    "long_name": "!da546fb4",
+    "last_heard": "2026-06-24T10:40:16.970340+00:00",
+    "snr": -14.25,
+    "hops_away": 5
   }
 }
