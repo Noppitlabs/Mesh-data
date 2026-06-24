@@ -5106,5 +5106,15 @@
     "last_heard": "2026-06-24T03:30:36.046888+00:00",
     "snr": -9.25,
     "hops_away": 2
+  },
+  "!da576360": {
+    "id": "!da576360",
+    "long_name": "RSTV1 \ud83c\uddec\ud83c\udde7 ",
+    "last_heard": "2026-06-24T05:01:22.131722+00:00",
+    "snr": -10.5,
+    "hops_away": 7,
+    "short_name": "RSn1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
