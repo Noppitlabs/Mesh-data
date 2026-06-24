@@ -1,5 +1,16 @@
 [
   {
+    "id": 139819349,
+    "from": "!bb832698",
+    "from_name": "!bb832698",
+    "to": "^all",
+    "text": "Good morning from Normandy with a drone...",
+    "timestamp": "2026-06-24T07:05:40.718386+00:00",
+    "channel": 0,
+    "snr": -7.0,
+    "hops": 5
+  },
+  {
     "id": 98252156,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 4
-  },
-  {
-    "id": 1197407741,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Think meshtastic will pick up soon with big brother comming in big\ud83e\udd37\ud83c\udffb\u200d\u2642",
-    "timestamp": "2026-06-21T09:41:05.067594+00:00",
-    "channel": 0,
-    "snr": -17.25,
-    "hops": 2
   }
 ]
