@@ -1,5 +1,16 @@
 [
   {
+    "id": 571732671,
+    "from": "!43b59df4",
+    "from_name": "2E0HYY Keith",
+    "to": "^all",
+    "text": "Link to make NHS appt for hearing test. https://share.google/bXRMdjiM6eJOX8lX3",
+    "timestamp": "2026-06-24T11:18:21.527085+00:00",
+    "channel": 0,
+    "snr": -5.25,
+    "hops": 2
+  },
+  {
     "id": 501367675,
     "from": "!43b59df4",
     "from_name": "2E0HYY Keith",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.75,
     "hops": 2
-  },
-  {
-    "id": 322550949,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Hi Mark how are you? Very hot... Don't want to go anywhere \ud83e\udd37\ud83c\udffb\u200d\u2642 hope they will shut schools so I could take kids to the beach \ud83e\udd37\ud83c\udffb\u200d\u2642",
-    "timestamp": "2026-06-22T19:41:52.848838+00:00",
-    "channel": 0,
-    "snr": -5.0,
-    "hops": 4
   }
 ]
