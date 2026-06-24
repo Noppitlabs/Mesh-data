@@ -1,5 +1,16 @@
 [
   {
+    "id": 1752650981,
+    "from": "!bb832698",
+    "from_name": "!bb832698",
+    "to": "^all",
+    "text": "swlf14700@gmail.com",
+    "timestamp": "2026-06-24T07:31:30.557373+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 5
+  },
+  {
     "id": 1990185169,
     "from": "!bb832698",
     "from_name": "!bb832698",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 6
-  },
-  {
-    "id": 423372819,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "Don't think so. I've used community-supported rather than core hardware and not seen this. Any info missing from them, e.g. name not fully populated?",
-    "timestamp": "2026-06-21T10:03:55.194648+00:00",
-    "channel": 0,
-    "snr": -17.0,
-    "hops": 3
   }
 ]
