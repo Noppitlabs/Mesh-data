@@ -3338,9 +3338,9 @@
   "!da5c91d8": {
     "id": "!da5c91d8",
     "long_name": "Thistledown 1 ",
-    "last_heard": "2026-06-24T09:22:49.187834+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-24T09:32:58.860403+00:00",
+    "snr": -17.0,
+    "hops_away": 4,
     "short_name": "Td1 ",
     "hw_model": "HELTEC_V3",
     "role": ""
