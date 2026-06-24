@@ -1,5 +1,16 @@
 [
   {
+    "id": 2771531826,
+    "from": "!bb832698",
+    "from_name": "!bb832698",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-24T07:33:15.387352+00:00",
+    "channel": 0,
+    "snr": -19.0,
+    "hops": 5
+  },
+  {
     "id": 1752650981,
     "from": "!bb832698",
     "from_name": "!bb832698",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.5,
     "hops": 3
-  },
-  {
-    "id": 1964624635,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "Enabling MQTT could explain it though. Sharing node data but not sharing a decryptable channel. Rebroadcast set either to client_mute to client.",
-    "timestamp": "2026-06-21T10:07:06.790329+00:00",
-    "channel": 0,
-    "snr": -17.75,
-    "hops": 6
   }
 ]
