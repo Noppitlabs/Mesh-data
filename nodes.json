@@ -3657,10 +3657,13 @@
   },
   "!69856cc0": {
     "id": "!69856cc0",
-    "long_name": "!69856cc0",
-    "last_heard": "2026-06-21T20:54:08.805906+00:00",
-    "snr": -18.25,
-    "hops_away": 7
+    "long_name": "whisper_6cc0",
+    "last_heard": "2026-06-24T01:47:50.603455+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
+    "short_name": "6cc0",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!59517113": {
     "id": "!59517113",
