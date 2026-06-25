@@ -4728,9 +4728,9 @@
   "!6a0f4c92": {
     "id": "!6a0f4c92",
     "long_name": "Boscawen Routyell",
-    "last_heard": "2026-06-20T00:12:15.725983+00:00",
-    "snr": -10.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-25T18:12:14.220577+00:00",
+    "snr": -6.5,
+    "hops_away": 4,
     "short_name": "4c92",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
