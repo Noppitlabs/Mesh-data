@@ -466,9 +466,9 @@
   "!9e9d1704": {
     "id": "!9e9d1704",
     "long_name": "Wolf Den",
-    "last_heard": "2026-06-24T04:36:25.012076+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-25T20:28:15.534808+00:00",
+    "snr": -4.0,
+    "hops_away": 7,
     "short_name": "Star",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
@@ -4210,9 +4210,9 @@
   "!f669c178": {
     "id": "!f669c178",
     "long_name": "Meshtastic c178",
-    "last_heard": "2026-06-24T16:14:27.440883+00:00",
-    "snr": -19.5,
-    "hops_away": 5,
+    "last_heard": "2026-06-25T20:28:36.945273+00:00",
+    "snr": -3.75,
+    "hops_away": 4,
     "short_name": "ARH2",
     "hw_model": "HELTEC_V4",
     "role": ""
