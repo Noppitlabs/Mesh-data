@@ -5207,5 +5207,15 @@
     "last_heard": "2026-06-25T14:39:01.573582+00:00",
     "snr": -18.75,
     "hops_away": 2
+  },
+  "!ca078eab": {
+    "id": "!ca078eab",
+    "long_name": "timttmy T096",
+    "last_heard": "2026-06-25T15:42:14.914641+00:00",
+    "snr": -2.0,
+    "hops_away": 6,
+    "short_name": "T096",
+    "hw_model": "NRF52_UNKNOWN",
+    "role": ""
   }
 }
