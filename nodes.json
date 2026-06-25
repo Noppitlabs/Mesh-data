@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-25T07:40:40.008547+00:00",
+    "last_heard": "2026-06-25T07:40:41.519063+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3866,8 +3866,8 @@
   "!a1d779fc": {
     "id": "!a1d779fc",
     "long_name": "Meshtastic 79fc",
-    "last_heard": "2026-06-24T19:10:30.653432+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-06-25T07:40:51.465478+00:00",
+    "snr": -18.5,
     "hops_away": 5,
     "short_name": "79fc",
     "hw_model": "SEEED_XIAO_S3",
