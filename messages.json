@@ -1,5 +1,16 @@
 [
   {
+    "id": 1055063407,
+    "from": "!9ea0bce4",
+    "from_name": "Hyperion WirelessPaper",
+    "to": "^all",
+    "text": "Lightning on the way \ud83e\udd73",
+    "timestamp": "2026-06-25T18:19:14.462869+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 5
+  },
+  {
     "id": 1750519504,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.0,
     "hops": 2
-  },
-  {
-    "id": 1958496474,
-    "from": "!a35af184",
-    "from_name": "Egg",
-    "to": "^all",
-    "text": "Then will leave as is. Thx for info",
-    "timestamp": "2026-06-22T20:07:00.507589+00:00",
-    "channel": 0,
-    "snr": -5.0,
-    "hops": 4
   }
 ]
