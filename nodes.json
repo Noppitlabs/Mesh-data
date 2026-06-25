@@ -1572,9 +1572,9 @@
   "!d7158102": {
     "id": "!d7158102",
     "long_name": "M0ABR ",
-    "last_heard": "2026-06-25T11:23:01.378224+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-25T14:23:05.993635+00:00",
+    "snr": -5.0,
+    "hops_away": 3,
     "short_name": "fir",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
