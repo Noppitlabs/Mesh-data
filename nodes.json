@@ -5114,10 +5114,13 @@
   },
   "!433d1fbc": {
     "id": "!433d1fbc",
-    "long_name": "!433d1fbc",
-    "last_heard": "2026-06-24T03:30:36.046888+00:00",
-    "snr": -9.25,
-    "hops_away": 2
+    "long_name": "Creet Solar Node",
+    "last_heard": "2026-06-25T23:19:50.580794+00:00",
+    "snr": -8.0,
+    "hops_away": 3,
+    "short_name": "CSN1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!da576360": {
     "id": "!da576360",
