@@ -646,7 +646,7 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-06-25T02:11:50.196829+00:00",
+    "last_heard": "2026-06-25T03:02:13.733547+00:00",
     "snr": -3.25,
     "hops_away": 3,
     "short_name": "MDor",
@@ -1442,9 +1442,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-06-25T03:01:48.026068+00:00",
-    "snr": -12.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-25T03:02:04.357619+00:00",
+    "snr": -4.0,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
