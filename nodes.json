@@ -3293,13 +3293,13 @@
   },
   "!70989f97": {
     "id": "!70989f97",
-    "long_name": "The Black Swan",
-    "last_heard": "2026-06-25T08:06:58.561337+00:00",
-    "snr": -4.5,
+    "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
+    "last_heard": "2026-06-25T08:47:10.308244+00:00",
+    "snr": -1.25,
     "hops_away": 0,
-    "short_name": "TBS3",
+    "short_name": "TBS1",
     "hw_model": "RAK4631",
-    "role": ""
+    "role": "CLIENT_BASE"
   },
   "!bdf0ccd4": {
     "id": "!bdf0ccd4",
