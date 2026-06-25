@@ -1107,9 +1107,9 @@
   "!33637118": {
     "id": "!33637118",
     "long_name": "EI3HGB-H",
-    "last_heard": "2026-06-25T12:40:49.944276+00:00",
-    "snr": -17.25,
-    "hops_away": 4,
+    "last_heard": "2026-06-25T23:37:02.544285+00:00",
+    "snr": -6.0,
+    "hops_away": 6,
     "short_name": "HGBH",
     "hw_model": "HELTEC_V3",
     "role": ""
