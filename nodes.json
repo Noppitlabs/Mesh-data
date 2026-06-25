@@ -756,9 +756,9 @@
   "!b2a78f18": {
     "id": "!b2a78f18",
     "long_name": "timttmy-V4",
-    "last_heard": "2026-06-25T21:58:16.180461+00:00",
-    "snr": -4.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-25T22:57:13.443369+00:00",
+    "snr": -3.5,
+    "hops_away": 5,
     "short_name": "t::1",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
