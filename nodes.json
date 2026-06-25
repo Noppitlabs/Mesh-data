@@ -5220,5 +5220,15 @@
     "short_name": "T096",
     "hw_model": "NRF52_UNKNOWN",
     "role": ""
+  },
+  "!f6fb4a1c": {
+    "id": "!f6fb4a1c",
+    "long_name": "m4gl4nd_wm_b453",
+    "last_heard": "2026-06-25T23:20:37.896118+00:00",
+    "snr": -7.25,
+    "hops_away": 3,
+    "short_name": "m4gw",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
