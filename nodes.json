@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-06-25T08:12:10.496371+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-06-25T09:05:22.052531+00:00",
+    "snr": -3.0,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -3101,8 +3101,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-25T09:01:34.462197+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-06-25T09:05:03.342529+00:00",
+    "snr": -2.5,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
