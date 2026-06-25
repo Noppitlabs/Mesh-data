@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-25T07:28:59.869454+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-06-25T07:33:56.460096+00:00",
+    "snr": -6.5,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-25T07:30:39.488097+00:00",
+    "last_heard": "2026-06-25T07:33:39.619151+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -646,9 +646,9 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-06-25T07:22:32.861556+00:00",
-    "snr": -3.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-25T07:33:13.716842+00:00",
+    "snr": -6.75,
+    "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1659,9 +1659,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-25T07:15:12.257009+00:00",
-    "snr": -4.25,
-    "hops_away": 1,
+    "last_heard": "2026-06-25T07:33:32.263596+00:00",
+    "snr": -10.5,
+    "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -1843,9 +1843,9 @@
   "!9e7601b4": {
     "id": "!9e7601b4",
     "long_name": "Meshtastic 01b4",
-    "last_heard": "2026-06-25T03:08:16.735829+00:00",
-    "snr": -15.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-25T07:32:08.699855+00:00",
+    "snr": -15.75,
+    "hops_away": 2,
     "short_name": "01b4",
     "hw_model": "HELTEC_V3",
     "role": ""
