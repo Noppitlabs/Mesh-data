@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-06-25T10:21:27.713620+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-06-25T10:47:50.074253+00:00",
+    "snr": -2.25,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -1669,9 +1669,9 @@
   "!75e05160": {
     "id": "!75e05160",
     "long_name": "PotaJoe1",
-    "last_heard": "2026-06-25T09:36:43.495618+00:00",
-    "snr": -8.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-25T10:48:29.496694+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
     "role": ""
