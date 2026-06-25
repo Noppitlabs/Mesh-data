@@ -1,5 +1,16 @@
 [
   {
+    "id": 437878331,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Yes please!!! And lots of rain!!! Got fed up watering the plants\ud83d\ude05",
+    "timestamp": "2026-06-25T18:25:02.827798+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 2
+  },
+  {
     "id": 3645542127,
     "from": "!0409d1c0",
     "from_name": "M7FYU",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T10:20:40.149387+00:00",
     "channel": 0,
     "snr": -15.25,
-    "hops": 2
-  },
-  {
-    "id": 656031699,
-    "from": "!e2864d04",
-    "from_name": "RDEw",
-    "to": "^all",
-    "text": "keep the chillers running to keep all the snowflakes cool",
-    "timestamp": "2026-06-23T10:19:59.433386+00:00",
-    "channel": 0,
-    "snr": -16.0,
     "hops": 2
   }
 ]
