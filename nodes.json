@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-25T19:28:42.935137+00:00",
-    "snr": -14.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-25T19:29:53.378391+00:00",
+    "snr": -5.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -556,9 +556,9 @@
   "!9e9fc148": {
     "id": "!9e9fc148",
     "long_name": "Somerlea Willand ",
-    "last_heard": "2026-06-25T18:01:44.187065+00:00",
-    "snr": -6.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-25T19:29:38.910148+00:00",
+    "snr": -4.25,
+    "hops_away": 5,
     "short_name": "SW",
     "hw_model": "HELTEC_V3",
     "role": ""
