@@ -1,5 +1,16 @@
 [
   {
+    "id": 1750519504,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Tap tap tap. New node check",
+    "timestamp": "2026-06-25T14:17:53.000918+00:00",
+    "channel": 0,
+    "snr": -16.5,
+    "hops": 4
+  },
+  {
     "id": 919222331,
     "from": "!ddd5b823",
     "from_name": "!ddd5b823",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.0,
     "hops": 4
-  },
-  {
-    "id": 1807329749,
-    "from": "!a35af184",
-    "from_name": "Egg",
-    "to": "^all",
-    "text": "Great, thanks. Have you tried long and slow?",
-    "timestamp": "2026-06-22T20:04:35.903178+00:00",
-    "channel": 0,
-    "snr": -6.0,
-    "hops": 2
   }
 ]
