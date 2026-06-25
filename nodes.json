@@ -99,7 +99,7 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-06-25T11:40:22.929595+00:00",
+    "last_heard": "2026-06-25T12:08:53.357373+00:00",
     "snr": -3.5,
     "hops_away": 2,
     "short_name": "FJDt",
@@ -616,8 +616,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-06-25T09:21:52.124593+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-06-25T12:09:27.277759+00:00",
+    "snr": -4.5,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
