@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-06-26T21:26:09.671151+00:00",
-    "snr": -5.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-26T22:11:16.869288+00:00",
+    "snr": -6.5,
+    "hops_away": 4,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
@@ -3081,9 +3081,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-26T21:37:34.512839+00:00",
-    "snr": -6.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-26T22:10:51.238841+00:00",
+    "snr": -6.75,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
