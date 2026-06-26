@@ -5233,5 +5233,12 @@
     "short_name": "m4gw",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!b03cc330": {
+    "id": "!b03cc330",
+    "long_name": "!b03cc330",
+    "last_heard": "2026-06-26T01:53:02.382910+00:00",
+    "snr": -6.5,
+    "hops_away": 6
   }
 }
