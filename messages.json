@@ -1,5 +1,16 @@
 [
   {
+    "id": 509401585,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Test from West Down Beacon overlooking Lyme Bay",
+    "timestamp": "2026-06-26T19:18:09.453601+00:00",
+    "channel": 0,
+    "snr": 2.25,
+    "hops": 1
+  },
+  {
     "id": 1198735099,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T15:02:36.732069+00:00",
     "channel": 0,
     "snr": -6.25,
-    "hops": 2
-  },
-  {
-    "id": 2073606238,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Sorry. Got stuck in Teams meeting. Pinhoe Sandpiper court",
-    "timestamp": "2026-06-23T11:11:00.761821+00:00",
-    "channel": 0,
-    "snr": -7.25,
     "hops": 2
   }
 ]
