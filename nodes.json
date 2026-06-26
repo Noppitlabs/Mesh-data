@@ -5073,13 +5073,13 @@
   },
   "!043332e0": {
     "id": "!043332e0",
-    "long_name": "Meshtastic 32e0",
-    "last_heard": "2026-06-22T21:06:41.998634+00:00",
-    "snr": -8.5,
+    "long_name": "m4gl4nd_b453",
+    "last_heard": "2026-06-26T06:46:44.268553+00:00",
+    "snr": -10.5,
     "hops_away": 5,
-    "short_name": "32e0",
+    "short_name": "m4gb",
     "hw_model": "HELTEC_V3",
-    "role": "CLIENT_BASE"
+    "role": ""
   },
   "!e2e4b5b4": {
     "id": "!e2e4b5b4",
