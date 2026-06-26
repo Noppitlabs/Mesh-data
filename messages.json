@@ -1,5 +1,16 @@
 [
   {
+    "id": 1186698262,
+    "from": "!aca9fff0",
+    "from_name": "MrBs Meshtastic M7MRB",
+    "to": "^all",
+    "text": "Colder today, only 18 degrees at 1530.",
+    "timestamp": "2026-06-26T14:40:17.147166+00:00",
+    "channel": 0,
+    "snr": -9.0,
+    "hops": 7
+  },
+  {
     "id": 664305224,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T10:24:05.106619+00:00",
     "channel": 0,
     "snr": -15.5,
-    "hops": 2
-  },
-  {
-    "id": 3906342935,
-    "from": "!e2864d04",
-    "from_name": "RDEw",
-    "to": "^all",
-    "text": "\ud83e\udd23",
-    "timestamp": "2026-06-23T10:23:45.828787+00:00",
-    "channel": 0,
-    "snr": -16.75,
     "hops": 2
   }
 ]
