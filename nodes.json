@@ -5275,9 +5275,9 @@
   "!a0ccceb8": {
     "id": "!a0ccceb8",
     "long_name": "2E0EMX4",
-    "last_heard": "2026-06-26T10:42:32.340298+00:00",
-    "snr": -1.75,
-    "hops_away": 2,
+    "last_heard": "2026-06-26T11:04:46.414305+00:00",
+    "snr": -2.0,
+    "hops_away": 4,
     "short_name": "EMX4",
     "hw_model": "HELTEC_V3",
     "role": ""
