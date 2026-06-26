@@ -1,5 +1,16 @@
 [
   {
+    "id": 1198735099,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Received in Torquay, 0 hops.",
+    "timestamp": "2026-06-26T19:17:33.439982+00:00",
+    "channel": 0,
+    "snr": 0.75,
+    "hops": 1
+  },
+  {
     "id": 3027645528,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T11:11:00.761821+00:00",
     "channel": 0,
     "snr": -7.25,
-    "hops": 2
-  },
-  {
-    "id": 3385505726,
-    "from": "!2687afb1",
-    "from_name": "Cider Village OMNI RAK",
-    "to": "^all",
-    "text": "5 hops to here, but that migh be me not you ",
-    "timestamp": "2026-06-23T10:37:11.802564+00:00",
-    "channel": 0,
-    "snr": -9.75,
     "hops": 2
   }
 ]
