@@ -2289,9 +2289,9 @@
   "!69857a44": {
     "id": "!69857a44",
     "long_name": "GCM001-BeauSejour\ud83c\uddec\ud83c\uddec\u2600",
-    "last_heard": "2026-06-26T17:32:30.402157+00:00",
-    "snr": -4.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-26T17:35:46.112718+00:00",
+    "snr": -5.5,
+    "hops_away": 7,
     "short_name": "BEAU",
     "hw_model": "HELTEC_V4",
     "role": ""
