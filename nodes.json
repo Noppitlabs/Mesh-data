@@ -3723,10 +3723,13 @@
   },
   "!49b6754c": {
     "id": "!49b6754c",
-    "long_name": "!49b6754c",
-    "last_heard": "2026-05-27T07:36:14.298409+00:00",
-    "snr": -11.5,
-    "hops_away": 4
+    "long_name": "Fforestfach Base",
+    "last_heard": "2026-06-26T01:49:16.237572+00:00",
+    "snr": -6.5,
+    "hops_away": 7,
+    "short_name": "F400",
+    "hw_model": "HELTEC_V4",
+    "role": "CLIENT_BASE"
   },
   "!da63c0b4": {
     "id": "!da63c0b4",
