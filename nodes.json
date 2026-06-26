@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-26T18:57:15.406703+00:00",
+    "last_heard": "2026-06-26T18:58:13.690479+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -926,9 +926,9 @@
   "!4eb5cccc": {
     "id": "!4eb5cccc",
     "long_name": "Mobile~Base",
-    "last_heard": "2026-06-26T18:56:29.801576+00:00",
-    "snr": -4.25,
-    "hops_away": 1,
+    "last_heard": "2026-06-26T18:57:56.460708+00:00",
+    "snr": -0.75,
+    "hops_away": 0,
     "short_name": "R2",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
