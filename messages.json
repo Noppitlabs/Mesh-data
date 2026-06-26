@@ -1,5 +1,16 @@
 [
   {
+    "id": 1616906190,
+    "from": "!49b61974",
+    "from_name": "!49b61974",
+    "to": "^all",
+    "text": "Thunder",
+    "timestamp": "2026-06-26T02:26:23.142932+00:00",
+    "channel": 0,
+    "snr": -19.0,
+    "hops": 4
+  },
+  {
     "id": 437878331,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T10:21:15.674585+00:00",
     "channel": 0,
     "snr": -15.5,
-    "hops": 2
-  },
-  {
-    "id": 98252144,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "\ud83e\udd76",
-    "timestamp": "2026-06-23T10:20:40.149387+00:00",
-    "channel": 0,
-    "snr": -15.25,
     "hops": 2
   }
 ]
