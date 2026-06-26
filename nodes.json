@@ -5267,5 +5267,12 @@
     "short_name": "STBi",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!394cbff7": {
+    "id": "!394cbff7",
+    "long_name": "!394cbff7",
+    "last_heard": "2026-06-26T06:45:46.727459+00:00",
+    "snr": -4.5,
+    "hops_away": 2
   }
 }
