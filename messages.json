@@ -1,5 +1,16 @@
 [
   {
+    "id": 796196501,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-06-26T18:27:52.430572+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 4
+  },
+  {
     "id": 18730722,
     "from": "!ca078eab",
     "from_name": "timttmy T096",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T10:28:16.914216+00:00",
     "channel": 0,
     "snr": -17.75,
-    "hops": 2
-  },
-  {
-    "id": 19745629,
-    "from": "!e2864d04",
-    "from_name": "RDEw",
-    "to": "^all",
-    "text": "Where are you?",
-    "timestamp": "2026-06-23T10:28:12.237573+00:00",
-    "channel": 0,
-    "snr": -17.25,
     "hops": 2
   }
 ]
