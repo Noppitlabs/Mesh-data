@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-26T07:52:42.387485+00:00",
+    "last_heard": "2026-06-26T07:53:44.030879+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3294,8 +3294,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-06-26T06:54:15.898674+00:00",
-    "snr": -0.5,
+    "last_heard": "2026-06-26T07:54:16.154369+00:00",
+    "snr": -2.25,
     "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
