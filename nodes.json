@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-26T22:09:21.874960+00:00",
+    "last_heard": "2026-06-26T22:10:22.289572+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -656,9 +656,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-06-26T21:20:59.058224+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-26T22:10:31.437582+00:00",
+    "snr": -6.25,
+    "hops_away": 2,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
