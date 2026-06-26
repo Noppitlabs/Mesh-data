@@ -1,5 +1,16 @@
 [
   {
+    "id": 50893512,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Thank you, going through my portable base",
+    "timestamp": "2026-06-26T19:18:27.500457+00:00",
+    "channel": 0,
+    "snr": 2.75,
+    "hops": 0
+  },
+  {
     "id": 509401585,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.0,
     "hops": 4
-  },
-  {
-    "id": 1804327703,
-    "from": "!da56b48c",
-    "from_name": "SR#1 V3",
-    "to": "^all",
-    "text": "Ha as I got called away too ;)",
-    "timestamp": "2026-06-23T15:02:36.732069+00:00",
-    "channel": 0,
-    "snr": -6.25,
-    "hops": 2
   }
 ]
