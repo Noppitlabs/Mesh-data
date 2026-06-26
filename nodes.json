@@ -3664,9 +3664,9 @@
   "!69856cc0": {
     "id": "!69856cc0",
     "long_name": "whisper_6cc0",
-    "last_heard": "2026-06-25T01:03:23.602860+00:00",
-    "snr": -8.25,
-    "hops_away": 6,
+    "last_heard": "2026-06-26T01:22:32.887562+00:00",
+    "snr": -10.0,
+    "hops_away": 7,
     "short_name": "6cc0",
     "hw_model": "HELTEC_V4",
     "role": ""
