@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-26T07:17:25.785696+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-06-26T07:18:28.260427+00:00",
+    "snr": -5.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -1117,8 +1117,8 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "GCM017-LancresseRoad\ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-06-26T00:38:46.681267+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-06-26T07:17:42.564856+00:00",
+    "snr": -5.75,
     "hops_away": 3,
     "short_name": "59a7",
     "hw_model": "HELTEC_MESH_NODE_T114",
