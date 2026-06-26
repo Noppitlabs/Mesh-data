@@ -5257,5 +5257,15 @@
     "last_heard": "2026-06-26T02:39:49.535141+00:00",
     "snr": -4.0,
     "hops_away": 7
+  },
+  "!160beab6": {
+    "id": "!160beab6",
+    "long_name": "ST Bilbrook",
+    "last_heard": "2026-06-26T03:01:21.731361+00:00",
+    "snr": -6.25,
+    "hops_away": 6,
+    "short_name": "STBi",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
