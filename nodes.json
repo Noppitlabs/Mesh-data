@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-26T16:59:07.415901+00:00",
+    "last_heard": "2026-06-26T17:00:07.625328+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3525,9 +3525,9 @@
   "!6984abac": {
     "id": "!6984abac",
     "long_name": "GCM0014 - St Clements \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-06-26T16:00:03.052824+00:00",
-    "snr": -11.5,
-    "hops_away": 7,
+    "last_heard": "2026-06-26T17:00:04.657923+00:00",
+    "snr": -6.0,
+    "hops_away": 5,
     "short_name": "abac",
     "hw_model": "HELTEC_V4",
     "role": ""
