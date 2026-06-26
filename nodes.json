@@ -5271,5 +5271,12 @@
     "last_heard": "2026-06-26T06:45:46.727459+00:00",
     "snr": -4.5,
     "hops_away": 2
+  },
+  "!a0ccceb8": {
+    "id": "!a0ccceb8",
+    "long_name": "!a0ccceb8",
+    "last_heard": "2026-06-26T10:37:29.832498+00:00",
+    "snr": -3.75,
+    "hops_away": 3
   }
 }
