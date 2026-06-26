@@ -2269,9 +2269,9 @@
   "!6982ba5c": {
     "id": "!6982ba5c",
     "long_name": "GCM0015 - Mount Durand \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-06-26T15:17:59.769017+00:00",
-    "snr": -7.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-26T16:12:44.947057+00:00",
+    "snr": -8.75,
+    "hops_away": 7,
     "short_name": "ba5c",
     "hw_model": "HELTEC_V4",
     "role": ""
