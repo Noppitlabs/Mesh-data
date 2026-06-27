@@ -4253,13 +4253,10 @@
   },
   "!b03be864": {
     "id": "!b03be864",
-    "long_name": "Meshtastic e864",
-    "last_heard": "2026-06-07T20:02:33.376844+00:00",
-    "snr": -13.0,
-    "hops_away": 6,
-    "short_name": "e864",
-    "hw_model": "UNSET",
-    "role": ""
+    "long_name": "!b03be864",
+    "last_heard": "2026-06-27T11:22:35.670849+00:00",
+    "snr": -5.0,
+    "hops_away": 6
   },
   "!da635de0": {
     "id": "!da635de0",
