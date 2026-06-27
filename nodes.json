@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-27T14:24:04.235174+00:00",
+    "last_heard": "2026-06-27T14:25:04.263282+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -426,8 +426,8 @@
   "!62f8b250": {
     "id": "!62f8b250",
     "long_name": "M0ABR base",
-    "last_heard": "2026-06-27T08:25:33.119010+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-06-27T14:25:34.750127+00:00",
+    "snr": -6.5,
     "hops_away": 3,
     "short_name": "base",
     "hw_model": "SEEED_XIAO_S3",
