@@ -706,9 +706,9 @@
   "!db29ef28": {
     "id": "!db29ef28",
     "long_name": "RX_Roam",
-    "last_heard": "2026-06-27T02:25:02.982819+00:00",
-    "snr": -6.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-27T03:24:16.207315+00:00",
+    "snr": -3.75,
+    "hops_away": 4,
     "short_name": "ef28",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3241,8 +3241,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-06-27T03:07:16.929816+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-06-27T03:23:56.497372+00:00",
+    "snr": -5.5,
     "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
