@@ -1736,9 +1736,9 @@
   "!04ba78f1": {
     "id": "!04ba78f1",
     "long_name": "78f1",
-    "last_heard": "2026-06-27T05:57:45.247790+00:00",
-    "snr": -3.75,
-    "hops_away": 6,
+    "last_heard": "2026-06-27T11:05:12.896721+00:00",
+    "snr": -2.25,
+    "hops_away": 5,
     "short_name": "78f1",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
