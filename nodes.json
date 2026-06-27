@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-06-27T00:35:23.358749+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-06-27T01:08:08.356892+00:00",
+    "snr": -16.0,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -209,8 +209,8 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-06-27T00:31:35.661755+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-06-27T01:08:01.212841+00:00",
+    "snr": -6.25,
     "hops_away": 4,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
