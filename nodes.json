@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-27T18:13:15.849730+00:00",
+    "last_heard": "2026-06-27T18:14:14.222868+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2373,9 +2373,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-06-27T17:07:07.080564+00:00",
-    "snr": -7.75,
-    "hops_away": 4,
+    "last_heard": "2026-06-27T18:14:24.172198+00:00",
+    "snr": -3.5,
+    "hops_away": 7,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": ""
