@@ -319,9 +319,9 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-06-27T05:27:18.291972+00:00",
-    "snr": -2.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-27T07:18:46.777582+00:00",
+    "snr": -3.0,
+    "hops_away": 3,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3241,8 +3241,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-06-27T04:48:52.045169+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-06-27T07:19:27.896740+00:00",
+    "snr": -3.0,
     "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
