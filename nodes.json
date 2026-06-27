@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-27T04:15:53.785241+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-06-27T04:46:57.148029+00:00",
+    "snr": -3.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -956,9 +956,9 @@
   "!d45a9bc8": {
     "id": "!d45a9bc8",
     "long_name": "!d45a9bc8",
-    "last_heard": "2026-06-26T18:37:30.033497+00:00",
-    "snr": -7.0,
-    "hops_away": 3
+    "last_heard": "2026-06-27T04:46:40.408196+00:00",
+    "snr": -2.5,
+    "hops_away": 5
   },
   "!43b70dc8": {
     "id": "!43b70dc8",
