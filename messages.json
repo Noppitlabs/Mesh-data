@@ -1,5 +1,16 @@
 [
   {
+    "id": 671163798,
+    "from": "!b03be864",
+    "from_name": "!b03be864",
+    "to": "^all",
+    "text": "rune?",
+    "timestamp": "2026-06-27T11:22:37.371190+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 6
+  },
+  {
     "id": 98252179,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T20:08:37.543310+00:00",
     "channel": 0,
     "snr": -10.0,
-    "hops": 2
-  },
-  {
-    "id": 1386501021,
-    "from": "!9ea1b288",
-    "from_name": "SwallowsNest - Adam Cullompton",
-    "to": "^all",
-    "text": "Certainly doesn't feel like it's any cooler, not sure I'll cope tomorrow \ud83e\udd23",
-    "timestamp": "2026-06-23T20:07:07.172361+00:00",
-    "channel": 0,
-    "snr": -14.75,
     "hops": 2
   }
 ]
