@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-06-27T23:02:42.007097+00:00",
-    "snr": -11.0,
-    "hops_away": 3,
+    "last_heard": "2026-06-27T23:17:41.778835+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
@@ -3802,8 +3802,8 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr Bs M7MRB 2",
-    "last_heard": "2026-06-27T22:24:21.392447+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-06-27T23:17:29.238907+00:00",
+    "snr": -10.0,
     "hops_away": 5,
     "short_name": "Bug2",
     "hw_model": "HELTEC_V3",
