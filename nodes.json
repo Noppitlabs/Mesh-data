@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-06-27T00:41:33.078227+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-06-27T01:41:32.424276+00:00",
+    "snr": -6.25,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-27T01:39:21.281322+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-06-27T01:41:48.082097+00:00",
+    "snr": -4.5,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
