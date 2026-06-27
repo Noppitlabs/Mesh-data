@@ -239,8 +239,8 @@
   "!433ca780": {
     "id": "!433ca780",
     "long_name": "Nugg",
-    "last_heard": "2026-06-27T15:11:22.510203+00:00",
-    "snr": -11.0,
+    "last_heard": "2026-06-27T16:58:39.096061+00:00",
+    "snr": -8.25,
     "hops_away": 5,
     "short_name": "NUGG",
     "hw_model": "HELTEC_V3",
@@ -616,8 +616,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-06-27T14:58:48.357282+00:00",
-    "snr": -7.75,
+    "last_heard": "2026-06-27T16:58:14.349624+00:00",
+    "snr": -8.75,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
