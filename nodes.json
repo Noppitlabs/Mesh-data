@@ -3081,9 +3081,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-06-27T07:01:46.207248+00:00",
-    "snr": -3.5,
-    "hops_away": 1,
+    "last_heard": "2026-06-27T07:11:32.619149+00:00",
+    "snr": -3.75,
+    "hops_away": 3,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
@@ -3291,8 +3291,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-06-27T06:31:42.059561+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-06-27T07:11:26.416731+00:00",
+    "snr": -5.0,
     "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
