@@ -3271,9 +3271,9 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-06-27T10:26:02.249641+00:00",
-    "snr": -2.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-27T13:52:25.825374+00:00",
+    "snr": -7.0,
+    "hops_away": 3,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
