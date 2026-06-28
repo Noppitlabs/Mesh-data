@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-28T18:20:16.523928+00:00",
+    "last_heard": "2026-06-28T18:21:18.381332+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-28T17:39:30.021170+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-06-28T18:21:24.194125+00:00",
+    "snr": -8.75,
+    "hops_away": 5,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
