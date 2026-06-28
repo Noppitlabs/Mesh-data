@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-28T06:14:44.456413+00:00",
+    "last_heard": "2026-06-28T06:15:44.870945+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1469,9 +1469,9 @@
   "!7c5ad35c": {
     "id": "!7c5ad35c",
     "long_name": "FurballBB Home \ud83c\udfe0",
-    "last_heard": "2026-06-27T08:22:52.187548+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-28T06:15:50.734927+00:00",
+    "snr": -4.75,
+    "hops_away": 4,
     "short_name": "FBH",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
