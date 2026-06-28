@@ -2020,10 +2020,13 @@
   },
   "!eac9d4d9": {
     "id": "!eac9d4d9",
-    "long_name": "!eac9d4d9",
-    "last_heard": "2026-06-28T10:19:00.096397+00:00",
+    "long_name": "mob1 luxulyan",
+    "last_heard": "2026-06-28T10:20:22.218794+00:00",
     "snr": -1.5,
-    "hops_away": 6
+    "hops_away": 6,
+    "short_name": "mob1",
+    "hw_model": "T_ECHO",
+    "role": ""
   },
   "!9e9d79a0": {
     "id": "!9e9d79a0",
