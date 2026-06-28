@@ -1,5 +1,16 @@
 [
   {
+    "id": 731976041,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Test from West Down Beacon",
+    "timestamp": "2026-06-28T05:10:45.579977+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 0
+  },
+  {
     "id": 707697354,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-23T20:46:35.058424+00:00",
     "channel": 0,
     "snr": -11.5,
-    "hops": 2
-  },
-  {
-    "id": 3109734685,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "\ud83e\udd75",
-    "timestamp": "2026-06-23T20:12:51.048300+00:00",
-    "channel": 0,
-    "snr": -7.5,
     "hops": 2
   }
 ]
