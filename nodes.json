@@ -656,8 +656,8 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-06-28T20:34:24.070910+00:00",
-    "snr": -8.5,
+    "last_heard": "2026-06-28T22:50:11.423190+00:00",
+    "snr": -11.25,
     "hops_away": 3,
     "short_name": "rh5",
     "hw_model": "RAK4631",
@@ -1716,8 +1716,8 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "!5bfc4afe",
-    "last_heard": "2026-06-28T22:45:31.871297+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-06-28T22:50:05.027051+00:00",
+    "snr": -12.0,
     "hops_away": 3
   },
   "!38496e39": {
