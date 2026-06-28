@@ -1,5 +1,16 @@
 [
   {
+    "id": 98252202,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-06-28T18:36:35.523947+00:00",
+    "channel": 0,
+    "snr": -12.0,
+    "hops": 3
+  },
+  {
     "id": 2244072665,
     "from": "!fa39f7b4",
     "from_name": "TA2 Yagi",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.75,
     "hops": 3
-  },
-  {
-    "id": 670607046,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Lovely weather \ud83e\udd37\ud83c\udffb\u200d\u2642\ud83e\udd75 good morning \ud83e\udd75",
-    "timestamp": "2026-06-24T07:36:01.108294+00:00",
-    "channel": 0,
-    "snr": -18.75,
-    "hops": 2
   }
 ]
