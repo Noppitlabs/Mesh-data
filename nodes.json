@@ -4866,9 +4866,9 @@
   "!9e7631d4": {
     "id": "!9e7631d4",
     "long_name": "Tech Portable",
-    "last_heard": "2026-06-28T03:11:38.777404+00:00",
-    "snr": -5.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-28T12:01:07.611717+00:00",
+    "snr": -2.0,
+    "hops_away": 4,
     "short_name": "TFP1",
     "hw_model": "HELTEC_V3",
     "role": ""
