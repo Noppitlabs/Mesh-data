@@ -616,8 +616,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-06-28T16:00:19.535971+00:00",
-    "snr": -1.25,
+    "last_heard": "2026-06-28T17:49:51.365169+00:00",
+    "snr": -8.0,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
@@ -3098,9 +3098,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-28T17:41:53.999313+00:00",
-    "snr": -11.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-28T17:49:16.561440+00:00",
+    "snr": -14.0,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
