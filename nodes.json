@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-28T14:24:05.349866+00:00",
+    "last_heard": "2026-06-28T14:24:52.705821+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -3108,8 +3108,8 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-06-28T14:11:41.879424+00:00",
-    "snr": -1.0,
+    "last_heard": "2026-06-28T14:25:01.896387+00:00",
+    "snr": -18.75,
     "hops_away": 4,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
