@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-28T12:42:22.568585+00:00",
-    "snr": -0.5,
-    "hops_away": 1,
+    "last_heard": "2026-06-28T12:46:20.660052+00:00",
+    "snr": -0.75,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
