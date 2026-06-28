@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-28T17:45:41.110660+00:00",
-    "snr": -10.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-28T17:55:16.858568+00:00",
+    "snr": -10.0,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2018,9 +2018,9 @@
   "!eac9d4d9": {
     "id": "!eac9d4d9",
     "long_name": "mob1 luxulyan",
-    "last_heard": "2026-06-28T10:20:22.218794+00:00",
-    "snr": -1.5,
-    "hops_away": 6,
+    "last_heard": "2026-06-28T17:56:11.416797+00:00",
+    "snr": -7.5,
+    "hops_away": 5,
     "short_name": "mob1",
     "hw_model": "T_ECHO",
     "role": ""
