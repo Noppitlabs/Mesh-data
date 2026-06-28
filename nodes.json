@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-28T12:34:54.792250+00:00",
-    "snr": -0.75,
+    "last_heard": "2026-06-28T13:02:23.327368+00:00",
+    "snr": -1.5,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -2202,9 +2202,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-06-28T12:27:57.698217+00:00",
-    "snr": -17.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-28T13:02:59.050354+00:00",
+    "snr": -0.25,
+    "hops_away": 3,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
