@@ -1,5 +1,16 @@
 [
   {
+    "id": 2244072665,
+    "from": "!fa39f7b4",
+    "from_name": "TA2 Yagi",
+    "to": "^all",
+    "text": "test",
+    "timestamp": "2026-06-28T18:27:29.731971+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 2
+  },
+  {
     "id": 3395494227,
     "from": "!fa39f7b4",
     "from_name": "TA2 Yagi",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.75,
     "hops": 2
-  },
-  {
-    "id": 2771531826,
-    "from": "!bb832698",
-    "from_name": "!bb832698",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-24T07:33:15.387352+00:00",
-    "channel": 0,
-    "snr": -19.0,
-    "hops": 5
   }
 ]
