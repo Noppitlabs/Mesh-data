@@ -1,5 +1,16 @@
 [
   {
+    "id": 409666155,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "RX in Exeter, 2 hops",
+    "timestamp": "2026-06-28T05:19:33.762009+00:00",
+    "channel": 0,
+    "snr": -6.5,
+    "hops": 2
+  },
+  {
     "id": 731976041,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.0,
     "hops": 5
-  },
-  {
-    "id": 98252156,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "\ud83e\udd75",
-    "timestamp": "2026-06-23T20:46:35.058424+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 2
   }
 ]
