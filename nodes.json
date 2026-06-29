@@ -329,9 +329,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-06-29T05:49:47.526305+00:00",
-    "snr": -12.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-29T06:52:19.748982+00:00",
+    "snr": -18.5,
+    "hops_away": 6,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -786,9 +786,9 @@
   "!02d4cd04": {
     "id": "!02d4cd04",
     "long_name": "Preston~Bowyer",
-    "last_heard": "2026-06-28T09:57:40.547415+00:00",
-    "snr": -1.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-29T06:51:50.318598+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
     "short_name": "T4",
     "hw_model": "RAK4631",
     "role": "ROUTER"
