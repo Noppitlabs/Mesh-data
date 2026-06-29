@@ -1,5 +1,16 @@
 [
   {
+    "id": 838150028,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Nice. Direct to Exeter, 1 hop from Exmouth and probably a lot more if I stayed here long enough.",
+    "timestamp": "2026-06-29T19:05:37.196146+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 3
+  },
+  {
     "id": 2055015102,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.5,
     "hops": 4
-  },
-  {
-    "id": 41273078,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "Warm morning",
-    "timestamp": "2026-06-24T10:36:17.709827+00:00",
-    "channel": 0,
-    "snr": -10.25,
-    "hops": 5
   }
 ]
