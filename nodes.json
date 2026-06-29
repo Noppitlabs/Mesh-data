@@ -5316,5 +5316,15 @@
     "short_name": "lux-",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!1332cefc": {
+    "id": "!1332cefc",
+    "long_name": "PlymCastle",
+    "last_heard": "2026-06-29T12:33:02.509822+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
+    "short_name": "PMC1",
+    "hw_model": "THINKNODE_M5",
+    "role": ""
   }
 }
