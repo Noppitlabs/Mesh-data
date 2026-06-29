@@ -4201,9 +4201,9 @@
   "!f669c178": {
     "id": "!f669c178",
     "long_name": "Meshtastic c178",
-    "last_heard": "2026-06-28T19:13:20.580039+00:00",
-    "snr": -11.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-29T02:20:04.501595+00:00",
+    "snr": -13.0,
+    "hops_away": 5,
     "short_name": "ARH2",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4302,8 +4302,8 @@
   "!96a42812": {
     "id": "!96a42812",
     "long_name": "DUCK",
-    "last_heard": "2026-06-28T16:03:43.170030+00:00",
-    "snr": -3.0,
+    "last_heard": "2026-06-29T02:20:22.261812+00:00",
+    "snr": -12.25,
     "hops_away": 5,
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
