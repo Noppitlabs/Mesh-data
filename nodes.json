@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-29T06:07:56.819376+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-06-29T06:12:02.640049+00:00",
+    "snr": -11.75,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -4305,9 +4305,9 @@
   "!96a42812": {
     "id": "!96a42812",
     "long_name": "DUCK",
-    "last_heard": "2026-06-29T03:20:11.791067+00:00",
-    "snr": -14.0,
-    "hops_away": 6,
+    "last_heard": "2026-06-29T06:11:48.475043+00:00",
+    "snr": -11.5,
+    "hops_away": 4,
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
