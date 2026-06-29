@@ -1,5 +1,16 @@
 [
   {
+    "id": 1218067935,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Haven't received the DM either. I don't mind getting  repeater up in Exeter, assuming there's a good location.",
+    "timestamp": "2026-06-29T19:44:33.381803+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 2
+  },
+  {
     "id": 127804972,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -534,17 +545,6 @@
     "to": "^all",
     "text": "Link to make NHS appt for hearing test. https://share.google/bXRMdjiM6eJOX8lX3",
     "timestamp": "2026-06-24T11:18:21.527085+00:00",
-    "channel": 0,
-    "snr": -5.25,
-    "hops": 2
-  },
-  {
-    "id": 501367675,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "Yes Mark. I have mentioned it fot everyone else to see and act on if they have any concerns. I will see if I can put up a link. up a link",
-    "timestamp": "2026-06-24T11:15:43.086169+00:00",
     "channel": 0,
     "snr": -5.25,
     "hops": 2
