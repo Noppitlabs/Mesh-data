@@ -1,5 +1,16 @@
 [
   {
+    "id": 2925772955,
+    "from": "!1332cefc",
+    "from_name": "PlymCastle",
+    "to": "^all",
+    "text": "Hello. Anyone receiving?",
+    "timestamp": "2026-06-29T14:17:08.194815+00:00",
+    "channel": 0,
+    "snr": -8.25,
+    "hops": 3
+  },
+  {
     "id": 1382283605,
     "from": "!1332cefc",
     "from_name": "PlymCastle",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-24T08:38:23.086444+00:00",
     "channel": 0,
     "snr": -19.25,
-    "hops": 5
-  },
-  {
-    "id": 1731532167,
-    "from": "!da5c79a4",
-    "from_name": "M7XMV | Truro",
-    "to": "^all",
-    "text": "There's no air in that place. Stifling in Summer.",
-    "timestamp": "2026-06-24T08:16:40.133142+00:00",
-    "channel": 0,
-    "snr": -17.25,
     "hops": 5
   }
 ]
