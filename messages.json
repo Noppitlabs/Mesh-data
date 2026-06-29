@@ -1,5 +1,16 @@
 [
   {
+    "id": 307923765,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Good point.",
+    "timestamp": "2026-06-29T19:07:48.689721+00:00",
+    "channel": 0,
+    "snr": -11.0,
+    "hops": 2
+  },
+  {
     "id": 838150028,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.25,
     "hops": 3
-  },
-  {
-    "id": 796189884,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-24T10:37:00.827664+00:00",
-    "channel": 0,
-    "snr": -7.5,
-    "hops": 4
   }
 ]
