@@ -309,9 +309,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-06-29T13:21:16.194866+00:00",
-    "snr": -9.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-29T15:31:49.881903+00:00",
+    "snr": -4.75,
+    "hops_away": 5,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1716,9 +1716,9 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "Winkleigh T1000E Tracker",
-    "last_heard": "2026-06-29T13:52:57.596189+00:00",
-    "snr": -11.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-29T15:31:37.894742+00:00",
+    "snr": -6.25,
+    "hops_away": 4,
     "short_name": "SENS",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_BASE"
