@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-29T04:14:43.795182+00:00",
+    "last_heard": "2026-06-29T04:15:42.654442+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-06-29T04:03:14.380875+00:00",
-    "snr": -18.5,
-    "hops_away": 0,
+    "last_heard": "2026-06-29T04:15:50.945184+00:00",
+    "snr": -17.5,
+    "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
