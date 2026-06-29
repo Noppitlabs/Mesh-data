@@ -1,5 +1,16 @@
 [
   {
+    "id": 1882068157,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Guessing any high spot with good visibility is otherwise advisable? I'm up for approaching a few possible locations. Haven't had much luck with MT requests though.",
+    "timestamp": "2026-06-29T19:49:24.784271+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 3
+  },
+  {
     "id": 605429674,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-24T11:31:54.067152+00:00",
     "channel": 0,
     "snr": -11.25,
-    "hops": 2
-  },
-  {
-    "id": 1992772164,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "Sorry Mark, I was just sayinh morning to you. I added the hearing aod info for everyone. Maybe I should have done two seperate posts.",
-    "timestamp": "2026-06-24T11:27:18.530574+00:00",
-    "channel": 0,
-    "snr": -4.75,
     "hops": 2
   }
 ]
