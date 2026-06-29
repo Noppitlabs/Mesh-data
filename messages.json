@@ -1,5 +1,16 @@
 [
   {
+    "id": 605429674,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "I am. On the road shortly though.",
+    "timestamp": "2026-06-29T19:44:59.343445+00:00",
+    "channel": 0,
+    "snr": -15.0,
+    "hops": 5
+  },
+  {
     "id": 1218067935,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-24T11:27:18.530574+00:00",
     "channel": 0,
     "snr": -4.75,
-    "hops": 2
-  },
-  {
-    "id": 571732671,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "Link to make NHS appt for hearing test. https://share.google/bXRMdjiM6eJOX8lX3",
-    "timestamp": "2026-06-24T11:18:21.527085+00:00",
-    "channel": 0,
-    "snr": -5.25,
     "hops": 2
   }
 ]
