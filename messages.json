@@ -1,5 +1,16 @@
 [
   {
+    "id": 727069585,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Meanwhile testing Meshcore, 26 hops to High Wycombe using a matching mobile node.",
+    "timestamp": "2026-06-29T19:35:00.615149+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 2
+  },
+  {
     "id": 307923765,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.75,
     "hops": 2
-  },
-  {
-    "id": 796189887,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-24T10:37:12.576333+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 3
   }
 ]
