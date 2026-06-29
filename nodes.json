@@ -4302,9 +4302,9 @@
   "!96a42812": {
     "id": "!96a42812",
     "long_name": "DUCK",
-    "last_heard": "2026-06-29T19:26:18.856585+00:00",
-    "snr": -17.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-29T21:46:36.676349+00:00",
+    "snr": -2.25,
+    "hops_away": 5,
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
