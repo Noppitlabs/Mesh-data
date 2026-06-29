@@ -5309,5 +5309,15 @@
     "short_name": "Eink",
     "hw_model": "HELTEC_VISION_MASTER_E290",
     "role": "CLIENT_MUTE"
+  },
+  "!0a33d4bb": {
+    "id": "!0a33d4bb",
+    "long_name": "luxulyan-tracker",
+    "last_heard": "2026-06-29T09:16:23.947425+00:00",
+    "snr": -11.75,
+    "hops_away": 5,
+    "short_name": "lux-",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
