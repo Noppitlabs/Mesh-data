@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-29T15:23:44.201354+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-06-29T15:24:24.314240+00:00",
+    "snr": -6.25,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -2202,8 +2202,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-06-29T14:11:05.605527+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-06-29T15:24:12.527500+00:00",
+    "snr": -8.5,
     "hops_away": 2,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
