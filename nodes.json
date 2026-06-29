@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-29T20:00:24.387204+00:00",
+    "last_heard": "2026-06-29T20:00:26.419513+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5205,9 +5205,9 @@
   "!ca078eab": {
     "id": "!ca078eab",
     "long_name": "timttmy T096",
-    "last_heard": "2026-06-27T22:50:54.759652+00:00",
-    "snr": -6.25,
-    "hops_away": 4,
+    "last_heard": "2026-06-29T20:00:47.712663+00:00",
+    "snr": -13.75,
+    "hops_away": 6,
     "short_name": "T096",
     "hw_model": "NRF52_UNKNOWN",
     "role": ""
