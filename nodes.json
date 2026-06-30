@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-06-30T10:00:46.445699+00:00",
-    "snr": 0.25,
-    "hops_away": 2,
+    "last_heard": "2026-06-30T11:06:07.802188+00:00",
+    "snr": -6.25,
+    "hops_away": 4,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -2202,9 +2202,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-06-30T08:32:22.113107+00:00",
-    "snr": -3.5,
-    "hops_away": 2,
+    "last_heard": "2026-06-30T11:06:15.571143+00:00",
+    "snr": -5.75,
+    "hops_away": 3,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
