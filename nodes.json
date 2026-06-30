@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-06-30T02:49:02.321897+00:00",
-    "snr": -6.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-30T03:48:50.362907+00:00",
+    "snr": -1.25,
+    "hops_away": 3,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
@@ -3098,9 +3098,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-30T03:31:23.217774+00:00",
-    "snr": -1.0,
-    "hops_away": 4,
+    "last_heard": "2026-06-30T03:48:46.788654+00:00",
+    "snr": -1.25,
+    "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
