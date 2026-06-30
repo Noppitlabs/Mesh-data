@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-30T04:22:46.785559+00:00",
+    "last_heard": "2026-06-30T04:23:43.983434+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-06-30T04:05:43.052047+00:00",
-    "snr": -0.25,
+    "last_heard": "2026-06-30T04:23:40.102279+00:00",
+    "snr": -1.5,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
