@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-30T10:01:02.722623+00:00",
+    "last_heard": "2026-06-30T10:01:04.649506+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -339,9 +339,9 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-06-30T05:03:23.009220+00:00",
-    "snr": -4.25,
-    "hops_away": 5,
+    "last_heard": "2026-06-30T10:01:53.424240+00:00",
+    "snr": -1.5,
+    "hops_away": 3,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
     "role": ""
