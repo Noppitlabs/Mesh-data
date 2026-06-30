@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-30T14:41:16.228687+00:00",
+    "last_heard": "2026-06-30T14:42:16.262111+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -556,8 +556,8 @@
   "!9e9fc148": {
     "id": "!9e9fc148",
     "long_name": "Somerlea Willand ",
-    "last_heard": "2026-06-30T14:09:04.961420+00:00",
-    "snr": -11.25,
+    "last_heard": "2026-06-30T14:42:18.711794+00:00",
+    "snr": -5.0,
     "hops_away": 5,
     "short_name": "SW",
     "hw_model": "HELTEC_V3",
