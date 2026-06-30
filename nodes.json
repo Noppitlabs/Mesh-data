@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-30T06:06:41.465961+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-30T06:14:40.209809+00:00",
+    "snr": -0.75,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -309,8 +309,8 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-06-30T02:27:52.928780+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-06-30T06:13:53.794802+00:00",
+    "snr": -8.25,
     "hops_away": 4,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
