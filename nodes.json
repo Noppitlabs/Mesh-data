@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-06-30T15:16:11.678214+00:00",
+    "last_heard": "2026-06-30T15:18:35.920918+00:00",
     "snr": -12.25,
-    "hops_away": 4,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
