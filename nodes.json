@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-30T06:02:51.297372+00:00",
+    "last_heard": "2026-06-30T06:03:51.341107+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-06-30T05:28:34.621073+00:00",
-    "snr": -2.75,
-    "hops_away": 3,
+    "last_heard": "2026-06-30T06:04:41.048680+00:00",
+    "snr": -12.75,
+    "hops_away": 4,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
