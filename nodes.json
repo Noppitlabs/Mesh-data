@@ -706,9 +706,9 @@
   "!db29ef28": {
     "id": "!db29ef28",
     "long_name": "RX_Roam",
-    "last_heard": "2026-06-30T15:24:06.635133+00:00",
-    "snr": -15.75,
-    "hops_away": 5,
+    "last_heard": "2026-06-30T23:59:17.947202+00:00",
+    "snr": -14.0,
+    "hops_away": 4,
     "short_name": "ef28",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2182,9 +2182,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-06-30T23:34:23.641942+00:00",
-    "snr": -16.0,
-    "hops_away": 1,
+    "last_heard": "2026-06-30T23:58:51.083245+00:00",
+    "snr": -14.5,
+    "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
