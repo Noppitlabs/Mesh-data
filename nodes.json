@@ -219,8 +219,8 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-06-30T01:31:58.856711+00:00",
-    "snr": -1.5,
+    "last_heard": "2026-06-30T02:01:11.305665+00:00",
+    "snr": -3.75,
     "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
@@ -1656,9 +1656,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-06-30T01:47:01.955173+00:00",
-    "snr": -15.5,
-    "hops_away": 3,
+    "last_heard": "2026-06-30T02:00:44.025765+00:00",
+    "snr": -14.25,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
