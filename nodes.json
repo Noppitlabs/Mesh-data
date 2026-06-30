@@ -1716,8 +1716,8 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "Winkleigh T1000E Tracker",
-    "last_heard": "2026-06-30T19:28:34.125745+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-06-30T21:40:35.558937+00:00",
+    "snr": -16.25,
     "hops_away": 3,
     "short_name": "SENS",
     "hw_model": "TRACKER_T1000_E",
@@ -3098,8 +3098,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-06-30T21:36:54.413952+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-30T21:40:53.345155+00:00",
+    "snr": -14.75,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
