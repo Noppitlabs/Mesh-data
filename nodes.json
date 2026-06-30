@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-30T07:14:32.573321+00:00",
-    "snr": 0.5,
-    "hops_away": 1,
+    "last_heard": "2026-06-30T07:15:11.018204+00:00",
+    "snr": 0.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4052,11 +4052,11 @@
   },
   "!fa39f7b4": {
     "id": "!fa39f7b4",
-    "long_name": "TA2 Yagi",
-    "last_heard": "2026-06-28T18:27:30.869697+00:00",
-    "snr": -6.0,
-    "hops_away": 2,
-    "short_name": "TA2y",
+    "long_name": "Meshtastic f7b4",
+    "last_heard": "2026-06-30T07:15:04.737754+00:00",
+    "snr": 1.5,
+    "hops_away": 3,
+    "short_name": "f7b4",
     "hw_model": "HELTEC_HT62",
     "role": "CLIENT_BASE"
   },
