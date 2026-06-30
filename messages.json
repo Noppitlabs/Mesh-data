@@ -1,5 +1,16 @@
 [
   {
+    "id": 1825113140,
+    "from": "!2687afb1",
+    "from_name": "Cider Village OMNI RAK",
+    "to": "^all",
+    "text": "text-event-observe",
+    "timestamp": "2026-06-30T11:40:19.164001+00:00",
+    "channel": 0,
+    "snr": -10.5,
+    "hops": 3
+  },
+  {
     "id": 837044363,
     "from": "!c6727d3e",
     "from_name": "EX4 Base E@ 7d3e",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-24T11:37:17.736590+00:00",
     "channel": 0,
     "snr": -5.5,
-    "hops": 2
-  },
-  {
-    "id": 4289165786,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-24T11:32:06.224900+00:00",
-    "channel": 0,
-    "snr": -6.5,
     "hops": 2
   }
 ]
