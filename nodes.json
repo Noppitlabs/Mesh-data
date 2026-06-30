@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-30T03:31:37.993436+00:00",
-    "snr": -1.0,
+    "last_heard": "2026-06-30T03:33:46.695219+00:00",
+    "snr": -0.75,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -4127,8 +4127,8 @@
   "!394f2a16": {
     "id": "!394f2a16",
     "long_name": "M7XMV | Truro Solar",
-    "last_heard": "2026-06-29T17:33:14.001241+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-30T03:33:48.710550+00:00",
+    "snr": -2.0,
     "hops_away": 5,
     "short_name": "MJV2",
     "hw_model": "SEEED_SOLAR_NODE",
