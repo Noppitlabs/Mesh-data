@@ -5310,9 +5310,9 @@
   "!0a33d4bb": {
     "id": "!0a33d4bb",
     "long_name": "luxulyan-tracker",
-    "last_heard": "2026-06-30T05:35:03.222388+00:00",
-    "snr": -5.5,
-    "hops_away": 4,
+    "last_heard": "2026-06-30T06:37:11.933095+00:00",
+    "snr": -4.75,
+    "hops_away": 6,
     "short_name": "lux-",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
