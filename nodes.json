@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-06-30T21:04:48.445907+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-06-30T21:06:52.015269+00:00",
+    "snr": -14.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -199,8 +199,8 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-06-30T19:06:30.433167+00:00",
-    "snr": -18.0,
+    "last_heard": "2026-06-30T21:06:37.620507+00:00",
+    "snr": -13.75,
     "hops_away": 3,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
