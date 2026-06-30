@@ -219,8 +219,8 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-06-30T00:03:43.583807+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-06-30T00:22:53.045571+00:00",
+    "snr": -1.5,
     "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
@@ -2706,9 +2706,9 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-06-29T21:46:29.289795+00:00",
-    "snr": -1.25,
-    "hops_away": 3,
+    "last_heard": "2026-06-30T00:22:37.373637+00:00",
+    "snr": -1.0,
+    "hops_away": 4,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
