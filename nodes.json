@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-06-30T07:40:56.299587+00:00",
+    "last_heard": "2026-06-30T07:41:56.349505+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1261,8 +1261,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-06-30T05:20:35.918691+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-06-30T07:41:37.000242+00:00",
+    "snr": -9.0,
     "hops_away": 0,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
