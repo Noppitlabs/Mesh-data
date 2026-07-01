@@ -1003,9 +1003,9 @@
   "!91ec7b3a": {
     "id": "!91ec7b3a",
     "long_name": "XXA-SOLAR 7b3a",
-    "last_heard": "2026-07-01T12:46:41.957486+00:00",
-    "snr": -8.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-01T14:52:48.535826+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "XXAs",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
