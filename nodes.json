@@ -2403,9 +2403,9 @@
   "!7c5a5424": {
     "id": "!7c5a5424",
     "long_name": "StAustellSimonBase",
-    "last_heard": "2026-07-01T08:11:03.998190+00:00",
-    "snr": -11.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-01T23:59:44.007366+00:00",
+    "snr": -9.75,
+    "hops_away": 6,
     "short_name": "SASB",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
