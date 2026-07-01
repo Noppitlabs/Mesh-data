@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-07-01T22:38:45.389654+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-07-01T23:35:55.545482+00:00",
+    "snr": -16.0,
     "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -963,9 +963,9 @@
   "!43b70dc8": {
     "id": "!43b70dc8",
     "long_name": "Edmund's Hill",
-    "last_heard": "2026-07-01T19:34:58.797865+00:00",
-    "snr": -12.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-01T23:35:46.717331+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "EH",
     "hw_model": "HELTEC_WSL_V3",
     "role": "CLIENT_BASE"
