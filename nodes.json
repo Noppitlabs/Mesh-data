@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-01T06:54:24.554139+00:00",
+    "last_heard": "2026-07-01T06:54:59.111804+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -319,8 +319,8 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-07-01T05:06:25.086836+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-07-01T06:54:26.410645+00:00",
+    "snr": -13.5,
     "hops_away": 2,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
