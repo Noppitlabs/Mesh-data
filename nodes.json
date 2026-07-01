@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-01T15:24:37.974447+00:00",
-    "snr": -19.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-01T15:55:29.493008+00:00",
+    "snr": -15.25,
+    "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -5015,9 +5015,9 @@
   "!9e75c320": {
     "id": "!9e75c320",
     "long_name": "Meshtastic c320",
-    "last_heard": "2026-06-30T14:26:21.485918+00:00",
-    "snr": -3.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-01T15:55:25.813279+00:00",
+    "snr": -19.25,
+    "hops_away": 4,
     "short_name": "c320",
     "hw_model": "HELTEC_V3",
     "role": ""
