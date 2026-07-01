@@ -69,8 +69,8 @@
   "!43b59df4": {
     "id": "!43b59df4",
     "long_name": "2E0HYY Keith",
-    "last_heard": "2026-07-01T06:35:06.180683+00:00",
-    "snr": -15.75,
+    "last_heard": "2026-07-01T07:00:15.527848+00:00",
+    "snr": -12.5,
     "hops_away": 2,
     "short_name": "KM02",
     "hw_model": "HELTEC_V3",
@@ -2612,9 +2612,9 @@
   "!a6962ea8": {
     "id": "!a6962ea8",
     "long_name": "Meshtastic 2ea8",
-    "last_heard": "2026-07-01T01:14:36.978727+00:00",
-    "snr": -16.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-01T07:00:05.199902+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
     "short_name": "TKV",
     "hw_model": "HELTEC_V4",
     "role": ""
