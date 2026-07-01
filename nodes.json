@@ -1656,8 +1656,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-07-01T14:27:02.758709+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-07-01T14:27:21.886146+00:00",
+    "snr": -11.25,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -3860,9 +3860,9 @@
   "!a1d779fc": {
     "id": "!a1d779fc",
     "long_name": "Meshtastic 79fc",
-    "last_heard": "2026-07-01T04:57:48.094299+00:00",
-    "snr": -12.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-01T14:27:55.469479+00:00",
+    "snr": -11.0,
+    "hops_away": 6,
     "short_name": "79fc",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
