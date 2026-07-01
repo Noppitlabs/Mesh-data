@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-07-01T07:08:25.694088+00:00",
-    "snr": -12.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-01T09:41:07.790556+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -4901,8 +4901,8 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Cider Village OMNI RAK",
-    "last_heard": "2026-07-01T09:14:43.630512+00:00",
-    "snr": -18.0,
+    "last_heard": "2026-07-01T09:41:40.676378+00:00",
+    "snr": -15.75,
     "hops_away": 3,
     "short_name": "TA2r",
     "hw_model": "RAK4631",
