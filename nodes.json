@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-01T07:56:08.864653+00:00",
-    "snr": -15.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-01T08:01:21.183625+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -406,8 +406,8 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-07-01T06:45:32.065415+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-07-01T08:01:03.635699+00:00",
+    "snr": -13.75,
     "hops_away": 2,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
