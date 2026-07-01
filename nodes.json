@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-01T11:32:38.119090+00:00",
-    "snr": -8.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-01T11:49:13.942202+00:00",
+    "snr": -10.0,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-01T11:47:03.925974+00:00",
-    "snr": -10.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-01T11:49:21.787065+00:00",
+    "snr": -10.25,
+    "hops_away": 5,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
