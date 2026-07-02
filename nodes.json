@@ -1656,9 +1656,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-07-02T07:14:01.440555+00:00",
-    "snr": -16.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-02T07:26:50.580276+00:00",
+    "snr": -9.25,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -3081,9 +3081,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-02T07:05:19.583914+00:00",
-    "snr": -19.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-02T07:26:40.197847+00:00",
+    "snr": -9.75,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
