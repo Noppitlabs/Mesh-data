@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-02T11:17:48.546238+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-02T11:21:09.121918+00:00",
+    "snr": -4.5,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -159,9 +159,9 @@
   "!4359694c": {
     "id": "!4359694c",
     "long_name": "Meshtastic 694c",
-    "last_heard": "2026-07-02T10:59:43.445583+00:00",
-    "snr": -1.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-02T11:20:23.063144+00:00",
+    "snr": -5.75,
+    "hops_away": 1,
     "short_name": "694c",
     "hw_model": "HELTEC_V3",
     "role": ""
