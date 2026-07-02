@@ -5214,11 +5214,11 @@
   },
   "!f6fb4a1c": {
     "id": "!f6fb4a1c",
-    "long_name": "m4gl4nd_wm_b453",
-    "last_heard": "2026-06-26T06:48:41.312469+00:00",
-    "snr": -8.5,
+    "long_name": "Meshtastic 4a1c",
+    "last_heard": "2026-07-02T04:08:47.506170+00:00",
+    "snr": -13.25,
     "hops_away": 3,
-    "short_name": "m4gw",
+    "short_name": "4a1c",
     "hw_model": "HELTEC_V3",
     "role": ""
   },
