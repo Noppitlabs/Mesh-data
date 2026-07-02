@@ -1,5 +1,16 @@
 [
   {
+    "id": 2144606528,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Afternoon",
+    "timestamp": "2026-07-02T14:01:12.832307+00:00",
+    "channel": 0,
+    "snr": -3.25,
+    "hops": 5
+  },
+  {
     "id": 34812265,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.25,
     "hops": 5
-  },
-  {
-    "id": 3027645523,
-    "from": "!9ea0bce4",
-    "from_name": "Hyperion WirelessPaper",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-24T19:37:22.851932+00:00",
-    "channel": 0,
-    "snr": -8.25,
-    "hops": 4
   }
 ]
