@@ -536,8 +536,8 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-07-02T17:14:49.624183+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-07-02T17:22:39.871461+00:00",
+    "snr": -7.75,
     "hops_away": 3,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
@@ -2182,9 +2182,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-02T17:03:23.100664+00:00",
-    "snr": -3.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-02T17:22:53.468138+00:00",
+    "snr": -14.75,
+    "hops_away": 4,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
