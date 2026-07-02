@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-02T13:05:24.739453+00:00",
+    "last_heard": "2026-07-02T13:05:26.671786+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5330,9 +5330,9 @@
   "!d6820718": {
     "id": "!d6820718",
     "long_name": "ExeRayTracker1",
-    "last_heard": "2026-07-02T13:01:41.966856+00:00",
-    "snr": -14.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-02T13:05:50.023641+00:00",
+    "snr": -7.5,
+    "hops_away": 2,
     "short_name": "ERT1",
     "hw_model": "TRACKER_T1000_E",
     "role": "TRACKER"
