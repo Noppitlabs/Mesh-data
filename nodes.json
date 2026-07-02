@@ -1439,8 +1439,8 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-02T01:04:04.776128+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-07-02T01:11:31.615435+00:00",
+    "snr": -17.25,
     "hops_away": 5,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
@@ -2041,9 +2041,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-02T00:53:15.936881+00:00",
-    "snr": -11.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-02T01:10:51.174872+00:00",
+    "snr": -11.75,
+    "hops_away": 3,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
