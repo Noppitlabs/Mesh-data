@@ -5330,9 +5330,9 @@
   "!d6820718": {
     "id": "!d6820718",
     "long_name": "ExeRayTracker1",
-    "last_heard": "2026-07-02T11:51:43.914987+00:00",
-    "snr": -3.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-02T11:52:01.196044+00:00",
+    "snr": -6.25,
+    "hops_away": 2,
     "short_name": "ERT1",
     "hw_model": "TRACKER_T1000_E",
     "role": "TRACKER"
