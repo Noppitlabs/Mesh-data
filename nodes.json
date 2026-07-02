@@ -1057,9 +1057,9 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-07-02T13:11:07.730338+00:00",
-    "snr": -5.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-02T13:18:34.109908+00:00",
+    "snr": -6.75,
+    "hops_away": 2,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
@@ -2182,8 +2182,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-02T13:15:33.752157+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-02T13:18:27.046123+00:00",
+    "snr": -4.75,
     "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
