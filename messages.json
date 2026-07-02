@@ -1,5 +1,16 @@
 [
   {
+    "id": 1617370633,
+    "from": "!0438f144",
+    "from_name": "!0438f144",
+    "to": "^all",
+    "text": "New here",
+    "timestamp": "2026-07-02T19:48:03.255978+00:00",
+    "channel": 0,
+    "snr": -6.5,
+    "hops": 3
+  },
+  {
     "id": 238630812,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.5,
     "hops": 2
-  },
-  {
-    "id": 3645542127,
-    "from": "!0409d1c0",
-    "from_name": "M7FYU",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-25T18:19:57.836274+00:00",
-    "channel": 0,
-    "snr": -4.25,
-    "hops": 7
   }
 ]
