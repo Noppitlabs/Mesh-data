@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-02T07:31:35.810883+00:00",
-    "snr": -8.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-02T08:01:40.114424+00:00",
+    "snr": -6.25,
+    "hops_away": 3,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -3081,8 +3081,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-02T07:44:59.618815+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-07-02T08:01:12.688460+00:00",
+    "snr": -12.5,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
