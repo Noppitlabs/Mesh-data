@@ -5336,5 +5336,12 @@
     "short_name": "ERT1",
     "hw_model": "TRACKER_T1000_E",
     "role": "TRACKER"
+  },
+  "!0438f144": {
+    "id": "!0438f144",
+    "long_name": "!0438f144",
+    "last_heard": "2026-07-02T19:48:01.688025+00:00",
+    "snr": -6.5,
+    "hops_away": 3
   }
 }
