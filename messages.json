@@ -1,5 +1,16 @@
 [
   {
+    "id": 240561402,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "yes yes, and the prices f any holiday will x 5 times more",
+    "timestamp": "2026-07-03T07:58:32.801693+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 3
+  },
+  {
     "id": 601161023,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.0,
     "hops": 6
-  },
-  {
-    "id": 98252179,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-26T19:32:13.966767+00:00",
-    "channel": 0,
-    "snr": -4.25,
-    "hops": 2
   }
 ]
