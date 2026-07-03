@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-03T06:37:19.158969+00:00",
+    "last_heard": "2026-07-03T06:37:21.104248+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4238,9 +4238,9 @@
   "!da5c79a4": {
     "id": "!da5c79a4",
     "long_name": "M7XMV | Truro",
-    "last_heard": "2026-07-03T05:04:53.197419+00:00",
-    "snr": -17.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-03T06:37:40.486087+00:00",
+    "snr": -18.5,
+    "hops_away": 7,
     "short_name": "MJV",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
