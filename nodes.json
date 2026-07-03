@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-03T22:59:03.441147+00:00",
+    "last_heard": "2026-07-03T23:00:04.672534+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2078,9 +2078,9 @@
   "!433ba350": {
     "id": "!433ba350",
     "long_name": "NKD-NKDM",
-    "last_heard": "2026-07-03T22:36:32.221979+00:00",
-    "snr": -3.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-03T23:00:38.265735+00:00",
+    "snr": -4.5,
+    "hops_away": 5,
     "short_name": "NKD2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "REPEATER"
