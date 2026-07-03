@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-03T10:12:56.596071+00:00",
-    "snr": -5.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-03T10:13:32.715443+00:00",
+    "snr": -3.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1716,9 +1716,9 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "Winkleigh T1000E Tracker",
-    "last_heard": "2026-07-03T09:25:25.818505+00:00",
-    "snr": -4.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-03T10:13:31.190006+00:00",
+    "snr": -6.0,
+    "hops_away": 3,
     "short_name": "SENS",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_BASE"
