@@ -1,5 +1,16 @@
 [
   {
+    "id": 1343677432,
+    "from": "!da5c79a4",
+    "from_name": "M7XMV | Truro",
+    "to": "^all",
+    "text": "Morning \u2600\ufe0f",
+    "timestamp": "2026-07-03T06:37:42.139912+00:00",
+    "channel": 0,
+    "snr": -18.5,
+    "hops": 7
+  },
+  {
     "id": 960323523,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-26T18:27:52.430572+00:00",
     "channel": 0,
     "snr": -5.0,
-    "hops": 4
-  },
-  {
-    "id": 18730722,
-    "from": "!ca078eab",
-    "from_name": "timttmy T096",
-    "to": "^all",
-    "text": "Still bleddy warm \ud83e\udee0",
-    "timestamp": "2026-06-26T18:26:56.044795+00:00",
-    "channel": 0,
-    "snr": -3.5,
     "hops": 4
   }
 ]
