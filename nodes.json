@@ -3108,8 +3108,8 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-07-03T19:29:04.515936+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-07-03T19:30:00.767928+00:00",
+    "snr": -5.0,
     "hops_away": 5,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
