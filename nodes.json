@@ -169,9 +169,9 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SOLAR",
-    "last_heard": "2026-06-27T19:38:56.709889+00:00",
-    "snr": -7.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-03T07:36:27.596698+00:00",
+    "snr": -5.25,
+    "hops_away": 6,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER_LATE"
