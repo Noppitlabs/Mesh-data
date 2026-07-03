@@ -456,9 +456,9 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-07-03T00:08:57.662582+00:00",
-    "snr": -3.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-03T00:16:00.614247+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
@@ -2182,8 +2182,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-02T23:30:03.697107+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-07-03T00:16:38.113001+00:00",
+    "snr": -4.0,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
