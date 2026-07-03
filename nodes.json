@@ -646,8 +646,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-03T10:44:58.872353+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-07-03T12:15:04.581695+00:00",
+    "snr": -10.75,
     "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
@@ -2376,9 +2376,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-07-03T11:49:10.976106+00:00",
-    "snr": -4.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-03T12:15:11.183494+00:00",
+    "snr": -3.75,
+    "hops_away": 3,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": ""
