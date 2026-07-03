@@ -1,5 +1,16 @@
 [
   {
+    "id": 20021259,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "we are in for some nice weather again :)",
+    "timestamp": "2026-07-03T07:54:00.503867+00:00",
+    "channel": 0,
+    "snr": -18.75,
+    "hops": 1
+  },
+  {
     "id": 370593119,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 2.75,
     "hops": 0
-  },
-  {
-    "id": 509401585,
-    "from": "!c90ed460",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Test from West Down Beacon overlooking Lyme Bay",
-    "timestamp": "2026-06-26T19:18:09.453601+00:00",
-    "channel": 0,
-    "snr": 2.25,
-    "hops": 1
   }
 ]
