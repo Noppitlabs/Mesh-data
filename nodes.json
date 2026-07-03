@@ -1716,9 +1716,9 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "Winkleigh T1000E Tracker",
-    "last_heard": "2026-07-03T10:13:31.190006+00:00",
-    "snr": -6.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-03T11:01:00.767465+00:00",
+    "snr": -5.5,
+    "hops_away": 4,
     "short_name": "SENS",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_BASE"
@@ -3876,9 +3876,9 @@
   "!0c2a28f9": {
     "id": "!0c2a28f9",
     "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-06-27T13:37:03.653955+00:00",
-    "snr": -5.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-03T11:00:33.444835+00:00",
+    "snr": -6.25,
+    "hops_away": 4,
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
