@@ -329,9 +329,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-07-03T22:50:17.052398+00:00",
-    "snr": -7.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-03T23:38:53.453569+00:00",
+    "snr": -4.25,
+    "hops_away": 5,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
