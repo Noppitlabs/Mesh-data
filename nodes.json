@@ -4244,9 +4244,9 @@
   "!da5c79a4": {
     "id": "!da5c79a4",
     "long_name": "M7XMV | Truro",
-    "last_heard": "2026-07-03T06:37:43.375486+00:00",
-    "snr": -18.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-03T11:05:02.802614+00:00",
+    "snr": -6.5,
+    "hops_away": 5,
     "short_name": "MJV",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
