@@ -756,9 +756,9 @@
   "!b2a78f18": {
     "id": "!b2a78f18",
     "long_name": "timttmy-V4",
-    "last_heard": "2026-07-04T05:16:31.281402+00:00",
-    "snr": -3.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-04T05:59:57.366483+00:00",
+    "snr": -4.5,
+    "hops_away": 6,
     "short_name": "t::1",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
@@ -2376,9 +2376,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-07-04T05:34:13.034658+00:00",
-    "snr": -4.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-04T05:59:22.306678+00:00",
+    "snr": -16.75,
+    "hops_away": 2,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": ""
