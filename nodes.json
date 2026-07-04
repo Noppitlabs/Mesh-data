@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-04T12:16:17.208389+00:00",
-    "snr": -8.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-04T12:18:40.004237+00:00",
+    "snr": -2.75,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -486,9 +486,9 @@
   "!7a60aebb": {
     "id": "!7a60aebb",
     "long_name": "Ipplepen Relay",
-    "last_heard": "2026-06-28T04:48:12.113731+00:00",
-    "snr": -13.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-04T12:18:41.225504+00:00",
+    "snr": -9.0,
+    "hops_away": 2,
     "short_name": "FCN3",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
