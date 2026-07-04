@@ -5346,9 +5346,9 @@
   "!0438f144": {
     "id": "!0438f144",
     "long_name": "Swinging beef",
-    "last_heard": "2026-07-04T07:47:14.970863+00:00",
-    "snr": -6.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-04T07:47:29.174963+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
     "short_name": "SB11",
     "hw_model": "HELTEC_V3",
     "role": ""
