@@ -1,5 +1,16 @@
 [
   {
+    "id": 1990671087,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Hello from Mark",
+    "timestamp": "2026-07-04T07:49:14.683782+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 1
+  },
+  {
     "id": 1569338403,
     "from": "!0438f144",
     "from_name": "Swinging beef",
@@ -536,17 +547,6 @@
     "timestamp": "2026-06-28T05:10:45.579977+00:00",
     "channel": 0,
     "snr": -9.25,
-    "hops": 0
-  },
-  {
-    "id": 707697354,
-    "from": "!c90ed460",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Test from West Down Beacon",
-    "timestamp": "2026-06-28T05:10:08.052447+00:00",
-    "channel": 0,
-    "snr": -11.5,
     "hops": 0
   }
 ]
