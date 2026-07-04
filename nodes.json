@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-04T10:08:33.907993+00:00",
+    "last_heard": "2026-07-04T10:09:32.306119+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5408,8 +5408,8 @@
   "!f6901f34": {
     "id": "!f6901f34",
     "long_name": "Barman Mo",
-    "last_heard": "2026-07-04T10:09:30.587263+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-07-04T10:09:35.169567+00:00",
+    "snr": -6.25,
     "hops_away": 3,
     "short_name": "Mo",
     "hw_model": "THINKNODE_M5",
