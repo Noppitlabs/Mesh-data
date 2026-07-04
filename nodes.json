@@ -1509,9 +1509,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-04T12:16:35.113679+00:00",
-    "snr": -3.25,
-    "hops_away": 7,
+    "last_heard": "2026-07-04T14:49:46.924795+00:00",
+    "snr": -3.5,
+    "hops_away": 5,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2041,8 +2041,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-04T13:54:15.570281+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-07-04T14:49:53.527896+00:00",
+    "snr": -5.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
