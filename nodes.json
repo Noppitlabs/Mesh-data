@@ -3755,9 +3755,9 @@
   "!11c464f3": {
     "id": "!11c464f3",
     "long_name": "Baraveha - Router\ud83d\udce1",
-    "last_heard": "2026-07-03T08:41:16.566262+00:00",
-    "snr": -5.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-04T21:44:59.513966+00:00",
+    "snr": -6.5,
+    "hops_away": 5,
     "short_name": "SW-1",
     "hw_model": "RAK4631",
     "role": "ROUTER"
