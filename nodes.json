@@ -826,8 +826,8 @@
   "!9e9d72b8": {
     "id": "!9e9d72b8",
     "long_name": "T0rr Client 1",
-    "last_heard": "2026-07-04T11:22:12.933950+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-07-04T11:56:50.035386+00:00",
+    "snr": -6.25,
     "hops_away": 4,
     "short_name": "T0C1",
     "hw_model": "HELTEC_V3",
@@ -3098,8 +3098,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-04T11:53:23.020219+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-07-04T11:56:54.442527+00:00",
+    "snr": -5.5,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
