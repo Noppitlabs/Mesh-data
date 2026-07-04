@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-04T09:13:49.229987+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-04T09:15:30.645729+00:00",
+    "snr": -9.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -2078,8 +2078,8 @@
   "!433ba350": {
     "id": "!433ba350",
     "long_name": "NKD-NKDM",
-    "last_heard": "2026-07-04T08:51:26.895850+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-07-04T09:15:31.781336+00:00",
+    "snr": -4.5,
     "hops_away": 4,
     "short_name": "NKD2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
