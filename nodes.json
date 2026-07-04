@@ -5424,5 +5424,15 @@
     "short_name": "Lisa",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!14cef50a": {
+    "id": "!14cef50a",
+    "long_name": "Bart Simpson",
+    "last_heard": "2026-07-04T11:53:59.137824+00:00",
+    "snr": -4.0,
+    "hops_away": 2,
+    "short_name": "Bart",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
