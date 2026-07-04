@@ -5414,5 +5414,15 @@
     "short_name": "Mo",
     "hw_model": "THINKNODE_M5",
     "role": ""
+  },
+  "!5fad9992": {
+    "id": "!5fad9992",
+    "long_name": "Lisa Simpson",
+    "last_heard": "2026-07-04T10:42:07.459866+00:00",
+    "snr": -4.75,
+    "hops_away": 2,
+    "short_name": "Lisa",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
