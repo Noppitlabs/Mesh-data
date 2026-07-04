@@ -456,8 +456,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-07-04T14:20:45.172374+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-07-04T14:34:45.849812+00:00",
+    "snr": -2.25,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -846,8 +846,8 @@
   "!db2a98d0": {
     "id": "!db2a98d0",
     "long_name": "RX_Tiverton",
-    "last_heard": "2026-07-04T09:09:54.156650+00:00",
-    "snr": -7.75,
+    "last_heard": "2026-07-04T14:34:50.906260+00:00",
+    "snr": -2.75,
     "hops_away": 4,
     "short_name": "98d0",
     "hw_model": "HELTEC_V3",
