@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-04T05:33:57.241537+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-07-04T05:35:07.442389+00:00",
+    "snr": -4.75,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -259,8 +259,8 @@
   "!da638a8c": {
     "id": "!da638a8c",
     "long_name": "North Molton Attic",
-    "last_heard": "2026-07-03T17:06:55.375652+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-04T05:35:04.614218+00:00",
+    "snr": -10.75,
     "hops_away": 2,
     "short_name": "EXM2",
     "hw_model": "HELTEC_V3",
