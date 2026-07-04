@@ -319,7 +319,7 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-07-04T05:06:38.227242+00:00",
+    "last_heard": "2026-07-04T05:54:22.025761+00:00",
     "snr": -4.5,
     "hops_away": 2,
     "short_name": "6ccc",
@@ -2182,8 +2182,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-04T05:53:24.511266+00:00",
-    "snr": -3.75,
+    "last_heard": "2026-07-04T05:54:27.959227+00:00",
+    "snr": -5.25,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
