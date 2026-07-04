@@ -5434,5 +5434,12 @@
     "short_name": "Bart",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!e2e5091c": {
+    "id": "!e2e5091c",
+    "long_name": "!e2e5091c",
+    "last_heard": "2026-07-04T15:14:16.290552+00:00",
+    "snr": -5.0,
+    "hops_away": 7
   }
 }
