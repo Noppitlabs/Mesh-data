@@ -5408,9 +5408,9 @@
   "!f6901f34": {
     "id": "!f6901f34",
     "long_name": "Barman Mo",
-    "last_heard": "2026-07-04T12:58:44.504398+00:00",
-    "snr": -5.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-04T13:10:22.912152+00:00",
+    "snr": -4.75,
+    "hops_away": 3,
     "short_name": "Mo",
     "hw_model": "THINKNODE_M5",
     "role": ""
