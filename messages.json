@@ -1,5 +1,16 @@
 [
   {
+    "id": 98900249,
+    "from": "!04007fd0",
+    "from_name": "!04007fd0",
+    "to": "^all",
+    "text": "Puckurola 2-Way Pager",
+    "timestamp": "2026-07-04T11:12:02.546307+00:00",
+    "channel": 0,
+    "snr": -3.5,
+    "hops": 3
+  },
+  {
     "id": 2098926490,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.0,
     "hops": 3
-  },
-  {
-    "id": 98252201,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-06-28T18:15:20.051957+00:00",
-    "channel": 0,
-    "snr": -9.0,
-    "hops": 2
   }
 ]
