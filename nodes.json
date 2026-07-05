@@ -5481,5 +5481,12 @@
     "short_name": "MLBR",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!7f0f38d8": {
+    "id": "!7f0f38d8",
+    "long_name": "!7f0f38d8",
+    "last_heard": "2026-07-05T16:14:06.340595+00:00",
+    "snr": -2.0,
+    "hops_away": 3
   }
 }
