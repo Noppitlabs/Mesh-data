@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-07-05T13:50:47.910154+00:00",
-    "snr": -5.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-05T14:50:49.418865+00:00",
+    "snr": -4.0,
+    "hops_away": 2,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
@@ -2041,9 +2041,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-05T14:30:21.725162+00:00",
-    "snr": -4.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-05T14:51:02.905988+00:00",
+    "snr": -3.25,
+    "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
