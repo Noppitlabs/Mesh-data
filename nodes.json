@@ -3714,9 +3714,9 @@
   "!433f2958": {
     "id": "!433f2958",
     "long_name": "EI3HBB Home",
-    "last_heard": "2026-07-05T17:52:57.802003+00:00",
-    "snr": -3.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-05T19:33:11.965069+00:00",
+    "snr": -4.5,
+    "hops_away": 6,
     "short_name": "3HBB",
     "hw_model": "HELTEC_V3",
     "role": ""
