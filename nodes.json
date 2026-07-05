@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-05T04:02:41.685300+00:00",
-    "snr": -9.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-05T04:22:00.244430+00:00",
+    "snr": -2.75,
+    "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
