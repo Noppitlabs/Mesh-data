@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-05T08:52:50.085230+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-07-05T08:57:33.520316+00:00",
+    "snr": -9.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -1439,9 +1439,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-05T08:53:07.467722+00:00",
-    "snr": -5.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-05T08:57:42.010575+00:00",
+    "snr": -7.5,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
