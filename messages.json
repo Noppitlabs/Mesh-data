@@ -1,5 +1,16 @@
 [
   {
+    "id": 4247025106,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "ping",
+    "timestamp": "2026-07-05T19:51:24.432174+00:00",
+    "channel": 0,
+    "snr": -3.25,
+    "hops": 5
+  },
+  {
     "id": 355720564,
     "from": "!5bfc4afe",
     "from_name": "Winkleigh T1000E Tracker",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.0,
     "hops": 2
-  },
-  {
-    "id": 360657920,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "Test from a big East Devon hill.",
-    "timestamp": "2026-06-29T18:54:41.943979+00:00",
-    "channel": 0,
-    "snr": -9.5,
-    "hops": 3
   }
 ]
