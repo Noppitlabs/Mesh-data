@@ -536,9 +536,9 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-07-05T23:14:58.481598+00:00",
-    "snr": -4.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-05T23:28:30.425496+00:00",
+    "snr": -3.5,
+    "hops_away": 5,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -1295,8 +1295,8 @@
   "!2234c21f": {
     "id": "!2234c21f",
     "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-05T17:28:45.609036+00:00",
-    "snr": -3.5,
+    "last_heard": "2026-07-05T23:28:15.797876+00:00",
+    "snr": -17.25,
     "hops_away": 4,
     "short_name": "c21f",
     "hw_model": "HELTEC_MESH_NODE_T114",
