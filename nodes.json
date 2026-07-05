@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-05T08:37:30.938363+00:00",
+    "last_heard": "2026-07-05T08:38:32.260020+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1716,8 +1716,8 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "Winkleigh T1000E Tracker",
-    "last_heard": "2026-07-04T21:29:34.618324+00:00",
-    "snr": -3.5,
+    "last_heard": "2026-07-05T08:38:42.138153+00:00",
+    "snr": -20.0,
     "hops_away": 3,
     "short_name": "SENS",
     "hw_model": "TRACKER_T1000_E",
