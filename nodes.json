@@ -2078,9 +2078,9 @@
   "!433ba350": {
     "id": "!433ba350",
     "long_name": "NKD-NKDM",
-    "last_heard": "2026-07-05T11:56:58.767666+00:00",
+    "last_heard": "2026-07-05T12:09:06.513490+00:00",
     "snr": -8.0,
-    "hops_away": 3,
+    "hops_away": 2,
     "short_name": "NKD2",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "REPEATER"
