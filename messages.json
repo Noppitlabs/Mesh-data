@@ -1,5 +1,16 @@
 [
   {
+    "id": 250232586,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "Received in Plymouth 3 hops",
+    "timestamp": "2026-07-05T10:18:33.667446+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 4
+  },
+  {
     "id": 1727170817,
     "from": "!0404d940",
     "from_name": "Meshtastic d940",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.75,
     "hops": 3
-  },
-  {
-    "id": 685221607,
-    "from": "!1332cefc",
-    "from_name": "PlymCastle",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-06-29T14:23:39.874996+00:00",
-    "channel": 0,
-    "snr": -7.5,
-    "hops": 2
   }
 ]
