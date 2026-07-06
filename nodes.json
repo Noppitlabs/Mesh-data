@@ -5587,5 +5587,12 @@
     "short_name": "213c",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
+  },
+  "!2d5c8dc9": {
+    "id": "!2d5c8dc9",
+    "long_name": "!2d5c8dc9",
+    "last_heard": "2026-07-06T05:12:59.989400+00:00",
+    "snr": -6.5,
+    "hops_away": 4
   }
 }
