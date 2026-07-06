@@ -1094,9 +1094,9 @@
   "!55fbf3fc": {
     "id": "!55fbf3fc",
     "long_name": "whisper_f3fc",
-    "last_heard": "2026-07-05T21:28:12.627037+00:00",
-    "snr": -3.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-06T00:10:12.215540+00:00",
+    "snr": -16.25,
+    "hops_away": 3,
     "short_name": "f3fc",
     "hw_model": "T_ECHO",
     "role": ""
