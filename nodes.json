@@ -5529,5 +5529,15 @@
     "last_heard": "2026-07-05T23:42:37.413633+00:00",
     "snr": -18.25,
     "hops_away": 6
+  },
+  "!0aca3478": {
+    "id": "!0aca3478",
+    "long_name": "Starbuck MW0HYA",
+    "last_heard": "2026-07-06T00:15:15.798022+00:00",
+    "snr": -4.75,
+    "hops_away": 5,
+    "short_name": "PP03",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
