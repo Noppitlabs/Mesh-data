@@ -1539,9 +1539,9 @@
   "!db2f0e7c": {
     "id": "!db2f0e7c",
     "long_name": "CardiffBay",
-    "last_heard": "2026-06-30T14:32:15.638466+00:00",
-    "snr": -4.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-06T02:32:14.403758+00:00",
+    "snr": -3.5,
+    "hops_away": 6,
     "short_name": "BASE",
     "hw_model": "HELTEC_V3",
     "role": ""
