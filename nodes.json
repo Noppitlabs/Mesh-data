@@ -2001,9 +2001,9 @@
   "!da5459d8": {
     "id": "!da5459d8",
     "long_name": "ForestofDeanGL15BASE",
-    "last_heard": "2026-07-06T02:50:11.352556+00:00",
-    "snr": -3.75,
-    "hops_away": 0,
+    "last_heard": "2026-07-06T02:51:44.500715+00:00",
+    "snr": -3.5,
+    "hops_away": -1,
     "short_name": "STV2",
     "hw_model": "HELTEC_V3",
     "role": ""
