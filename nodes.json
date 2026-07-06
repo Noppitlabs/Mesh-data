@@ -5553,5 +5553,15 @@
     "last_heard": "2026-07-06T02:15:32.967164+00:00",
     "snr": -4.0,
     "hops_away": 3
+  },
+  "!0acb55e8": {
+    "id": "!0acb55e8",
+    "long_name": "Meshtastic 55e8",
+    "last_heard": "2026-07-06T03:49:58.343156+00:00",
+    "snr": -18.25,
+    "hops_away": 3,
+    "short_name": "55e8",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
