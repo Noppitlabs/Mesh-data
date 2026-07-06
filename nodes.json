@@ -3545,8 +3545,8 @@
   "!433c4cdc": {
     "id": "!433c4cdc",
     "long_name": "Meshtastic 4cdc",
-    "last_heard": "2026-07-06T15:22:43.226668+00:00",
-    "snr": -3.25,
+    "last_heard": "2026-07-06T15:51:12.986275+00:00",
+    "snr": -6.0,
     "hops_away": 6,
     "short_name": "4cdc",
     "hw_model": "HELTEC_WSL_V3",
