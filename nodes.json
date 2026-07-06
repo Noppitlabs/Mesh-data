@@ -5599,9 +5599,9 @@
   "!f4c2213c": {
     "id": "!f4c2213c",
     "long_name": "Meshtastic 213c",
-    "last_heard": "2026-07-06T19:05:51.551004+00:00",
-    "snr": -3.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-06T20:40:08.179101+00:00",
+    "snr": -19.0,
+    "hops_away": 5,
     "short_name": "213c",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
