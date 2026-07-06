@@ -39,9 +39,9 @@
   "!da655af4": {
     "id": "!da655af4",
     "long_name": "PIXEL",
-    "last_heard": "2026-07-06T07:45:42.533224+00:00",
-    "snr": -5.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-06T12:47:24.185056+00:00",
+    "snr": -2.5,
+    "hops_away": 5,
     "short_name": "PIXL",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
