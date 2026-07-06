@@ -3808,9 +3808,9 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr Bs M7MRB 2",
-    "last_heard": "2026-07-06T08:48:38.545740+00:00",
-    "snr": -3.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-06T09:00:43.395994+00:00",
+    "snr": -14.75,
+    "hops_away": 6,
     "short_name": "Bug2",
     "hw_model": "HELTEC_V3",
     "role": ""
