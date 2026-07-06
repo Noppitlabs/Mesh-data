@@ -805,13 +805,10 @@
   },
   "!a4c2bc74": {
     "id": "!a4c2bc74",
-    "long_name": "BACKPACK 1",
-    "last_heard": "2026-05-12T15:28:18.157732+00:00",
-    "snr": -13.5,
-    "hops_away": 3,
-    "short_name": "BPK1",
-    "hw_model": "XIAO_NRF52_KIT",
-    "role": "CLIENT_MUTE"
+    "long_name": "!a4c2bc74",
+    "last_heard": "2026-07-06T12:37:19.128269+00:00",
+    "snr": -19.0,
+    "hops_away": 4
   },
   "!fe93d41f": {
     "id": "!fe93d41f",
@@ -1295,8 +1292,8 @@
   "!2234c21f": {
     "id": "!2234c21f",
     "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-06T11:43:29.886821+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-07-06T12:36:52.218455+00:00",
+    "snr": -3.0,
     "hops_away": 5,
     "short_name": "c21f",
     "hw_model": "HELTEC_MESH_NODE_T114",
