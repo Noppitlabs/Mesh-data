@@ -4585,9 +4585,9 @@
   "!7c5b109c": {
     "id": "!7c5b109c",
     "long_name": "Waterfall Router 109c",
-    "last_heard": "2026-07-06T03:34:10.575373+00:00",
-    "snr": -18.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-06T04:17:20.302864+00:00",
+    "snr": -3.5,
+    "hops_away": 3,
     "short_name": "109c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
