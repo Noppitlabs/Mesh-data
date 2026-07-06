@@ -1469,8 +1469,8 @@
   "!7c5ad35c": {
     "id": "!7c5ad35c",
     "long_name": "FurballBB Home \ud83c\udfe0",
-    "last_heard": "2026-07-06T02:54:16.002434+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-06T03:34:30.849146+00:00",
+    "snr": -17.75,
     "hops_away": 3,
     "short_name": "FBH",
     "hw_model": "HELTEC_WSL_V3",
@@ -4314,8 +4314,8 @@
   "!96a42812": {
     "id": "!96a42812",
     "long_name": "DUCK",
-    "last_heard": "2026-07-06T00:26:30.643594+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-07-06T03:34:38.173382+00:00",
+    "snr": -3.75,
     "hops_away": 6,
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
