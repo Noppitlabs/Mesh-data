@@ -2823,10 +2823,13 @@
   },
   "!ae312a0f": {
     "id": "!ae312a0f",
-    "long_name": "!ae312a0f",
-    "last_heard": "2026-07-06T11:46:28.021317+00:00",
+    "long_name": "Quackers",
+    "last_heard": "2026-07-06T11:54:19.815968+00:00",
     "snr": -4.25,
-    "hops_away": 7
+    "hops_away": 7,
+    "short_name": "Qkrs",
+    "hw_model": "T_ECHO",
+    "role": ""
   },
   "!cae810a9": {
     "id": "!cae810a9",
