@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-06T12:17:08.926156+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-06T12:21:11.506376+00:00",
+    "snr": -3.75,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -3081,8 +3081,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-06T12:18:58.736463+00:00",
-    "snr": -3.25,
+    "last_heard": "2026-07-06T12:20:51.784629+00:00",
+    "snr": -2.0,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
