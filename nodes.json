@@ -4598,9 +4598,9 @@
   "!3ed21a2e": {
     "id": "!3ed21a2e",
     "long_name": "MAVIC AIR 2S \ud83c\udde8\ud83c\uddf5",
-    "last_heard": "2026-07-06T07:06:22.097349+00:00",
-    "snr": -18.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-06T07:06:27.124042+00:00",
+    "snr": -7.0,
+    "hops_away": 7,
     "short_name": "1a2e",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
