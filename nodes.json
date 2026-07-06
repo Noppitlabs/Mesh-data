@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-06T17:11:02.366412+00:00",
+    "last_heard": "2026-07-06T17:11:04.216330+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2299,9 +2299,9 @@
   "!6983e570": {
     "id": "!6983e570",
     "long_name": "GCM0008 - St Clair Hill\ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-07-06T15:36:46.142457+00:00",
-    "snr": -7.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T17:11:07.500153+00:00",
+    "snr": -11.5,
+    "hops_away": 5,
     "short_name": "e570",
     "hw_model": "HELTEC_V4",
     "role": ""
