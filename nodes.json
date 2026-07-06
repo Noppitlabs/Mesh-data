@@ -5667,5 +5667,15 @@
     "short_name": "26ad",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!9ea07028": {
+    "id": "!9ea07028",
+    "long_name": "Meshtastic 7028",
+    "last_heard": "2026-07-06T11:24:39.561856+00:00",
+    "snr": -4.5,
+    "hops_away": 3,
+    "short_name": "7028",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
