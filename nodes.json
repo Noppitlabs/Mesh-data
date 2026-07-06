@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-06T15:46:54.325773+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T15:49:46.817268+00:00",
+    "snr": -5.25,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1000,9 +1000,9 @@
   "!91ec7b3a": {
     "id": "!91ec7b3a",
     "long_name": "XXA-SOLAR 7b3a",
-    "last_heard": "2026-07-06T13:49:26.192726+00:00",
-    "snr": -0.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T15:49:29.479621+00:00",
+    "snr": -9.5,
+    "hops_away": 2,
     "short_name": "XXAs",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
