@@ -516,9 +516,9 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-07-06T10:18:50.719814+00:00",
-    "snr": -4.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-06T13:18:54.246824+00:00",
+    "snr": -4.25,
+    "hops_away": 3,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1228,9 +1228,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-07-06T12:46:19.825604+00:00",
-    "snr": -3.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T13:19:05.110272+00:00",
+    "snr": -4.5,
+    "hops_away": 2,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
