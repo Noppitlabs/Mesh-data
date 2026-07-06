@@ -3095,9 +3095,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-06T12:47:04.136330+00:00",
-    "snr": -8.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-06T12:50:52.870250+00:00",
+    "snr": -3.5,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
@@ -4320,9 +4320,9 @@
   "!96a42812": {
     "id": "!96a42812",
     "long_name": "DUCK",
-    "last_heard": "2026-07-06T12:48:30.603096+00:00",
-    "snr": -2.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-06T12:51:15.247118+00:00",
+    "snr": -3.25,
+    "hops_away": 5,
     "short_name": "DUCK",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
