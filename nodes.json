@@ -466,9 +466,9 @@
   "!9e9d1704": {
     "id": "!9e9d1704",
     "long_name": "Wolf Den",
-    "last_heard": "2026-07-06T13:40:53.243524+00:00",
-    "snr": -1.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T14:04:57.411366+00:00",
+    "snr": -3.25,
+    "hops_away": 4,
     "short_name": "Star",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
