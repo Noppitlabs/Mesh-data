@@ -289,9 +289,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-07-06T13:54:03.674217+00:00",
-    "snr": -3.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-06T14:00:56.189740+00:00",
+    "snr": -3.25,
+    "hops_away": 5,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3268,9 +3268,9 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-06T13:27:02.954722+00:00",
-    "snr": -2.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-06T14:01:46.051671+00:00",
+    "snr": -1.75,
+    "hops_away": 4,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
