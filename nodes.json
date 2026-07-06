@@ -3271,8 +3271,8 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-06T09:23:00.872993+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-07-06T11:41:03.555917+00:00",
+    "snr": -19.5,
     "hops_away": 3,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -4492,9 +4492,9 @@
   "!0a41527c": {
     "id": "!0a41527c",
     "long_name": "Lick Hill Mute 527c",
-    "last_heard": "2026-07-06T11:18:21.272508+00:00",
-    "snr": -4.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T11:41:08.714105+00:00",
+    "snr": -4.25,
+    "hops_away": 4,
     "short_name": "527c",
     "hw_model": "RAK4631",
     "role": ""
