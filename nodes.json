@@ -1449,8 +1449,8 @@
   "!849c17e0": {
     "id": "!849c17e0",
     "long_name": "ChepNobBase",
-    "last_heard": "2026-06-30T09:11:36.794021+00:00",
-    "snr": 1.75,
+    "last_heard": "2026-07-06T11:53:24.025913+00:00",
+    "snr": -10.75,
     "hops_away": 4,
     "short_name": "CpNB",
     "hw_model": "HELTEC_V3",
@@ -3095,9 +3095,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-06T11:48:45.787078+00:00",
-    "snr": -11.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-06T11:52:50.051429+00:00",
+    "snr": -3.5,
+    "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
