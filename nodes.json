@@ -4577,10 +4577,13 @@
   },
   "!bb832698": {
     "id": "!bb832698",
-    "long_name": "!bb832698",
-    "last_heard": "2026-07-05T09:21:14.779639+00:00",
-    "snr": -6.25,
-    "hops_away": 4
+    "long_name": "\ud83d\udce1 \ud83c\udde8\ud83c\uddf5",
+    "last_heard": "2026-07-06T06:51:39.102496+00:00",
+    "snr": -6.0,
+    "hops_away": 4,
+    "short_name": "2698",
+    "hw_model": "TBEAM",
+    "role": ""
   },
   "!7c5b109c": {
     "id": "!7c5b109c",
