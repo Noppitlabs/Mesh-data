@@ -1,5 +1,16 @@
 [
   {
+    "id": 2531217845,
+    "from": "!0a98afd0",
+    "from_name": "Meshtastic afd0",
+    "to": "^all",
+    "text": "test",
+    "timestamp": "2026-07-06T18:26:35.090310+00:00",
+    "channel": 0,
+    "snr": -18.75,
+    "hops": 2
+  },
+  {
     "id": 3363838055,
     "from": "!56e04c5a",
     "from_name": "ALAN T1000-E",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.75,
     "hops": 3
-  },
-  {
-    "id": 727069585,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "Meanwhile testing Meshcore, 26 hops to High Wycombe using a matching mobile node.",
-    "timestamp": "2026-06-29T19:35:00.615149+00:00",
-    "channel": 0,
-    "snr": -8.75,
-    "hops": 2
   }
 ]
