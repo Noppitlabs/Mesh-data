@@ -1,5 +1,16 @@
 [
   {
+    "id": 2611514541,
+    "from": "!b2a78f18",
+    "from_name": "timttmy-V4",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-07-06T19:22:44.049872+00:00",
+    "channel": 0,
+    "snr": -6.25,
+    "hops": 4
+  },
+  {
     "id": 2531217845,
     "from": "!0a98afd0",
     "from_name": "Meshtastic afd0",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 2
-  },
-  {
-    "id": 127804972,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "Thank you \ud83d\ude0a Didn't receive that reply. I know the basic theory for MC but haven't been able to find a network until now.",
-    "timestamp": "2026-06-29T19:37:29.301849+00:00",
-    "channel": 0,
-    "snr": -8.75,
-    "hops": 3
   }
 ]
