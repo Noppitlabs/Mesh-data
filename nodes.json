@@ -646,9 +646,9 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-06T07:33:13.855670+00:00",
-    "snr": -5.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T07:35:05.187162+00:00",
+    "snr": -19.0,
+    "hops_away": 2,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3241,8 +3241,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-06T07:30:59.412392+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-07-06T07:35:28.598693+00:00",
+    "snr": -12.75,
     "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
