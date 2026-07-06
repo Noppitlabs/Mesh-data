@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-06T08:10:36.447586+00:00",
+    "last_heard": "2026-07-06T08:10:38.279055+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3241,8 +3241,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-06T08:09:02.103741+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-07-06T08:11:24.695936+00:00",
+    "snr": -6.25,
     "hops_away": 2,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
