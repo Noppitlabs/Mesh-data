@@ -436,8 +436,8 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-07-06T15:45:41.826278+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-07-06T16:05:05.835239+00:00",
+    "snr": -4.25,
     "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
@@ -3095,8 +3095,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-06T16:01:35.617259+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-06T16:05:03.962419+00:00",
+    "snr": -4.5,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
