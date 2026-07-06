@@ -5625,8 +5625,18 @@
   "!6c730e04": {
     "id": "!6c730e04",
     "long_name": "!6c730e04",
-    "last_heard": "2026-07-06T06:56:06.863769+00:00",
-    "snr": -4.5,
-    "hops_away": 4
+    "last_heard": "2026-07-06T07:02:17.551053+00:00",
+    "snr": -9.25,
+    "hops_away": 6
+  },
+  "!9eecc1e4": {
+    "id": "!9eecc1e4",
+    "long_name": "Meshtastic c1e4",
+    "last_heard": "2026-07-06T07:02:06.730575+00:00",
+    "snr": -5.75,
+    "hops_away": 7,
+    "short_name": "c1e4",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
