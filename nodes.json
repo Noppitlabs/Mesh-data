@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-06T04:10:23.354314+00:00",
+    "last_heard": "2026-07-06T04:10:25.294815+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3338,9 +3338,9 @@
   "!da5c91d8": {
     "id": "!da5c91d8",
     "long_name": "Thistledown 1 ",
-    "last_heard": "2026-07-06T04:04:15.330441+00:00",
-    "snr": -3.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T04:10:39.044175+00:00",
+    "snr": -3.5,
+    "hops_away": 5,
     "short_name": "Td1 ",
     "hw_model": "HELTEC_V3",
     "role": ""
