@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-06T09:19:42.654260+00:00",
-    "snr": -19.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T09:23:16.048678+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3378,9 +3378,9 @@
   "!0acb4d18": {
     "id": "!0acb4d18",
     "long_name": "Nexus 14 D",
-    "last_heard": "2026-07-06T08:26:32.142061+00:00",
-    "snr": -6.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-06T09:23:29.957708+00:00",
+    "snr": -12.0,
+    "hops_away": 3,
     "short_name": "N14D",
     "hw_model": "HELTEC_V4",
     "role": ""
