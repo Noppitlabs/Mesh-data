@@ -169,9 +169,9 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SOLAR",
-    "last_heard": "2026-07-05T23:39:16.937674+00:00",
-    "snr": -4.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-06T00:44:16.886455+00:00",
+    "snr": -3.75,
+    "hops_away": 4,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER_LATE"
@@ -5539,5 +5539,12 @@
     "short_name": "PP03",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!9e7739d0": {
+    "id": "!9e7739d0",
+    "long_name": "!9e7739d0",
+    "last_heard": "2026-07-06T00:44:30.212688+00:00",
+    "snr": -5.0,
+    "hops_away": 7
   }
 }
