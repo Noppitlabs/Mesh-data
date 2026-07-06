@@ -5522,10 +5522,13 @@
   },
   "!814b5fe2": {
     "id": "!814b5fe2",
-    "long_name": "!814b5fe2",
-    "last_heard": "2026-07-06T02:58:05.110843+00:00",
-    "snr": -17.0,
-    "hops_away": 6
+    "long_name": "Farnham Mesh",
+    "last_heard": "2026-07-06T04:57:18.680655+00:00",
+    "snr": -4.25,
+    "hops_away": 6,
+    "short_name": "FMSH",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": ""
   },
   "!0aca3478": {
     "id": "!0aca3478",
