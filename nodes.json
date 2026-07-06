@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-07-06T08:42:01.167914+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-06T09:41:58.126416+00:00",
+    "snr": -6.75,
+    "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -4145,9 +4145,9 @@
   "!394f2a16": {
     "id": "!394f2a16",
     "long_name": "M7XMV | Truro Solar",
-    "last_heard": "2026-07-06T05:34:18.882468+00:00",
-    "snr": -3.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-06T09:41:47.501164+00:00",
+    "snr": -18.25,
+    "hops_away": 3,
     "short_name": "MJV2",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
