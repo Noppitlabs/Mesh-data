@@ -3598,13 +3598,10 @@
   },
   "!1ba5908c": {
     "id": "!1ba5908c",
-    "long_name": "EGM Route",
-    "last_heard": "2026-05-29T17:17:47.777387+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
-    "short_name": "REGM",
-    "hw_model": "HELTEC_V4",
-    "role": "ROUTER"
+    "long_name": "!1ba5908c",
+    "last_heard": "2026-07-06T04:44:24.277330+00:00",
+    "snr": -5.0,
+    "hops_away": 6
   },
   "!da622310": {
     "id": "!da622310",
