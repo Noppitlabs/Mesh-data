@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-07-06T13:37:57.240586+00:00",
-    "snr": 0.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-06T14:27:57.257824+00:00",
+    "snr": -5.5,
+    "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -1292,8 +1292,8 @@
   "!2234c21f": {
     "id": "!2234c21f",
     "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-06T14:16:39.692241+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-07-06T14:28:16.107016+00:00",
+    "snr": -4.5,
     "hops_away": 6,
     "short_name": "c21f",
     "hw_model": "HELTEC_MESH_NODE_T114",
