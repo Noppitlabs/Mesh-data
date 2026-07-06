@@ -3241,9 +3241,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-06T04:32:47.695820+00:00",
-    "snr": -3.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T04:39:45.347429+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4496,9 +4496,9 @@
   "!97254da2": {
     "id": "!97254da2",
     "long_name": "Nexus 14 Tech B",
-    "last_heard": "2026-07-06T04:26:03.553579+00:00",
-    "snr": -4.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-06T04:39:26.301075+00:00",
+    "snr": -4.5,
+    "hops_away": 3,
     "short_name": "N14B",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
