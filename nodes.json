@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-06T10:03:28.256019+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-07-06T10:03:56.928843+00:00",
+    "snr": -6.0,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -1231,9 +1231,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-07-06T09:49:11.347240+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-06T10:03:45.370136+00:00",
+    "snr": -5.0,
+    "hops_away": 4,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
