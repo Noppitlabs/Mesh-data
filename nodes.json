@@ -5260,10 +5260,13 @@
   },
   "!b03cc330": {
     "id": "!b03cc330",
-    "long_name": "!b03cc330",
-    "last_heard": "2026-07-07T06:22:27.222869+00:00",
-    "snr": -19.75,
-    "hops_away": 4
+    "long_name": "Proper Job ",
+    "last_heard": "2026-07-07T11:02:22.864007+00:00",
+    "snr": -4.75,
+    "hops_away": 5,
+    "short_name": "PJOB",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   },
   "!62f9f990": {
     "id": "!62f9f990",
