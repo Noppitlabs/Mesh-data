@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-07T15:57:04.298235+00:00",
+    "last_heard": "2026-07-07T15:57:06.210269+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2639,8 +2639,8 @@
   "!98e90f12": {
     "id": "!98e90f12",
     "long_name": "Carbis_Bay CBay",
-    "last_heard": "2026-07-07T14:31:59.566438+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-07-07T15:57:15.762216+00:00",
+    "snr": -3.5,
     "hops_away": 5,
     "short_name": "CBay",
     "hw_model": "SEEED_SOLAR_NODE",
