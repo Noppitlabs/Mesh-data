@@ -159,9 +159,9 @@
   "!4359694c": {
     "id": "!4359694c",
     "long_name": "Meshtastic 694c",
-    "last_heard": "2026-07-07T09:07:35.689562+00:00",
-    "snr": -13.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-07T10:50:59.670436+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "694c",
     "hw_model": "HELTEC_V3",
     "role": ""
