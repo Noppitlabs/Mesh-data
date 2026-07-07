@@ -1329,9 +1329,9 @@
   "!a20a17a0": {
     "id": "!a20a17a0",
     "long_name": "Hayling Rise, Worthing, Sussex",
-    "last_heard": "2026-07-07T02:23:06.529455+00:00",
-    "snr": -8.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T03:20:08.354583+00:00",
+    "snr": -16.75,
+    "hops_away": 2,
     "short_name": "BN13",
     "hw_model": "STATION_G2",
     "role": "CLIENT_BASE"
@@ -1386,9 +1386,9 @@
   "!30321da0": {
     "id": "!30321da0",
     "long_name": "!30321da0",
-    "last_heard": "2026-07-07T00:09:06.553858+00:00",
-    "snr": -6.25,
-    "hops_away": 6
+    "last_heard": "2026-07-07T03:20:04.686445+00:00",
+    "snr": -16.0,
+    "hops_away": 4
   },
   "!6c741ec0": {
     "id": "!6c741ec0",
