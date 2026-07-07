@@ -5818,5 +5818,12 @@
     "short_name": "KITE",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_HIDDEN"
+  },
+  "!3b06b52c": {
+    "id": "!3b06b52c",
+    "long_name": "!3b06b52c",
+    "last_heard": "2026-07-07T12:44:25.453548+00:00",
+    "snr": -2.0,
+    "hops_away": 3
   }
 }
