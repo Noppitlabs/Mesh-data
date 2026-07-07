@@ -4668,8 +4668,8 @@
   "!9e9fad70": {
     "id": "!9e9fad70",
     "long_name": "Jumpers",
-    "last_heard": "2026-06-26T19:13:32.970402+00:00",
-    "snr": 1.25,
+    "last_heard": "2026-07-07T02:53:00.969758+00:00",
+    "snr": -4.75,
     "hops_away": 3,
     "short_name": "JUMP",
     "hw_model": "HELTEC_V3",
