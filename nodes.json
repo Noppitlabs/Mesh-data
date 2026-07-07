@@ -2464,9 +2464,9 @@
   "!90a0f7a0": {
     "id": "!90a0f7a0",
     "long_name": "GCM0006 - Saumarez Park \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-06T20:07:48.350884+00:00",
-    "snr": -4.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-07T00:51:54.054666+00:00",
+    "snr": -7.0,
+    "hops_away": 6,
     "short_name": "f7a0",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
