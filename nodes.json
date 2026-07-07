@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-07T05:56:38.900786+00:00",
+    "last_heard": "2026-07-07T05:57:36.645465+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3770,9 +3770,9 @@
   "!11c464f3": {
     "id": "!11c464f3",
     "long_name": "Baraveha - Router\ud83d\udce1",
-    "last_heard": "2026-07-07T05:40:53.207560+00:00",
-    "snr": -4.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T05:57:28.059453+00:00",
+    "snr": -17.25,
+    "hops_away": 1,
     "short_name": "SW-1",
     "hw_model": "RAK4631",
     "role": "ROUTER"
