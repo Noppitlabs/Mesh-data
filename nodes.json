@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-07T19:46:48.598925+00:00",
-    "snr": -5.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-07T21:02:59.166605+00:00",
+    "snr": -20.0,
+    "hops_away": 1,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -1228,9 +1228,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-07-07T20:48:06.175251+00:00",
-    "snr": -4.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-07T21:02:18.837410+00:00",
+    "snr": -9.75,
+    "hops_away": 3,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
