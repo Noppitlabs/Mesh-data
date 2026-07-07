@@ -5274,8 +5274,8 @@
   "!62f9f990": {
     "id": "!62f9f990",
     "long_name": "Meshtastic f990",
-    "last_heard": "2026-07-07T13:53:02.256809+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-07-07T14:28:58.776267+00:00",
+    "snr": -18.5,
     "hops_away": 5,
     "short_name": "f990",
     "hw_model": "SEEED_XIAO_S3",
