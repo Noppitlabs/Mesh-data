@@ -1432,9 +1432,9 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-07-07T23:02:27.091396+00:00",
-    "snr": -6.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-07T23:07:41.554816+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
@@ -5253,9 +5253,9 @@
   "!ca078eab": {
     "id": "!ca078eab",
     "long_name": "timttmy T096",
-    "last_heard": "2026-07-07T20:00:39.432102+00:00",
-    "snr": -5.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-07T23:07:25.621305+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
     "short_name": "T096",
     "hw_model": "NRF52_UNKNOWN",
     "role": ""
