@@ -436,8 +436,8 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-07-07T16:05:18.174504+00:00",
-    "snr": -3.25,
+    "last_heard": "2026-07-07T18:33:19.050880+00:00",
+    "snr": -4.75,
     "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
@@ -516,8 +516,8 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-07-07T15:33:21.367441+00:00",
-    "snr": -3.0,
+    "last_heard": "2026-07-07T18:33:31.806625+00:00",
+    "snr": -4.75,
     "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
