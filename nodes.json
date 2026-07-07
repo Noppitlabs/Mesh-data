@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-07T19:57:14.286909+00:00",
+    "last_heard": "2026-07-07T19:57:16.166957+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3228,9 +3228,9 @@
   "!6985a75c": {
     "id": "!6985a75c",
     "long_name": "Nexus14Tech3",
-    "last_heard": "2026-07-07T19:51:38.925691+00:00",
-    "snr": -4.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T19:57:17.455543+00:00",
+    "snr": -6.0,
+    "hops_away": 4,
     "short_name": "N14C",
     "hw_model": "HELTEC_V4",
     "role": ""
