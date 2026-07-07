@@ -5833,10 +5833,13 @@
   },
   "!3b06b52c": {
     "id": "!3b06b52c",
-    "long_name": "!3b06b52c",
-    "last_heard": "2026-07-07T22:10:42.718907+00:00",
+    "long_name": "Lora of the flies",
+    "last_heard": "2026-07-07T23:19:48.525121+00:00",
     "snr": -5.25,
-    "hops_away": 6
+    "hops_away": 3,
+    "short_name": "bzzz",
+    "hw_model": "HELTEC_V2_0",
+    "role": ""
   },
   "!49a6d967": {
     "id": "!49a6d967",
