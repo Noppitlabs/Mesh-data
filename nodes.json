@@ -456,8 +456,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-07-07T15:41:49.426658+00:00",
-    "snr": -2.5,
+    "last_heard": "2026-07-07T16:51:08.370481+00:00",
+    "snr": -2.0,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -566,9 +566,9 @@
   "!433ea6a0": {
     "id": "!433ea6a0",
     "long_name": "Meshtastic a6a0",
-    "last_heard": "2026-06-15T02:23:43.592702+00:00",
-    "snr": -15.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-07T16:51:36.790743+00:00",
+    "snr": -3.5,
+    "hops_away": 3,
     "short_name": "a6a0",
     "hw_model": "HELTEC_V3",
     "role": ""
