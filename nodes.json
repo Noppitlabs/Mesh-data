@@ -19,7 +19,7 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-07T01:58:03.964389+00:00",
+    "last_heard": "2026-07-07T01:58:50.568884+00:00",
     "snr": -3.5,
     "hops_away": 2,
     "short_name": "GZG",
@@ -2176,8 +2176,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-07T01:56:34.334965+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-07-07T01:58:27.642775+00:00",
+    "snr": -3.5,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
