@@ -2117,10 +2117,13 @@
   },
   "!10596db0": {
     "id": "!10596db0",
-    "long_name": "!10596db0",
-    "last_heard": "2026-07-07T11:09:22.113732+00:00",
-    "snr": -17.5,
-    "hops_away": 2
+    "long_name": "Silverton~",
+    "last_heard": "2026-07-07T23:07:02.259290+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
+    "short_name": "S2",
+    "hw_model": "RAK4631",
+    "role": "ROUTER"
   },
   "!b03b3ffc": {
     "id": "!b03b3ffc",
