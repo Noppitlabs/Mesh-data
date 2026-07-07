@@ -903,8 +903,8 @@
   "!9ea1fe80": {
     "id": "!9ea1fe80",
     "long_name": "ED3",
-    "last_heard": "2026-07-06T13:34:54.676994+00:00",
-    "snr": -3.5,
+    "last_heard": "2026-07-07T01:03:27.180229+00:00",
+    "snr": -3.75,
     "hops_away": 5,
     "short_name": "ED3",
     "hw_model": "HELTEC_V3",
@@ -4543,8 +4543,8 @@
   "!1721a4e6": {
     "id": "!1721a4e6",
     "long_name": "Mount Gabriel East Mute a4e6",
-    "last_heard": "2026-07-06T18:30:36.690727+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-07-07T01:03:25.054358+00:00",
+    "snr": -4.0,
     "hops_away": 3,
     "short_name": "a4e6",
     "hw_model": "RAK4631",
