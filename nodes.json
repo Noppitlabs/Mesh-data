@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-07T08:52:16.734772+00:00",
-    "snr": -11.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-07T08:56:21.759626+00:00",
+    "snr": -15.75,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3528,9 +3528,9 @@
   "!6984abac": {
     "id": "!6984abac",
     "long_name": "GCM0014 - St Clements \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-07-07T04:03:33.051474+00:00",
-    "snr": -14.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-07T08:56:32.000299+00:00",
+    "snr": -16.75,
+    "hops_away": 6,
     "short_name": "abac",
     "hw_model": "HELTEC_V4",
     "role": ""
