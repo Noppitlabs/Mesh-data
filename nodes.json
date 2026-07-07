@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-07T13:43:58.281300+00:00",
+    "last_heard": "2026-07-07T13:44:58.319272+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1228,9 +1228,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-07-07T13:33:15.755022+00:00",
-    "snr": -17.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T13:45:14.536353+00:00",
+    "snr": -17.5,
+    "hops_away": 2,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
