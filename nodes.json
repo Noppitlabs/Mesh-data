@@ -3585,9 +3585,9 @@
   "!0f14569c": {
     "id": "!0f14569c",
     "long_name": "Meshtostic xyz",
-    "last_heard": "2026-07-06T21:03:56.662549+00:00",
-    "snr": -4.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-07T08:49:06.201191+00:00",
+    "snr": -9.25,
+    "hops_away": 3,
     "short_name": "????",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
