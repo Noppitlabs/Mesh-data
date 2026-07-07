@@ -2353,9 +2353,9 @@
   "!da547404": {
     "id": "!da547404",
     "long_name": "GU4WRP",
-    "last_heard": "2026-07-07T05:37:55.227547+00:00",
-    "snr": -8.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-07T06:39:17.644353+00:00",
+    "snr": -14.25,
+    "hops_away": 5,
     "short_name": "WRP",
     "hw_model": "HELTEC_V3",
     "role": ""
