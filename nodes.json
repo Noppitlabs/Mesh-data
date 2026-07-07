@@ -159,9 +159,9 @@
   "!4359694c": {
     "id": "!4359694c",
     "long_name": "Meshtastic 694c",
-    "last_heard": "2026-07-07T10:50:59.670436+00:00",
-    "snr": -5.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-07T13:35:24.246204+00:00",
+    "snr": -0.75,
+    "hops_away": 1,
     "short_name": "694c",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2703,9 +2703,9 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-07-07T02:34:29.863376+00:00",
-    "snr": -4.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-07T13:35:03.164475+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
