@@ -5409,9 +5409,9 @@
   "!1b53fc12": {
     "id": "!1b53fc12",
     "long_name": "TWod",
-    "last_heard": "2026-07-07T10:27:42.118486+00:00",
-    "snr": -17.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-07T19:28:05.615591+00:00",
+    "snr": -6.0,
+    "hops_away": 7,
     "short_name": "TWod",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
