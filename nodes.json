@@ -1423,9 +1423,9 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-07-07T10:29:59.790815+00:00",
-    "snr": -16.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T10:44:12.639695+00:00",
+    "snr": -3.5,
+    "hops_away": 7,
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
@@ -3238,8 +3238,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-07T10:40:53.420834+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-07-07T10:43:52.415179+00:00",
+    "snr": -3.5,
     "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
