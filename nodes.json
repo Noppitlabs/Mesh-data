@@ -3241,9 +3241,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-07T14:55:54.810454+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T15:05:16.604898+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3820,9 +3820,9 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr Bs M7MRB 2",
-    "last_heard": "2026-07-07T11:50:23.860964+00:00",
-    "snr": -3.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-07T15:05:05.502213+00:00",
+    "snr": -11.25,
+    "hops_away": 7,
     "short_name": "Bug2",
     "hw_model": "HELTEC_V3",
     "role": ""
