@@ -3554,10 +3554,13 @@
   },
   "!49b61974": {
     "id": "!49b61974",
-    "long_name": "!49b61974",
-    "last_heard": "2026-06-26T02:26:24.289890+00:00",
-    "snr": -19.0,
-    "hops_away": 4
+    "long_name": "BigE mobile",
+    "last_heard": "2026-07-07T05:48:18.459990+00:00",
+    "snr": -4.5,
+    "hops_away": 7,
+    "short_name": "BigE",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!02a6cce6": {
     "id": "!02a6cce6",
