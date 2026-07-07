@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-07T21:49:20.337532+00:00",
+    "last_heard": "2026-07-07T21:50:19.794154+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5815,9 +5815,9 @@
   "!a1d76560": {
     "id": "!a1d76560",
     "long_name": "Red Kite",
-    "last_heard": "2026-07-07T21:31:01.927543+00:00",
-    "snr": -4.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-07T21:50:04.628740+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "KITE",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_HIDDEN"
