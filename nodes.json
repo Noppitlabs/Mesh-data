@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-07T05:41:35.983936+00:00",
+    "last_heard": "2026-07-07T05:41:37.772065+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2616,9 +2616,9 @@
   "!7c5cc180": {
     "id": "!7c5cc180",
     "long_name": "L5Mark-3",
-    "last_heard": "2026-07-06T17:42:05.765954+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-07T05:41:46.376908+00:00",
+    "snr": -5.25,
+    "hops_away": 2,
     "short_name": "L5-3",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
