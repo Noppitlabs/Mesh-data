@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-07T09:56:59.119613+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-07-07T09:57:50.485457+00:00",
+    "snr": -7.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -4407,8 +4407,8 @@
   "!62f844a4": {
     "id": "!62f844a4",
     "long_name": "Exmoor Mobile 3",
-    "last_heard": "2026-07-03T12:33:59.367023+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-07-07T09:58:34.980621+00:00",
+    "snr": -4.25,
     "hops_away": 3,
     "short_name": "EXM3",
     "hw_model": "SENSECAP_INDICATOR",
