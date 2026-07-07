@@ -2296,9 +2296,9 @@
   "!6983e570": {
     "id": "!6983e570",
     "long_name": "GCM0008 - St Clair Hill\ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-07-07T00:42:14.307264+00:00",
-    "snr": -4.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-07T03:36:48.439672+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
     "short_name": "e570",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3238,9 +3238,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-07T03:35:15.478582+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-07T03:36:35.103322+00:00",
+    "snr": -17.5,
+    "hops_away": 2,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
