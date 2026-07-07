@@ -1,5 +1,16 @@
 [
   {
+    "id": 622067278,
+    "from": "!b03be864",
+    "from_name": "!b03be864",
+    "to": "^all",
+    "text": "2 hops to kd1 rmdw",
+    "timestamp": "2026-07-07T13:59:43.331278+00:00",
+    "channel": 0,
+    "snr": -1.25,
+    "hops": 7
+  },
+  {
     "id": 2611514541,
     "from": "!b2a78f18",
     "from_name": "timttmy-V4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.0,
     "hops": 5
-  },
-  {
-    "id": 1218067935,
-    "from": "!48f0db39",
-    "from_name": "fptp",
-    "to": "^all",
-    "text": "Haven't received the DM either. I don't mind getting  repeater up in Exeter, assuming there's a good location.",
-    "timestamp": "2026-06-29T19:44:33.381803+00:00",
-    "channel": 0,
-    "snr": -16.0,
-    "hops": 2
   }
 ]
