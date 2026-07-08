@@ -3237,9 +3237,9 @@
   "!6985a75c": {
     "id": "!6985a75c",
     "long_name": "Nexus14Tech3",
-    "last_heard": "2026-07-07T21:51:22.116120+00:00",
-    "snr": -4.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-08T07:15:03.942461+00:00",
+    "snr": -3.5,
+    "hops_away": 2,
     "short_name": "N14C",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4523,9 +4523,9 @@
   "!97254da2": {
     "id": "!97254da2",
     "long_name": "Nexus 14 Tech B",
-    "last_heard": "2026-07-08T07:00:53.517255+00:00",
-    "snr": -5.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-08T07:15:20.885193+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "N14B",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
