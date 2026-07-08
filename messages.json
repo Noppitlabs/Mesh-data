@@ -1,5 +1,16 @@
 [
   {
+    "id": 259465183,
+    "from": "!da5c79a4",
+    "from_name": "Mark M7XMV | Truro",
+    "to": "^all",
+    "text": "Good Afternoon Mark \ud83d\udc4b",
+    "timestamp": "2026-07-08T14:23:45.283388+00:00",
+    "channel": 0,
+    "snr": -1.25,
+    "hops": 6
+  },
+  {
     "id": 2885375337,
     "from": "!043d24b0",
     "from_name": "Meshtastic 24b0",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.25,
     "hops": 4
-  },
-  {
-    "id": 1343677432,
-    "from": "!da5c79a4",
-    "from_name": "M7XMV | Truro",
-    "to": "^all",
-    "text": "Morning \u2600\ufe0f",
-    "timestamp": "2026-07-03T06:37:42.139912+00:00",
-    "channel": 0,
-    "snr": -18.5,
-    "hops": 7
   }
 ]
