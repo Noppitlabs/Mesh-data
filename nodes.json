@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T22:13:27.606188+00:00",
+    "last_heard": "2026-07-08T22:13:29.472521+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -169,8 +169,8 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HIGHWEEK SOLAR",
-    "last_heard": "2026-07-08T20:14:08.376153+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-07-08T22:14:03.827563+00:00",
+    "snr": -4.25,
     "hops_away": 5,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
