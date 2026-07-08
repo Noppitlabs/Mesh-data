@@ -1117,9 +1117,9 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "GCM017-LancresseRoad\ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-08T06:39:54.208238+00:00",
-    "snr": -6.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-08T08:42:41.858589+00:00",
+    "snr": -10.0,
+    "hops_away": 6,
     "short_name": "59a7",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
