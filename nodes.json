@@ -5925,5 +5925,15 @@
     "last_heard": "2026-07-08T08:50:39.792728+00:00",
     "snr": -18.5,
     "hops_away": 2
+  },
+  "!7a6061d4": {
+    "id": "!7a6061d4",
+    "long_name": "DEDSEC",
+    "last_heard": "2026-07-08T17:54:51.801703+00:00",
+    "snr": -2.75,
+    "hops_away": 7,
+    "short_name": "KD2",
+    "hw_model": "WISMESH_TAG",
+    "role": "CLIENT_MUTE"
   }
 }
