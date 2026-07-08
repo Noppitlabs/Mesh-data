@@ -5442,9 +5442,9 @@
   "!300d2341": {
     "id": "!300d2341",
     "long_name": "RADIO MATADOS DO DEZA\ud83c\uddea\ud83c\uddf8 CANDAN",
-    "last_heard": "2026-07-07T14:29:28.247906+00:00",
+    "last_heard": "2026-07-08T01:29:49.230141+00:00",
     "snr": -5.0,
-    "hops_away": 5,
+    "hops_away": 7,
     "short_name": "RMDC",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER"
