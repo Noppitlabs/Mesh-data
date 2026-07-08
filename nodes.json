@@ -5865,5 +5865,15 @@
     "last_heard": "2026-07-08T00:40:39.796660+00:00",
     "snr": -5.0,
     "hops_away": 7
+  },
+  "!e00ced18": {
+    "id": "!e00ced18",
+    "long_name": "G8BCG1",
+    "last_heard": "2026-07-08T02:01:52.516859+00:00",
+    "snr": -3.75,
+    "hops_away": 3,
+    "short_name": "bcg1",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
