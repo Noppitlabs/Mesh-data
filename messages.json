@@ -1,5 +1,16 @@
 [
   {
+    "id": 2482315164,
+    "from": "!043d24b0",
+    "from_name": "Meshtastic 24b0",
+    "to": "^all",
+    "text": "Good morning from Pembrokeshire",
+    "timestamp": "2026-07-08T07:41:24.558612+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 4
+  },
+  {
     "id": 4201004471,
     "from": "!49a6d967",
     "from_name": "!49a6d967",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 3
-  },
-  {
-    "id": 837044363,
-    "from": "!c6727d3e",
-    "from_name": "EX4 Base E@ 7d3e",
-    "to": "^all",
-    "text": "Rx Exeter ",
-    "timestamp": "2026-06-29T19:49:57.237461+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 2
   }
 ]
