@@ -1,5 +1,16 @@
 [
   {
+    "id": 2142882180,
+    "from": "!ddd5b823",
+    "from_name": "!ddd5b823",
+    "to": "^all",
+    "text": "Range check",
+    "timestamp": "2026-07-08T16:13:30.117738+00:00",
+    "channel": 0,
+    "snr": -4.0,
+    "hops": 5
+  },
+  {
     "id": 996763723,
     "from": "!9ea0bce4",
     "from_name": "Hyperion WirelessPaper",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.75,
     "hops": 1
-  },
-  {
-    "id": 370593119,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "good morning",
-    "timestamp": "2026-07-03T07:52:22.330905+00:00",
-    "channel": 0,
-    "snr": -7.0,
-    "hops": 3
   }
 ]
