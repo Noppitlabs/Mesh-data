@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T08:42:51.020899+00:00",
+    "last_heard": "2026-07-08T08:42:52.821572+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4523,9 +4523,9 @@
   "!97254da2": {
     "id": "!97254da2",
     "long_name": "Nexus 14 Tech B",
-    "last_heard": "2026-07-08T08:29:23.305496+00:00",
-    "snr": -3.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-08T08:43:10.864262+00:00",
+    "snr": -18.25,
+    "hops_away": 5,
     "short_name": "N14B",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
