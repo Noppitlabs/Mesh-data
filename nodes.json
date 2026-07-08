@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T12:41:01.630016+00:00",
+    "last_heard": "2026-07-08T12:42:03.748270+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4797,10 +4797,13 @@
   },
   "!02edad34": {
     "id": "!02edad34",
-    "long_name": "!02edad34",
-    "last_heard": "2026-07-05T10:17:50.442097+00:00",
-    "snr": -5.0,
-    "hops_away": 5
+    "long_name": "Solar Repeater \u2600\ufe0f",
+    "last_heard": "2026-07-08T12:42:29.403188+00:00",
+    "snr": -3.5,
+    "hops_away": 6,
+    "short_name": "ad34",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!db58a8a0": {
     "id": "!db58a8a0",
