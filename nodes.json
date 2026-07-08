@@ -5578,9 +5578,9 @@
   "!0aca3478": {
     "id": "!0aca3478",
     "long_name": "Starbuck MW0HYA",
-    "last_heard": "2026-07-06T00:15:15.798022+00:00",
-    "snr": -4.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-08T03:15:50.800585+00:00",
+    "snr": -4.25,
+    "hops_away": 4,
     "short_name": "PP03",
     "hw_model": "HELTEC_V4",
     "role": ""
