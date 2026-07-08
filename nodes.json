@@ -5821,9 +5821,9 @@
   "!a1d76560": {
     "id": "!a1d76560",
     "long_name": "Red Kite",
-    "last_heard": "2026-07-08T01:33:26.970794+00:00",
-    "snr": -5.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-08T01:51:48.978962+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
     "short_name": "KITE",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_HIDDEN"
