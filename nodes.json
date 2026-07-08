@@ -5888,5 +5888,12 @@
     "short_name": "See1",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
+  },
+  "!9bf06049": {
+    "id": "!9bf06049",
+    "long_name": "!9bf06049",
+    "last_heard": "2026-07-08T05:16:24.226205+00:00",
+    "snr": -17.0,
+    "hops_away": 6
   }
 }
