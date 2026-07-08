@@ -5063,9 +5063,9 @@
   "!9e75c320": {
     "id": "!9e75c320",
     "long_name": "Meshtastic c320",
-    "last_heard": "2026-07-08T02:40:44.143735+00:00",
-    "snr": -4.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-08T04:55:26.979745+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "c320",
     "hw_model": "HELTEC_V3",
     "role": ""
