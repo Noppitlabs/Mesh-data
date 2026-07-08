@@ -2530,9 +2530,9 @@
   "!671db3f6": {
     "id": "!671db3f6",
     "long_name": "Meshtastic b3f6",
-    "last_heard": "2026-06-23T01:08:22.963589+00:00",
-    "snr": -19.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-08T07:08:33.055067+00:00",
+    "snr": -16.0,
+    "hops_away": 5,
     "short_name": "b3f6",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
