@@ -546,9 +546,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-08T06:46:28.005737+00:00",
-    "snr": -3.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-08T07:41:50.143817+00:00",
+    "snr": -3.75,
+    "hops_away": 4,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2874,9 +2874,9 @@
   "!9e75890c": {
     "id": "!9e75890c",
     "long_name": "!9e75890c",
-    "last_heard": "2026-07-08T01:50:53.885198+00:00",
-    "snr": -18.0,
-    "hops_away": 4
+    "last_heard": "2026-07-08T07:41:55.069541+00:00",
+    "snr": -6.5,
+    "hops_away": 7
   },
   "!dd3b6410": {
     "id": "!dd3b6410",
