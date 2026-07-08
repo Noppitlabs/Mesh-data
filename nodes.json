@@ -2419,9 +2419,9 @@
   "!433c0074": {
     "id": "!433c0074",
     "long_name": "TR10 DCG",
-    "last_heard": "2026-07-08T21:32:33.536943+00:00",
-    "snr": -4.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-08T21:54:11.320489+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "TR10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
