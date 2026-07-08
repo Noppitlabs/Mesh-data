@@ -4277,10 +4277,10 @@
   "!da5c79a4": {
     "id": "!da5c79a4",
     "long_name": "Mark M7XMV | Truro",
-    "last_heard": "2026-07-07T17:52:01.507331+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-07-08T05:51:56.762934+00:00",
+    "snr": -5.25,
     "hops_away": 4,
-    "short_name": "MJV",
+    "short_name": "XMV",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
   },
