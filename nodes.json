@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T18:09:16.681590+00:00",
+    "last_heard": "2026-07-08T18:10:16.724885+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1167,9 +1167,9 @@
   "!a9fed67f": {
     "id": "!a9fed67f",
     "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-08T16:36:54.891614+00:00",
-    "snr": -4.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-08T18:10:10.702585+00:00",
+    "snr": -18.5,
+    "hops_away": 6,
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
