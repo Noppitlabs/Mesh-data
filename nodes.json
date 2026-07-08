@@ -4828,10 +4828,13 @@
   },
   "!9e76a3a4": {
     "id": "!9e76a3a4",
-    "long_name": "!9e76a3a4",
-    "last_heard": "2026-07-07T22:24:40.618442+00:00",
-    "snr": -12.0,
-    "hops_away": 6
+    "long_name": "BIOCOS -RIO",
+    "last_heard": "2026-07-08T12:24:31.469818+00:00",
+    "snr": -4.0,
+    "hops_away": 5,
+    "short_name": "BIOC",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!a0ccd908": {
     "id": "!a0ccd908",
