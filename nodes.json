@@ -5891,9 +5891,9 @@
   "!c1fbd3c4": {
     "id": "!c1fbd3c4",
     "long_name": "Seeed_1",
-    "last_heard": "2026-07-08T02:14:53.180030+00:00",
-    "snr": -5.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-08T13:40:44.046872+00:00",
+    "snr": -3.75,
+    "hops_away": 7,
     "short_name": "See1",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
