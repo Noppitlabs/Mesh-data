@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-08T07:55:07.236846+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-07-08T07:57:52.583186+00:00",
+    "snr": -4.75,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -3277,9 +3277,9 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-08T06:59:33.618262+00:00",
-    "snr": -17.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-08T07:58:42.589588+00:00",
+    "snr": -6.75,
+    "hops_away": 7,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
