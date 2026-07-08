@@ -4564,9 +4564,9 @@
   "!1721a4e6": {
     "id": "!1721a4e6",
     "long_name": "Mount Gabriel East Mute a4e6",
-    "last_heard": "2026-07-08T04:24:31.650446+00:00",
-    "snr": -18.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-08T05:32:16.353859+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "a4e6",
     "hw_model": "RAK4631",
     "role": ""
