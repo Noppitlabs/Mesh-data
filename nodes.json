@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T00:27:27.573005+00:00",
+    "last_heard": "2026-07-08T00:27:29.433329+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5629,9 +5629,9 @@
   "!f4c2213c": {
     "id": "!f4c2213c",
     "long_name": "Meshtastic 213c",
-    "last_heard": "2026-07-07T22:16:33.088590+00:00",
+    "last_heard": "2026-07-08T00:28:27.744487+00:00",
     "snr": -3.75,
-    "hops_away": 7,
+    "hops_away": 6,
     "short_name": "213c",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
