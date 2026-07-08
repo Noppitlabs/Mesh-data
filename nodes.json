@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T13:08:03.834397+00:00",
+    "last_heard": "2026-07-08T13:09:04.534091+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2318,9 +2318,9 @@
   "!33665d78": {
     "id": "!33665d78",
     "long_name": "GCM0010 - Portelet \ud83c\uddec\ud83c\uddec \ud83d\udd0c",
-    "last_heard": "2026-07-08T12:34:03.362256+00:00",
-    "snr": -4.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-08T13:09:23.361693+00:00",
+    "snr": -5.25,
+    "hops_away": 3,
     "short_name": "5d78",
     "hw_model": "HELTEC_V3",
     "role": ""
