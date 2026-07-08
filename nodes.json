@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T02:42:35.699209+00:00",
+    "last_heard": "2026-07-08T02:42:37.486995+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2476,8 +2476,8 @@
   "!90a0f7a0": {
     "id": "!90a0f7a0",
     "long_name": "GCM0006 - Saumarez Park \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-07T13:26:15.449057+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-07-08T02:42:41.920518+00:00",
+    "snr": -8.25,
     "hops_away": 6,
     "short_name": "f7a0",
     "hw_model": "SEEED_XIAO_S3",
