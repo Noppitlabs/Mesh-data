@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-08T11:02:11.842934+00:00",
-    "snr": -18.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-08T11:05:04.922387+00:00",
+    "snr": -13.5,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2288,8 +2288,8 @@
   "!0407c354": {
     "id": "!0407c354",
     "long_name": "GU0SUP Pommier",
-    "last_heard": "2026-07-08T10:20:21.513027+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-07-08T11:05:27.829353+00:00",
+    "snr": -19.25,
     "hops_away": 7,
     "short_name": "0SUP",
     "hw_model": "HELTEC_V3",
