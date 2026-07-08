@@ -2308,9 +2308,9 @@
   "!6983e570": {
     "id": "!6983e570",
     "long_name": "GCM0008 - St Clair Hill\ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-07-08T06:56:57.015235+00:00",
-    "snr": -5.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-08T12:37:03.295208+00:00",
+    "snr": -3.25,
+    "hops_away": 6,
     "short_name": "e570",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3104,8 +3104,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-08T12:30:32.613977+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-07-08T12:37:32.471180+00:00",
+    "snr": -5.25,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
