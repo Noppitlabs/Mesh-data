@@ -3357,9 +3357,9 @@
   "!ecee4da1": {
     "id": "!ecee4da1",
     "long_name": "whisper_4da1",
-    "last_heard": "2026-07-07T23:42:58.693746+00:00",
-    "snr": -4.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-08T01:02:40.968498+00:00",
+    "snr": -12.25,
+    "hops_away": 6,
     "short_name": "4da1",
     "hw_model": "T_ECHO",
     "role": ""
