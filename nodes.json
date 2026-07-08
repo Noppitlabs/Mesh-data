@@ -5935,5 +5935,12 @@
     "short_name": "KD2",
     "hw_model": "WISMESH_TAG",
     "role": "CLIENT_MUTE"
+  },
+  "!a016c56a": {
+    "id": "!a016c56a",
+    "long_name": "!a016c56a",
+    "last_heard": "2026-07-08T18:23:48.503323+00:00",
+    "snr": -17.0,
+    "hops_away": 1
   }
 }
