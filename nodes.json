@@ -5533,9 +5533,9 @@
   "!7f0f38d8": {
     "id": "!7f0f38d8",
     "long_name": "Cnoc bui Router 38d8",
-    "last_heard": "2026-07-06T16:19:24.105624+00:00",
-    "snr": -3.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-08T04:21:35.430079+00:00",
+    "snr": -4.0,
+    "hops_away": 4,
     "short_name": "38d8",
     "hw_model": "RAK4631",
     "role": "ROUTER"
