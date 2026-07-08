@@ -2901,9 +2901,9 @@
   "!da545314": {
     "id": "!da545314",
     "long_name": "BillBag2 Bishops Cleeve",
-    "last_heard": "2026-07-07T14:47:29.583847+00:00",
-    "snr": -5.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-08T06:54:18.948685+00:00",
+    "snr": -17.25,
+    "hops_away": 6,
     "short_name": "BBBC",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_CLIENT"
