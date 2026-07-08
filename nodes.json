@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-07-08T16:34:58.620456+00:00",
-    "snr": -10.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-08T17:08:43.379347+00:00",
+    "snr": -4.0,
+    "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1335,8 +1335,8 @@
   "!a20a17a0": {
     "id": "!a20a17a0",
     "long_name": "Hayling Rise, Worthing, Sussex",
-    "last_heard": "2026-07-08T16:50:08.840510+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-07-08T17:08:16.022340+00:00",
+    "snr": -18.75,
     "hops_away": 2,
     "short_name": "BN13",
     "hw_model": "STATION_G2",
