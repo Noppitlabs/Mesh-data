@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-08T13:39:04.214707+00:00",
+    "last_heard": "2026-07-08T13:40:04.255030+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3900,9 +3900,9 @@
   "!0c2a28f9": {
     "id": "!0c2a28f9",
     "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-08T12:58:39.754869+00:00",
-    "snr": -3.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-08T13:40:05.449505+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
