@@ -1,5 +1,16 @@
 [
   {
+    "id": 1246599342,
+    "from": "!ddd5b823",
+    "from_name": "!ddd5b823",
+    "to": "^all",
+    "text": "Thanks all, enjoy the evening",
+    "timestamp": "2026-07-08T17:18:15.309146+00:00",
+    "channel": 0,
+    "snr": -3.75,
+    "hops": 6
+  },
+  {
     "id": 2763470089,
     "from": "!ddd5b823",
     "from_name": "!ddd5b823",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.0,
     "hops": 3
-  },
-  {
-    "id": 601161023,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "i don't like it, my kids school stayed open :(",
-    "timestamp": "2026-07-03T07:54:57.865607+00:00",
-    "channel": 0,
-    "snr": -18.75,
-    "hops": 1
   }
 ]
