@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-09T07:04:50.417587+00:00",
+    "last_heard": "2026-07-09T07:05:18.584006+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -1997,9 +1997,9 @@
   "!f1a8ce4f": {
     "id": "!f1a8ce4f",
     "long_name": "St Ives Solar Node 2E0XCN",
-    "last_heard": "2026-07-09T06:44:53.071276+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-09T07:05:24.328107+00:00",
+    "snr": -6.5,
+    "hops_away": 6,
     "short_name": "Ives",
     "hw_model": "RAK4631",
     "role": ""
