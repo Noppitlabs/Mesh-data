@@ -3013,9 +3013,9 @@
   "!d45b9364": {
     "id": "!d45b9364",
     "long_name": "M0WSZ node 2",
-    "last_heard": "2026-07-08T23:09:22.210392+00:00",
-    "snr": -4.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-09T01:09:26.106898+00:00",
+    "snr": -4.25,
+    "hops_away": 6,
     "short_name": "WSZ2",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
