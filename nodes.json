@@ -549,9 +549,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-09T08:52:01.007876+00:00",
-    "snr": -9.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-09T08:58:27.964418+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2067,9 +2067,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-07-09T08:57:50.978099+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-09T08:57:57.394004+00:00",
+    "snr": -9.25,
+    "hops_away": 3,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
