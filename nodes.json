@@ -5355,11 +5355,11 @@
   },
   "!0a98afd0": {
     "id": "!0a98afd0",
-    "long_name": "Meshtastic afd0",
-    "last_heard": "2026-07-06T18:26:36.290149+00:00",
-    "snr": -18.75,
+    "long_name": "monkeyPot",
+    "last_heard": "2026-07-09T04:32:15.043233+00:00",
+    "snr": -4.25,
     "hops_away": 2,
-    "short_name": "afd0",
+    "short_name": "MP",
     "hw_model": "M5STACK_CARDPUTER_ADV",
     "role": ""
   },
