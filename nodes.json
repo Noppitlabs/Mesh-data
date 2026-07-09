@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-09T00:29:33.255416+00:00",
+    "last_heard": "2026-07-09T00:30:34.997355+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1117,8 +1117,8 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "GCM017-LancresseRoad\ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-08T21:09:50.672710+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-07-09T00:30:43.226388+00:00",
+    "snr": -6.25,
     "hops_away": 6,
     "short_name": "59a7",
     "hw_model": "HELTEC_MESH_NODE_T114",
