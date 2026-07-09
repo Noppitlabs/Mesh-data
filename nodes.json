@@ -3974,9 +3974,9 @@
   "!94e83e8f": {
     "id": "!94e83e8f",
     "long_name": "Repeater Laraxe",
-    "last_heard": "2026-07-09T02:08:45.791861+00:00",
-    "snr": -5.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-09T06:22:31.411320+00:00",
+    "snr": -19.25,
+    "hops_away": 5,
     "short_name": "RPL",
     "hw_model": "NRF52_PROMICRO_DIY",
     "role": "CLIENT_BASE"
