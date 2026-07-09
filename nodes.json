@@ -776,9 +776,9 @@
   "!433e3450": {
     "id": "!433e3450",
     "long_name": "Simcom Wildcard ",
-    "last_heard": "2026-07-09T05:28:03.911027+00:00",
-    "snr": -16.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-09T06:53:01.018087+00:00",
+    "snr": -7.5,
+    "hops_away": 6,
     "short_name": "WLCD",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -786,8 +786,8 @@
   "!02d4cd04": {
     "id": "!02d4cd04",
     "long_name": "Preston~Bowyer",
-    "last_heard": "2026-07-09T03:52:35.296645+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-07-09T06:52:51.844556+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "T4",
     "hw_model": "RAK4631",
