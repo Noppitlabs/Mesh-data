@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-07-09T16:26:21.782823+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-09T17:01:37.386509+00:00",
+    "snr": -6.75,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4910,9 +4910,9 @@
   "!da5af428": {
     "id": "!da5af428",
     "long_name": "B12PAC Mobile",
-    "last_heard": "2026-07-09T12:34:13.527603+00:00",
-    "snr": -7.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-09T17:01:34.193616+00:00",
+    "snr": -12.75,
+    "hops_away": 3,
     "short_name": "TA2m",
     "hw_model": "TLORA_T3_S3",
     "role": ""
