@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-09T23:51:54.032062+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-07-09T23:53:16.058793+00:00",
+    "snr": -16.25,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-07-09T22:53:22.380214+00:00",
-    "snr": -6.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-09T23:53:23.847111+00:00",
+    "snr": -16.75,
+    "hops_away": 2,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
