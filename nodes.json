@@ -5031,9 +5031,9 @@
   "!93d67ebc": {
     "id": "!93d67ebc",
     "long_name": "VegeMesh",
-    "last_heard": "2026-07-09T07:58:56.651829+00:00",
-    "snr": -7.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-09T08:09:29.149571+00:00",
+    "snr": -13.75,
+    "hops_away": 4,
     "short_name": "VEGE",
     "hw_model": "SEEED_WIO_TRACKER_L1",
     "role": ""
