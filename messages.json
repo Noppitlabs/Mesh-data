@@ -1,5 +1,16 @@
 [
   {
+    "id": 864011757,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "RX in Exeter",
+    "timestamp": "2026-07-09T18:32:49.821038+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 1
+  },
+  {
     "id": 582758542,
     "from": "!043a23c8",
     "from_name": "Meshtastic 23c8",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-05T09:21:13.587639+00:00",
     "channel": 0,
     "snr": -6.25,
-    "hops": 4
-  },
-  {
-    "id": 1688231832,
-    "from": "!bb832698",
-    "from_name": "!bb832698",
-    "to": "^all",
-    "text": "Salut Pascal, re\u00e7u 2 nodes Espagne.",
-    "timestamp": "2026-07-05T09:20:43.293120+00:00",
-    "channel": 0,
-    "snr": -13.0,
     "hops": 4
   }
 ]
