@@ -2101,9 +2101,9 @@
   "!0309722e": {
     "id": "!0309722e",
     "long_name": "Tony's PICO",
-    "last_heard": "2026-07-09T01:19:23.910867+00:00",
-    "snr": -4.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-09T04:19:18.716355+00:00",
+    "snr": -4.5,
+    "hops_away": 4,
     "short_name": "PICO",
     "hw_model": "RPI_PICO",
     "role": ""
