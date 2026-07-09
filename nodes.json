@@ -2047,8 +2047,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-09T12:38:15.931296+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-07-09T13:16:41.570443+00:00",
+    "snr": -8.0,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -3280,8 +3280,8 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-09T12:27:50.097455+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-07-09T13:16:48.747790+00:00",
+    "snr": -8.5,
     "hops_away": 5,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
