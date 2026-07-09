@@ -749,9 +749,9 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-07-09T18:58:09.636292+00:00",
-    "snr": -4.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-09T20:28:30.840299+00:00",
+    "snr": -16.75,
+    "hops_away": 4,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -4964,8 +4964,8 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Peter Omni RAK",
-    "last_heard": "2026-07-09T17:47:18.162987+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-07-09T20:28:39.181812+00:00",
+    "snr": -17.0,
     "hops_away": 1,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
