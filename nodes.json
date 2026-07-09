@@ -139,8 +139,8 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-07-09T21:00:53.980630+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-09T21:30:54.376601+00:00",
+    "snr": -6.75,
     "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
@@ -3090,8 +3090,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-09T21:21:14.283835+00:00",
-    "snr": -17.25,
+    "last_heard": "2026-07-09T21:30:57.295271+00:00",
+    "snr": -8.5,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
