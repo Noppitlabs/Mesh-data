@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-09T19:09:23.297513+00:00",
+    "last_heard": "2026-07-09T19:10:23.336381+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1358,8 +1358,8 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-07-09T13:10:26.281707+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-07-09T19:10:25.867890+00:00",
+    "snr": -6.25,
     "hops_away": 2,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
