@@ -1,5 +1,16 @@
 [
   {
+    "id": 4284995096,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-07-09T08:13:15.406635+00:00",
+    "channel": 0,
+    "snr": -5.75,
+    "hops": 4
+  },
+  {
     "id": 189013143,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-04T08:01:43.913045+00:00",
     "channel": 0,
     "snr": -6.25,
-    "hops": 2
-  },
-  {
-    "id": 2098926489,
-    "from": "!133a8e1e",
-    "from_name": "Rich~M7FJD",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-07-04T08:01:39.559241+00:00",
-    "channel": 0,
-    "snr": -8.25,
     "hops": 2
   }
 ]
