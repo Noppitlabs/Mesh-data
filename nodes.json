@@ -5975,5 +5975,15 @@
     "short_name": "RLAH",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!699c8334": {
+    "id": "!699c8334",
+    "long_name": "\ud83c\udf05MARTA-VALDOVI\u00d1O \ud83c\udf0a\ud83c\udfd6\ufe0fEA1CUE",
+    "last_heard": "2026-07-09T08:50:22.841313+00:00",
+    "snr": -7.75,
+    "hops_away": 7,
+    "short_name": "MART",
+    "hw_model": "HELTEC_V4",
+    "role": "CLIENT_BASE"
   }
 }
