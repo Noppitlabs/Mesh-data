@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-07-09T10:42:05.539586+00:00",
-    "snr": -4.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-09T11:42:04.509696+00:00",
+    "snr": -5.75,
+    "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -139,8 +139,8 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-07-09T05:00:09.106013+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-07-09T11:42:12.339314+00:00",
+    "snr": -4.75,
     "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
