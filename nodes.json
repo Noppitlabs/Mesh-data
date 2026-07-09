@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-08T23:08:29.193433+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-07-09T00:07:06.991080+00:00",
+    "snr": -18.75,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -1880,9 +1880,9 @@
   "!199e58bb": {
     "id": "!199e58bb",
     "long_name": "Mobile",
-    "last_heard": "2026-07-08T14:59:14.373972+00:00",
-    "snr": -3.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-09T00:07:29.530857+00:00",
+    "snr": -11.25,
+    "hops_away": 6,
     "short_name": "Mob1",
     "hw_model": "SEEED_WIO_TRACKER_L1",
     "role": ""
