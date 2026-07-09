@@ -799,12 +799,12 @@
   "!56e04c5a": {
     "id": "!56e04c5a",
     "long_name": "ALAN T1000-E",
-    "last_heard": "2026-07-09T09:24:36.888838+00:00",
-    "snr": -7.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-09T09:25:14.566547+00:00",
+    "snr": -7.0,
+    "hops_away": 6,
     "short_name": "ALAN",
     "hw_model": "TRACKER_T1000_E",
-    "role": ""
+    "role": "CLIENT_MUTE"
   },
   "!a4c2bc74": {
     "id": "!a4c2bc74",
