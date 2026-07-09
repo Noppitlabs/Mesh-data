@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-09T00:07:41.016128+00:00",
-    "snr": -4.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-09T00:08:24.725606+00:00",
+    "snr": -6.0,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3257,9 +3257,9 @@
   "!cfb37091": {
     "id": "!cfb37091",
     "long_name": "Resilience 1 Winkleigh \u2600\ufe0f ",
-    "last_heard": "2026-07-08T09:07:02.946495+00:00",
-    "snr": -18.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-09T00:07:43.700238+00:00",
+    "snr": -5.5,
+    "hops_away": 3,
     "short_name": "RES1",
     "hw_model": "RAK4631",
     "role": "ROUTER"
