@@ -459,8 +459,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-07-09T19:10:56.210946+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-07-09T19:23:48.096094+00:00",
+    "snr": -18.0,
     "hops_away": 1,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -1505,9 +1505,9 @@
   "!1969b119": {
     "id": "!1969b119",
     "long_name": "PlymSteve",
-    "last_heard": "2026-07-09T06:47:46.169982+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-09T19:24:12.011480+00:00",
+    "snr": -17.5,
+    "hops_away": 4,
     "short_name": "Egg4",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
