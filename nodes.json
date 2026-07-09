@@ -1435,9 +1435,9 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-07-09T08:38:16.439313+00:00",
+    "last_heard": "2026-07-09T08:45:24.929843+00:00",
     "snr": -6.25,
-    "hops_away": 4,
+    "hops_away": 3,
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
@@ -2422,9 +2422,9 @@
   "!433c0074": {
     "id": "!433c0074",
     "long_name": "TR10 DCG",
-    "last_heard": "2026-07-09T08:30:35.667022+00:00",
+    "last_heard": "2026-07-09T08:45:03.704240+00:00",
     "snr": -18.25,
-    "hops_away": 7,
+    "hops_away": 2,
     "short_name": "TR10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
