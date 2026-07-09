@@ -426,9 +426,9 @@
   "!62f8b250": {
     "id": "!62f8b250",
     "long_name": "Meshtastic b250",
-    "last_heard": "2026-07-08T16:24:17.707506+00:00",
-    "snr": -6.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-09T02:25:31.315158+00:00",
+    "snr": -9.5,
+    "hops_away": 2,
     "short_name": "b250",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -1522,9 +1522,9 @@
   "!6982bcb0": {
     "id": "!6982bcb0",
     "long_name": "Hambridge V4 - Paul ",
-    "last_heard": "2026-07-08T23:25:09.672504+00:00",
-    "snr": -5.0,
-    "hops_away": 6,
+    "last_heard": "2026-07-09T02:25:04.483639+00:00",
+    "snr": -10.75,
+    "hops_away": 4,
     "short_name": "HMB4",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
