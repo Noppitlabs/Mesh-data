@@ -5965,5 +5965,15 @@
     "short_name": "d1b0",
     "hw_model": "M5STACK_C6L",
     "role": "CLIENT_HIDDEN"
+  },
+  "!043b1108": {
+    "id": "!043b1108",
+    "long_name": "Rafa/Harefield",
+    "last_heard": "2026-07-09T08:19:52.582866+00:00",
+    "snr": -13.5,
+    "hops_away": 3,
+    "short_name": "RLAH",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
