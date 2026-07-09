@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-09T19:48:24.905776+00:00",
+    "last_heard": "2026-07-09T19:49:31.299507+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3417,9 +3417,9 @@
   "!e33bbd80": {
     "id": "!e33bbd80",
     "long_name": "whisper_bd80",
-    "last_heard": "2026-07-09T19:01:27.832244+00:00",
+    "last_heard": "2026-07-09T19:49:22.564270+00:00",
     "snr": -5.0,
-    "hops_away": 7,
+    "hops_away": 6,
     "short_name": "bd80",
     "hw_model": "TBEAM",
     "role": ""
