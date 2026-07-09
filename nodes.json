@@ -5985,5 +5985,15 @@
     "short_name": "MART",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
+  },
+  "!8fc76bec": {
+    "id": "!8fc76bec",
+    "long_name": "James3D-Base",
+    "last_heard": "2026-07-09T16:03:58.620415+00:00",
+    "snr": -16.25,
+    "hops_away": 2,
+    "short_name": "J3BA",
+    "hw_model": "RAK3312",
+    "role": ""
   }
 }
