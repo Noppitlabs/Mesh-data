@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-09T06:34:49.179793+00:00",
+    "last_heard": "2026-07-09T06:35:49.233274+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -269,9 +269,9 @@
   "!db527920": {
     "id": "!db527920",
     "long_name": "Riverside\ud83e\udd17",
-    "last_heard": "2026-07-09T05:31:23.248188+00:00",
-    "snr": -4.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-09T06:35:29.881427+00:00",
+    "snr": -14.25,
+    "hops_away": 4,
     "short_name": "Rive",
     "hw_model": "HELTEC_V3",
     "role": ""
