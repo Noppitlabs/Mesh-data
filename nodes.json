@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-09T04:28:43.773944+00:00",
+    "last_heard": "2026-07-09T04:28:45.663201+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -646,8 +646,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-09T04:23:31.443518+00:00",
-    "snr": -18.0,
+    "last_heard": "2026-07-09T04:28:53.944386+00:00",
+    "snr": -18.75,
     "hops_away": 2,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
@@ -726,8 +726,8 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-07-09T03:28:50.876537+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-09T04:28:46.921458+00:00",
+    "snr": -3.75,
     "hops_away": 3,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
