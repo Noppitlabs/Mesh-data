@@ -6111,5 +6111,15 @@
     "short_name": "\ud83d\udd31",
     "hw_model": "WISMESH_TAG",
     "role": ""
+  },
+  "!3364687c": {
+    "id": "!3364687c",
+    "long_name": "Meshtastic 687c",
+    "last_heard": "2026-07-10T11:38:49.379800+00:00",
+    "snr": -15.5,
+    "hops_away": 4,
+    "short_name": "687c",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
