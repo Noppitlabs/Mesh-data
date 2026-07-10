@@ -1170,9 +1170,9 @@
   "!a9fed67f": {
     "id": "!a9fed67f",
     "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-10T13:36:38.887630+00:00",
-    "snr": -19.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-10T18:21:25.886704+00:00",
+    "snr": -15.5,
+    "hops_away": 4,
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
