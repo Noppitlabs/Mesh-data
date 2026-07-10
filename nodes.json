@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-10T22:37:56.268663+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-07-10T22:38:34.237873+00:00",
+    "snr": -16.25,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-10T22:37:47.578609+00:00",
+    "last_heard": "2026-07-10T22:38:43.083187+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -3283,9 +3283,9 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-10T20:48:53.178596+00:00",
-    "snr": -17.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T22:38:32.892708+00:00",
+    "snr": -2.0,
+    "hops_away": 2,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
