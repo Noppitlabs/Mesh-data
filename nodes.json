@@ -946,9 +946,9 @@
   "!1c72386c": {
     "id": "!1c72386c",
     "long_name": "TINA T1000-E",
-    "last_heard": "2026-07-10T12:26:38.241117+00:00",
-    "snr": -15.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-10T14:06:47.436636+00:00",
+    "snr": -1.0,
+    "hops_away": 7,
     "short_name": "TINA",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
