@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-10T12:13:44.191263+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-07-10T12:16:19.343630+00:00",
+    "snr": -7.25,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-10T12:10:22.401416+00:00",
-    "snr": -15.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T12:17:12.823058+00:00",
+    "snr": -3.0,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -1435,9 +1435,9 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-07-10T12:08:35.412208+00:00",
-    "snr": -16.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-10T12:16:17.087680+00:00",
+    "snr": -2.5,
+    "hops_away": 2,
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
