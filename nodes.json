@@ -659,9 +659,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-07-10T08:38:09.988673+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-10T09:18:29.353401+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
@@ -1819,9 +1819,9 @@
   "!69822bd4": {
     "id": "!69822bd4",
     "long_name": "RC_BASE",
-    "last_heard": "2026-07-07T22:17:29.294459+00:00",
-    "snr": -9.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T09:18:46.670800+00:00",
+    "snr": -17.25,
+    "hops_away": 1,
     "short_name": "RC00",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
