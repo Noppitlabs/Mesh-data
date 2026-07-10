@@ -1170,8 +1170,8 @@
   "!a9fed67f": {
     "id": "!a9fed67f",
     "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-10T02:51:36.098604+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-07-10T05:11:24.763649+00:00",
+    "snr": -9.75,
     "hops_away": 3,
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -1445,8 +1445,8 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-10T04:59:44.727038+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-07-10T05:10:56.953112+00:00",
+    "snr": -8.75,
     "hops_away": 5,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
