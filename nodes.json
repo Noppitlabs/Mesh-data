@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-07-10T05:57:05.269352+00:00",
-    "snr": -14.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-10T06:42:01.984594+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -619,9 +619,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-07-10T04:42:24.641424+00:00",
-    "snr": -16.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T06:42:16.606523+00:00",
+    "snr": -15.0,
+    "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
