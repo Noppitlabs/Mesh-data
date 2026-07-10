@@ -5362,9 +5362,9 @@
   "!0a98afd0": {
     "id": "!0a98afd0",
     "long_name": "monkeyPot",
-    "last_heard": "2026-07-09T04:32:15.043233+00:00",
-    "snr": -4.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-10T16:27:54.923487+00:00",
+    "snr": -6.5,
+    "hops_away": 3,
     "short_name": "MP",
     "hw_model": "M5STACK_CARDPUTER_ADV",
     "role": ""
