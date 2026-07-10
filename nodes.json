@@ -2550,9 +2550,9 @@
   "!f6f96ec0": {
     "id": "!f6f96ec0",
     "long_name": "EGM Base",
-    "last_heard": "2026-07-10T11:25:48.889793+00:00",
-    "snr": -17.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-10T11:40:29.145649+00:00",
+    "snr": -18.5,
+    "hops_away": 3,
     "short_name": "HEGM",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
