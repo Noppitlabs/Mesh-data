@@ -2550,8 +2550,8 @@
   "!f6f96ec0": {
     "id": "!f6f96ec0",
     "long_name": "EGM Base",
-    "last_heard": "2026-07-10T12:10:31.310049+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-07-10T12:52:33.070551+00:00",
+    "snr": -3.0,
     "hops_away": 3,
     "short_name": "HEGM",
     "hw_model": "HELTEC_V3",
@@ -2651,9 +2651,9 @@
   "!98e90f12": {
     "id": "!98e90f12",
     "long_name": "Carbis_Bay CBay",
-    "last_heard": "2026-07-10T05:36:23.947653+00:00",
-    "snr": -17.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-10T12:52:18.465974+00:00",
+    "snr": -19.25,
+    "hops_away": 3,
     "short_name": "CBay",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
