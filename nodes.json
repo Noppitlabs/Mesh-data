@@ -4977,9 +4977,9 @@
   "!a1ab6dac": {
     "id": "!a1ab6dac",
     "long_name": "A-NET Lily",
-    "last_heard": "2026-06-19T02:47:41.535713+00:00",
-    "snr": -7.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T17:11:51.154312+00:00",
+    "snr": -16.25,
+    "hops_away": 2,
     "short_name": "A-NL",
     "hw_model": "T_DECK",
     "role": ""
