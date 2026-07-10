@@ -6026,5 +6026,15 @@
     "last_heard": "2026-07-09T23:46:56.432223+00:00",
     "snr": -5.5,
     "hops_away": 4
+  },
+  "!f6fce18c": {
+    "id": "!f6fce18c",
+    "long_name": "Bellatrix",
+    "last_heard": "2026-07-10T00:31:54.065063+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
+    "short_name": "trix",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
