@@ -6046,5 +6046,12 @@
     "short_name": "slbr",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "CLIENT_BASE"
+  },
+  "!c9326d1c": {
+    "id": "!c9326d1c",
+    "long_name": "!c9326d1c",
+    "last_heard": "2026-07-10T03:14:48.513264+00:00",
+    "snr": -16.0,
+    "hops_away": 5
   }
 }
