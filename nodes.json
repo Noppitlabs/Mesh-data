@@ -2067,9 +2067,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-07-10T12:57:34.532617+00:00",
-    "snr": -2.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-10T13:33:36.327397+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -2191,8 +2191,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-10T12:03:50.173005+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-07-10T13:33:25.330626+00:00",
+    "snr": -1.5,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
