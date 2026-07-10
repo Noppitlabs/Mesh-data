@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-10T09:51:07.733435+00:00",
+    "last_heard": "2026-07-10T09:52:07.765410+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -599,9 +599,9 @@
   "!18aa75f6": {
     "id": "!18aa75f6",
     "long_name": "Gormenghast",
-    "last_heard": "2026-07-10T06:51:53.986066+00:00",
-    "snr": -12.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T09:51:46.960159+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "gorm",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
