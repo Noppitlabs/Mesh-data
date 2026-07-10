@@ -6121,5 +6121,15 @@
     "short_name": "687c",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!ea8f8b48": {
+    "id": "!ea8f8b48",
+    "long_name": "LOFT",
+    "last_heard": "2026-07-10T13:13:22.718295+00:00",
+    "snr": -16.75,
+    "hops_away": 5,
+    "short_name": "LOFT",
+    "hw_model": "SEEED_XIAO_S3",
+    "role": ""
   }
 }
