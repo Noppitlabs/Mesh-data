@@ -1,5 +1,16 @@
 [
   {
+    "id": 2098926550,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-07-10T07:52:00.851881+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 1
+  },
+  {
     "id": 2098926549,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -1.25,
     "hops": 7
-  },
-  {
-    "id": 2611514541,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-07-06T19:22:44.049872+00:00",
-    "channel": 0,
-    "snr": -6.25,
-    "hops": 4
   }
 ]
