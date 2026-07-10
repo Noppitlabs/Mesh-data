@@ -1,5 +1,16 @@
 [
   {
+    "id": 47555767,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "yay a contact",
+    "timestamp": "2026-07-10T21:29:01.685052+00:00",
+    "channel": 0,
+    "snr": -1.75,
+    "hops": 7
+  },
+  {
     "id": 561781177,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.5,
     "hops": 5
-  },
-  {
-    "id": 1417201199,
-    "from": "!0409d1c0",
-    "from_name": "M7FYU",
-    "to": "^all",
-    "text": "Good morning from Plymouth",
-    "timestamp": "2026-07-08T07:45:06.658468+00:00",
-    "channel": 0,
-    "snr": -12.0,
-    "hops": 6
   }
 ]
