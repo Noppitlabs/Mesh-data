@@ -1515,9 +1515,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-10T21:27:00.902970+00:00",
-    "snr": -16.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-10T22:02:50.256586+00:00",
+    "snr": -15.0,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2181,9 +2181,9 @@
   "!da55eed4": {
     "id": "!da55eed4",
     "long_name": "jons house ",
-    "last_heard": "2026-07-10T06:17:51.865388+00:00",
-    "snr": -17.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T22:02:53.660903+00:00",
+    "snr": -15.75,
+    "hops_away": 4,
     "short_name": "skyn",
     "hw_model": "HELTEC_V3",
     "role": ""
