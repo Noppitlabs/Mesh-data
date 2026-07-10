@@ -3107,9 +3107,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-10T05:30:54.842564+00:00",
-    "snr": -8.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T05:34:14.197950+00:00",
+    "snr": -9.75,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
@@ -3280,8 +3280,8 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-10T05:30:03.957431+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-07-10T05:34:10.332889+00:00",
+    "snr": -11.0,
     "hops_away": 2,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
