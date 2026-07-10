@@ -1,5 +1,16 @@
 [
   {
+    "id": 4284995126,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-07-10T21:29:56.133581+00:00",
+    "channel": 0,
+    "snr": -16.5,
+    "hops": 3
+  },
+  {
     "id": 47555767,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.0,
     "hops": 3
-  },
-  {
-    "id": 1912165465,
-    "from": "!043d24b0",
-    "from_name": "Meshtastic 24b0",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-07-08T07:45:52.384410+00:00",
-    "channel": 0,
-    "snr": -4.5,
-    "hops": 5
   }
 ]
