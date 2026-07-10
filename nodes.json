@@ -3250,9 +3250,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-10T19:00:06.142259+00:00",
-    "snr": -1.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T19:02:52.423236+00:00",
+    "snr": -15.75,
+    "hops_away": 1,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
