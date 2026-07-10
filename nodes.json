@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-10T05:13:35.470812+00:00",
-    "snr": -8.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T05:14:59.510371+00:00",
+    "snr": -10.5,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1997,9 +1997,9 @@
   "!f1a8ce4f": {
     "id": "!f1a8ce4f",
     "long_name": "St Ives Solar Node 2E0XCN",
-    "last_heard": "2026-07-10T00:45:47.351331+00:00",
-    "snr": -17.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T05:15:00.978082+00:00",
+    "snr": -18.25,
+    "hops_away": 4,
     "short_name": "Ives",
     "hw_model": "RAK4631",
     "role": ""
