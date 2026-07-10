@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-10T00:33:05.904317+00:00",
-    "snr": -7.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T00:33:45.008027+00:00",
+    "snr": -9.0,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3701,9 +3701,9 @@
   "!59517113": {
     "id": "!59517113",
     "long_name": "Mobile GG Winkleigh Base",
-    "last_heard": "2026-07-10T00:31:42.192620+00:00",
-    "snr": -17.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T00:34:02.533461+00:00",
+    "snr": -17.0,
+    "hops_away": 2,
     "short_name": "MOB1",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "CLIENT_MUTE"
