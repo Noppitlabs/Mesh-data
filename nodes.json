@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-10T18:51:32.658662+00:00",
+    "last_heard": "2026-07-10T18:52:33.211638+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3357,9 +3357,9 @@
   "!ecee4da1": {
     "id": "!ecee4da1",
     "long_name": "whisper_4da1",
-    "last_heard": "2026-07-09T20:34:53.103738+00:00",
-    "snr": -17.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-10T18:52:48.291850+00:00",
+    "snr": -1.75,
+    "hops_away": 6,
     "short_name": "4da1",
     "hw_model": "T_ECHO",
     "role": ""
