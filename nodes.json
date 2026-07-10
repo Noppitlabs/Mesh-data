@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-10T20:35:03.512509+00:00",
-    "snr": -15.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-10T20:38:41.535133+00:00",
+    "snr": -2.5,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -289,8 +289,8 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-07-10T20:28:18.883097+00:00",
-    "snr": -2.0,
+    "last_heard": "2026-07-10T20:39:02.454181+00:00",
+    "snr": -16.0,
     "hops_away": 5,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
