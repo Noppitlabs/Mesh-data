@@ -6125,9 +6125,9 @@
   "!ea8f8b48": {
     "id": "!ea8f8b48",
     "long_name": "LOFT",
-    "last_heard": "2026-07-10T13:13:22.718295+00:00",
+    "last_heard": "2026-07-10T13:23:56.313193+00:00",
     "snr": -16.75,
-    "hops_away": 5,
+    "hops_away": 6,
     "short_name": "LOFT",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
