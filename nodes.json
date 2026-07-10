@@ -6151,5 +6151,15 @@
     "last_heard": "2026-07-10T19:38:33.229625+00:00",
     "snr": -2.75,
     "hops_away": 2
+  },
+  "!75cf0698": {
+    "id": "!75cf0698",
+    "long_name": "BS16 Base 0698 \ud83d\udcfb",
+    "last_heard": "2026-07-10T22:37:03.747382+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
+    "short_name": "BS16",
+    "hw_model": "HELTEC_WSL_V3",
+    "role": ""
   }
 }
