@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-10T04:46:53.870593+00:00",
+    "last_heard": "2026-07-10T04:47:53.903981+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1445,9 +1445,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-10T04:33:10.389802+00:00",
-    "snr": -8.0,
-    "hops_away": 6,
+    "last_heard": "2026-07-10T04:47:46.951134+00:00",
+    "snr": -10.0,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
