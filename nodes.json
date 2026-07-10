@@ -6036,5 +6036,15 @@
     "short_name": "trix",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!2af960aa": {
+    "id": "!2af960aa",
+    "long_name": "solarbird",
+    "last_heard": "2026-07-10T00:45:06.766162+00:00",
+    "snr": -10.0,
+    "hops_away": 4,
+    "short_name": "slbr",
+    "hw_model": "XIAO_NRF52_KIT",
+    "role": "CLIENT_BASE"
   }
 }
