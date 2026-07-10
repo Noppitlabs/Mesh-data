@@ -2281,9 +2281,9 @@
   "!6982ba5c": {
     "id": "!6982ba5c",
     "long_name": "GCM0015 - Mount Durand \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-07-10T14:19:32.057602+00:00",
-    "snr": -3.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-10T19:00:08.208055+00:00",
+    "snr": -16.0,
+    "hops_away": 4,
     "short_name": "ba5c",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3250,9 +3250,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-10T18:37:39.219359+00:00",
-    "snr": -15.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-10T19:00:06.142259+00:00",
+    "snr": -1.75,
+    "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
