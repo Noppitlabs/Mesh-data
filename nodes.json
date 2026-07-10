@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-07-10T18:42:04.886530+00:00",
-    "snr": -1.75,
+    "last_heard": "2026-07-10T19:42:03.266137+00:00",
+    "snr": -2.0,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -3110,8 +3110,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-10T19:38:16.959388+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-07-10T19:41:42.925023+00:00",
+    "snr": -1.25,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
