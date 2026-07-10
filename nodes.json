@@ -1130,9 +1130,9 @@
   "!6c73bc5c": {
     "id": "!6c73bc5c",
     "long_name": "Tarr Exmoor Tester",
-    "last_heard": "2026-07-09T07:29:25.472057+00:00",
-    "snr": -6.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-10T13:37:17.136712+00:00",
+    "snr": -16.0,
+    "hops_away": 4,
     "short_name": "TE 4",
     "hw_model": "TBEAM",
     "role": ""
