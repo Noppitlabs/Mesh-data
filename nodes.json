@@ -4505,8 +4505,8 @@
   "!da56dd04": {
     "id": "!da56dd04",
     "long_name": "whisper_dd04",
-    "last_heard": "2026-07-10T02:34:04.766221+00:00",
-    "snr": -17.0,
+    "last_heard": "2026-07-10T02:58:13.118650+00:00",
+    "snr": -16.75,
     "hops_away": 6,
     "short_name": "dd04",
     "hw_model": "HELTEC_V3",
