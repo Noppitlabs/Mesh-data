@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-11T12:12:18.018083+00:00",
+    "last_heard": "2026-07-11T12:13:18.053765+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2718,8 +2718,8 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-07-11T08:04:24.569323+00:00",
-    "snr": -15.0,
+    "last_heard": "2026-07-11T12:13:22.628465+00:00",
+    "snr": -13.5,
     "hops_away": 1,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
