@@ -2047,8 +2047,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-11T22:23:22.001390+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-07-11T22:50:03.900694+00:00",
+    "snr": -14.25,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -3093,9 +3093,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-11T22:41:15.739099+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-11T22:50:26.095154+00:00",
+    "snr": -15.0,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
