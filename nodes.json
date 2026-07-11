@@ -649,8 +649,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-11T04:15:42.947868+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-07-11T04:33:23.727409+00:00",
+    "snr": -14.25,
     "hops_away": 2,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
@@ -3110,9 +3110,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-11T04:27:01.445272+00:00",
-    "snr": -13.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-11T04:33:00.781920+00:00",
+    "snr": -1.0,
+    "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
