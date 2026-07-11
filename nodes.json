@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-11T00:56:29.845048+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-07-11T00:58:51.263215+00:00",
+    "snr": -14.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-07-11T00:26:43.171526+00:00",
-    "snr": -4.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-11T00:58:57.373631+00:00",
+    "snr": -1.75,
+    "hops_away": 4,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
