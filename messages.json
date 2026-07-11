@@ -1,5 +1,16 @@
 [
   {
+    "id": 2789209704,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "4\ufe0f\u20e3",
+    "timestamp": "2026-07-11T09:56:18.968386+00:00",
+    "channel": 0,
+    "snr": -16.5,
+    "hops": 3
+  },
+  {
     "id": 2789209703,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.25,
     "hops": 7
-  },
-  {
-    "id": 1269378403,
-    "from": "!043d24b0",
-    "from_name": "Meshtastic 24b0",
-    "to": "^all",
-    "text": "G\u2019d afternoon \u2600\ufe0f",
-    "timestamp": "2026-07-08T14:03:00.132646+00:00",
-    "channel": 0,
-    "snr": -5.0,
-    "hops": 2
   }
 ]
