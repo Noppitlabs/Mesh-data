@@ -3293,9 +3293,9 @@
   "!04093090": {
     "id": "!04093090",
     "long_name": "Meshtastic 3090",
-    "last_heard": "2026-07-11T17:49:50.633812+00:00",
-    "snr": -16.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-11T21:22:14.809333+00:00",
+    "snr": -12.0,
+    "hops_away": 3,
     "short_name": "3090",
     "hw_model": "HELTEC_V3",
     "role": ""
