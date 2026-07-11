@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-11T17:46:32.192139+00:00",
+    "last_heard": "2026-07-11T17:46:33.996348+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -619,8 +619,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-07-11T16:55:37.482461+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-07-11T17:46:35.288882+00:00",
+    "snr": -13.0,
     "hops_away": 1,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
