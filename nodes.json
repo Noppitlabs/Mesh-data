@@ -3515,9 +3515,9 @@
   "!da56a920": {
     "id": "!da56a920",
     "long_name": "Meshtastic a920",
-    "last_heard": "2026-07-11T06:09:29.974212+00:00",
-    "snr": -5.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-11T07:15:20.845004+00:00",
+    "snr": -15.5,
+    "hops_away": 2,
     "short_name": "a920",
     "hw_model": "HELTEC_V3",
     "role": ""
