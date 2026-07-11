@@ -2067,9 +2067,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-07-11T21:09:02.575503+00:00",
-    "snr": -5.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-11T21:45:04.430653+00:00",
+    "snr": -14.5,
+    "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -3253,8 +3253,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-11T21:29:09.085556+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-07-11T21:45:28.067591+00:00",
+    "snr": -10.5,
     "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
