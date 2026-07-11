@@ -4827,9 +4827,9 @@
   "!49b5aa28": {
     "id": "!49b5aa28",
     "long_name": "EA1FHY-V4",
-    "last_heard": "2026-07-11T17:10:36.668031+00:00",
-    "snr": -4.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-11T18:49:03.043770+00:00",
+    "snr": -16.0,
+    "hops_away": 6,
     "short_name": "FHY",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_MUTE"
