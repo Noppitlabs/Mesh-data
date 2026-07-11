@@ -5124,9 +5124,9 @@
   "!0406ae94": {
     "id": "!0406ae94",
     "long_name": "Meshtastic ae94",
-    "last_heard": "2026-07-11T20:11:18.016381+00:00",
-    "snr": -12.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-11T20:51:12.963783+00:00",
+    "snr": -13.0,
+    "hops_away": 4,
     "short_name": "ae94",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
