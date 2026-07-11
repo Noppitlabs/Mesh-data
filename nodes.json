@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-11T04:30:58.762397+00:00",
+    "last_heard": "2026-07-11T04:31:00.931177+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4340,8 +4340,8 @@
   "!9e9e2f8c": {
     "id": "!9e9e2f8c",
     "long_name": "Meshtastic Futz",
-    "last_heard": "2026-06-09T20:39:56.589238+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-07-11T04:31:06.081847+00:00",
+    "snr": -7.75,
     "hops_away": 3,
     "short_name": "Futz",
     "hw_model": "HELTEC_V3",
