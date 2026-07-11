@@ -1,5 +1,16 @@
 [
   {
+    "id": 2060851130,
+    "from": "!da5c79a4",
+    "from_name": "Mark M7XMV | Truro",
+    "to": "^all",
+    "text": "Received Truro in 3 hops",
+    "timestamp": "2026-07-11T18:59:03.615813+00:00",
+    "channel": 0,
+    "snr": -13.5,
+    "hops": 6
+  },
+  {
     "id": 49102099,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.25,
     "hops": 5
-  },
-  {
-    "id": 29520354,
-    "from": "!043d24b0",
-    "from_name": "Meshtastic 24b0",
-    "to": "^all",
-    "text": "Good afternoon \ud83d\ude42",
-    "timestamp": "2026-07-08T14:09:29.114878+00:00",
-    "channel": 0,
-    "snr": -3.5,
-    "hops": 2
   }
 ]
