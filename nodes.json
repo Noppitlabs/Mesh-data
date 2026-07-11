@@ -3960,9 +3960,9 @@
   "!9eed11f8": {
     "id": "!9eed11f8",
     "long_name": "Knappster",
-    "last_heard": "2026-07-10T04:38:48.291644+00:00",
-    "snr": -17.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-11T21:23:06.421708+00:00",
+    "snr": -12.25,
+    "hops_away": 5,
     "short_name": "KNAP",
     "hw_model": "HELTEC_V3",
     "role": ""
