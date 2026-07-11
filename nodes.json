@@ -5121,9 +5121,9 @@
   "!0406ae94": {
     "id": "!0406ae94",
     "long_name": "puentedizj",
-    "last_heard": "2026-07-11T18:13:27.088513+00:00",
-    "snr": -3.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-11T18:51:26.781420+00:00",
+    "snr": -16.25,
+    "hops_away": 4,
     "short_name": "PDJ",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
