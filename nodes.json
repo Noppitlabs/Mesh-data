@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-11T11:43:16.834000+00:00",
+    "last_heard": "2026-07-11T11:43:23.468430+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -1338,8 +1338,8 @@
   "!a20a17a0": {
     "id": "!a20a17a0",
     "long_name": "Hayling Rise, Worthing, Sussex",
-    "last_heard": "2026-07-10T19:58:16.212059+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-07-11T11:43:20.792726+00:00",
+    "snr": -14.25,
     "hops_away": 2,
     "short_name": "BN13",
     "hw_model": "STATION_G2",
