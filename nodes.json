@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-12T16:21:33.398764+00:00",
+    "last_heard": "2026-07-12T16:22:33.480511+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -739,9 +739,9 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-07-12T16:00:30.234602+00:00",
-    "snr": -6.0,
-    "hops_away": 7,
+    "last_heard": "2026-07-12T16:23:24.316089+00:00",
+    "snr": -5.25,
+    "hops_away": 5,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
     "role": ""
