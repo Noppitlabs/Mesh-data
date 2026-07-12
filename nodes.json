@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-12T16:04:12.993435+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-07-12T16:35:08.189752+00:00",
+    "snr": -6.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -2833,8 +2833,8 @@
   "!ae312a0f": {
     "id": "!ae312a0f",
     "long_name": "Quackers",
-    "last_heard": "2026-07-11T09:39:01.022900+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-07-12T16:35:04.790580+00:00",
+    "snr": -12.25,
     "hops_away": 3,
     "short_name": "Qkrs",
     "hw_model": "T_ECHO",
