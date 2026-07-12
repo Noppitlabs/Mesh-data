@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-12T15:33:31.244387+00:00",
+    "last_heard": "2026-07-12T15:33:33.098944+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-12T15:30:49.232150+00:00",
-    "snr": -4.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-12T15:33:34.553927+00:00",
+    "snr": -5.5,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
