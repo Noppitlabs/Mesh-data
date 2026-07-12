@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-12T03:44:59.512506+00:00",
+    "last_heard": "2026-07-12T03:45:59.559225+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3093,9 +3093,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-12T03:40:20.241717+00:00",
-    "snr": -15.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-12T03:46:20.119582+00:00",
+    "snr": -3.5,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
