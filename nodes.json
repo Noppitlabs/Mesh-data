@@ -5287,9 +5287,9 @@
   "!f6fb4a1c": {
     "id": "!f6fb4a1c",
     "long_name": "Meshtastic 4a1c",
-    "last_heard": "2026-07-09T10:09:06.066028+00:00",
-    "snr": -13.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-12T04:08:48.541931+00:00",
+    "snr": -14.0,
+    "hops_away": 2,
     "short_name": "4a1c",
     "hw_model": "HELTEC_V3",
     "role": ""
