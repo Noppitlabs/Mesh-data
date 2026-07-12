@@ -1,5 +1,16 @@
 [
   {
+    "id": 989531895,
+    "from": "!b03be864",
+    "from_name": "!b03be864",
+    "to": "^all",
+    "text": "kidderminster calling Join the Mesh Hub UK Discord: meshhub.uk/discord",
+    "timestamp": "2026-07-12T00:37:55.386619+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 4
+  },
+  {
     "id": 272551920,
     "from": "!b03be864",
     "from_name": "!b03be864",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -1.25,
     "hops": 6
-  },
-  {
-    "id": 2885375337,
-    "from": "!043d24b0",
-    "from_name": "Meshtastic 24b0",
-    "to": "^all",
-    "text": "@OMT \ud83d\udc4b\ud83d\ude42",
-    "timestamp": "2026-07-08T14:14:05.526742+00:00",
-    "channel": 0,
-    "snr": -3.25,
-    "hops": 4
   }
 ]
