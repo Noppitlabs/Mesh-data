@@ -459,9 +459,9 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-07-12T17:06:19.010575+00:00",
-    "snr": -20.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-12T18:25:08.655307+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
@@ -2570,9 +2570,9 @@
   "!fbd990c6": {
     "id": "!fbd990c6",
     "long_name": "The Black Swan",
-    "last_heard": "2026-07-12T09:53:15.321652+00:00",
-    "snr": -9.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-12T18:25:10.272430+00:00",
+    "snr": -1.25,
+    "hops_away": 0,
     "short_name": "TBS5",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
