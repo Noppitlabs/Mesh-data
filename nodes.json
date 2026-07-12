@@ -4360,9 +4360,9 @@
   "!db29e9ec": {
     "id": "!db29e9ec",
     "long_name": "Meshtastic GAZ1971",
-    "last_heard": "2026-07-11T04:58:37.184182+00:00",
-    "snr": -13.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-12T11:28:55.024898+00:00",
+    "snr": -12.75,
+    "hops_away": 3,
     "short_name": "GAZ1",
     "hw_model": "HELTEC_V3",
     "role": ""
