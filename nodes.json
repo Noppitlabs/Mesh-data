@@ -6117,9 +6117,9 @@
   "!77df2573": {
     "id": "!77df2573",
     "long_name": "\ud83d\udd31",
-    "last_heard": "2026-07-12T08:32:53.936845+00:00",
-    "snr": -14.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-12T14:01:05.960084+00:00",
+    "snr": -7.5,
+    "hops_away": 6,
     "short_name": "\ud83d\udd31",
     "hw_model": "WISMESH_TAG",
     "role": ""
