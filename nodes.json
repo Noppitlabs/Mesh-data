@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-12T07:12:56.084385+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-07-12T07:22:24.045569+00:00",
+    "snr": -13.25,
     "hops_away": 1,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -2044,9 +2044,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-12T06:57:21.928542+00:00",
-    "snr": -14.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-12T07:22:11.057719+00:00",
+    "snr": -7.5,
+    "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
