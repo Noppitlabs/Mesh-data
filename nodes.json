@@ -1515,9 +1515,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-11T22:45:13.057361+00:00",
-    "snr": -14.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-12T00:33:03.245737+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
