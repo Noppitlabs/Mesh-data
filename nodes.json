@@ -5714,9 +5714,9 @@
   "!c1fbdbec": {
     "id": "!c1fbdbec",
     "long_name": "LCARS BASE",
-    "last_heard": "2026-07-10T19:00:46.811014+00:00",
-    "snr": -16.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-12T00:18:15.638606+00:00",
+    "snr": -12.5,
+    "hops_away": 5,
     "short_name": "xchc",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
