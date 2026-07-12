@@ -6198,5 +6198,15 @@
     "short_name": "VPGC",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!db2b0b3c": {
+    "id": "!db2b0b3c",
+    "long_name": "Meshtastic 0b3c",
+    "last_heard": "2026-07-12T02:10:25.871333+00:00",
+    "snr": -7.25,
+    "hops_away": 7,
+    "short_name": "0b3c",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
