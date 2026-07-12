@@ -5274,9 +5274,9 @@
   "!ca078eab": {
     "id": "!ca078eab",
     "long_name": "timttmy T096",
-    "last_heard": "2026-07-12T19:39:07.495700+00:00",
-    "snr": -19.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-12T19:48:32.874095+00:00",
+    "snr": -7.75,
+    "hops_away": 5,
     "short_name": "T096",
     "hw_model": "NRF52_UNKNOWN",
     "role": ""
