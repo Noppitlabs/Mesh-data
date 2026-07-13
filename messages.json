@@ -1,5 +1,16 @@
 [
   {
+    "id": 1124201742,
+    "from": "!043a23c8",
+    "from_name": "Meshtastic 23c8",
+    "to": "^all",
+    "text": "5 hops to Ndevon",
+    "timestamp": "2026-07-13T17:21:42.787195+00:00",
+    "channel": 0,
+    "snr": -10.75,
+    "hops": 3
+  },
+  {
     "id": 940005619,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.75,
     "hops": 4
-  },
-  {
-    "id": 189013143,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "6\ufe0f\u20e3",
-    "timestamp": "2026-07-09T06:46:49.454851+00:00",
-    "channel": 0,
-    "snr": -17.0,
-    "hops": -2
   }
 ]
