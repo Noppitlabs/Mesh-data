@@ -5520,9 +5520,9 @@
   "!043a23c8": {
     "id": "!043a23c8",
     "long_name": "Meshtastic 23c8",
-    "last_heard": "2026-07-12T11:45:54.139856+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-13T17:21:40.751999+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
     "short_name": "23c8",
     "hw_model": "HELTEC_V3",
     "role": ""
