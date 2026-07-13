@@ -4916,9 +4916,9 @@
   "!da5af428": {
     "id": "!da5af428",
     "long_name": "B12PAC Mobile",
-    "last_heard": "2026-07-13T14:53:06.559674+00:00",
-    "snr": -12.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-13T15:20:34.815973+00:00",
+    "snr": -10.25,
+    "hops_away": 3,
     "short_name": "TA2m",
     "hw_model": "TLORA_T3_S3",
     "role": ""
