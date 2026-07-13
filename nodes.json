@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-13T10:40:32.099199+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-07-13T10:57:51.793959+00:00",
+    "snr": -11.0,
     "hops_away": 4,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -2188,7 +2188,7 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-13T10:37:21.506162+00:00",
+    "last_heard": "2026-07-13T10:57:56.882210+00:00",
     "snr": -16.25,
     "hops_away": 1,
     "short_name": "MESH",
