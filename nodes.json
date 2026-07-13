@@ -4435,9 +4435,9 @@
   "!04086298": {
     "id": "!04086298",
     "long_name": "G7VHJ",
-    "last_heard": "2026-07-13T15:40:53.882811+00:00",
-    "snr": -12.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-13T18:28:36.325286+00:00",
+    "snr": -20.5,
+    "hops_away": 3,
     "short_name": "7VHJ",
     "hw_model": "HELTEC_V3",
     "role": ""
