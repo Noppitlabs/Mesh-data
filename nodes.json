@@ -649,9 +649,9 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-13T11:49:22.581781+00:00",
-    "snr": -18.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-13T12:28:17.865541+00:00",
+    "snr": -7.25,
+    "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
     "role": ""
