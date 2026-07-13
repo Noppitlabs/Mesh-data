@@ -599,9 +599,9 @@
   "!18aa75f6": {
     "id": "!18aa75f6",
     "long_name": "Gormenghast",
-    "last_heard": "2026-07-13T06:51:30.951031+00:00",
-    "snr": -8.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-13T09:51:23.486316+00:00",
+    "snr": -16.5,
+    "hops_away": 4,
     "short_name": "gorm",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
