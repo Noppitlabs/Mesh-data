@@ -1,5 +1,16 @@
 [
   {
+    "id": 407481114,
+    "from": "!da56b48c",
+    "from_name": "SR#1 V3",
+    "to": "^all",
+    "text": "Good evening",
+    "timestamp": "2026-07-13T19:44:27.239106+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 4
+  },
+  {
     "id": 1124201742,
     "from": "!043a23c8",
     "from_name": "Meshtastic 23c8",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.5,
     "hops": 3
-  },
-  {
-    "id": 4284995096,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-07-09T08:13:15.406635+00:00",
-    "channel": 0,
-    "snr": -5.75,
-    "hops": 4
   }
 ]
