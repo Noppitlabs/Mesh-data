@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-07-13T09:48:24.847908+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-07-13T10:15:34.998349+00:00",
+    "snr": -17.75,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -1742,8 +1742,8 @@
   "!04ba78f1": {
     "id": "!04ba78f1",
     "long_name": "78f1",
-    "last_heard": "2026-07-13T08:44:56.721117+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-07-13T10:16:07.659798+00:00",
+    "snr": -18.0,
     "hops_away": 6,
     "short_name": "78f1",
     "hw_model": "TRACKER_T1000_E",
