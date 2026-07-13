@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-13T19:21:32.351322+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-07-13T19:22:06.233156+00:00",
+    "snr": -11.25,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -309,8 +309,8 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-07-13T18:57:53.839929+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-07-13T19:22:20.652951+00:00",
+    "snr": -10.75,
     "hops_away": 3,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
