@@ -1445,9 +1445,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-13T04:19:19.922582+00:00",
-    "snr": -7.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-13T04:50:07.786891+00:00",
+    "snr": -6.75,
+    "hops_away": 3,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2188,9 +2188,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-13T04:08:29.663308+00:00",
-    "snr": -17.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-13T04:50:25.428201+00:00",
+    "snr": -7.25,
+    "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
