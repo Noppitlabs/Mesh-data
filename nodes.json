@@ -5817,9 +5817,9 @@
   "!b775ae30": {
     "id": "!b775ae30",
     "long_name": "Birmingham B69",
-    "last_heard": "2026-07-07T06:38:11.758207+00:00",
-    "snr": -4.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-13T19:01:52.324115+00:00",
+    "snr": -10.75,
+    "hops_away": 6,
     "short_name": "B69",
     "hw_model": "RAK4631",
     "role": ""
