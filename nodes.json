@@ -1742,9 +1742,9 @@
   "!04ba78f1": {
     "id": "!04ba78f1",
     "long_name": "78f1",
-    "last_heard": "2026-07-12T23:30:00.528876+00:00",
-    "snr": -17.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-13T00:02:54.627909+00:00",
+    "snr": -8.25,
+    "hops_away": 7,
     "short_name": "78f1",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -2178,8 +2178,8 @@
   "!da55eed4": {
     "id": "!da55eed4",
     "long_name": "jons house ",
-    "last_heard": "2026-07-12T23:39:38.496305+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-07-13T00:03:47.867328+00:00",
+    "snr": -7.0,
     "hops_away": 4,
     "short_name": "skyn",
     "hw_model": "HELTEC_V3",
