@@ -79,7 +79,7 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-13T21:56:51.334225+00:00",
+    "last_heard": "2026-07-13T22:29:55.510609+00:00",
     "snr": -11.5,
     "hops_away": 2,
     "short_name": "EXw",
@@ -3114,8 +3114,8 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-07-13T21:58:01.801134+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-07-13T22:29:51.782819+00:00",
+    "snr": -12.0,
     "hops_away": 5,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
