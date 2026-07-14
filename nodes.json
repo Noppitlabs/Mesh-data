@@ -89,9 +89,9 @@
   "!75e98560": {
     "id": "!75e98560",
     "long_name": "StJ1- G7LJN",
-    "last_heard": "2026-07-14T06:09:01.576969+00:00",
-    "snr": -20.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-14T06:58:03.775486+00:00",
+    "snr": -12.5,
+    "hops_away": 3,
     "short_name": "StJ1",
     "hw_model": "HELTEC_V3",
     "role": ""
