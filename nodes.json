@@ -2648,9 +2648,9 @@
   "!98e90f12": {
     "id": "!98e90f12",
     "long_name": "Carbis_Bay CBay",
-    "last_heard": "2026-07-14T01:17:37.979561+00:00",
-    "snr": -20.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-14T02:23:02.797708+00:00",
+    "snr": -19.25,
+    "hops_away": 4,
     "short_name": "CBay",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
