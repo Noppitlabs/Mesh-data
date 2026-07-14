@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-07-14T03:03:33.308241+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-07-14T03:33:12.580524+00:00",
+    "snr": -11.0,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -1234,9 +1234,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-07-14T03:12:39.409342+00:00",
-    "snr": -16.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-14T03:33:04.618539+00:00",
+    "snr": -12.75,
+    "hops_away": 3,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
