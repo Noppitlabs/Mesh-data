@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-14T17:52:34.762504+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-07-14T17:55:44.848143+00:00",
+    "snr": -10.5,
     "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -2245,9 +2245,9 @@
   "!1fa05c64": {
     "id": "!1fa05c64",
     "long_name": "Meshtastic 5c64",
-    "last_heard": "2026-06-23T20:41:22.959846+00:00",
+    "last_heard": "2026-07-14T17:55:49.563444+00:00",
     "snr": -11.0,
-    "hops_away": 6,
+    "hops_away": 5,
     "short_name": "5c64",
     "hw_model": "TBEAM",
     "role": ""
