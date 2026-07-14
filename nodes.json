@@ -3277,8 +3277,8 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-14T11:01:59.008563+00:00",
-    "snr": -15.0,
+    "last_heard": "2026-07-14T20:01:54.329574+00:00",
+    "snr": -11.25,
     "hops_away": 4,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -3829,8 +3829,8 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr Bs M7MRB 2",
-    "last_heard": "2026-07-14T15:20:15.202635+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-07-14T20:01:50.809935+00:00",
+    "snr": -16.25,
     "hops_away": 5,
     "short_name": "Bug2",
     "hw_model": "HELTEC_V3",
