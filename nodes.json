@@ -1335,8 +1335,8 @@
   "!a20a17a0": {
     "id": "!a20a17a0",
     "long_name": "Hayling Rise, Worthing, Sussex",
-    "last_heard": "2026-07-14T03:34:47.526050+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-07-14T05:58:31.014142+00:00",
+    "snr": -10.0,
     "hops_away": 3,
     "short_name": "BN13",
     "hw_model": "STATION_G2",
@@ -1442,9 +1442,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-14T05:33:02.873076+00:00",
-    "snr": -19.0,
-    "hops_away": 6,
+    "last_heard": "2026-07-14T05:58:11.016926+00:00",
+    "snr": -11.0,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
