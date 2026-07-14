@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-14T14:02:33.143426+00:00",
+    "last_heard": "2026-07-14T14:03:34.803476+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -549,8 +549,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-14T14:02:09.378013+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-07-14T14:04:09.062092+00:00",
+    "snr": -16.5,
     "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
