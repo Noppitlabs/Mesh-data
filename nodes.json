@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-14T07:07:13.519131+00:00",
-    "snr": -15.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-14T07:14:16.460054+00:00",
+    "snr": -11.25,
+    "hops_away": 3,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -469,9 +469,9 @@
   "!9e9d1704": {
     "id": "!9e9d1704",
     "long_name": "Wolf Den",
-    "last_heard": "2026-07-14T06:58:36.543340+00:00",
-    "snr": -13.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-14T07:14:36.718097+00:00",
+    "snr": -12.5,
+    "hops_away": 4,
     "short_name": "Star",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
