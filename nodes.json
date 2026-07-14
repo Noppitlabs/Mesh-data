@@ -5182,9 +5182,9 @@
   "!da576360": {
     "id": "!da576360",
     "long_name": "RSTV1 \ud83c\uddec\ud83c\udde7 ",
-    "last_heard": "2026-07-11T00:01:24.408934+00:00",
-    "snr": -13.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-14T19:40:00.936085+00:00",
+    "snr": -16.5,
+    "hops_away": 5,
     "short_name": "RSn1",
     "hw_model": "HELTEC_V3",
     "role": ""
