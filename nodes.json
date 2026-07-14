@@ -339,9 +339,9 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-07-14T03:32:09.138723+00:00",
-    "snr": -20.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-14T15:07:06.119924+00:00",
+    "snr": -13.5,
+    "hops_away": 3,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2041,8 +2041,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-14T14:52:23.014028+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-07-14T15:06:40.199329+00:00",
+    "snr": -12.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
