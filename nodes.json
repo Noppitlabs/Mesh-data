@@ -3828,11 +3828,11 @@
   },
   "!f6fba300": {
     "id": "!f6fba300",
-    "long_name": "Mr Bs M7MRB 2",
-    "last_heard": "2026-07-15T08:16:28.211814+00:00",
-    "snr": -18.5,
-    "hops_away": 6,
-    "short_name": "Bug2",
+    "long_name": "Meshtastic a300",
+    "last_heard": "2026-07-15T09:17:45.288949+00:00",
+    "snr": -13.75,
+    "hops_away": 5,
+    "short_name": "a300",
     "hw_model": "HELTEC_V3",
     "role": ""
   },
