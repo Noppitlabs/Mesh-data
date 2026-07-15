@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-15T10:57:19.255240+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-07-15T11:19:09.981234+00:00",
+    "snr": -10.5,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -699,9 +699,9 @@
   "!a0e0b080": {
     "id": "!a0e0b080",
     "long_name": "JamesT-Echo",
-    "last_heard": "2026-07-15T10:49:45.618908+00:00",
-    "snr": -5.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-15T11:19:21.788493+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "J19E",
     "hw_model": "T_ECHO",
     "role": ""
