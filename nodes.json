@@ -749,9 +749,9 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-07-15T02:27:26.248029+00:00",
-    "snr": -14.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-15T03:27:30.352737+00:00",
+    "snr": -7.25,
+    "hops_away": 7,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -2041,9 +2041,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-15T03:06:33.295602+00:00",
-    "snr": -4.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-15T03:27:10.089313+00:00",
+    "snr": -16.0,
+    "hops_away": 1,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
