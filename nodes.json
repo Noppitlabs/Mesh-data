@@ -6293,5 +6293,12 @@
     "short_name": "Lab",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!4e17392b": {
+    "id": "!4e17392b",
+    "long_name": "!4e17392b",
+    "last_heard": "2026-07-15T12:48:22.397503+00:00",
+    "snr": -18.75,
+    "hops_away": 2
   }
 }
