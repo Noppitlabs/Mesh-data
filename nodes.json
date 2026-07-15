@@ -5291,9 +5291,9 @@
   "!b03cc330": {
     "id": "!b03cc330",
     "long_name": "Proper Job ",
-    "last_heard": "2026-07-07T11:02:22.864007+00:00",
-    "snr": -4.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-15T22:05:20.074384+00:00",
+    "snr": -19.5,
+    "hops_away": 7,
     "short_name": "PJOB",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
