@@ -619,9 +619,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-07-15T10:45:57.653307+00:00",
-    "snr": -18.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-15T14:27:39.157927+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
@@ -1910,8 +1910,8 @@
   "!cebc35e7": {
     "id": "!cebc35e7",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-07-15T13:24:15.269234+00:00",
-    "snr": -15.25,
+    "last_heard": "2026-07-15T14:27:50.095017+00:00",
+    "snr": -14.5,
     "hops_away": 5,
     "short_name": "35e7",
     "hw_model": "HELTEC_MESH_NODE_T114",
