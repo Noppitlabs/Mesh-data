@@ -2041,9 +2041,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-15T11:03:59.120545+00:00",
-    "snr": -9.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-15T11:32:30.847599+00:00",
+    "snr": -11.75,
+    "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
@@ -2061,8 +2061,8 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-07-15T10:33:24.204422+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-07-15T11:33:18.344231+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
