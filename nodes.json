@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-16T07:21:55.834659+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-07-16T07:23:32.395945+00:00",
+    "snr": -2.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -4522,9 +4522,9 @@
   "!0a41527c": {
     "id": "!0a41527c",
     "long_name": "Lick Hill Mute 527c",
-    "last_heard": "2026-07-16T04:06:36.395900+00:00",
-    "snr": -17.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-16T07:23:26.502877+00:00",
+    "snr": -16.25,
+    "hops_away": 2,
     "short_name": "527c",
     "hw_model": "RAK4631",
     "role": ""
