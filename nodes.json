@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-16T01:23:07.068146+00:00",
+    "last_heard": "2026-07-16T01:25:04.602627+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1806,8 +1806,8 @@
   "!8f51053c": {
     "id": "!8f51053c",
     "long_name": "Exmouth~West",
-    "last_heard": "2026-07-15T22:25:15.636070+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-07-16T01:25:12.178429+00:00",
+    "snr": -17.5,
     "hops_away": 0,
     "short_name": "E1",
     "hw_model": "RAK4631",
