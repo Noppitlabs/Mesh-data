@@ -1482,9 +1482,9 @@
   "!6b7a84a1": {
     "id": "!6b7a84a1",
     "long_name": "timttmy-tracker",
-    "last_heard": "2026-07-16T04:35:19.795233+00:00",
-    "snr": -16.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-16T09:10:24.092693+00:00",
+    "snr": -9.25,
+    "hops_away": 6,
     "short_name": "Card",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
