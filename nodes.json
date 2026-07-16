@@ -4182,9 +4182,9 @@
   "!f6fccfe8": {
     "id": "!f6fccfe8",
     "long_name": "Base69",
-    "last_heard": "2026-07-15T23:52:58.476909+00:00",
-    "snr": -17.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-16T23:52:59.691215+00:00",
+    "snr": -7.0,
+    "hops_away": 5,
     "short_name": "\ud83c\udf32",
     "hw_model": "HELTEC_V3",
     "role": ""
