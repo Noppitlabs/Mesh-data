@@ -6334,5 +6334,15 @@
     "short_name": "0904",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!55c734e8": {
+    "id": "!55c734e8",
+    "long_name": "Meshtastic 34e8",
+    "last_heard": "2026-07-16T21:43:14.151483+00:00",
+    "snr": -20.25,
+    "hops_away": 1,
+    "short_name": "34e8",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
