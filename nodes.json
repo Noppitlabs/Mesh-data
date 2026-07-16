@@ -179,9 +179,9 @@
   "!c0c32250": {
     "id": "!c0c32250",
     "long_name": "Summer House",
-    "last_heard": "2026-07-16T18:46:29.996227+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-16T22:48:50.235671+00:00",
+    "snr": -4.5,
+    "hops_away": 3,
     "short_name": "2250",
     "hw_model": "TBEAM",
     "role": "CLIENT_BASE"
