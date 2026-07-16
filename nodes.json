@@ -659,9 +659,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-07-16T22:17:59.854875+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-16T23:07:11.417003+00:00",
+    "snr": -6.5,
+    "hops_away": 2,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
