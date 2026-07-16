@@ -6324,5 +6324,15 @@
     "last_heard": "2026-07-16T15:45:46.472255+00:00",
     "snr": -4.75,
     "hops_away": 2
+  },
+  "!1ba60904": {
+    "id": "!1ba60904",
+    "long_name": "Meshtastic 0904",
+    "last_heard": "2026-07-16T19:19:04.506849+00:00",
+    "snr": -19.0,
+    "hops_away": 1,
+    "short_name": "0904",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
