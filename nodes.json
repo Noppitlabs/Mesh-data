@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-16T06:29:18.561047+00:00",
+    "last_heard": "2026-07-16T06:30:18.610391+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -6270,8 +6270,8 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-16T06:27:20.390932+00:00",
-    "snr": -15.0,
+    "last_heard": "2026-07-16T06:30:03.635578+00:00",
+    "snr": -15.25,
     "hops_away": 2,
     "short_name": "b80f",
     "hw_model": "RAK4631",
