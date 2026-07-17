@@ -6055,9 +6055,9 @@
   "!2af960aa": {
     "id": "!2af960aa",
     "long_name": "solarbird",
-    "last_heard": "2026-07-10T00:45:06.766162+00:00",
-    "snr": -10.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-17T02:16:20.222784+00:00",
+    "snr": -20.0,
+    "hops_away": 5,
     "short_name": "slbr",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "CLIENT_BASE"
