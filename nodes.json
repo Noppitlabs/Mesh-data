@@ -2382,8 +2382,8 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-07-17T11:27:22.961885+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-07-17T12:10:04.239839+00:00",
+    "snr": -9.75,
     "hops_away": 4,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
@@ -2476,9 +2476,9 @@
   "!90a0f7a0": {
     "id": "!90a0f7a0",
     "long_name": "GCM0006 - Saumarez Park \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-17T01:56:07.577987+00:00",
-    "snr": -7.25,
-    "hops_away": 7,
+    "last_heard": "2026-07-17T12:10:13.547943+00:00",
+    "snr": -6.25,
+    "hops_away": 5,
     "short_name": "f7a0",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
