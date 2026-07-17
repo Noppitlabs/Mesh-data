@@ -4583,9 +4583,9 @@
   "!043d24b0": {
     "id": "!043d24b0",
     "long_name": "Meshtastic 24b0",
-    "last_heard": "2026-07-16T22:21:49.521663+00:00",
-    "snr": -18.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-17T01:22:03.375397+00:00",
+    "snr": -5.75,
+    "hops_away": 7,
     "short_name": "24b0",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
