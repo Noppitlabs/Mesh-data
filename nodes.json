@@ -1719,9 +1719,9 @@
   "!5bfc4afe": {
     "id": "!5bfc4afe",
     "long_name": "Winkleigh T1000E Tracker",
-    "last_heard": "2026-07-17T17:25:50.480729+00:00",
-    "snr": -7.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-17T19:51:07.049426+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "SENS",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_BASE"
