@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-17T09:00:02.837670+00:00",
-    "snr": -10.5,
+    "last_heard": "2026-07-17T09:30:05.388661+00:00",
+    "snr": -10.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -2041,8 +2041,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-07-17T09:06:34.779340+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-07-17T09:30:08.640516+00:00",
+    "snr": -11.0,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
