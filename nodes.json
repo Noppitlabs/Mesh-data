@@ -439,8 +439,8 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-07-17T09:33:31.380932+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-07-17T10:08:01.221412+00:00",
+    "snr": -10.75,
     "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
@@ -1234,8 +1234,8 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-07-17T09:23:16.466611+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-07-17T10:08:16.346428+00:00",
+    "snr": -9.75,
     "hops_away": 3,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
