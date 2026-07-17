@@ -6341,9 +6341,9 @@
   "!55c734e8": {
     "id": "!55c734e8",
     "long_name": "Meshtastic 34e8 AZC",
-    "last_heard": "2026-07-17T07:56:56.090005+00:00",
-    "snr": -9.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-17T08:40:16.066198+00:00",
+    "snr": -19.0,
+    "hops_away": 1,
     "short_name": "34eb",
     "hw_model": "TBEAM",
     "role": ""
