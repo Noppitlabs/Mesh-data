@@ -6347,5 +6347,12 @@
     "short_name": "34eb",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!08da97b5": {
+    "id": "!08da97b5",
+    "long_name": "!08da97b5",
+    "last_heard": "2026-07-17T02:40:29.306436+00:00",
+    "snr": -6.75,
+    "hops_away": 5
   }
 }
