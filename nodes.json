@@ -6381,5 +6381,15 @@
     "last_heard": "2026-07-17T10:38:53.965619+00:00",
     "snr": -6.75,
     "hops_away": 5
+  },
+  "!a0ccdd3c": {
+    "id": "!a0ccdd3c",
+    "long_name": "M0NMC C/M Nick",
+    "last_heard": "2026-07-17T11:14:44.481155+00:00",
+    "snr": -14.5,
+    "hops_away": 5,
+    "short_name": "NMC1",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
