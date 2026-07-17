@@ -5222,10 +5222,13 @@
   },
   "!f94946bd": {
     "id": "!f94946bd",
-    "long_name": "!f94946bd",
-    "last_heard": "2026-07-10T07:21:30.562213+00:00",
-    "snr": -11.25,
-    "hops_away": 6
+    "long_name": "G6CRV 1W 46bd",
+    "last_heard": "2026-07-17T02:13:43.146046+00:00",
+    "snr": -8.75,
+    "hops_away": 6,
+    "short_name": "RAK1",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_BASE"
   },
   "!57d38f67": {
     "id": "!57d38f67",
