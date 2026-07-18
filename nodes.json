@@ -6414,5 +6414,15 @@
     "short_name": "MkMd",
     "hw_model": "TBEAM",
     "role": ""
+  },
+  "!b8934209": {
+    "id": "!b8934209",
+    "long_name": "Meshtastic 4209",
+    "last_heard": "2026-07-18T12:00:00.995192+00:00",
+    "snr": -9.25,
+    "hops_away": 2,
+    "short_name": "4209",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
