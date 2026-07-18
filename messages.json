@@ -1,5 +1,16 @@
 [
   {
+    "id": 64169918,
+    "from": "!55c734e8",
+    "from_name": "Meshtastic 34e8 AZC",
+    "to": "^all",
+    "text": "Hi. Just a test.",
+    "timestamp": "2026-07-18T19:52:16.185560+00:00",
+    "channel": 0,
+    "snr": -14.75,
+    "hops": 1
+  },
+  {
     "id": 935616162,
     "from": "!8487d3e4",
     "from_name": "Meshtastic d3e4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.25,
     "hops": 1
-  },
-  {
-    "id": 1727544281,
-    "from": "!043d24b0",
-    "from_name": "Meshtastic 24b0",
-    "to": "^all",
-    "text": "Good morning all \ud83d\udc4b\ud83d\ude0a Another hot one ahead \u2600\ufe0f",
-    "timestamp": "2026-07-10T08:11:32.845691+00:00",
-    "channel": 0,
-    "snr": -14.25,
-    "hops": 4
   }
 ]
