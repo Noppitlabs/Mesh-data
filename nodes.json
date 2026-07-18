@@ -1755,10 +1755,13 @@
   },
   "!2103efdf": {
     "id": "!2103efdf",
-    "long_name": "!2103efdf",
-    "last_heard": "2026-07-18T16:24:07.164229+00:00",
-    "snr": 2.0,
-    "hops_away": 3
+    "long_name": "frly",
+    "last_heard": "2026-07-18T16:24:32.852084+00:00",
+    "snr": -15.75,
+    "hops_away": 2,
+    "short_name": "frly",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   },
   "!9e9fb118": {
     "id": "!9e9fb118",
