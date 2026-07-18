@@ -379,9 +379,9 @@
   "!da56b48c": {
     "id": "!da56b48c",
     "long_name": "SR#1 V3",
-    "last_heard": "2026-07-18T05:11:00.176155+00:00",
-    "snr": -12.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-18T09:53:35.542509+00:00",
+    "snr": -11.25,
+    "hops_away": 3,
     "short_name": "SR#1",
     "hw_model": "HELTEC_V3",
     "role": ""
