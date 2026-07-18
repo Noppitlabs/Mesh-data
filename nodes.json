@@ -5546,9 +5546,9 @@
   "!04098998": {
     "id": "!04098998",
     "long_name": "Meshtastic 8998",
-    "last_heard": "2026-07-17T06:45:41.050946+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-18T04:33:41.553738+00:00",
+    "snr": -11.75,
+    "hops_away": 3,
     "short_name": "8998",
     "hw_model": "HELTEC_V3",
     "role": ""
