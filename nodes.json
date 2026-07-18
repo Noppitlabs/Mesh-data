@@ -4282,9 +4282,9 @@
   "!a0cbc340": {
     "id": "!a0cbc340",
     "long_name": "Spug 3 wireless paper ",
-    "last_heard": "2026-07-18T16:56:44.026710+00:00",
-    "snr": -8.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-18T22:56:36.599517+00:00",
+    "snr": -17.0,
+    "hops_away": 4,
     "short_name": "Spg3",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": ""
