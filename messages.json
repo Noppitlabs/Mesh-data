@@ -1,5 +1,16 @@
 [
   {
+    "id": 1446386032,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "Cool dusk ping",
+    "timestamp": "2026-07-18T20:00:58.267930+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 4
+  },
+  {
     "id": 3984195365,
     "from": "!8487d3e4",
     "from_name": "Meshtastic d3e4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.5,
     "hops": 3
-  },
-  {
-    "id": 47555767,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "yay a contact",
-    "timestamp": "2026-07-10T21:29:01.685052+00:00",
-    "channel": 0,
-    "snr": -1.75,
-    "hops": 7
   }
 ]
