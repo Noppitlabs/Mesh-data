@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-18T06:57:29.049020+00:00",
+    "last_heard": "2026-07-18T06:58:29.950048+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4916,9 +4916,9 @@
   "!da5af428": {
     "id": "!da5af428",
     "long_name": "B12PAC Mobile",
-    "last_heard": "2026-07-18T06:40:35.522251+00:00",
-    "snr": -13.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-18T06:58:46.055537+00:00",
+    "snr": -14.25,
+    "hops_away": 2,
     "short_name": "TA2m",
     "hw_model": "TLORA_T3_S3",
     "role": ""
