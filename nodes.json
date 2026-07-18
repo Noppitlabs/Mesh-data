@@ -6418,8 +6418,8 @@
   "!b8934209": {
     "id": "!b8934209",
     "long_name": "Meshtastic 4209",
-    "last_heard": "2026-07-18T12:05:30.119581+00:00",
-    "snr": -11.0,
+    "last_heard": "2026-07-18T17:37:35.717893+00:00",
+    "snr": 0.25,
     "hops_away": 2,
     "short_name": "4209",
     "hw_model": "TRACKER_T1000_E",
