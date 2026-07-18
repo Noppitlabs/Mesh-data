@@ -1392,9 +1392,9 @@
   "!30321da0": {
     "id": "!30321da0",
     "long_name": "whisper_1da0",
-    "last_heard": "2026-07-18T00:28:15.042957+00:00",
-    "snr": -15.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-18T02:13:18.313647+00:00",
+    "snr": -14.25,
+    "hops_away": 5,
     "short_name": "1da0",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3414,9 +3414,9 @@
   "!e33bbd80": {
     "id": "!e33bbd80",
     "long_name": "whisper_bd80",
-    "last_heard": "2026-07-18T00:25:22.113958+00:00",
-    "snr": -15.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-18T02:13:22.561600+00:00",
+    "snr": -16.75,
+    "hops_away": 4,
     "short_name": "bd80",
     "hw_model": "TBEAM",
     "role": ""
