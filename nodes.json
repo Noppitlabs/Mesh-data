@@ -6391,5 +6391,12 @@
     "short_name": "NM-C",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!aadd5a2b": {
+    "id": "!aadd5a2b",
+    "long_name": "!aadd5a2b",
+    "last_heard": "2026-07-18T00:14:00.995735+00:00",
+    "snr": -16.25,
+    "hops_away": 6
   }
 }
