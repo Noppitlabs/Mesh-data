@@ -6404,5 +6404,15 @@
     "last_heard": "2026-07-18T00:14:00.995735+00:00",
     "snr": -16.25,
     "hops_away": 6
+  },
+  "!6c73d77c": {
+    "id": "!6c73d77c",
+    "long_name": "MarkMeshed",
+    "last_heard": "2026-07-18T11:17:08.030920+00:00",
+    "snr": -8.75,
+    "hops_away": 5,
+    "short_name": "MkMd",
+    "hw_model": "TBEAM",
+    "role": ""
   }
 }
