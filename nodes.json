@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-07-18T19:01:45.956618+00:00",
-    "snr": -14.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-18T19:25:04.123749+00:00",
+    "snr": -14.25,
+    "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -1806,8 +1806,8 @@
   "!8f51053c": {
     "id": "!8f51053c",
     "long_name": "Exmouth~West",
-    "last_heard": "2026-07-18T04:25:25.576619+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-07-18T19:25:26.775830+00:00",
+    "snr": -14.75,
     "hops_away": 0,
     "short_name": "E1",
     "hw_model": "RAK4631",
