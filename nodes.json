@@ -4534,9 +4534,9 @@
   "!0a41527c": {
     "id": "!0a41527c",
     "long_name": "Lick Hill Mute 527c",
-    "last_heard": "2026-07-16T07:23:26.502877+00:00",
-    "snr": -16.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-19T23:38:51.805458+00:00",
+    "snr": -9.75,
+    "hops_away": 4,
     "short_name": "527c",
     "hw_model": "RAK4631",
     "role": ""
