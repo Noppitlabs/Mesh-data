@@ -3299,9 +3299,9 @@
   "!04093090": {
     "id": "!04093090",
     "long_name": "Meshtastic 3090",
-    "last_heard": "2026-07-18T14:49:46.548809+00:00",
-    "snr": -7.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-19T23:50:03.963658+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "3090",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4517,8 +4517,8 @@
   "!da56dd04": {
     "id": "!da56dd04",
     "long_name": "whisper_dd04",
-    "last_heard": "2026-07-19T20:45:23.884543+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-07-19T23:50:05.894650+00:00",
+    "snr": -8.25,
     "hops_away": 7,
     "short_name": "dd04",
     "hw_model": "HELTEC_V3",
