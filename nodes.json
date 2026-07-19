@@ -6370,9 +6370,9 @@
   "!dd9be1be": {
     "id": "!dd9be1be",
     "long_name": "Meshtastic e1be",
-    "last_heard": "2026-07-17T14:02:38.176832+00:00",
-    "snr": -6.0,
-    "hops_away": 7,
+    "last_heard": "2026-07-19T17:54:58.357409+00:00",
+    "snr": -1.0,
+    "hops_away": 5,
     "short_name": "e1be",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
