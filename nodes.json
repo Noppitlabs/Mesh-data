@@ -1472,9 +1472,9 @@
   "!7c5ad35c": {
     "id": "!7c5ad35c",
     "long_name": "FurballBB Home \ud83c\udfe0",
-    "last_heard": "2026-07-19T18:46:53.016078+00:00",
-    "snr": -2.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-19T19:08:34.626908+00:00",
+    "snr": -17.25,
+    "hops_away": 1,
     "short_name": "FBH",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
