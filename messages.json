@@ -1,5 +1,16 @@
 [
   {
+    "id": 697690170,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "morning",
+    "timestamp": "2026-07-19T09:18:30.464186+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 1
+  },
+  {
     "id": 1809881899,
     "from": "!db57a270",
     "from_name": "Winkleigh Desk",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.75,
     "hops": 7
-  },
-  {
-    "id": 947931972,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "\ud83d\ude0e",
-    "timestamp": "2026-07-11T20:56:47.730551+00:00",
-    "channel": 0,
-    "snr": -1.75,
-    "hops": 4
   }
 ]
