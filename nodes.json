@@ -2990,10 +2990,13 @@
   },
   "!da65adb0": {
     "id": "!da65adb0",
-    "long_name": "!da65adb0",
-    "last_heard": "2026-07-10T05:39:15.189514+00:00",
-    "snr": -8.75,
-    "hops_away": 6
+    "long_name": "Neil-Base-Nebra",
+    "last_heard": "2026-07-19T18:09:18.046580+00:00",
+    "snr": -1.75,
+    "hops_away": 6,
+    "short_name": "MAD1",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   },
   "!02e5b4e0": {
     "id": "!02e5b4e0",
