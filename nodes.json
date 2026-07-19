@@ -719,9 +719,9 @@
   "!9ea08c08": {
     "id": "!9ea08c08",
     "long_name": "Lanreath ",
-    "last_heard": "2026-07-19T00:45:25.266692+00:00",
-    "snr": -15.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-19T20:17:00.365856+00:00",
+    "snr": -10.5,
+    "hops_away": 5,
     "short_name": "Looe",
     "hw_model": "HELTEC_V3",
     "role": ""
