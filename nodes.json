@@ -3730,9 +3730,9 @@
   "!960e7a1c": {
     "id": "!960e7a1c",
     "long_name": "Fforestfach Pocket",
-    "last_heard": "2026-07-09T03:35:45.159728+00:00",
-    "snr": -4.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-19T21:37:30.823122+00:00",
+    "snr": -11.25,
+    "hops_away": 5,
     "short_name": "F402",
     "hw_model": "HELTEC_MESH_POCKET",
     "role": "CLIENT_MUTE"
