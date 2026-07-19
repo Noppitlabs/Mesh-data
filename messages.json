@@ -1,5 +1,16 @@
 [
   {
+    "id": 621769543,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "3\ufe0f\u20e3",
+    "timestamp": "2026-07-19T20:20:16.874291+00:00",
+    "channel": 0,
+    "snr": -10.5,
+    "hops": 5
+  },
+  {
     "id": 1120284932,
     "from": "!043a23c8",
     "from_name": "Meshtastic 23c8",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.75,
     "hops": 2
-  },
-  {
-    "id": 1436112094,
-    "from": "!69825df8",
-    "from_name": "!69825df8",
-    "to": "^all",
-    "text": "Hello from the sky",
-    "timestamp": "2026-07-12T12:44:19.524904+00:00",
-    "channel": 0,
-    "snr": -9.75,
-    "hops": 3
   }
 ]
