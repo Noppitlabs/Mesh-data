@@ -4558,9 +4558,9 @@
   "!1278dfa3": {
     "id": "!1278dfa3",
     "long_name": "Belstone~",
-    "last_heard": "2026-07-18T17:07:13.267287+00:00",
-    "snr": -15.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-19T05:07:05.012021+00:00",
+    "snr": -18.75,
+    "hops_away": 4,
     "short_name": "T2",
     "hw_model": "RAK4631",
     "role": "ROUTER"
