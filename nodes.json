@@ -4979,9 +4979,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Peter Omni RAK",
-    "last_heard": "2026-07-19T19:51:53.753647+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-19T19:52:39.033936+00:00",
+    "snr": -4.25,
+    "hops_away": 2,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
