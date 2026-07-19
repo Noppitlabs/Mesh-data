@@ -6464,5 +6464,12 @@
     "short_name": "7980",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!c1fc91f0": {
+    "id": "!c1fc91f0",
+    "long_name": "!c1fc91f0",
+    "last_heard": "2026-07-19T02:10:34.876589+00:00",
+    "snr": -17.75,
+    "hops_away": 6
   }
 }
