@@ -339,9 +339,9 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-07-19T20:28:29.868163+00:00",
-    "snr": -10.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T00:03:03.771810+00:00",
+    "snr": -8.5,
+    "hops_away": 5,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1512,9 +1512,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-19T23:14:47.036901+00:00",
-    "snr": -3.25,
-    "hops_away": 7,
+    "last_heard": "2026-07-20T00:02:51.225064+00:00",
+    "snr": -9.25,
+    "hops_away": 4,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
