@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-20T01:00:28.066022+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T01:00:56.662902+00:00",
+    "snr": -8.25,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-20T00:26:27.729452+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-07-20T01:00:41.561748+00:00",
+    "snr": -20.5,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -1512,9 +1512,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-20T00:02:51.225064+00:00",
-    "snr": -9.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-20T01:00:44.450292+00:00",
+    "snr": -8.5,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2185,8 +2185,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-20T00:29:43.795097+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-07-20T01:00:59.883467+00:00",
+    "snr": -8.5,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
