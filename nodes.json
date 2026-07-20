@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T00:57:22.186920+00:00",
+    "last_heard": "2026-07-20T00:58:19.212490+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -289,8 +289,8 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-07-19T02:45:27.503134+00:00",
-    "snr": -17.25,
+    "last_heard": "2026-07-20T00:58:08.539643+00:00",
+    "snr": -8.25,
     "hops_away": 4,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
@@ -3905,9 +3905,9 @@
   "!a1d779fc": {
     "id": "!a1d779fc",
     "long_name": "Meshtastic 79fc",
-    "last_heard": "2026-07-20T00:28:02.460941+00:00",
-    "snr": -8.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-20T00:57:59.860830+00:00",
+    "snr": -8.25,
+    "hops_away": 5,
     "short_name": "79fc",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
