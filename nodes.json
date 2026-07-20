@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-20T00:29:52.816320+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-07-20T00:30:29.142949+00:00",
+    "snr": -8.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T00:30:18.064448+00:00",
+    "last_heard": "2026-07-20T00:32:18.139753+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-20T00:27:32.920544+00:00",
-    "snr": -8.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-20T00:31:42.340529+00:00",
+    "snr": -9.5,
+    "hops_away": 3,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -966,8 +966,8 @@
   "!43b70dc8": {
     "id": "!43b70dc8",
     "long_name": "Edmund's Hill",
-    "last_heard": "2026-07-20T00:29:50.093609+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-07-20T00:32:10.571668+00:00",
+    "snr": -8.5,
     "hops_away": 2,
     "short_name": "EH",
     "hw_model": "HELTEC_WSL_V3",
@@ -2061,8 +2061,8 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-07-20T00:13:04.145055+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-07-20T00:31:05.936095+00:00",
+    "snr": -9.75,
     "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
@@ -2479,9 +2479,9 @@
   "!90a0f7a0": {
     "id": "!90a0f7a0",
     "long_name": "GCM0006 - Saumarez Park \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-18T03:55:15.962225+00:00",
-    "snr": -11.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-20T00:31:09.096199+00:00",
+    "snr": -10.5,
+    "hops_away": 6,
     "short_name": "f7a0",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
