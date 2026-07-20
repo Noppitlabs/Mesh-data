@@ -329,9 +329,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-07-19T21:46:01.464493+00:00",
-    "snr": -9.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-20T00:22:08.023007+00:00",
+    "snr": -8.75,
+    "hops_away": 5,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -6288,8 +6288,8 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-20T00:16:22.845818+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-07-20T00:21:32.684073+00:00",
+    "snr": -9.25,
     "hops_away": 3,
     "short_name": "b80f",
     "hw_model": "RAK4631",
