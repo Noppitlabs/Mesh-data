@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T00:45:18.669189+00:00",
+    "last_heard": "2026-07-20T00:46:18.718509+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1910,9 +1910,9 @@
   "!cebc35e7": {
     "id": "!cebc35e7",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-07-19T22:29:39.124223+00:00",
-    "snr": -6.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-20T00:46:24.516782+00:00",
+    "snr": -8.75,
+    "hops_away": 4,
     "short_name": "35e7",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER"
@@ -6288,8 +6288,8 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-20T00:41:27.950545+00:00",
-    "snr": -10.5,
+    "last_heard": "2026-07-20T00:46:32.773748+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "b80f",
     "hw_model": "RAK4631",
