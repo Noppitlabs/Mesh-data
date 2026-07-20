@@ -329,7 +329,7 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-07-20T00:22:08.023007+00:00",
+    "last_heard": "2026-07-20T01:04:11.436897+00:00",
     "snr": -8.75,
     "hops_away": 5,
     "short_name": "FYU",
@@ -1298,8 +1298,8 @@
   "!2234c21f": {
     "id": "!2234c21f",
     "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-19T22:03:06.236236+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-07-20T01:03:39.330784+00:00",
+    "snr": -9.0,
     "hops_away": 6,
     "short_name": "c21f",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -2205,8 +2205,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-07-20T00:21:15.707111+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-07-20T01:03:29.654170+00:00",
+    "snr": -9.5,
     "hops_away": 4,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
