@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-20T20:06:21.221829+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-07-20T20:09:12.281317+00:00",
+    "snr": -14.25,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -1412,9 +1412,9 @@
   "!69852264": {
     "id": "!69852264",
     "long_name": "Greenbox4",
-    "last_heard": "2026-07-20T19:37:57.772714+00:00",
-    "snr": -12.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T20:09:27.566424+00:00",
+    "snr": -14.75,
+    "hops_away": 2,
     "short_name": "Grn4",
     "hw_model": "HELTEC_V4",
     "role": "ROUTER"
