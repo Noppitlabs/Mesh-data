@@ -1298,9 +1298,9 @@
   "!2234c21f": {
     "id": "!2234c21f",
     "long_name": "GCM0004 - St Peters Village \ud83c\uddec\ud83c\uddec",
-    "last_heard": "2026-07-20T01:03:39.330784+00:00",
-    "snr": -9.0,
-    "hops_away": 6,
+    "last_heard": "2026-07-20T03:57:30.500507+00:00",
+    "snr": -7.25,
+    "hops_away": 2,
     "short_name": "c21f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
