@@ -1756,9 +1756,9 @@
   "!2103efdf": {
     "id": "!2103efdf",
     "long_name": "frly",
-    "last_heard": "2026-07-20T11:27:38.127796+00:00",
-    "snr": -6.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T17:12:18.555964+00:00",
+    "snr": -17.75,
+    "hops_away": 2,
     "short_name": "frly",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
