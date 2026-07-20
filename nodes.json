@@ -6528,5 +6528,12 @@
     "short_name": "e104",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
+  },
+  "!979ed146": {
+    "id": "!979ed146",
+    "long_name": "!979ed146",
+    "last_heard": "2026-07-20T07:40:13.431084+00:00",
+    "snr": -8.5,
+    "hops_away": 3
   }
 }
