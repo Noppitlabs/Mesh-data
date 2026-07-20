@@ -6498,9 +6498,9 @@
   "!7dceb0d4": {
     "id": "!7dceb0d4",
     "long_name": "Meshtastic b0d4",
-    "last_heard": "2026-07-19T22:30:29.268557+00:00",
-    "snr": -5.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-20T05:49:49.746599+00:00",
+    "snr": -4.5,
+    "hops_away": 3,
     "short_name": "b0d4",
     "hw_model": "M5STACK_CARDPUTER_ADV",
     "role": "CLIENT_HIDDEN"
