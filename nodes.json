@@ -3116,7 +3116,7 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-20T01:16:04.365856+00:00",
+    "last_heard": "2026-07-20T01:19:34.345860+00:00",
     "snr": -8.25,
     "hops_away": 2,
     "short_name": "D34-",
@@ -3915,9 +3915,9 @@
   "!0c2a28f9": {
     "id": "!0c2a28f9",
     "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-20T00:21:05.842189+00:00",
+    "last_heard": "2026-07-20T01:19:24.681466+00:00",
     "snr": -9.25,
-    "hops_away": 7,
+    "hops_away": 3,
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
