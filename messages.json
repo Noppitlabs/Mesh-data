@@ -1,5 +1,16 @@
 [
   {
+    "id": 1871072883,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Later I will see all the nodes contacted in LongRange.",
+    "timestamp": "2026-07-20T14:00:38.042939+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 3
+  },
+  {
     "id": 291919790,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.0,
     "hops": 3
-  },
-  {
-    "id": 2536866344,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "3\ufe0f\u20e3",
-    "timestamp": "2026-07-16T14:11:42.887034+00:00",
-    "channel": 0,
-    "snr": -3.5,
-    "hops": 4
   }
 ]
