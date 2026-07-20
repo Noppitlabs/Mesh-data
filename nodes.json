@@ -2890,9 +2890,9 @@
   "!dd3b6410": {
     "id": "!dd3b6410",
     "long_name": "BS34 Solar",
-    "last_heard": "2026-06-01T23:07:05.980818+00:00",
-    "snr": -18.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T00:15:02.073456+00:00",
+    "snr": -9.25,
+    "hops_away": 2,
     "short_name": "BS3s",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
