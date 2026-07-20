@@ -1,5 +1,16 @@
 [
   {
+    "id": 538637507,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Hey, does anyone copy my message?",
+    "timestamp": "2026-07-20T16:05:29.984677+00:00",
+    "channel": 0,
+    "snr": -10.5,
+    "hops": 5
+  },
+  {
     "id": 1871072883,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-17T06:49:39.733777+00:00",
     "channel": 0,
     "snr": -8.0,
-    "hops": 3
-  },
-  {
-    "id": 406118353,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "I think the evenings are getting hotter.",
-    "timestamp": "2026-07-16T17:34:24.679338+00:00",
-    "channel": 0,
-    "snr": -15.0,
     "hops": 3
   }
 ]
