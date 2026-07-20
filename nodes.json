@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T00:59:21.263383+00:00",
+    "last_heard": "2026-07-20T01:00:19.295722+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,7 +129,7 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-20T00:57:11.823870+00:00",
+    "last_heard": "2026-07-20T01:00:08.610897+00:00",
     "snr": -8.25,
     "hops_away": 2,
     "short_name": "MOHS",
@@ -3099,8 +3099,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-20T00:17:36.606830+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-07-20T01:00:01.275311+00:00",
+    "snr": -9.75,
     "hops_away": 2,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
