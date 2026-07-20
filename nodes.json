@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T01:20:20.093359+00:00",
+    "last_heard": "2026-07-20T01:21:20.128263+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -789,9 +789,9 @@
   "!02d4cd04": {
     "id": "!02d4cd04",
     "long_name": "Preston~Bowyer",
-    "last_heard": "2026-07-20T00:53:14.766396+00:00",
-    "snr": -9.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-20T01:21:34.399612+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
     "short_name": "T4",
     "hw_model": "RAK4631",
     "role": "ROUTER"
