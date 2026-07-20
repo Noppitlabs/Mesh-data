@@ -6535,9 +6535,9 @@
   "!979ed146": {
     "id": "!979ed146",
     "long_name": "Duraseb",
-    "last_heard": "2026-07-20T21:28:46.565243+00:00",
+    "last_heard": "2026-07-20T21:39:11.610514+00:00",
     "snr": -10.0,
-    "hops_away": 6,
+    "hops_away": 7,
     "short_name": "Dura",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
