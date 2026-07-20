@@ -759,9 +759,9 @@
   "!b2a78f18": {
     "id": "!b2a78f18",
     "long_name": "timttmy-V4",
-    "last_heard": "2026-07-19T23:27:53.224117+00:00",
-    "snr": -11.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-20T00:04:35.996921+00:00",
+    "snr": -10.0,
+    "hops_away": 3,
     "short_name": "t::1",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
@@ -6288,8 +6288,8 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-20T00:00:25.072436+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-07-20T00:04:28.945414+00:00",
+    "snr": -9.5,
     "hops_away": 3,
     "short_name": "b80f",
     "hw_model": "RAK4631",
