@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T00:37:18.329667+00:00",
+    "last_heard": "2026-07-20T00:38:18.362024+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1170,8 +1170,8 @@
   "!a9fed67f": {
     "id": "!a9fed67f",
     "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-18T17:51:15.033518+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-07-20T00:38:25.629812+00:00",
+    "snr": -9.25,
     "hops_away": 4,
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -6288,7 +6288,7 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-20T00:35:23.789840+00:00",
+    "last_heard": "2026-07-20T00:38:28.537308+00:00",
     "snr": -9.25,
     "hops_away": 3,
     "short_name": "b80f",
