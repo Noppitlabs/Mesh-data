@@ -2469,9 +2469,9 @@
   "!433ba934": {
     "id": "!433ba934",
     "long_name": "TR HOME REPEATER",
-    "last_heard": "2026-07-18T03:11:57.177061+00:00",
-    "snr": -9.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T02:53:27.786454+00:00",
+    "snr": -17.75,
+    "hops_away": 2,
     "short_name": "TRHB",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "ROUTER"
