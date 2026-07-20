@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-20T00:46:18.718509+00:00",
+    "last_heard": "2026-07-20T00:47:18.747336+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-07-19T22:55:18.636308+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-20T00:47:15.205956+00:00",
+    "snr": -10.5,
+    "hops_away": 2,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
@@ -649,9 +649,9 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-20T00:38:47.063915+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-20T00:47:02.132388+00:00",
+    "snr": -10.0,
+    "hops_away": 2,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
     "role": ""
