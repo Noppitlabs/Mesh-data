@@ -1,5 +1,16 @@
 [
   {
+    "id": 1408136504,
+    "from": "!979ed146",
+    "from_name": "!979ed146",
+    "to": "^all",
+    "text": "Visiting here in hope for some nice weather compared to the scorched continent \ud83d\udd06",
+    "timestamp": "2026-07-20T08:25:43.787799+00:00",
+    "channel": 0,
+    "snr": -7.0,
+    "hops": 3
+  },
+  {
     "id": 46683756,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 4
-  },
-  {
-    "id": 1124201742,
-    "from": "!043a23c8",
-    "from_name": "Meshtastic 23c8",
-    "to": "^all",
-    "text": "5 hops to Ndevon",
-    "timestamp": "2026-07-13T17:21:42.787195+00:00",
-    "channel": 0,
-    "snr": -10.75,
-    "hops": 3
   }
 ]
