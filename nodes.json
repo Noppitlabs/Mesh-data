@@ -6504,5 +6504,12 @@
     "short_name": "b0d4",
     "hw_model": "M5STACK_CARDPUTER_ADV",
     "role": "CLIENT_HIDDEN"
+  },
+  "!d06a46f7": {
+    "id": "!d06a46f7",
+    "long_name": "!d06a46f7",
+    "last_heard": "2026-07-20T05:34:16.050602+00:00",
+    "snr": -17.25,
+    "hops_away": 3
   }
 }
