@@ -1,5 +1,16 @@
 [
   {
+    "id": 2571453065,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-07-20T19:30:45.135073+00:00",
+    "channel": 0,
+    "snr": -11.0,
+    "hops": 6
+  },
+  {
     "id": 538637507,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-17T06:50:18.886973+00:00",
     "channel": 0,
     "snr": -13.25,
-    "hops": 3
-  },
-  {
-    "id": 374665357,
-    "from": "!9ea0bce4",
-    "from_name": "Hyperion WirelessPaper",
-    "to": "^all",
-    "text": "Myttin da!",
-    "timestamp": "2026-07-17T06:49:39.733777+00:00",
-    "channel": 0,
-    "snr": -8.0,
     "hops": 3
   }
 ]
