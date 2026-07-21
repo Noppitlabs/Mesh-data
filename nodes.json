@@ -659,9 +659,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-07-21T10:18:40.520668+00:00",
-    "snr": -9.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-21T11:25:03.951412+00:00",
+    "snr": -5.25,
+    "hops_away": 3,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
@@ -6297,8 +6297,8 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-21T11:18:05.816717+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-07-21T11:25:09.881274+00:00",
+    "snr": -5.0,
     "hops_away": 3,
     "short_name": "b80f",
     "hw_model": "RAK4631",
