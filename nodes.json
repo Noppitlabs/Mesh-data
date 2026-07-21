@@ -1452,9 +1452,9 @@
   "!849c17e0": {
     "id": "!849c17e0",
     "long_name": "ChepNobBase",
-    "last_heard": "2026-07-21T08:53:36.723921+00:00",
-    "snr": -4.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-21T11:33:28.017632+00:00",
+    "snr": -6.75,
+    "hops_away": 3,
     "short_name": "CpNB",
     "hw_model": "HELTEC_V3",
     "role": ""
