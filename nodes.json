@@ -6602,5 +6602,15 @@
     "short_name": "GCM1",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!b2a74874": {
+    "id": "!b2a74874",
+    "long_name": "M7XMV | Camborne",
+    "last_heard": "2026-07-21T22:24:50.369874+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
+    "short_name": "XMV3",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
