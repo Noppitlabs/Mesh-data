@@ -5332,9 +5332,9 @@
   "!778ba859": {
     "id": "!778ba859",
     "long_name": "SLAV-Heltec",
-    "last_heard": "2026-07-15T02:35:46.199001+00:00",
-    "snr": -5.25,
-    "hops_away": 7,
+    "last_heard": "2026-07-21T21:04:58.916704+00:00",
+    "snr": -11.0,
+    "hops_away": 6,
     "short_name": "SLAV",
     "hw_model": "HELTEC_MESH_POCKET",
     "role": ""
