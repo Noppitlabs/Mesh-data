@@ -1659,8 +1659,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-07-21T14:58:39.527130+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-07-21T15:10:09.350519+00:00",
+    "snr": -13.25,
     "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -2419,9 +2419,9 @@
   "!433c0074": {
     "id": "!433c0074",
     "long_name": "TR10 DCG",
-    "last_heard": "2026-07-21T14:52:34.801710+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-21T15:10:04.692714+00:00",
+    "snr": -13.25,
+    "hops_away": 4,
     "short_name": "TR10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
