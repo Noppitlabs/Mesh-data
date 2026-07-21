@@ -2735,9 +2735,9 @@
   "!33b9577e": {
     "id": "!33b9577e",
     "long_name": "Thigh",
-    "last_heard": "2026-07-12T01:57:45.434583+00:00",
-    "snr": -8.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-21T04:21:04.820452+00:00",
+    "snr": -4.5,
+    "hops_away": 7,
     "short_name": "TH",
     "hw_model": "RAK4631",
     "role": ""
