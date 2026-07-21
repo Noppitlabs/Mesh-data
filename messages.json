@@ -1,5 +1,16 @@
 [
   {
+    "id": 781891512,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Ping ",
+    "timestamp": "2026-07-21T16:19:21.470429+00:00",
+    "channel": 0,
+    "snr": -11.0,
+    "hops": 6
+  },
+  {
     "id": 1163179439,
     "from": "!2bc4dbbe",
     "from_name": "Chris Exeter G3CJL",
@@ -534,17 +545,6 @@
     "to": "^all",
     "text": "theres a reasion i drive 4x4s",
     "timestamp": "2026-07-17T12:01:38.249273+00:00",
-    "channel": 0,
-    "snr": -10.0,
-    "hops": 6
-  },
-  {
-    "id": 3887663107,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-07-17T08:01:57.713171+00:00",
     "channel": 0,
     "snr": -10.0,
     "hops": 6
