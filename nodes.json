@@ -2678,9 +2678,9 @@
   "!04c57fe8": {
     "id": "!04c57fe8",
     "long_name": "Cardiff North Base",
-    "last_heard": "2026-07-21T03:06:27.818413+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-21T06:48:30.026442+00:00",
+    "snr": -16.75,
+    "hops_away": 3,
     "short_name": "CaFN",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
