@@ -1853,9 +1853,9 @@
   "!04c589c4": {
     "id": "!04c589c4",
     "long_name": "M0NMC R/L Nick",
-    "last_heard": "2026-07-20T02:30:18.069038+00:00",
-    "snr": -19.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-21T13:40:29.549832+00:00",
+    "snr": -10.5,
+    "hops_away": 3,
     "short_name": "NMC",
     "hw_model": "HELTEC_V4",
     "role": "ROUTER_LATE"
