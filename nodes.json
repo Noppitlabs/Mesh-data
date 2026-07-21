@@ -5022,9 +5022,9 @@
   "!698422f4": {
     "id": "!698422f4",
     "long_name": "Fantasia Hub",
-    "last_heard": "2026-07-21T03:04:48.630820+00:00",
-    "snr": -17.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-21T03:12:26.992201+00:00",
+    "snr": -17.75,
+    "hops_away": 5,
     "short_name": "F4HB",
     "hw_model": "HELTEC_V4",
     "role": ""
