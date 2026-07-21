@@ -6592,5 +6592,15 @@
     "last_heard": "2026-07-21T16:20:15.727123+00:00",
     "snr": -10.25,
     "hops_away": 6
+  },
+  "!02e73ab4": {
+    "id": "!02e73ab4",
+    "long_name": "Gornal-Client-Mute-1",
+    "last_heard": "2026-07-21T22:11:50.619283+00:00",
+    "snr": -5.75,
+    "hops_away": 6,
+    "short_name": "GCM1",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   }
 }
