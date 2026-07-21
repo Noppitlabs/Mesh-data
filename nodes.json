@@ -2631,9 +2631,9 @@
   "!7c5cc180": {
     "id": "!7c5cc180",
     "long_name": "L5Mark-3",
-    "last_heard": "2026-07-21T02:50:20.534620+00:00",
-    "snr": -6.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-21T05:49:56.491160+00:00",
+    "snr": -17.25,
+    "hops_away": 3,
     "short_name": "L5-3",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
