@@ -6291,9 +6291,9 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-21T00:23:58.830312+00:00",
-    "snr": -18.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-21T00:26:02.933683+00:00",
+    "snr": -7.5,
+    "hops_away": 3,
     "short_name": "b80f",
     "hw_model": "RAK4631",
     "role": ""
