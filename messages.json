@@ -1,5 +1,16 @@
 [
   {
+    "id": 720500842,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-07-21T12:18:37.570254+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 7
+  },
+  {
     "id": 2571453065,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 7
-  },
-  {
-    "id": 819943742,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-07-17T06:50:18.886973+00:00",
-    "channel": 0,
-    "snr": -13.25,
-    "hops": 3
   }
 ]
