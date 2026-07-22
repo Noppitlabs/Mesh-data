@@ -6274,9 +6274,9 @@
   "!f66adb4c": {
     "id": "!f66adb4c",
     "long_name": "GCM004-StPetersVillage\ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-07-21T16:49:25.631500+00:00",
-    "snr": -12.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-22T15:03:24.865183+00:00",
+    "snr": -8.75,
+    "hops_away": 5,
     "short_name": "db4c",
     "hw_model": "HELTEC_V4",
     "role": ""
