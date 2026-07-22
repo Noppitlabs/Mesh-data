@@ -309,9 +309,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-07-22T05:18:58.769093+00:00",
-    "snr": -15.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-22T09:04:32.084619+00:00",
+    "snr": -7.5,
+    "hops_away": 2,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
