@@ -6606,9 +6606,9 @@
   "!b2a74874": {
     "id": "!b2a74874",
     "long_name": "M7XMV | Camborne",
-    "last_heard": "2026-07-21T22:24:50.369874+00:00",
-    "snr": -5.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-22T01:15:20.973639+00:00",
+    "snr": -15.5,
+    "hops_away": 3,
     "short_name": "XMV3",
     "hw_model": "HELTEC_V4",
     "role": ""
