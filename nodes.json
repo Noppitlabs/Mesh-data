@@ -5292,9 +5292,9 @@
   "!ca078eab": {
     "id": "!ca078eab",
     "long_name": "timttmy T096",
-    "last_heard": "2026-07-21T23:57:59.476695+00:00",
-    "snr": -17.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-22T01:28:56.063170+00:00",
+    "snr": -15.75,
+    "hops_away": 2,
     "short_name": "T096",
     "hw_model": "NRF52_UNKNOWN",
     "role": ""
