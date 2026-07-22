@@ -1512,9 +1512,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-22T06:17:00.106871+00:00",
-    "snr": -15.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-22T07:00:33.013296+00:00",
+    "snr": -6.75,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2061,8 +2061,8 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-07-22T06:48:42.536731+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-07-22T07:00:05.224164+00:00",
+    "snr": -6.25,
     "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
