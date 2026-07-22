@@ -6636,5 +6636,12 @@
     "short_name": "DSN1",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
+  },
+  "!0408d734": {
+    "id": "!0408d734",
+    "long_name": "!0408d734",
+    "last_heard": "2026-07-22T19:47:07.400551+00:00",
+    "snr": -18.5,
+    "hops_away": 3
   }
 }
