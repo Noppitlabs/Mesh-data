@@ -1,5 +1,16 @@
 [
   {
+    "id": 1875557634,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "0606h mesh sunrise",
+    "timestamp": "2026-07-22T05:06:51.377677+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 5
+  },
+  {
     "id": 3009381632,
     "from": "!b2a78f18",
     "from_name": "timttmy-V4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.75,
     "hops": 1
-  },
-  {
-    "id": 2291842509,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "7\ufe0f\u20e3",
-    "timestamp": "2026-07-18T19:27:25.791250+00:00",
-    "channel": 0,
-    "snr": -13.25,
-    "hops": 2
   }
 ]
