@@ -469,9 +469,9 @@
   "!9e9d1704": {
     "id": "!9e9d1704",
     "long_name": "Wolf Den",
-    "last_heard": "2026-07-22T03:46:54.270374+00:00",
-    "snr": -16.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-22T04:35:15.007785+00:00",
+    "snr": -16.25,
+    "hops_away": 4,
     "short_name": "Star",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
@@ -3116,8 +3116,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-22T04:32:07.965786+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-07-22T04:35:05.185127+00:00",
+    "snr": -10.5,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
