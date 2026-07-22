@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-22T15:19:05.799267+00:00",
+    "last_heard": "2026-07-22T15:20:07.137735+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2416,8 +2416,8 @@
   "!433c0074": {
     "id": "!433c0074",
     "long_name": "TR10 DCG",
-    "last_heard": "2026-07-22T15:05:21.541708+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-22T15:20:05.155412+00:00",
+    "snr": -6.0,
     "hops_away": 2,
     "short_name": "TR10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
