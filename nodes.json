@@ -6517,9 +6517,9 @@
   "!d06a46f7": {
     "id": "!d06a46f7",
     "long_name": "innoMesh 46f7",
-    "last_heard": "2026-07-22T04:07:58.405921+00:00",
-    "snr": -16.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-22T07:02:11.506496+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
     "short_name": "inno",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
