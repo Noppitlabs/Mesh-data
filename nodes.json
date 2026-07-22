@@ -6379,8 +6379,8 @@
   "!dd9be1be": {
     "id": "!dd9be1be",
     "long_name": "Meshtastic e1be",
-    "last_heard": "2026-07-22T02:30:17.927441+00:00",
-    "snr": -10.5,
+    "last_heard": "2026-07-22T14:27:38.927454+00:00",
+    "snr": -9.0,
     "hops_away": 6,
     "short_name": "e1be",
     "hw_model": "TRACKER_T1000_E",
