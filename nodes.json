@@ -2172,9 +2172,9 @@
   "!da55eed4": {
     "id": "!da55eed4",
     "long_name": "jons house ",
-    "last_heard": "2026-07-22T15:57:01.342466+00:00",
-    "snr": -6.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-22T17:12:05.130137+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "skyn",
     "hw_model": "HELTEC_V3",
     "role": ""
