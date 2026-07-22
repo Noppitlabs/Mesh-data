@@ -4544,9 +4544,9 @@
   "!97254da2": {
     "id": "!97254da2",
     "long_name": "Nexus 14 Tech B",
-    "last_heard": "2026-07-09T09:55:19.299950+00:00",
-    "snr": -5.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-22T21:17:02.154654+00:00",
+    "snr": -18.0,
+    "hops_away": 3,
     "short_name": "N14B",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
