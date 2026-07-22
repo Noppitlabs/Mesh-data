@@ -1,5 +1,16 @@
 [
   {
+    "id": 3096610573,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Hi! Just got a Wio Tracker L1, curious if anyone is receiving me!",
+    "timestamp": "2026-07-22T16:05:20.636510+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 2
+  },
+  {
     "id": 1727053598,
     "from": "!aca9fff0",
     "from_name": "MrBs Meshtastic M7MRB",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-18T19:59:39.182951+00:00",
     "channel": 0,
     "snr": -1.75,
-    "hops": 1
-  },
-  {
-    "id": 1667253200,
-    "from": "!55c734e8",
-    "from_name": "Meshtastic 34e8 AZC",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-07-18T19:54:34.559596+00:00",
-    "channel": 0,
-    "snr": -15.0,
     "hops": 1
   }
 ]
