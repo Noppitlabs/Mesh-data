@@ -1830,9 +1830,9 @@
   "!da56c5fc": {
     "id": "!da56c5fc",
     "long_name": "MW0KEC loft",
-    "last_heard": "2026-07-21T08:56:42.387832+00:00",
-    "snr": -4.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-22T23:56:41.037992+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "CDTL",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
