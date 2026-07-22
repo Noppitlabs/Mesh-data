@@ -1,5 +1,16 @@
 [
   {
+    "id": 1727053598,
+    "from": "!aca9fff0",
+    "from_name": "MrBs Meshtastic M7MRB",
+    "to": "^all",
+    "text": "Suns gone.",
+    "timestamp": "2026-07-22T15:18:21.786085+00:00",
+    "channel": 0,
+    "snr": -6.25,
+    "hops": 6
+  },
+  {
     "id": 2898805873,
     "from": "!9ea2a1ac",
     "from_name": "!9ea2a1ac",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-18T19:54:34.559596+00:00",
     "channel": 0,
     "snr": -15.0,
-    "hops": 1
-  },
-  {
-    "id": 1568533677,
-    "from": "!8487d3e4",
-    "from_name": "Meshtastic d3e4",
-    "to": "^all",
-    "text": "One hop",
-    "timestamp": "2026-07-18T19:53:25.012665+00:00",
-    "channel": 0,
-    "snr": -3.5,
     "hops": 1
   }
 ]
