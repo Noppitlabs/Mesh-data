@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-22T13:52:48.987918+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-22T13:55:07.770652+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1442,9 +1442,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-22T11:21:11.381801+00:00",
-    "snr": -8.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-22T13:55:04.289144+00:00",
+    "snr": -5.25,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
