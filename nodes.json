@@ -6612,5 +6612,15 @@
     "short_name": "XMV3",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!5879fa8f": {
+    "id": "!5879fa8f",
+    "long_name": "Little Angel",
+    "last_heard": "2026-07-22T05:16:35.408734+00:00",
+    "snr": -16.25,
+    "hops_away": 6,
+    "short_name": "angl",
+    "hw_model": "HELTEC_HT62",
+    "role": "CLIENT_BASE"
   }
 }
