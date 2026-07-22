@@ -6613,9 +6613,9 @@
   "!5879fa8f": {
     "id": "!5879fa8f",
     "long_name": "Little Angel",
-    "last_heard": "2026-07-22T19:41:15.368321+00:00",
-    "snr": -4.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-22T22:16:56.977338+00:00",
+    "snr": -7.0,
+    "hops_away": 5,
     "short_name": "angl",
     "hw_model": "HELTEC_HT62",
     "role": "CLIENT_BASE"
