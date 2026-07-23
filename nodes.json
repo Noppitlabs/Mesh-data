@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-23T11:19:11.194714+00:00",
-    "snr": -2.25,
-    "hops_away": 1,
+    "last_heard": "2026-07-23T11:20:18.695636+00:00",
+    "snr": -7.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3582,9 +3582,9 @@
   "!49b61974": {
     "id": "!49b61974",
     "long_name": "BigE mobile",
-    "last_heard": "2026-07-23T10:48:40.897399+00:00",
-    "snr": -12.75,
-    "hops_away": 7,
+    "last_heard": "2026-07-23T11:20:04.729187+00:00",
+    "snr": -7.5,
+    "hops_away": 6,
     "short_name": "BigE",
     "hw_model": "HELTEC_V4",
     "role": ""
