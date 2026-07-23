@@ -6670,8 +6670,8 @@
   "!2e8ed7ed": {
     "id": "!2e8ed7ed",
     "long_name": "SCATTERNET_solar",
-    "last_heard": "2026-07-23T10:01:34.902121+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-23T14:28:24.414069+00:00",
+    "snr": -1.5,
     "hops_away": 2,
     "short_name": "\ud83c\udf1e",
     "hw_model": "SEEED_SOLAR_NODE",
