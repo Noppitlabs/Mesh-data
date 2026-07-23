@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-23T01:44:35.260495+00:00",
-    "snr": -17.75,
+    "last_heard": "2026-07-23T01:47:05.222048+00:00",
+    "snr": -19.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -6294,8 +6294,8 @@
   "!987ab80f": {
     "id": "!987ab80f",
     "long_name": "PAC Garage",
-    "last_heard": "2026-07-23T01:44:59.643611+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-07-23T01:47:10.162442+00:00",
+    "snr": -19.0,
     "hops_away": 2,
     "short_name": "b80f",
     "hw_model": "RAK4631",
