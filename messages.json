@@ -1,5 +1,16 @@
 [
   {
+    "id": 879914109,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "yeah tend to charge in the evneing but it dies some time next day, i cannnot catch when",
+    "timestamp": "2026-07-23T16:00:54.113664+00:00",
+    "channel": 0,
+    "snr": -6.75,
+    "hops": 2
+  },
+  {
     "id": 214515340,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.25,
     "hops": 5
-  },
-  {
-    "id": 1285044199,
-    "from": "!8487d3e4",
-    "from_name": "Meshtastic d3e4",
-    "to": "^all",
-    "text": "Seen PUCK, from Exmouth",
-    "timestamp": "2026-07-18T20:01:44.502162+00:00",
-    "channel": 0,
-    "snr": -15.5,
-    "hops": 1
   }
 ]
