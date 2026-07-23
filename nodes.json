@@ -539,9 +539,9 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-07-23T02:49:34.904306+00:00",
-    "snr": -18.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-23T05:15:03.100914+00:00",
+    "snr": -16.25,
+    "hops_away": 1,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -1867,8 +1867,8 @@
   "!a7df87aa": {
     "id": "!a7df87aa",
     "long_name": "Pendoggett_Duel_Core_Solar",
-    "last_heard": "2026-07-22T21:42:12.061031+00:00",
-    "snr": -18.5,
+    "last_heard": "2026-07-23T05:15:20.987088+00:00",
+    "snr": -18.0,
     "hops_away": 2,
     "short_name": "PENS",
     "hw_model": "HELTEC_MESH_NODE_T114",
