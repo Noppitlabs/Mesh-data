@@ -6284,9 +6284,9 @@
   "!34dfc3aa": {
     "id": "!34dfc3aa",
     "long_name": "Frilliam-SolarCube\ud83c\uddef\ud83c\uddea",
-    "last_heard": "2026-07-14T08:14:31.679853+00:00",
-    "snr": -11.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-23T00:38:35.019292+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
     "short_name": "LAP3",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER_LATE"
