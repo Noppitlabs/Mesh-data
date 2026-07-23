@@ -2923,10 +2923,13 @@
   },
   "!a0cc1e64": {
     "id": "!a0cc1e64",
-    "long_name": "!a0cc1e64",
-    "last_heard": "2026-07-20T08:04:34.064078+00:00",
-    "snr": -7.0,
-    "hops_away": 7
+    "long_name": "Stonehouse GL10 M0XXX Ham Loft Homebrew",
+    "last_heard": "2026-07-23T04:32:57.712190+00:00",
+    "snr": -17.0,
+    "hops_away": 7,
+    "short_name": "Howi",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!61069d2c": {
     "id": "!61069d2c",
