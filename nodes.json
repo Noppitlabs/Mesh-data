@@ -6656,5 +6656,15 @@
     "short_name": "ryu",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
+  },
+  "!63282fe0": {
+    "id": "!63282fe0",
+    "long_name": "LilyGo t-echo 2fe0",
+    "last_heard": "2026-07-23T09:12:31.404161+00:00",
+    "snr": -6.0,
+    "hops_away": 2,
+    "short_name": "2fe0",
+    "hw_model": "T_ECHO",
+    "role": ""
   }
 }
