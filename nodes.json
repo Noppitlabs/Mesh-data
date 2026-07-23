@@ -6676,5 +6676,15 @@
     "short_name": "\ud83c\udf1e",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
+  },
+  "!43562910": {
+    "id": "!43562910",
+    "long_name": "BS41 repeater",
+    "last_heard": "2026-07-23T10:37:15.307060+00:00",
+    "snr": -7.0,
+    "hops_away": 7,
+    "short_name": "BS41",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
