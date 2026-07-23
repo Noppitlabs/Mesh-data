@@ -5446,9 +5446,9 @@
   "!153dcd72": {
     "id": "!153dcd72",
     "long_name": "Monkeys",
-    "last_heard": "2026-07-23T02:55:45.434005+00:00",
-    "snr": -16.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-23T11:42:56.213621+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
     "short_name": "\ud83d\udc12",
     "hw_model": "T_ECHO",
     "role": ""
