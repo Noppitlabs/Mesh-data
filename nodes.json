@@ -4693,9 +4693,9 @@
   "!acd60372": {
     "id": "!acd60372",
     "long_name": "Nexus 14 Tech 1",
-    "last_heard": "2026-07-21T00:50:48.907363+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-23T05:17:32.153728+00:00",
+    "snr": -14.75,
+    "hops_away": 5,
     "short_name": "N14A",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
