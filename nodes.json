@@ -2359,9 +2359,9 @@
   "!da547404": {
     "id": "!da547404",
     "long_name": "GU4WRP",
-    "last_heard": "2026-07-23T02:14:15.617998+00:00",
-    "snr": -17.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-23T15:22:14.086208+00:00",
+    "snr": -9.0,
+    "hops_away": 6,
     "short_name": "WRP",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3099,9 +3099,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-07-23T14:54:26.180678+00:00",
-    "snr": -1.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-23T15:22:45.883784+00:00",
+    "snr": -8.75,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
