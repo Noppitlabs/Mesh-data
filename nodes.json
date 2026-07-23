@@ -966,9 +966,9 @@
   "!43b70dc8": {
     "id": "!43b70dc8",
     "long_name": "Edmund's Hill",
-    "last_heard": "2026-07-23T17:01:48.953133+00:00",
+    "last_heard": "2026-07-23T17:39:06.965727+00:00",
     "snr": -13.75,
-    "hops_away": 2,
+    "hops_away": 4,
     "short_name": "EH",
     "hw_model": "HELTEC_WSL_V3",
     "role": "CLIENT_BASE"
@@ -6690,9 +6690,9 @@
   "!23a3718e": {
     "id": "!23a3718e",
     "long_name": "Meshtastic 718e",
-    "last_heard": "2026-07-23T17:30:20.216719+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-23T17:38:22.194112+00:00",
+    "snr": -19.0,
+    "hops_away": 3,
     "short_name": "718e",
     "hw_model": "WISMESH_TAG",
     "role": ""
