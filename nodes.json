@@ -1988,8 +1988,8 @@
   "!f1a8ce4f": {
     "id": "!f1a8ce4f",
     "long_name": "St Ives Solar Node 2E0XCN",
-    "last_heard": "2026-07-23T08:54:10.392582+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-07-23T10:13:00.093468+00:00",
+    "snr": -6.5,
     "hops_away": 4,
     "short_name": "Ives",
     "hw_model": "RAK4631",
@@ -3116,8 +3116,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-23T10:07:14.490269+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-07-23T10:13:14.044536+00:00",
+    "snr": -6.75,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
