@@ -3116,8 +3116,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-23T23:18:31.614985+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-07-23T23:31:36.530567+00:00",
+    "snr": -6.25,
     "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
@@ -6690,8 +6690,8 @@
   "!23a3718e": {
     "id": "!23a3718e",
     "long_name": "Meshtastic 718e",
-    "last_heard": "2026-07-23T22:05:54.372809+00:00",
-    "snr": -14.5,
+    "last_heard": "2026-07-23T23:31:40.381052+00:00",
+    "snr": -6.0,
     "hops_away": 2,
     "short_name": "718e",
     "hw_model": "WISMESH_TAG",
