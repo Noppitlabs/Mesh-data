@@ -1,5 +1,16 @@
 [
   {
+    "id": 419407592,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "need to do some diggigng in settings",
+    "timestamp": "2026-07-23T16:07:27.680518+00:00",
+    "channel": 0,
+    "snr": -4.0,
+    "hops": 2
+  },
+  {
     "id": 173118420,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 3
-  },
-  {
-    "id": 387312465,
-    "from": "!8487d3e4",
-    "from_name": "Meshtastic d3e4",
-    "to": "^all",
-    "text": "Rgr \ud83d\udc4b",
-    "timestamp": "2026-07-18T20:06:08.374832+00:00",
-    "channel": 0,
-    "snr": -0.5,
-    "hops": 1
   }
 ]
