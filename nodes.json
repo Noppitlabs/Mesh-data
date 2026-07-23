@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-23T13:02:06.172380+00:00",
+    "last_heard": "2026-07-23T13:02:08.467728+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -649,8 +649,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-07-23T12:49:24.444134+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-07-23T13:02:15.952271+00:00",
+    "snr": -2.25,
     "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
