@@ -1,5 +1,16 @@
 [
   {
+    "id": 214515340,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "hey all, people who hd t1000e fpr a while, how is the battery? mine seem to be worse each day",
+    "timestamp": "2026-07-23T15:56:50.888317+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 2
+  },
+  {
     "id": 248757944,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.5,
     "hops": 1
-  },
-  {
-    "id": 1446386032,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "Cool dusk ping",
-    "timestamp": "2026-07-18T20:00:58.267930+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 4
   }
 ]
