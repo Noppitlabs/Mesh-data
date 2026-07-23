@@ -459,9 +459,9 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-07-23T06:31:42.639121+00:00",
-    "snr": -13.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-23T06:32:03.910701+00:00",
+    "snr": -18.25,
+    "hops_away": 1,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
