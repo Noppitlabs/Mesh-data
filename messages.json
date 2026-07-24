@@ -1,5 +1,16 @@
 [
   {
+    "id": 754295154,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-07-24T15:40:06.511022+00:00",
+    "channel": 0,
+    "snr": -3.75,
+    "hops": 6
+  },
+  {
     "id": 1034742763,
     "from": "!9ea1b288",
     "from_name": "SwallowsNest - Adam Cullompton",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-19T09:19:14.134036+00:00",
     "channel": 0,
     "snr": -18.25,
-    "hops": 1
-  },
-  {
-    "id": 697690170,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "morning",
-    "timestamp": "2026-07-19T09:18:30.464186+00:00",
-    "channel": 0,
-    "snr": -16.0,
     "hops": 1
   }
 ]
