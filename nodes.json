@@ -4720,13 +4720,10 @@
   },
   "!1c15ef40": {
     "id": "!1c15ef40",
-    "long_name": "RTE868",
-    "last_heard": "2026-07-22T20:50:39.531748+00:00",
-    "snr": -18.0,
-    "hops_away": 2,
-    "short_name": "RTE8",
-    "hw_model": "TLORA_V2_1_1P6",
-    "role": ""
+    "long_name": "!1c15ef40",
+    "last_heard": "2026-07-24T15:24:34.569116+00:00",
+    "snr": -15.25,
+    "hops_away": 2
   },
   "!45403276": {
     "id": "!45403276",
