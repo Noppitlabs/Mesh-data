@@ -2341,13 +2341,10 @@
   },
   "!163b3fd6": {
     "id": "!163b3fd6",
-    "long_name": "A-NET Main ",
-    "last_heard": "2026-07-12T10:36:05.630029+00:00",
-    "snr": -4.0,
-    "hops_away": 3,
-    "short_name": "ANGD",
-    "hw_model": "TRACKER_T1000_E",
-    "role": ""
+    "long_name": "!163b3fd6",
+    "last_heard": "2026-07-24T21:25:13.457006+00:00",
+    "snr": -16.0,
+    "hops_away": 5
   },
   "!3b5703ad": {
     "id": "!3b5703ad",
