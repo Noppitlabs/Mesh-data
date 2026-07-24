@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-07-24T11:53:55.974205+00:00",
-    "snr": -6.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-24T11:55:14.605325+00:00",
+    "snr": -5.5,
+    "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3232,8 +3232,8 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-07-24T11:48:52.268624+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-07-24T11:55:05.207227+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
