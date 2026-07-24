@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-07-24T16:55:09.356701+00:00",
-    "snr": -12.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-24T17:24:16.885363+00:00",
+    "snr": -18.75,
+    "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -3096,9 +3096,9 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-07-24T16:51:05.947590+00:00",
-    "snr": -11.0,
-    "hops_away": 7,
+    "last_heard": "2026-07-24T17:24:25.927116+00:00",
+    "snr": -5.75,
+    "hops_away": 6,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
     "role": ""
