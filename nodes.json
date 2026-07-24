@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-24T07:59:48.828987+00:00",
+    "last_heard": "2026-07-24T08:00:50.443429+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -288,13 +288,10 @@
   },
   "!9e757b90": {
     "id": "!9e757b90",
-    "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-07-23T22:31:06.828241+00:00",
-    "snr": -10.5,
-    "hops_away": 6,
-    "short_name": "ApRo",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!9e757b90",
+    "last_heard": "2026-07-24T08:01:01.019892+00:00",
+    "snr": -5.5,
+    "hops_away": 7
   },
   "!b68fbb47": {
     "id": "!b68fbb47",
