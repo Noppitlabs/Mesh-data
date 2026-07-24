@@ -528,13 +528,10 @@
   },
   "!040930e4": {
     "id": "!040930e4",
-    "long_name": "tredelerch",
-    "last_heard": "2026-07-23T05:12:54.247220+00:00",
-    "snr": -17.0,
-    "hops_away": 1,
-    "short_name": "M31C",
-    "hw_model": "HELTEC_V3",
-    "role": "CLIENT_BASE"
+    "long_name": "!040930e4",
+    "last_heard": "2026-07-24T05:02:14.281521+00:00",
+    "snr": -15.75,
+    "hops_away": 1
   },
   "!065b41a2": {
     "id": "!065b41a2",
