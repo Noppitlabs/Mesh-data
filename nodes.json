@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-24T17:39:30.945431+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-24T18:19:23.152268+00:00",
+    "snr": -6.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -219,9 +219,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-07-24T18:07:41.223055+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-07-24T18:19:40.795147+00:00",
+    "snr": -3.75,
+    "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
