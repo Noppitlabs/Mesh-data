@@ -1503,8 +1503,8 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-07-24T06:46:48.023109+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-07-24T11:35:13.629699+00:00",
+    "snr": -11.0,
     "hops_away": 4,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
@@ -2885,13 +2885,10 @@
   },
   "!da545314": {
     "id": "!da545314",
-    "long_name": "BillBag2 Bishops Cleeve",
-    "last_heard": "2026-07-23T17:29:49.840860+00:00",
-    "snr": -13.75,
-    "hops_away": 7,
-    "short_name": "BBBC",
-    "hw_model": "HELTEC_V3",
-    "role": "ROUTER_CLIENT"
+    "long_name": "!da545314",
+    "last_heard": "2026-07-24T11:35:05.222542+00:00",
+    "snr": -14.25,
+    "hops_away": 7
   },
   "!e33bc5b4": {
     "id": "!e33bc5b4",
