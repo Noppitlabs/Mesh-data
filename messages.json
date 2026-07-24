@@ -1,5 +1,16 @@
 [
   {
+    "id": 222438933,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": ".",
+    "timestamp": "2026-07-24T23:34:15.054836+00:00",
+    "channel": 0,
+    "snr": -2.5,
+    "hops": 7
+  },
+  {
     "id": 3951964513,
     "from": "!043d24b0",
     "from_name": "Merlin",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-19T12:23:02.162346+00:00",
     "channel": 0,
     "snr": -4.25,
-    "hops": 4
-  },
-  {
-    "id": 2101435175,
-    "from": "!a0cb4648",
-    "from_name": "!a0cb4648",
-    "to": "^all",
-    "text": "Severn Beach \ud83d\ude06",
-    "timestamp": "2026-07-19T12:00:32.466556+00:00",
-    "channel": 0,
-    "snr": -10.5,
     "hops": 4
   }
 ]
