@@ -1419,10 +1419,13 @@
   },
   "!e3a23ff0": {
     "id": "!e3a23ff0",
-    "long_name": "!e3a23ff0",
-    "last_heard": "2026-07-24T12:15:42.419808+00:00",
-    "snr": -5.75,
-    "hops_away": 2
+    "long_name": "Meshtastic 3ff0",
+    "last_heard": "2026-07-24T12:18:29.978515+00:00",
+    "snr": -5.5,
+    "hops_away": 2,
+    "short_name": "3ff0",
+    "hw_model": "TLORA_V2_1_1P6",
+    "role": ""
   },
   "!13eb6ced": {
     "id": "!13eb6ced",
