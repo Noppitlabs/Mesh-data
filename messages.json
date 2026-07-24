@@ -1,5 +1,16 @@
 [
   {
+    "id": 3951964513,
+    "from": "!043d24b0",
+    "from_name": "Merlin",
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-07-24T19:42:58.598167+00:00",
+    "channel": 0,
+    "snr": -15.0,
+    "hops": 3
+  },
+  {
     "id": 288256127,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 4
-  },
-  {
-    "id": 1114062818,
-    "from": "!a0cb4648",
-    "from_name": "!a0cb4648",
-    "to": "^all",
-    "text": "Puck is on the beach",
-    "timestamp": "2026-07-19T12:00:01.595602+00:00",
-    "channel": 0,
-    "snr": -9.75,
-    "hops": 2
   }
 ]
