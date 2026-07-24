@@ -6668,5 +6668,15 @@
     "short_name": "3358",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!de09284d": {
+    "id": "!de09284d",
+    "long_name": "J",
+    "last_heard": "2026-07-24T17:13:47.006282+00:00",
+    "snr": -5.5,
+    "hops_away": 5,
+    "short_name": "284d",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": ""
   }
 }
