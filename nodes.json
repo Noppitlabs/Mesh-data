@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-24T11:49:58.539936+00:00",
+    "last_heard": "2026-07-24T11:50:58.573438+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2263,13 +2263,10 @@
   },
   "!0407c354": {
     "id": "!0407c354",
-    "long_name": "GU0SUP Pommier",
-    "last_heard": "2026-07-23T23:14:08.669081+00:00",
-    "snr": -17.75,
-    "hops_away": 3,
-    "short_name": "0SUP",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!0407c354",
+    "last_heard": "2026-07-24T11:50:39.293699+00:00",
+    "snr": -11.5,
+    "hops_away": 5
   },
   "!69857a44": {
     "id": "!69857a44",
