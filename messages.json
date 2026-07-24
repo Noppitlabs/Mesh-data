@@ -1,5 +1,16 @@
 [
   {
+    "id": 1305381978,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Hi",
+    "timestamp": "2026-07-24T10:06:03.614448+00:00",
+    "channel": 0,
+    "snr": -18.5,
+    "hops": 1
+  },
+  {
     "id": 1572406986,
     "from": "!f661ed84",
     "from_name": "!f661ed84",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 4
-  },
-  {
-    "id": 821382331,
-    "from": "!a2e77980",
-    "from_name": "Dave lilygo 7980",
-    "to": "^all",
-    "text": "test",
-    "timestamp": "2026-07-19T00:29:50.799702+00:00",
-    "channel": 0,
-    "snr": -16.5,
-    "hops": 2
   }
 ]
