@@ -6685,8 +6685,8 @@
   "!00ffa500": {
     "id": "!00ffa500",
     "long_name": "terahertz r M6THZ mobile",
-    "last_heard": "2026-07-24T08:20:23.609056+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-07-24T08:32:13.076103+00:00",
+    "snr": -8.25,
     "hops_away": 3,
     "short_name": "thzr",
     "hw_model": "HELTEC_MESH_NODE_T114",
