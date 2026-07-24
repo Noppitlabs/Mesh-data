@@ -289,9 +289,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "!9e757b90",
-    "last_heard": "2026-07-24T12:47:07.487300+00:00",
-    "snr": -6.25,
-    "hops_away": 7
+    "last_heard": "2026-07-24T12:55:02.963690+00:00",
+    "snr": -7.25,
+    "hops_away": 5
   },
   "!b68fbb47": {
     "id": "!b68fbb47",
@@ -2288,9 +2288,9 @@
   "!33665d78": {
     "id": "!33665d78",
     "long_name": "GCM0010 - Portelet \ud83c\uddec\ud83c\uddec \ud83d\udd0c",
-    "last_heard": "2026-07-23T23:39:48.912186+00:00",
-    "snr": -17.25,
-    "hops_away": 5,
+    "last_heard": "2026-07-24T12:55:31.432599+00:00",
+    "snr": -5.75,
+    "hops_away": 2,
     "short_name": "5d78",
     "hw_model": "HELTEC_V3",
     "role": ""
