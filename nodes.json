@@ -6670,9 +6670,9 @@
   },
   "!9e763358": {
     "id": "!9e763358",
-    "long_name": "Meshtastic 3358",
-    "last_heard": "2026-07-24T12:37:16.638646+00:00",
-    "snr": -6.25,
+    "long_name": "PSW",
+    "last_heard": "2026-07-24T12:51:00.881171+00:00",
+    "snr": -7.0,
     "hops_away": 2,
     "short_name": "3358",
     "hw_model": "HELTEC_V3",
