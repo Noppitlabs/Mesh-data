@@ -4047,9 +4047,9 @@
   "!fa39f7b4": {
     "id": "!fa39f7b4",
     "long_name": "Meshtastic f7b4",
-    "last_heard": "2026-07-25T07:14:08.245435+00:00",
-    "snr": -13.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-25T17:57:24.061943+00:00",
+    "snr": -11.0,
+    "hops_away": 2,
     "short_name": "f7b4",
     "hw_model": "HELTEC_HT62",
     "role": "CLIENT_BASE"
