@@ -6661,5 +6661,12 @@
     "short_name": "RobT",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!0414aa14": {
+    "id": "!0414aa14",
+    "long_name": "!0414aa14",
+    "last_heard": "2026-07-25T09:36:36.586053+00:00",
+    "snr": -7.5,
+    "hops_away": 1
   }
 }
