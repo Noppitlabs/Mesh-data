@@ -426,9 +426,9 @@
   "!62f8b250": {
     "id": "!62f8b250",
     "long_name": "Meshtastic b250",
-    "last_heard": "2026-07-25T15:40:39.915927+00:00",
-    "snr": -4.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-25T16:24:12.895298+00:00",
+    "snr": -5.75,
+    "hops_away": 2,
     "short_name": "b250",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
