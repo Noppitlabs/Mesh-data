@@ -5394,13 +5394,10 @@
   },
   "!153dcd72": {
     "id": "!153dcd72",
-    "long_name": "Monkeys",
-    "last_heard": "2026-07-23T23:28:12.813619+00:00",
-    "snr": -6.75,
-    "hops_away": 3,
-    "short_name": "\ud83d\udc12",
-    "hw_model": "T_ECHO",
-    "role": ""
+    "long_name": "!153dcd72",
+    "last_heard": "2026-07-25T04:42:28.966329+00:00",
+    "snr": -14.0,
+    "hops_away": 2
   },
   "!040835b0": {
     "id": "!040835b0",
