@@ -546,8 +546,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-25T06:27:48.653484+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-07-25T07:00:49.035645+00:00",
+    "snr": -14.25,
     "hops_away": 1,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
@@ -6304,13 +6304,10 @@
   },
   "!55c734e8": {
     "id": "!55c734e8",
-    "long_name": "Meshtastic 34e8 AZC",
-    "last_heard": "2026-07-23T13:20:11.140471+00:00",
-    "snr": -3.25,
-    "hops_away": 2,
-    "short_name": "34eb",
-    "hw_model": "TBEAM",
-    "role": ""
+    "long_name": "!55c734e8",
+    "last_heard": "2026-07-25T07:01:01.330442+00:00",
+    "snr": -1.5,
+    "hops_away": 2
   },
   "!08da97b5": {
     "id": "!08da97b5",
