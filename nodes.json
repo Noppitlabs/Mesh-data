@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-07-25T19:45:03.330877+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-07-25T20:45:04.210808+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -696,9 +696,9 @@
   "!a0e0b080": {
     "id": "!a0e0b080",
     "long_name": "JamesT-Echo",
-    "last_heard": "2026-07-25T18:43:47.940075+00:00",
-    "snr": -6.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-25T20:45:08.110445+00:00",
+    "snr": -9.25,
+    "hops_away": 4,
     "short_name": "J19E",
     "hw_model": "T_ECHO",
     "role": ""
