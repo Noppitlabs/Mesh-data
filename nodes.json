@@ -1638,8 +1638,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-07-25T00:25:56.455477+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-07-25T00:47:33.285385+00:00",
+    "snr": -4.25,
     "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
