@@ -5485,9 +5485,9 @@
   "!7229bd48": {
     "id": "!7229bd48",
     "long_name": "PNTR_06",
-    "last_heard": "2026-07-25T21:35:09.099739+00:00",
-    "snr": -19.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-25T21:41:16.023173+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
     "short_name": "PNTR",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
