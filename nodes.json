@@ -6666,5 +6666,15 @@
     "short_name": "284d",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
+  },
+  "!2c2a29e3": {
+    "id": "!2c2a29e3",
+    "long_name": "Robs t1000",
+    "last_heard": "2026-07-25T00:29:25.838876+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
+    "short_name": "RobT",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
