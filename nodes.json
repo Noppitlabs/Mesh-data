@@ -6652,9 +6652,9 @@
   "!2c2a29e3": {
     "id": "!2c2a29e3",
     "long_name": "Robs t1000",
-    "last_heard": "2026-07-25T20:21:41.336042+00:00",
-    "snr": -18.0,
-    "hops_away": 2,
+    "last_heard": "2026-07-25T21:11:15.934655+00:00",
+    "snr": -17.0,
+    "hops_away": 4,
     "short_name": "RobT",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
