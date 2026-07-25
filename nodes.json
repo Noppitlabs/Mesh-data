@@ -6331,9 +6331,9 @@
   "!a0ccdd3c": {
     "id": "!a0ccdd3c",
     "long_name": "M0NMC C/M",
-    "last_heard": "2026-07-25T12:03:52.378524+00:00",
-    "snr": -13.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-25T18:19:09.492599+00:00",
+    "snr": -18.5,
+    "hops_away": 5,
     "short_name": "NM-C",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
