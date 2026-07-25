@@ -2161,9 +2161,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-07-25T00:40:34.513100+00:00",
-    "snr": -9.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-25T01:35:36.826069+00:00",
+    "snr": -18.0,
+    "hops_away": 0,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
@@ -2181,9 +2181,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-07-25T01:03:49.707312+00:00",
-    "snr": -18.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-25T01:36:00.723402+00:00",
+    "snr": -18.0,
+    "hops_away": 1,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
