@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-25T14:44:07.051446+00:00",
+    "last_heard": "2026-07-25T14:45:07.088948+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-07-25T13:45:02.513253+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-07-25T14:45:03.261067+00:00",
+    "snr": -5.0,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
