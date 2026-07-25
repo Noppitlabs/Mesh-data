@@ -842,10 +842,13 @@
   },
   "!db2a98d0": {
     "id": "!db2a98d0",
-    "long_name": "!db2a98d0",
-    "last_heard": "2026-07-25T00:08:57.868154+00:00",
-    "snr": -1.5,
-    "hops_away": 5
+    "long_name": "RX_Tiverton",
+    "last_heard": "2026-07-25T12:04:44.062835+00:00",
+    "snr": -11.0,
+    "hops_away": 2,
+    "short_name": "98d0",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!7c5ad0f4": {
     "id": "!7c5ad0f4",
