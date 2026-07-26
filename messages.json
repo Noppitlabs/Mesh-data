@@ -1,5 +1,16 @@
 [
   {
+    "id": 705171225,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "yes seems to be good, finaly not that hot",
+    "timestamp": "2026-07-26T18:15:45.529228+00:00",
+    "channel": 0,
+    "snr": -16.5,
+    "hops": 1
+  },
+  {
     "id": 1315097477,
     "from": "!9ea2a1ac",
     "from_name": "!9ea2a1ac",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.25,
     "hops": 6
-  },
-  {
-    "id": 486861883,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "yeah, doubt I will last 12 hours",
-    "timestamp": "2026-07-20T10:41:40.526104+00:00",
-    "channel": 0,
-    "snr": -8.75,
-    "hops": 2
   }
 ]
