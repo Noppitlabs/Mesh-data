@@ -6668,10 +6668,13 @@
   },
   "!d406c8f4": {
     "id": "!d406c8f4",
-    "long_name": "!d406c8f4",
-    "last_heard": "2026-07-25T20:19:16.095363+00:00",
-    "snr": -10.0,
-    "hops_away": 3
+    "long_name": "portex - car",
+    "last_heard": "2026-07-26T11:27:16.150133+00:00",
+    "snr": -1.0,
+    "hops_away": 4,
+    "short_name": "ptxc",
+    "hw_model": "HELTEC_MESH_NODE_T114",
+    "role": "CLIENT_BASE"
   },
   "!ba0c297c": {
     "id": "!ba0c297c",
