@@ -1,5 +1,16 @@
 [
   {
+    "id": 3149804385,
+    "from": "!f661ed84",
+    "from_name": "!f661ed84",
+    "to": "^all",
+    "text": "3\ufe0f\u20e3",
+    "timestamp": "2026-07-26T22:40:27.447209+00:00",
+    "channel": 0,
+    "snr": 0.25,
+    "hops": 6
+  },
+  {
     "id": 696524294,
     "from": "!02ea5f04",
     "from_name": "!02ea5f04",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 5
-  },
-  {
-    "id": 1871072883,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "Later I will see all the nodes contacted in LongRange.",
-    "timestamp": "2026-07-20T14:00:38.042939+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 3
   }
 ]
