@@ -6292,10 +6292,13 @@
   },
   "!55c734e8": {
     "id": "!55c734e8",
-    "long_name": "!55c734e8",
-    "last_heard": "2026-07-25T07:01:01.330442+00:00",
-    "snr": -1.5,
-    "hops_away": 2
+    "long_name": "Meshtastic 34e8 AZC",
+    "last_heard": "2026-07-26T20:07:37.581442+00:00",
+    "snr": 0.25,
+    "hops_away": 2,
+    "short_name": "34eb",
+    "hw_model": "TBEAM",
+    "role": ""
   },
   "!08da97b5": {
     "id": "!08da97b5",
