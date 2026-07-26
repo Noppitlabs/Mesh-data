@@ -1,5 +1,16 @@
 [
   {
+    "id": 393411767,
+    "from": "!ae0a4a29",
+    "from_name": "sj27 slimjim j-pole",
+    "to": "^all",
+    "text": "Longname missing. Corrected",
+    "timestamp": "2026-07-26T12:24:36.714132+00:00",
+    "channel": 0,
+    "snr": -1.0,
+    "hops": 6
+  },
+  {
     "id": 635683454,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.25,
     "hops": 2
-  },
-  {
-    "id": 746603108,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "'ello Dantastic",
-    "timestamp": "2026-07-20T10:02:30.740069+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 6
   }
 ]
