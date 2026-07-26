@@ -1,5 +1,16 @@
 [
   {
+    "id": 630277394,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "ping",
+    "timestamp": "2026-07-26T10:55:54.846154+00:00",
+    "channel": 0,
+    "snr": 0.75,
+    "hops": 6
+  },
+  {
     "id": 345279452,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.25,
     "hops": 2
-  },
-  {
-    "id": 4033252526,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "5\ufe0f\u20e3",
-    "timestamp": "2026-07-20T08:17:50.655343+00:00",
-    "channel": 0,
-    "snr": -6.0,
-    "hops": 4
   }
 ]
