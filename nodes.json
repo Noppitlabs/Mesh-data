@@ -773,9 +773,9 @@
   "!433e3450": {
     "id": "!433e3450",
     "long_name": "Simcom Wildcard ",
-    "last_heard": "2026-07-26T05:03:12.346541+00:00",
-    "snr": 1.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-26T08:43:59.548481+00:00",
+    "snr": -1.5,
+    "hops_away": 5,
     "short_name": "WLCD",
     "hw_model": "HELTEC_V3",
     "role": ""
