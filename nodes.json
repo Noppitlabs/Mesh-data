@@ -6615,9 +6615,9 @@
   "!23a3718e": {
     "id": "!23a3718e",
     "long_name": "Meshtastic 718e",
-    "last_heard": "2026-07-26T02:48:13.996528+00:00",
-    "snr": -14.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-26T04:06:07.178321+00:00",
+    "snr": 0.75,
+    "hops_away": 3,
     "short_name": "718e",
     "hw_model": "WISMESH_TAG",
     "role": ""
