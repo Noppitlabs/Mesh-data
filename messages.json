@@ -1,5 +1,16 @@
 [
   {
+    "id": 696524294,
+    "from": "!02ea5f04",
+    "from_name": "!02ea5f04",
+    "to": "^all",
+    "text": "2x2",
+    "timestamp": "2026-07-26T19:57:44.521196+00:00",
+    "channel": 0,
+    "snr": 0.75,
+    "hops": 5
+  },
+  {
     "id": 947704396,
     "from": "!f661ed84",
     "from_name": "!f661ed84",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.5,
     "hops": 3
-  },
-  {
-    "id": 291919790,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "Swiss roll (\u2060\u2267\u2060\u25bd\u2060\u2266\u2060)",
-    "timestamp": "2026-07-20T12:52:39.460995+00:00",
-    "channel": 0,
-    "snr": -6.75,
-    "hops": 4
   }
 ]
