@@ -6693,9 +6693,9 @@
   "!043a3c30": {
     "id": "!043a3c30",
     "long_name": "MayboBase",
-    "last_heard": "2026-07-26T05:49:03.855410+00:00",
-    "snr": -15.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-26T06:34:14.634478+00:00",
+    "snr": 1.5,
+    "hops_away": 3,
     "short_name": "MBas",
     "hw_model": "HELTEC_V3",
     "role": ""
