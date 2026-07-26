@@ -1,5 +1,16 @@
 [
   {
+    "id": 635683454,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "your move?",
+    "timestamp": "2026-07-26T10:57:51.856653+00:00",
+    "channel": 0,
+    "snr": 1.25,
+    "hops": 2
+  },
+  {
     "id": 206389266,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.25,
     "hops": 6
-  },
-  {
-    "id": 1408136504,
-    "from": "!979ed146",
-    "from_name": "!979ed146",
-    "to": "^all",
-    "text": "Visiting here in hope for some nice weather compared to the scorched continent \ud83d\udd06",
-    "timestamp": "2026-07-20T08:25:43.787799+00:00",
-    "channel": 0,
-    "snr": -7.0,
-    "hops": 3
   }
 ]
