@@ -6689,5 +6689,15 @@
     "short_name": "Sen1",
     "hw_model": "HELTEC_WSL_V3",
     "role": "CLIENT_BASE"
+  },
+  "!043a3c30": {
+    "id": "!043a3c30",
+    "long_name": "MayboBase",
+    "last_heard": "2026-07-26T05:49:03.855410+00:00",
+    "snr": -15.5,
+    "hops_away": 2,
+    "short_name": "MBas",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
