@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-26T16:29:13.488111+00:00",
+    "last_heard": "2026-07-26T16:29:15.316090+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -997,8 +997,8 @@
   "!91ec7b3a": {
     "id": "!91ec7b3a",
     "long_name": "XXA-SOLAR 7b3a",
-    "last_heard": "2026-07-26T10:51:13.423749+00:00",
-    "snr": 1.25,
+    "last_heard": "2026-07-26T16:29:41.160276+00:00",
+    "snr": -5.0,
     "hops_away": 3,
     "short_name": "XXAs",
     "hw_model": "SEEED_SOLAR_NODE",
