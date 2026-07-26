@@ -1,5 +1,16 @@
 [
   {
+    "id": 670613302,
+    "from": "!a0ccdd3c",
+    "from_name": "M0NMC C/M",
+    "to": "^all",
+    "text": "Morning",
+    "timestamp": "2026-07-26T06:32:32.786642+00:00",
+    "channel": 0,
+    "snr": 1.25,
+    "hops": 6
+  },
+  {
     "id": 17199494,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 5
-  },
-  {
-    "id": 1120284932,
-    "from": "!043a23c8",
-    "from_name": "Meshtastic 23c8",
-    "to": "^all",
-    "text": "1 hop to Ndevon",
-    "timestamp": "2026-07-19T18:54:26.699791+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 3
   }
 ]
