@@ -199,8 +199,8 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-07-26T14:07:36.168907+00:00",
-    "snr": -3.0,
+    "last_heard": "2026-07-26T16:09:02.863312+00:00",
+    "snr": -8.75,
     "hops_away": 4,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
@@ -1635,8 +1635,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-07-26T15:58:50.876152+00:00",
-    "snr": -3.25,
+    "last_heard": "2026-07-26T16:08:40.343506+00:00",
+    "snr": -5.5,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
