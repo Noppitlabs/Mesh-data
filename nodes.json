@@ -6721,9 +6721,12 @@
   },
   "!02ea5f04": {
     "id": "!02ea5f04",
-    "long_name": "!02ea5f04",
-    "last_heard": "2026-07-26T19:57:45.703884+00:00",
+    "long_name": "Meshtastic 5f04",
+    "last_heard": "2026-07-26T20:13:05.191700+00:00",
     "snr": 0.75,
-    "hops_away": 5
+    "hops_away": 5,
+    "short_name": "5f04",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
