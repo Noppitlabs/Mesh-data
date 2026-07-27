@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-07-27T06:44:59.791842+00:00",
-    "snr": -13.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-27T08:41:02.156160+00:00",
+    "snr": -7.25,
+    "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -546,9 +546,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-27T08:28:18.679207+00:00",
-    "snr": -2.5,
-    "hops_away": 2,
+    "last_heard": "2026-07-27T08:40:57.398460+00:00",
+    "snr": -7.5,
+    "hops_away": 3,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
