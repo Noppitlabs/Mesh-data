@@ -6676,9 +6676,9 @@
   "!ba0c297c": {
     "id": "!ba0c297c",
     "long_name": "Meshtastic 297c",
-    "last_heard": "2026-07-26T22:57:25.020613+00:00",
-    "snr": -14.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-27T00:41:40.001563+00:00",
+    "snr": -13.75,
+    "hops_away": 7,
     "short_name": "297c",
     "hw_model": "HELTEC_V3",
     "role": ""
