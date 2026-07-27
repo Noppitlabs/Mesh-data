@@ -1,5 +1,16 @@
 [
   {
+    "id": 2493729092,
+    "from": "!4cbd5491",
+    "from_name": "!4cbd5491",
+    "to": "^all",
+    "text": "Cool - so this is a new location for WSHN repeater for a few weeks to test ",
+    "timestamp": "2026-07-27T15:39:06.497429+00:00",
+    "channel": 0,
+    "snr": -1.5,
+    "hops": 5
+  },
+  {
     "id": 411813328,
     "from": "!f661ed84",
     "from_name": "!f661ed84",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-21T16:20:14.457982+00:00",
     "channel": 0,
     "snr": -10.25,
-    "hops": 6
-  },
-  {
-    "id": 2848772861,
-    "from": "!4cbd5491",
-    "from_name": "!4cbd5491",
-    "to": "^all",
-    "text": "Ping ",
-    "timestamp": "2026-07-21T16:20:03.342850+00:00",
-    "channel": 0,
-    "snr": -10.75,
     "hops": 6
   }
 ]
