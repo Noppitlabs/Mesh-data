@@ -3258,8 +3258,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-07-27T00:44:38.333356+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-07-27T02:07:40.676334+00:00",
+    "snr": -7.75,
     "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
@@ -3730,9 +3730,9 @@
   "!f661ed84": {
     "id": "!f661ed84",
     "long_name": "!f661ed84",
-    "last_heard": "2026-07-26T22:40:28.575614+00:00",
-    "snr": 0.25,
-    "hops_away": 6
+    "last_heard": "2026-07-27T02:07:46.491094+00:00",
+    "snr": 1.25,
+    "hops_away": 3
   },
   "!11c464f3": {
     "id": "!11c464f3",
