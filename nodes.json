@@ -6170,13 +6170,10 @@
   },
   "!04070888": {
     "id": "!04070888",
-    "long_name": "Not the device your looking for",
-    "last_heard": "2026-07-12T21:34:55.571581+00:00",
-    "snr": -18.25,
-    "hops_away": 4,
-    "short_name": "YODA",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!04070888",
+    "last_heard": "2026-07-27T01:04:09.297548+00:00",
+    "snr": -16.0,
+    "hops_away": 4
   },
   "!6c72edb0": {
     "id": "!6c72edb0",
