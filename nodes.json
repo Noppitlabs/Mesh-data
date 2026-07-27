@@ -1936,10 +1936,13 @@
   },
   "!1f7ff73d": {
     "id": "!1f7ff73d",
-    "long_name": "!1f7ff73d",
-    "last_heard": "2026-07-12T04:29:44.869678+00:00",
-    "snr": -12.5,
-    "hops_away": 4
+    "long_name": "FBRC1",
+    "last_heard": "2026-07-27T12:44:59.963353+00:00",
+    "snr": -6.0,
+    "hops_away": 6,
+    "short_name": "FBRC",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!e2e3816c": {
     "id": "!e2e3816c",
