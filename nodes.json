@@ -5118,13 +5118,10 @@
   },
   "!da576360": {
     "id": "!da576360",
-    "long_name": "RSTV1 \ud83c\uddec\ud83c\udde7 ",
-    "last_heard": "2026-07-15T06:49:04.083466+00:00",
-    "snr": -14.75,
-    "hops_away": 6,
-    "short_name": "RSn1",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!da576360",
+    "last_heard": "2026-07-27T04:34:57.626101+00:00",
+    "snr": -13.75,
+    "hops_away": 6
   },
   "!da546fb4": {
     "id": "!da546fb4",
