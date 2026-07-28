@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-28T02:04:45.948351+00:00",
-    "snr": -3.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-28T02:34:07.538065+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -6637,9 +6637,9 @@
   "!2c2a29e3": {
     "id": "!2c2a29e3",
     "long_name": "Robs t1000",
-    "last_heard": "2026-07-28T01:36:06.168918+00:00",
-    "snr": -16.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-28T02:34:18.693979+00:00",
+    "snr": -7.0,
+    "hops_away": 4,
     "short_name": "RobT",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
