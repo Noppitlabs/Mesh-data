@@ -1,5 +1,16 @@
 [
   {
+    "id": 1468023817,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Trialling 9db mcgill in loft.  Temp turned off sj27",
+    "timestamp": "2026-07-28T16:31:01.237643+00:00",
+    "channel": 0,
+    "snr": -7.5,
+    "hops": 6
+  },
+  {
     "id": 598341558,
     "from": "!849b59c8",
     "from_name": "Puck Lite",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.25,
     "hops": 7
-  },
-  {
-    "id": 1429619995,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "What did you try on the M5?",
-    "timestamp": "2026-07-22T08:35:00.391112+00:00",
-    "channel": 0,
-    "snr": -16.75,
-    "hops": 4
   }
 ]
