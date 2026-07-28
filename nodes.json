@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-07-28T22:23:27.836501+00:00",
-    "snr": -14.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-28T22:32:36.743825+00:00",
+    "snr": -17.5,
+    "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -6681,9 +6681,9 @@
   "!043a3c30": {
     "id": "!043a3c30",
     "long_name": "MayboBase",
-    "last_heard": "2026-07-28T07:17:46.526887+00:00",
-    "snr": -3.0,
-    "hops_away": 3,
+    "last_heard": "2026-07-28T22:33:22.002586+00:00",
+    "snr": -19.25,
+    "hops_away": 4,
     "short_name": "MBas",
     "hw_model": "HELTEC_V3",
     "role": ""
