@@ -6730,9 +6730,12 @@
   },
   "!1ba58dcc": {
     "id": "!1ba58dcc",
-    "long_name": "!1ba58dcc",
-    "last_heard": "2026-07-28T23:45:03.573088+00:00",
-    "snr": -7.5,
-    "hops_away": 5
+    "long_name": "Maybo",
+    "last_heard": "2026-07-28T23:45:25.897490+00:00",
+    "snr": -7.75,
+    "hops_away": 4,
+    "short_name": "Mabo",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
