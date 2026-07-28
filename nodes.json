@@ -6186,10 +6186,13 @@
   },
   "!f66adb4c": {
     "id": "!f66adb4c",
-    "long_name": "!f66adb4c",
-    "last_heard": "2026-07-24T12:59:22.381192+00:00",
-    "snr": -6.0,
-    "hops_away": 6
+    "long_name": "GCM004-StPetersVillage\ud83c\uddec\ud83c\uddec\ud83d\udd06",
+    "last_heard": "2026-07-28T22:49:57.292197+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
+    "short_name": "db4c",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!34dfc3aa": {
     "id": "!34dfc3aa",
