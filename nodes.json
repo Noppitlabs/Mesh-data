@@ -3053,8 +3053,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-07-28T21:56:35.378456+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-07-28T22:00:05.059722+00:00",
+    "snr": -7.25,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
@@ -6631,9 +6631,9 @@
   "!2c2a29e3": {
     "id": "!2c2a29e3",
     "long_name": "Robs t1000",
-    "last_heard": "2026-07-28T21:30:13.658059+00:00",
-    "snr": -3.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-28T22:00:18.133088+00:00",
+    "snr": -9.5,
+    "hops_away": 5,
     "short_name": "RobT",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
