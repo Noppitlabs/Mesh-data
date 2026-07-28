@@ -1514,9 +1514,9 @@
   "!9ea0bce4": {
     "id": "!9ea0bce4",
     "long_name": "Hyperion WirelessPaper",
-    "last_heard": "2026-07-28T00:20:58.969977+00:00",
-    "snr": -17.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-28T04:55:16.551986+00:00",
+    "snr": -15.5,
+    "hops_away": 5,
     "short_name": "HPRN",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_BASE"
