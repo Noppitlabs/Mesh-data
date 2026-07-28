@@ -1,5 +1,16 @@
 [
   {
+    "id": 90545641,
+    "from": "!b03be864",
+    "from_name": "!b03be864",
+    "to": "^all",
+    "text": "the issue with home batteries is they can act as a bottleneck for some people",
+    "timestamp": "2026-07-28T19:28:40.096156+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 6
+  },
+  {
     "id": 3213436773,
     "from": "!f661ed84",
     "from_name": "!f661ed84",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.0,
     "hops": 2
-  },
-  {
-    "id": 1727053598,
-    "from": "!aca9fff0",
-    "from_name": "MrBs Meshtastic M7MRB",
-    "to": "^all",
-    "text": "Suns gone.",
-    "timestamp": "2026-07-22T15:18:21.786085+00:00",
-    "channel": 0,
-    "snr": -6.25,
-    "hops": 6
   }
 ]
