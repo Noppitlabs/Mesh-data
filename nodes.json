@@ -1721,9 +1721,9 @@
   "!04ba78f1": {
     "id": "!04ba78f1",
     "long_name": "!04ba78f1",
-    "last_heard": "2026-07-28T11:49:35.627069+00:00",
-    "snr": -3.75,
-    "hops_away": 6
+    "last_heard": "2026-07-28T11:57:12.246034+00:00",
+    "snr": -3.5,
+    "hops_away": 7
   },
   "!ea5d51e8": {
     "id": "!ea5d51e8",
@@ -1809,8 +1809,8 @@
   "!da56c5fc": {
     "id": "!da56c5fc",
     "long_name": "MW0KEC loft",
-    "last_heard": "2026-07-27T20:57:01.933977+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-07-28T11:57:07.889037+00:00",
+    "snr": -5.5,
     "hops_away": 4,
     "short_name": "CDTL",
     "hw_model": "HELTEC_V3",
