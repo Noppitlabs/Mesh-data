@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-07-28T11:06:36.361700+00:00",
-    "snr": -15.75,
+    "last_heard": "2026-07-28T11:36:24.272726+00:00",
+    "snr": -15.0,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -2667,8 +2667,8 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-07-28T11:32:23.360381+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-07-28T11:36:27.797148+00:00",
+    "snr": -3.5,
     "hops_away": 2,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
