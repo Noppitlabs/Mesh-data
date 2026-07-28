@@ -6373,9 +6373,9 @@
   "!56ae8686": {
     "id": "!56ae8686",
     "long_name": "2E0THR_T114",
-    "last_heard": "2026-07-19T22:13:05.313181+00:00",
-    "snr": -9.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-28T20:03:39.590882+00:00",
+    "snr": -10.0,
+    "hops_away": 7,
     "short_name": "20TH",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
