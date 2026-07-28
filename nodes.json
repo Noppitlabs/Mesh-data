@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-28T11:07:36.714869+00:00",
-    "snr": -4.5,
+    "last_heard": "2026-07-28T11:09:13.759339+00:00",
+    "snr": -2.75,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -653,8 +653,8 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "Raymond's hill",
-    "last_heard": "2026-07-28T09:30:48.893118+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-07-28T11:09:06.414265+00:00",
+    "snr": -11.5,
     "hops_away": 2,
     "short_name": "rh5",
     "hw_model": "RAK4631",
