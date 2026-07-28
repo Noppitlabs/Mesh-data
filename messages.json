@@ -1,5 +1,16 @@
 [
   {
+    "id": 852871778,
+    "from": "!133a8e1e",
+    "from_name": "Rich~M7FJD",
+    "to": "^all",
+    "text": "Received in Exeter ",
+    "timestamp": "2026-07-28T21:00:45.851972+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 2
+  },
+  {
     "id": 2707193865,
     "from": "!133a8e1e",
     "from_name": "Rich~M7FJD",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-23T16:01:19.381347+00:00",
     "channel": 0,
     "snr": -5.25,
-    "hops": 2
-  },
-  {
-    "id": 879914109,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "yeah tend to charge in the evneing but it dies some time next day, i cannnot catch when",
-    "timestamp": "2026-07-23T16:00:54.113664+00:00",
-    "channel": 0,
-    "snr": -6.75,
     "hops": 2
   }
 ]
