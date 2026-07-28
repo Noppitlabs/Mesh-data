@@ -6686,9 +6686,9 @@
   "!da64b668": {
     "id": "!da64b668",
     "long_name": "Sennan Onan",
-    "last_heard": "2026-07-28T08:04:18.805783+00:00",
-    "snr": -2.75,
-    "hops_away": 4,
+    "last_heard": "2026-07-28T15:04:40.153610+00:00",
+    "snr": -8.25,
+    "hops_away": 5,
     "short_name": "Sen1",
     "hw_model": "HELTEC_WSL_V3",
     "role": "CLIENT_BASE"
