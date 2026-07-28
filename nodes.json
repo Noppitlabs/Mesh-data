@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-28T00:16:35.707078+00:00",
+    "last_heard": "2026-07-28T00:17:36.886717+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2478,9 +2478,9 @@
   "!9eecae9c": {
     "id": "!9eecae9c",
     "long_name": "AleBurton",
-    "last_heard": "2026-07-27T10:32:25.124780+00:00",
-    "snr": -7.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-28T00:17:48.758089+00:00",
+    "snr": -17.5,
+    "hops_away": 3,
     "short_name": "ALBU",
     "hw_model": "HELTEC_V3",
     "role": ""
