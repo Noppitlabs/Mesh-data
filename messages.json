@@ -1,5 +1,16 @@
 [
   {
+    "id": 812555670,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Seq 13",
+    "timestamp": "2026-07-28T12:06:28.741922+00:00",
+    "channel": 0,
+    "snr": -3.75,
+    "hops": 2
+  },
+  {
     "id": 684064382,
     "from": "!849b59c8",
     "from_name": "Puck Lite",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.0,
     "hops": 5
-  },
-  {
-    "id": 3009381632,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-07-21T20:00:49.447092+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 3
   }
 ]
