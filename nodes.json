@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-29T19:14:28.675884+00:00",
+    "last_heard": "2026-07-29T19:15:30.571214+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1706,9 +1706,9 @@
   "!04ba78f1": {
     "id": "!04ba78f1",
     "long_name": "!04ba78f1",
-    "last_heard": "2026-07-29T18:59:51.616268+00:00",
-    "snr": -3.25,
-    "hops_away": 5
+    "last_heard": "2026-07-29T19:15:35.128805+00:00",
+    "snr": -4.0,
+    "hops_away": 7
   },
   "!ea5d51e8": {
     "id": "!ea5d51e8",
