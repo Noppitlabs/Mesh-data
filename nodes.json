@@ -1409,9 +1409,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-07-29T18:30:53.170793+00:00",
-    "snr": -5.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-29T20:56:54.832743+00:00",
+    "snr": -3.0,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3715,8 +3715,8 @@
   "!f661ed84": {
     "id": "!f661ed84",
     "long_name": "Puck Telecom",
-    "last_heard": "2026-07-29T20:51:55.072960+00:00",
-    "snr": -3.25,
+    "last_heard": "2026-07-29T20:56:35.137250+00:00",
+    "snr": -2.5,
     "hops_away": 5,
     "short_name": "PUCK",
     "hw_model": "HELTEC_V4",
