@@ -6701,8 +6701,8 @@
   "!02ea5f04": {
     "id": "!02ea5f04",
     "long_name": "Meshtastic 5f04",
-    "last_heard": "2026-07-27T09:37:32.358274+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-07-29T09:41:32.023324+00:00",
+    "snr": -6.0,
     "hops_away": 5,
     "short_name": "5f04",
     "hw_model": "HELTEC_V3",
