@@ -6731,5 +6731,12 @@
     "short_name": "Mabo",
     "hw_model": "HELTEC_V4",
     "role": ""
+  },
+  "!49b61420": {
+    "id": "!49b61420",
+    "long_name": "!49b61420",
+    "last_heard": "2026-07-29T02:21:43.309567+00:00",
+    "snr": -7.0,
+    "hops_away": 6
   }
 }
