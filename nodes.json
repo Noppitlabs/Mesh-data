@@ -2217,9 +2217,9 @@
   "!0404d940": {
     "id": "!0404d940",
     "long_name": "VeNT Meshtastic Stick",
-    "last_heard": "2026-07-23T09:16:33.724331+00:00",
-    "snr": -15.0,
-    "hops_away": 7,
+    "last_heard": "2026-07-29T00:16:46.270471+00:00",
+    "snr": -6.5,
+    "hops_away": 5,
     "short_name": "VeNT",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
