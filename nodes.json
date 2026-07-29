@@ -6686,11 +6686,11 @@
   },
   "!043a3c30": {
     "id": "!043a3c30",
-    "long_name": "MayboBase",
-    "last_heard": "2026-07-28T22:33:22.002586+00:00",
-    "snr": -19.25,
+    "long_name": "Widewellbase",
+    "last_heard": "2026-07-29T01:09:15.722789+00:00",
+    "snr": -8.0,
     "hops_away": 4,
-    "short_name": "MBas",
+    "short_name": "Widb",
     "hw_model": "HELTEC_V3",
     "role": ""
   },
