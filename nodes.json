@@ -4871,12 +4871,12 @@
   "!f66bd428": {
     "id": "!f66bd428",
     "long_name": "sj27 slimjim j-pole",
-    "last_heard": "2026-07-29T11:24:53.973408+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-07-29T12:44:22.025945+00:00",
+    "snr": -7.0,
     "hops_away": 6,
     "short_name": "sj27",
     "hw_model": "HELTEC_V4",
-    "role": "CLIENT_MUTE"
+    "role": ""
   },
   "!6c744440": {
     "id": "!6c744440",
