@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-29T08:55:01.091478+00:00",
+    "last_heard": "2026-07-29T08:56:01.509506+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3717,10 +3717,13 @@
   },
   "!f661ed84": {
     "id": "!f661ed84",
-    "long_name": "!f661ed84",
-    "last_heard": "2026-07-28T19:18:59.484615+00:00",
-    "snr": -10.0,
-    "hops_away": 6
+    "long_name": "Puck Telecom",
+    "last_heard": "2026-07-29T08:56:29.134658+00:00",
+    "snr": -5.5,
+    "hops_away": 6,
+    "short_name": "PUCK",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!11c464f3": {
     "id": "!11c464f3",
