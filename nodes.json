@@ -1489,9 +1489,9 @@
   "!6982bcb0": {
     "id": "!6982bcb0",
     "long_name": "Hambridge V4 - Paul ",
-    "last_heard": "2026-07-29T14:22:05.231178+00:00",
-    "snr": -6.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-29T22:21:55.181928+00:00",
+    "snr": -15.0,
+    "hops_away": 4,
     "short_name": "HMB4",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
