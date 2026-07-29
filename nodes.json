@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-29T08:40:39.166477+00:00",
-    "snr": -0.75,
-    "hops_away": 2,
+    "last_heard": "2026-07-29T08:41:15.924536+00:00",
+    "snr": -17.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -537,9 +537,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-29T08:17:13.896124+00:00",
-    "snr": -17.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-29T08:41:02.424799+00:00",
+    "snr": -0.25,
+    "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
