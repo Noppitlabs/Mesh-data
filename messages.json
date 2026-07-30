@@ -1,5 +1,16 @@
 [
   {
+    "id": 580974206,
+    "from": "!f66bd428",
+    "from_name": "sj27 slimjim j-pole",
+    "to": "^all",
+    "text": "Porridge this morning",
+    "timestamp": "2026-07-30T09:06:19.662767+00:00",
+    "channel": 0,
+    "snr": -2.75,
+    "hops": 5
+  },
+  {
     "id": 1401012414,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-24T19:42:58.598167+00:00",
     "channel": 0,
     "snr": -15.0,
-    "hops": 3
-  },
-  {
-    "id": 288256127,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "evening",
-    "timestamp": "2026-07-24T19:24:51.410236+00:00",
-    "channel": 0,
-    "snr": -2.0,
     "hops": 3
   }
 ]
