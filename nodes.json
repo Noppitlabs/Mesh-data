@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-07-30T17:35:32.958806+00:00",
-    "snr": -13.75,
-    "hops_away": 1,
+    "last_heard": "2026-07-30T18:05:32.287434+00:00",
+    "snr": -13.25,
+    "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -3255,8 +3255,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-07-30T17:00:59.703537+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-07-30T18:05:58.475979+00:00",
+    "snr": -3.75,
     "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
