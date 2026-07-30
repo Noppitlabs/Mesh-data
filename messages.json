@@ -1,5 +1,16 @@
 [
   {
+    "id": 3267574096,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "5\ufe0f\u20e3",
+    "timestamp": "2026-07-30T15:48:47.773266+00:00",
+    "channel": 0,
+    "snr": -5.75,
+    "hops": 6
+  },
+  {
     "id": 406581815,
     "from": "!2cdff595",
     "from_name": "!2cdff595",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 1.5,
     "hops": 3
-  },
-  {
-    "id": 670613302,
-    "from": "!a0ccdd3c",
-    "from_name": "M0NMC C/M",
-    "to": "^all",
-    "text": "Morning",
-    "timestamp": "2026-07-26T06:32:32.786642+00:00",
-    "channel": 0,
-    "snr": 1.25,
-    "hops": 6
   }
 ]
