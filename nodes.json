@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-07-30T16:41:02.871928+00:00",
-    "snr": -10.25,
-    "hops_away": 3,
+    "last_heard": "2026-07-30T18:42:33.116783+00:00",
+    "snr": -3.75,
+    "hops_away": 4,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
@@ -4871,8 +4871,8 @@
   "!f66bd428": {
     "id": "!f66bd428",
     "long_name": "sj27 slimjim j-pole",
-    "last_heard": "2026-07-30T17:43:01.397095+00:00",
-    "snr": -0.75,
+    "last_heard": "2026-07-30T18:42:57.000787+00:00",
+    "snr": -2.0,
     "hops_away": 5,
     "short_name": "sj27",
     "hw_model": "HELTEC_V4",
