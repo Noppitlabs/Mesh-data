@@ -5995,10 +5995,13 @@
   },
   "!c9326d1c": {
     "id": "!c9326d1c",
-    "long_name": "!c9326d1c",
-    "last_heard": "2026-07-29T13:04:13.382674+00:00",
-    "snr": -5.5,
-    "hops_away": 4
+    "long_name": "Titterstone Clee Hill",
+    "last_heard": "2026-07-30T19:20:55.772069+00:00",
+    "snr": -3.5,
+    "hops_away": 5,
+    "short_name": "Titz",
+    "hw_model": "RAK4631",
+    "role": ""
   },
   "!43570a20": {
     "id": "!43570a20",
