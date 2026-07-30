@@ -1,5 +1,16 @@
 [
   {
+    "id": 1184362308,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-07-30T16:45:45.444012+00:00",
+    "channel": 0,
+    "snr": -9.0,
+    "hops": 7
+  },
+  {
     "id": 3267574096,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 1.0,
     "hops": 4
-  },
-  {
-    "id": 949895450,
-    "from": "!043a3c30",
-    "from_name": "MayboBase",
-    "to": "^all",
-    "text": "Grateful for some rain! Heading down to the Eden project later to see some Dinos",
-    "timestamp": "2026-07-26T06:34:16.237731+00:00",
-    "channel": 0,
-    "snr": 1.5,
-    "hops": 3
   }
 ]
