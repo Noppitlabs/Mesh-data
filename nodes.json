@@ -6772,9 +6772,9 @@
   "!643cd631": {
     "id": "!643cd631",
     "long_name": "Greenhill",
-    "last_heard": "2026-07-30T08:09:03.082858+00:00",
-    "snr": 11.5,
-    "hops_away": 7,
+    "last_heard": "2026-07-30T21:10:17.456575+00:00",
+    "snr": -15.75,
+    "hops_away": 6,
     "short_name": "Dud1",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
