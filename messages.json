@@ -1,5 +1,16 @@
 [
   {
+    "id": 640188597,
+    "from": "!b03be864",
+    "from_name": "!b03be864",
+    "to": "^all",
+    "text": "and yeah it problery only me unless some poor sod in a combine from the 80s only has MW/LW set",
+    "timestamp": "2026-07-30T21:04:08.335253+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 7
+  },
+  {
     "id": 3193202520,
     "from": "!9eed0e74",
     "from_name": "Maia Base",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-26T16:28:32.274938+00:00",
     "channel": 0,
     "snr": -7.25,
-    "hops": 6
-  },
-  {
-    "id": 393411767,
-    "from": "!ae0a4a29",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Longname missing. Corrected",
-    "timestamp": "2026-07-26T12:24:36.714132+00:00",
-    "channel": 0,
-    "snr": -1.0,
     "hops": 6
   }
 ]
