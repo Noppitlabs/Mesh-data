@@ -6753,8 +6753,8 @@
   "!699c9900": {
     "id": "!699c9900",
     "long_name": "Meshtastic 9900",
-    "last_heard": "2026-07-30T01:36:25.624740+00:00",
-    "snr": 11.5,
+    "last_heard": "2026-07-30T02:36:24.964445+00:00",
+    "snr": -13.0,
     "hops_away": 7,
     "short_name": "9900",
     "hw_model": "HELTEC_V4",
