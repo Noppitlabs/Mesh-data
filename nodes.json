@@ -3178,9 +3178,9 @@
   "!45a35360": {
     "id": "!45a35360",
     "long_name": "Meshtastic 5360",
-    "last_heard": "2026-07-29T23:55:01.398951+00:00",
-    "snr": -15.5,
-    "hops_away": 5,
+    "last_heard": "2026-07-30T15:38:17.701404+00:00",
+    "snr": -9.75,
+    "hops_away": 4,
     "short_name": "5360",
     "hw_model": "HELTEC_VISION_MASTER_T190",
     "role": ""
