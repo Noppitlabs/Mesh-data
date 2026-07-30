@@ -470,9 +470,9 @@
   "!bd4f0c48": {
     "id": "!bd4f0c48",
     "long_name": "Axminster mob",
-    "last_heard": "2026-07-30T17:06:00.086749+00:00",
-    "snr": -7.0,
-    "hops_away": 5,
+    "last_heard": "2026-07-30T17:06:58.567237+00:00",
+    "snr": -7.25,
+    "hops_away": 4,
     "short_name": "AX1",
     "hw_model": "HELTEC_V3",
     "role": ""
