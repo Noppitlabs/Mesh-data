@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-30T04:47:54.983409+00:00",
+    "last_heard": "2026-07-30T04:47:56.644677+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1865,9 +1865,9 @@
   "!cebc35e7": {
     "id": "!cebc35e7",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-07-30T03:58:13.082507+00:00",
-    "snr": -19.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-30T04:48:15.312813+00:00",
+    "snr": -14.0,
+    "hops_away": 7,
     "short_name": "35e7",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER"
