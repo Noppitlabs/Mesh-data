@@ -6786,5 +6786,12 @@
     "last_heard": "2026-07-30T13:51:39.855128+00:00",
     "snr": -8.25,
     "hops_away": 6
+  },
+  "!bd4fa17c": {
+    "id": "!bd4fa17c",
+    "long_name": "!bd4fa17c",
+    "last_heard": "2026-07-30T19:23:24.624298+00:00",
+    "snr": null,
+    "hops_away": 5
   }
 }
