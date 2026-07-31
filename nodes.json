@@ -3599,9 +3599,9 @@
   "!fe71fd56": {
     "id": "!fe71fd56",
     "long_name": "B45 Birmingham \u26a1",
-    "last_heard": "2026-07-31T20:28:17.506057+00:00",
-    "snr": -12.25,
-    "hops_away": 4,
+    "last_heard": "2026-07-31T22:55:29.177975+00:00",
+    "snr": -13.0,
+    "hops_away": 7,
     "short_name": "B45",
     "hw_model": "RAK4631",
     "role": ""
