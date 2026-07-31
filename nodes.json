@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-31T10:31:11.219294+00:00",
-    "snr": -10.0,
-    "hops_away": 4,
+    "last_heard": "2026-07-31T10:48:27.052832+00:00",
+    "snr": -9.75,
+    "hops_away": 3,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -982,9 +982,9 @@
   "!91ec7b3a": {
     "id": "!91ec7b3a",
     "long_name": "XXA-SOLAR 7b3a",
-    "last_heard": "2026-07-31T08:48:06.011870+00:00",
-    "snr": -6.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-31T10:48:14.041416+00:00",
+    "snr": -10.0,
+    "hops_away": 3,
     "short_name": "XXAs",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
