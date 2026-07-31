@@ -5297,10 +5297,13 @@
   },
   "!da5c81a0": {
     "id": "!da5c81a0",
-    "long_name": "!da5c81a0",
-    "last_heard": "2026-07-30T15:14:51.423238+00:00",
-    "snr": -18.25,
-    "hops_away": 5
+    "long_name": "Hanbury",
+    "last_heard": "2026-07-31T07:26:26.798679+00:00",
+    "snr": -17.25,
+    "hops_away": 4,
+    "short_name": "Hnbr",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!0a98afd0": {
     "id": "!0a98afd0",
