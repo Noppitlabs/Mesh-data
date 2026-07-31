@@ -1908,8 +1908,8 @@
   "!13a91580": {
     "id": "!13a91580",
     "long_name": "James3D-Mobile1",
-    "last_heard": "2026-07-31T02:40:55.219481+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-07-31T05:29:00.793472+00:00",
+    "snr": -18.5,
     "hops_away": 2,
     "short_name": "J3M1",
     "hw_model": "NOMADSTAR_METEOR_PRO",
@@ -1968,8 +1968,8 @@
   "!da5459d8": {
     "id": "!da5459d8",
     "long_name": "ForestofDeanGL15BASE",
-    "last_heard": "2026-07-31T05:13:51.608994+00:00",
-    "snr": -17.75,
+    "last_heard": "2026-07-31T05:29:22.548020+00:00",
+    "snr": -18.25,
     "hops_away": 0,
     "short_name": "STV2",
     "hw_model": "HELTEC_V3",
