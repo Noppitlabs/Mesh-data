@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-07-31T19:42:36.713403+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-07-31T20:44:07.922435+00:00",
+    "snr": -7.75,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -403,8 +403,8 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-07-31T19:00:23.311920+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-07-31T20:44:00.884981+00:00",
+    "snr": -7.0,
     "hops_away": 2,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
