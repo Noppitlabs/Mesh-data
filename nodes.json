@@ -6831,5 +6831,15 @@
     "short_name": "57M",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!9ee70644": {
+    "id": "!9ee70644",
+    "long_name": "Meshtastic 0644",
+    "last_heard": "2026-07-31T05:53:49.897389+00:00",
+    "snr": -9.0,
+    "hops_away": 5,
+    "short_name": "0644",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
