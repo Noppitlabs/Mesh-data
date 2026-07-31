@@ -403,9 +403,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-07-31T09:46:46.681623+00:00",
-    "snr": -6.5,
-    "hops_away": 3,
+    "last_heard": "2026-07-31T10:17:05.234258+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
@@ -537,8 +537,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-07-31T09:57:16.649068+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-07-31T10:16:12.502490+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
