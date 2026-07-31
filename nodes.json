@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-07-31T18:14:56.333908+00:00",
-    "snr": -6.75,
-    "hops_away": 5,
+    "last_heard": "2026-07-31T18:17:39.155562+00:00",
+    "snr": -8.25,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -4883,8 +4883,8 @@
   "!f66bd428": {
     "id": "!f66bd428",
     "long_name": "sj27 slimjim j-pole",
-    "last_heard": "2026-07-31T18:04:30.108899+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-07-31T18:17:45.443020+00:00",
+    "snr": -8.0,
     "hops_away": 6,
     "short_name": "sj27",
     "hw_model": "HELTEC_V4",
