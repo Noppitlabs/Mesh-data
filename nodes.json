@@ -3267,9 +3267,9 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-07-31T00:08:02.264820+00:00",
-    "snr": 10.5,
-    "hops_away": 1,
+    "last_heard": "2026-07-31T02:43:58.103368+00:00",
+    "snr": -8.0,
+    "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
