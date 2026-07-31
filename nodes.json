@@ -296,8 +296,8 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-07-31T19:57:13.780889+00:00",
-    "snr": 12.75,
+    "last_heard": "2026-07-31T19:58:37.476053+00:00",
+    "snr": 13.0,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
@@ -1629,9 +1629,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-07-31T19:50:22.391647+00:00",
-    "snr": -9.0,
-    "hops_away": 1,
+    "last_heard": "2026-07-31T19:59:08.556239+00:00",
+    "snr": -8.0,
+    "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
