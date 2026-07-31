@@ -2170,9 +2170,9 @@
   "!9ee70fbc": {
     "id": "!9ee70fbc",
     "long_name": "PNTX_M",
-    "last_heard": "2026-07-31T02:14:15.005273+00:00",
-    "snr": -19.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-31T02:23:49.608200+00:00",
+    "snr": -5.75,
+    "hops_away": 3,
     "short_name": "PNTX",
     "hw_model": "HELTEC_V3",
     "role": ""
