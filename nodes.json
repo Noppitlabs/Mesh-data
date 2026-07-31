@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-07-31T06:40:41.834009+00:00",
-    "snr": -9.25,
-    "hops_away": 2,
+    "last_heard": "2026-07-31T06:55:03.993197+00:00",
+    "snr": -5.75,
+    "hops_away": 4,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2334,9 +2334,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-07-31T05:23:47.092910+00:00",
-    "snr": 10.5,
-    "hops_away": 4,
+    "last_heard": "2026-07-31T06:55:20.921430+00:00",
+    "snr": -17.5,
+    "hops_away": 2,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
