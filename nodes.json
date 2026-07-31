@@ -1865,9 +1865,9 @@
   "!cebc35e7": {
     "id": "!cebc35e7",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-07-30T22:58:39.668030+00:00",
-    "snr": -4.75,
-    "hops_away": 6,
+    "last_heard": "2026-07-31T00:58:37.950735+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "35e7",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER"
