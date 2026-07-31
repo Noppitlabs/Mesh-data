@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-07-31T12:43:17.029085+00:00",
+    "last_heard": "2026-07-31T12:44:18.551999+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2327,9 +2327,9 @@
   "!163b3fd6": {
     "id": "!163b3fd6",
     "long_name": "A-NET Main ",
-    "last_heard": "2026-07-31T12:41:46.389322+00:00",
-    "snr": -5.25,
-    "hops_away": 6,
+    "last_heard": "2026-07-31T12:44:28.603982+00:00",
+    "snr": -6.0,
+    "hops_away": 4,
     "short_name": "ANGD",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
