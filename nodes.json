@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-07-31T00:16:52.782817+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-07-31T00:19:49.225237+00:00",
+    "snr": -8.25,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -3768,9 +3768,9 @@
   "!9ea134a0": {
     "id": "!9ea134a0",
     "long_name": "MrBs portable mesh",
-    "last_heard": "2026-07-30T23:50:29.509051+00:00",
-    "snr": -6.0,
-    "hops_away": 7,
+    "last_heard": "2026-07-31T00:20:04.305348+00:00",
+    "snr": -18.5,
+    "hops_away": 6,
     "short_name": "Mr B",
     "hw_model": "HELTEC_V3",
     "role": ""
