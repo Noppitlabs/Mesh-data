@@ -5041,9 +5041,9 @@
   "!d3191f41": {
     "id": "!d3191f41",
     "long_name": "J Bransford Station",
-    "last_heard": "2026-07-31T03:54:34.647388+00:00",
-    "snr": 10.0,
-    "hops_away": 7,
+    "last_heard": "2026-07-31T05:34:09.863951+00:00",
+    "snr": -8.0,
+    "hops_away": 6,
     "short_name": "JBS",
     "hw_model": "RAK4631",
     "role": ""
