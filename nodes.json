@@ -2613,9 +2613,9 @@
   "!b29f9cb8": {
     "id": "!b29f9cb8",
     "long_name": "SwdMsh 9cb8",
-    "last_heard": "2026-07-31T11:47:27.643111+00:00",
-    "snr": -8.5,
-    "hops_away": 6,
+    "last_heard": "2026-07-31T16:30:29.819217+00:00",
+    "snr": -7.0,
+    "hops_away": 7,
     "short_name": "9cb8",
     "hw_model": "HELTEC_V4",
     "role": ""
