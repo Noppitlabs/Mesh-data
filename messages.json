@@ -1,5 +1,16 @@
 [
   {
+    "id": 4036240220,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "3\ufe0f\u20e3",
+    "timestamp": "2026-07-31T22:17:28.512758+00:00",
+    "channel": 0,
+    "snr": -8.25,
+    "hops": 4
+  },
+  {
     "id": 4036240219,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.0,
     "hops": 2
-  },
-  {
-    "id": 90545641,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "the issue with home batteries is they can act as a bottleneck for some people",
-    "timestamp": "2026-07-28T19:28:40.096156+00:00",
-    "channel": 0,
-    "snr": -9.75,
-    "hops": 6
   }
 ]
