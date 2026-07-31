@@ -1,5 +1,16 @@
 [
   {
+    "id": 3401296275,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "3\ufe0f\u20e3",
+    "timestamp": "2026-07-31T07:56:51.177359+00:00",
+    "channel": 0,
+    "snr": -1.0,
+    "hops": 5
+  },
+  {
     "id": 715265799,
     "from": "!b03be864",
     "from_name": "!b03be864",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -2.5,
     "hops": 2
-  },
-  {
-    "id": 705171225,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "yes seems to be good, finaly not that hot",
-    "timestamp": "2026-07-26T18:15:45.529228+00:00",
-    "channel": 0,
-    "snr": -16.5,
-    "hops": 1
   }
 ]
