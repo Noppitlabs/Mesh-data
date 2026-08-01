@@ -316,8 +316,8 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-08-01T02:41:38.954634+00:00",
-    "snr": 13.0,
+    "last_heard": "2026-08-01T05:07:20.475454+00:00",
+    "snr": -6.75,
     "hops_away": 2,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
@@ -2143,9 +2143,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-01T05:04:56.875883+00:00",
-    "snr": -18.5,
-    "hops_away": 1,
+    "last_heard": "2026-08-01T05:07:10.210911+00:00",
+    "snr": -6.75,
+    "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
