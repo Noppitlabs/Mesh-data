@@ -527,9 +527,9 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-08-01T09:04:57.425943+00:00",
-    "snr": -3.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-01T11:15:04.838652+00:00",
+    "snr": -10.0,
+    "hops_away": 2,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -3068,8 +3068,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-08-01T11:11:35.473439+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-08-01T11:15:08.003654+00:00",
+    "snr": -4.25,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
