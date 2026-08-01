@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-01T21:59:43.509253+00:00",
+    "last_heard": "2026-08-01T22:00:43.552395+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -734,8 +734,8 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-08-01T21:17:27.874166+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-08-01T22:00:04.574757+00:00",
+    "snr": -19.5,
     "hops_away": 5,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
