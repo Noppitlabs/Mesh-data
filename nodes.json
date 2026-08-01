@@ -4499,9 +4499,9 @@
   "!07339f2b": {
     "id": "!07339f2b",
     "long_name": "Maia mobile",
-    "last_heard": "2026-08-01T04:29:21.535792+00:00",
-    "snr": -19.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-01T04:57:51.985682+00:00",
+    "snr": -7.25,
+    "hops_away": 4,
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
