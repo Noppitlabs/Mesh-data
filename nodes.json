@@ -316,8 +316,8 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-08-01T11:49:54.826641+00:00",
-    "snr": -2.0,
+    "last_heard": "2026-08-01T14:04:55.627329+00:00",
+    "snr": -0.75,
     "hops_away": 2,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
@@ -3051,9 +3051,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-08-01T13:36:59.250724+00:00",
-    "snr": -2.25,
-    "hops_away": 1,
+    "last_heard": "2026-08-01T14:04:51.685410+00:00",
+    "snr": -0.75,
+    "hops_away": 2,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
