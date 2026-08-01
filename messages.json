@@ -1,5 +1,16 @@
 [
   {
+    "id": 472945611,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "yeah.... they were promising a bit more yesterday....",
+    "timestamp": "2026-08-01T08:22:25.078746+00:00",
+    "channel": 0,
+    "snr": -4.75,
+    "hops": 2
+  },
+  {
     "id": 519644937,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.25,
     "hops": 6
-  },
-  {
-    "id": 969750913,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "arse",
-    "timestamp": "2026-07-29T17:36:07.288864+00:00",
-    "channel": 0,
-    "snr": -7.5,
-    "hops": 5
   }
 ]
