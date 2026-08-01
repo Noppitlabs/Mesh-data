@@ -306,9 +306,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-08-01T21:20:48.869672+00:00",
-    "snr": -3.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-01T23:33:49.265497+00:00",
+    "snr": -6.5,
+    "hops_away": 2,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1096,8 +1096,8 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "GCM017-LancresseRoad\ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-07-29T03:16:50.386660+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-08-01T23:33:58.857221+00:00",
+    "snr": -5.75,
     "hops_away": 5,
     "short_name": "59a7",
     "hw_model": "HELTEC_MESH_NODE_T114",
