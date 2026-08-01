@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-01T14:14:51.535231+00:00",
-    "snr": -1.0,
+    "last_heard": "2026-08-01T14:19:43.399108+00:00",
+    "snr": -2.0,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -366,9 +366,9 @@
   "!798e872d": {
     "id": "!798e872d",
     "long_name": "Exmouth~East",
-    "last_heard": "2026-08-01T13:18:45.513468+00:00",
-    "snr": -2.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-01T14:19:45.377950+00:00",
+    "snr": -2.25,
+    "hops_away": 2,
     "short_name": "R1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
