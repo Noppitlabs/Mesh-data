@@ -1,5 +1,16 @@
 [
   {
+    "id": 626843500,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "changing topic - anyone seen supernatural?",
+    "timestamp": "2026-08-01T08:39:45.673173+00:00",
+    "channel": 0,
+    "snr": -2.75,
+    "hops": 2
+  },
+  {
     "id": 896223488,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-30T13:51:38.396160+00:00",
     "channel": 0,
     "snr": -8.25,
-    "hops": 6
-  },
-  {
-    "id": 784477893,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "does make me wounder if half the wild fires are \"accidental\" so farmers can make a point",
-    "timestamp": "2026-07-30T13:49:58.465404+00:00",
-    "channel": 0,
-    "snr": -7.75,
     "hops": 6
   }
 ]
