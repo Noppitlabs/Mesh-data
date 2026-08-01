@@ -420,9 +420,9 @@
   "!62f8b250": {
     "id": "!62f8b250",
     "long_name": "base b250",
-    "last_heard": "2026-08-01T19:34:45.377220+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-01T20:50:32.795230+00:00",
+    "snr": -3.0,
+    "hops_away": 4,
     "short_name": "b250",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
