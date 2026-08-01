@@ -296,8 +296,8 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-01T10:06:38.857383+00:00",
-    "snr": 13.75,
+    "last_heard": "2026-08-01T10:29:33.875399+00:00",
+    "snr": 13.5,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
@@ -4499,8 +4499,8 @@
   "!07339f2b": {
     "id": "!07339f2b",
     "long_name": "Maia mobile",
-    "last_heard": "2026-08-01T10:05:44.733458+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-08-01T10:29:44.724165+00:00",
+    "snr": -1.75,
     "hops_away": 2,
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
