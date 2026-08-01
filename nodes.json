@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-01T04:56:58.568703+00:00",
+    "last_heard": "2026-08-01T04:57:59.251678+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4111,8 +4111,8 @@
   "!1ca7f3ed": {
     "id": "!1ca7f3ed",
     "long_name": "MHUK Cadair Berwyn Test",
-    "last_heard": "2026-07-31T16:58:48.192449+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-01T04:58:09.056686+00:00",
+    "snr": 12.75,
     "hops_away": 7,
     "short_name": "f3ed",
     "hw_model": "HELTEC_MESH_NODE_T114",
