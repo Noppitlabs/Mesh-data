@@ -6889,5 +6889,15 @@
     "short_name": "ab68",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
+  },
+  "!1ba56624": {
+    "id": "!1ba56624",
+    "long_name": "M0NNK mobile",
+    "last_heard": "2026-08-01T08:00:50.048682+00:00",
+    "snr": -2.75,
+    "hops_away": 2,
+    "short_name": "BS2M",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
