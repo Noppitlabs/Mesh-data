@@ -1,5 +1,16 @@
 [
   {
+    "id": 344603789,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "my phone app says to expect some rain today",
+    "timestamp": "2026-08-01T08:18:57.653016+00:00",
+    "channel": 0,
+    "snr": -2.75,
+    "hops": 3
+  },
+  {
     "id": 848326218,
     "from": "!a0cc1e64",
     "from_name": "Stonehouse GL10 M0XXX Ham Loft Homebrew",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-29T16:32:06.932337+00:00",
     "channel": 0,
     "snr": -4.75,
-    "hops": 5
-  },
-  {
-    "id": 1990865610,
-    "from": "!f66bd428",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-07-29T15:01:09.955032+00:00",
-    "channel": 0,
-    "snr": -5.5,
     "hops": 5
   }
 ]
