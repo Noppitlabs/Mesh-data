@@ -1,5 +1,16 @@
 [
   {
+    "id": 687522128,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "any good?",
+    "timestamp": "2026-08-01T08:40:04.296898+00:00",
+    "channel": 0,
+    "snr": -3.5,
+    "hops": 2
+  },
+  {
     "id": 626843500,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-30T15:48:47.773266+00:00",
     "channel": 0,
     "snr": -5.75,
-    "hops": 6
-  },
-  {
-    "id": 406581815,
-    "from": "!2cdff595",
-    "from_name": "!2cdff595",
-    "to": "^all",
-    "text": "its a fair question, and one that nobody will ever answer",
-    "timestamp": "2026-07-30T13:51:38.396160+00:00",
-    "channel": 0,
-    "snr": -8.25,
     "hops": 6
   }
 ]
