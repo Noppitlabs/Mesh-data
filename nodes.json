@@ -219,9 +219,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-08-01T01:39:01.559370+00:00",
-    "snr": -7.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-01T02:03:52.990013+00:00",
+    "snr": -12.0,
+    "hops_away": 4,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -6334,8 +6334,8 @@
   "!a0ccdd3c": {
     "id": "!a0ccdd3c",
     "long_name": "M0NMC C/M",
-    "last_heard": "2026-07-31T04:12:19.775320+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-08-01T02:03:58.754772+00:00",
+    "snr": -17.5,
     "hops_away": 4,
     "short_name": "NM-C",
     "hw_model": "HELTEC_V3",
