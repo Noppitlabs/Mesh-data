@@ -6883,8 +6883,8 @@
   "!04c5ab68": {
     "id": "!04c5ab68",
     "long_name": "Meshtastic ab68",
-    "last_heard": "2026-08-01T03:16:18.483410+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-08-01T10:14:09.939001+00:00",
+    "snr": -2.5,
     "hops_away": 6,
     "short_name": "ab68",
     "hw_model": "HELTEC_V4",
