@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-01T16:12:36.516694+00:00",
-    "snr": -6.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-01T16:13:34.250542+00:00",
+    "snr": -6.25,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4496,8 +4496,8 @@
   "!07339f2b": {
     "id": "!07339f2b",
     "long_name": "Maia mobile",
-    "last_heard": "2026-08-01T15:47:13.094911+00:00",
-    "snr": -4.75,
+    "last_heard": "2026-08-01T16:13:30.336346+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
