@@ -1,5 +1,16 @@
 [
   {
+    "id": 411566607,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "Vibe coding beard",
+    "timestamp": "2026-08-01T21:11:08.851494+00:00",
+    "channel": 0,
+    "snr": -8.0,
+    "hops": 6
+  },
+  {
     "id": 1764246549,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.5,
     "hops": 6
-  },
-  {
-    "id": 1594343011,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "Now my LongFast has returned to it's rightful notification sound. Hmm so something got garbled.",
-    "timestamp": "2026-07-31T11:46:44.522042+00:00",
-    "channel": 0,
-    "snr": -10.75,
-    "hops": 4
   }
 ]
