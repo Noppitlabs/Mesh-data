@@ -6923,5 +6923,12 @@
     "short_name": "WSTH",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!043cbedc": {
+    "id": "!043cbedc",
+    "long_name": "!043cbedc",
+    "last_heard": "2026-08-01T15:14:57.910376+00:00",
+    "snr": -6.0,
+    "hops_away": 6
   }
 }
