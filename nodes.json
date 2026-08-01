@@ -296,8 +296,8 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-01T00:58:57.837007+00:00",
-    "snr": 13.0,
+    "last_heard": "2026-08-01T01:07:18.937035+00:00",
+    "snr": 13.25,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
@@ -537,8 +537,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-01T00:39:00.405027+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-08-01T01:07:32.447121+00:00",
+    "snr": -7.25,
     "hops_away": 4,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
