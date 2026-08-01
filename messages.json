@@ -1,5 +1,16 @@
 [
   {
+    "id": 885894405,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "if you say so lol",
+    "timestamp": "2026-08-01T12:19:02.014579+00:00",
+    "channel": 0,
+    "snr": -2.5,
+    "hops": 2
+  },
+  {
     "id": 1224508885,
     "from": "!73a49e8b",
     "from_name": "!73a49e8b",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.0,
     "hops": 7
-  },
-  {
-    "id": 3193202520,
-    "from": "!9eed0e74",
-    "from_name": "Maia Base",
-    "to": "^all",
-    "text": "Pong!",
-    "timestamp": "2026-07-30T21:01:17.943951+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 2
   }
 ]
