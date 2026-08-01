@@ -6599,8 +6599,8 @@
   "!43562910": {
     "id": "!43562910",
     "long_name": "BS41 repeater",
-    "last_heard": "2026-07-23T10:37:15.307060+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-08-01T13:38:01.376050+00:00",
+    "snr": -1.75,
     "hops_away": 7,
     "short_name": "BS41",
     "hw_model": "HELTEC_V3",
