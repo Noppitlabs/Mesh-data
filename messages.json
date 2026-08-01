@@ -1,5 +1,16 @@
 [
   {
+    "id": 3286679251,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "5 hops",
+    "timestamp": "2026-08-01T19:48:16.255139+00:00",
+    "channel": 0,
+    "snr": -5.75,
+    "hops": 7
+  },
+  {
     "id": 69201338,
     "from": "!0409d1c0",
     "from_name": "M7FYU",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.25,
     "hops": 5
-  },
-  {
-    "id": 16344205,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "yawn",
-    "timestamp": "2026-07-31T11:06:55.285297+00:00",
-    "channel": 0,
-    "snr": -9.5,
-    "hops": 3
   }
 ]
