@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-01T01:06:43.348838+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-08-01T01:06:49.994364+00:00",
+    "snr": -8.0,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-01T00:47:16.314828+00:00",
-    "snr": 12.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-01T01:06:53.822463+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
