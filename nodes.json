@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-01T22:04:23.222442+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-08-01T22:05:47.355427+00:00",
+    "snr": -5.75,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -2644,9 +2644,9 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-01T22:02:55.441292+00:00",
-    "snr": -5.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-01T22:06:05.022816+00:00",
+    "snr": -18.0,
+    "hops_away": 1,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
     "role": ""
