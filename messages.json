@@ -1,5 +1,16 @@
 [
   {
+    "id": 462549356,
+    "from": "!b03be864",
+    "from_name": "!b03be864",
+    "to": "^all",
+    "text": "ping",
+    "timestamp": "2026-08-01T18:21:05.773782+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 4
+  },
+  {
     "id": 808345145,
     "from": "!433d2bf8",
     "from_name": "\ud83d\udeabWorcester South \ud83d\uddfc",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-30T21:47:30.445384+00:00",
     "channel": 0,
     "snr": -14.25,
-    "hops": 7
-  },
-  {
-    "id": 861588160,
-    "from": "!2cdff595",
-    "from_name": "!2cdff595",
-    "to": "^all",
-    "text": "IOM is weird",
-    "timestamp": "2026-07-30T21:41:57.872754+00:00",
-    "channel": 0,
-    "snr": -8.5,
     "hops": 7
   }
 ]
