@@ -1,5 +1,16 @@
 [
   {
+    "id": 535129962,
+    "from": "!2cdff595",
+    "from_name": "!2cdff595",
+    "to": "^all",
+    "text": "enjoying the weather>",
+    "timestamp": "2026-08-01T15:08:22.855859+00:00",
+    "channel": 0,
+    "snr": -6.5,
+    "hops": 7
+  },
+  {
     "id": 885894405,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.75,
     "hops": 6
-  },
-  {
-    "id": 640188597,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "and yeah it problery only me unless some poor sod in a combine from the 80s only has MW/LW set",
-    "timestamp": "2026-07-30T21:04:08.335253+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 7
   }
 ]
