@@ -1,5 +1,16 @@
 [
   {
+    "id": 69201338,
+    "from": "!0409d1c0",
+    "from_name": "M7FYU",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-08-01T19:48:00.415952+00:00",
+    "channel": 0,
+    "snr": -19.25,
+    "hops": 2
+  },
+  {
     "id": 982262111,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-31T11:06:55.285297+00:00",
     "channel": 0,
     "snr": -9.5,
-    "hops": 3
-  },
-  {
-    "id": 1556720537,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "7\ufe0f\u20e3",
-    "timestamp": "2026-07-31T11:01:12.271478+00:00",
-    "channel": 0,
-    "snr": -12.5,
     "hops": 3
   }
 ]
