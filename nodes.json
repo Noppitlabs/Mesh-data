@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T20:06:45.744881+00:00",
+    "last_heard": "2026-08-02T20:06:47.787652+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1508,9 +1508,9 @@
   "!9ea0bce4": {
     "id": "!9ea0bce4",
     "long_name": "Hyperion WirelessPaper",
-    "last_heard": "2026-08-02T08:06:47.221586+00:00",
-    "snr": -19.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-02T20:06:58.828223+00:00",
+    "snr": -10.75,
+    "hops_away": 5,
     "short_name": "HPRN",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_BASE"
