@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-02T09:45:27.157411+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-08-02T10:45:21.709128+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -6805,9 +6805,9 @@
   "!bd4fa17c": {
     "id": "!bd4fa17c",
     "long_name": "!bd4fa17c",
-    "last_heard": "2026-07-30T19:23:24.624298+00:00",
-    "snr": null,
-    "hops_away": 5
+    "last_heard": "2026-08-02T10:45:38.255727+00:00",
+    "snr": -6.5,
+    "hops_away": 7
   },
   "!a6961670": {
     "id": "!a6961670",
