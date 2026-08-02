@@ -2005,9 +2005,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-02T06:16:01.977726+00:00",
-    "snr": -4.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-02T06:52:29.761219+00:00",
+    "snr": -17.5,
+    "hops_away": 1,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
@@ -2317,9 +2317,9 @@
   "!da547404": {
     "id": "!da547404",
     "long_name": "GU4WRP",
-    "last_heard": "2026-08-02T05:36:15.650738+00:00",
-    "snr": -17.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-02T06:52:31.622549+00:00",
+    "snr": -17.25,
+    "hops_away": 5,
     "short_name": "WRP",
     "hw_model": "HELTEC_V3",
     "role": ""
