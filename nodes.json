@@ -6552,8 +6552,8 @@
   "!b5f94b48": {
     "id": "!b5f94b48",
     "long_name": "Dundry Solar Node \u2600\ufe0f",
-    "last_heard": "2026-08-01T19:40:57.807623+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-08-02T01:57:54.147102+00:00",
+    "snr": -9.75,
     "hops_away": 4,
     "short_name": "DSN1",
     "hw_model": "SEEED_SOLAR_NODE",
