@@ -6988,9 +6988,9 @@
   "!043c2acc": {
     "id": "!043c2acc",
     "long_name": "Meshtastic 2acc",
-    "last_heard": "2026-08-02T09:03:32.042079+00:00",
-    "snr": -7.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-02T09:11:45.848372+00:00",
+    "snr": -18.75,
+    "hops_away": 2,
     "short_name": "2acc",
     "hw_model": "HELTEC_V3",
     "role": ""
