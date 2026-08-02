@@ -2798,9 +2798,9 @@
   "!cae810a9": {
     "id": "!cae810a9",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-08-02T04:39:40.068300+00:00",
-    "snr": -18.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-02T06:38:33.439222+00:00",
+    "snr": -5.25,
+    "hops_away": 7,
     "short_name": "10a9",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "CLIENT_MUTE"
