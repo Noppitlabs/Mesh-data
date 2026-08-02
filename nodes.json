@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T18:39:42.184309+00:00",
+    "last_heard": "2026-08-02T18:40:43.919156+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2791,9 +2791,9 @@
   "!ae312a0f": {
     "id": "!ae312a0f",
     "long_name": "Quackers",
-    "last_heard": "2026-08-02T18:19:16.942921+00:00",
-    "snr": -9.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-02T18:40:55.675322+00:00",
+    "snr": -19.75,
+    "hops_away": 2,
     "short_name": "Qkrs",
     "hw_model": "T_ECHO",
     "role": ""
