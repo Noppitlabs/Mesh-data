@@ -5706,13 +5706,10 @@
   },
   "!1332ddec": {
     "id": "!1332ddec",
-    "long_name": "M1KEE/M",
-    "last_heard": "2026-07-17T09:18:16.497272+00:00",
-    "snr": -10.25,
-    "hops_away": 1,
-    "short_name": "\ud83d\udcf6",
-    "hw_model": "THINKNODE_M5",
-    "role": ""
+    "long_name": "!1332ddec",
+    "last_heard": "2026-08-02T14:13:24.438940+00:00",
+    "snr": -8.5,
+    "hops_away": 7
   },
   "!698270d0": {
     "id": "!698270d0",
