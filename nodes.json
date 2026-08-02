@@ -306,9 +306,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-08-02T14:43:22.711879+00:00",
-    "snr": -11.5,
-    "hops_away": 7,
+    "last_heard": "2026-08-02T15:18:59.160057+00:00",
+    "snr": -3.25,
+    "hops_away": 3,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2694,9 +2694,9 @@
   "!7c5cc0bc": {
     "id": "!7c5cc0bc",
     "long_name": "Cinderford_Rusty_Pole",
-    "last_heard": "2026-08-02T09:49:50.187706+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-08-02T15:19:00.577278+00:00",
+    "snr": -2.75,
+    "hops_away": 4,
     "short_name": "Cndr",
     "hw_model": "HELTEC_V3",
     "role": ""
