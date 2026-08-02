@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-02T02:50:21.680542+00:00",
-    "snr": -6.5,
-    "hops_away": 1,
+    "last_heard": "2026-08-02T02:51:00.626283+00:00",
+    "snr": -6.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4034,9 +4034,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-08-02T02:24:49.070010+00:00",
-    "snr": -17.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-02T02:51:05.845449+00:00",
+    "snr": -10.0,
+    "hops_away": 5,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
