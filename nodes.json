@@ -1629,9 +1629,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-02T04:59:14.780590+00:00",
-    "snr": -5.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T05:10:18.648300+00:00",
+    "snr": -7.5,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -2647,9 +2647,9 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-02T05:08:04.166814+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-08-02T05:10:11.285948+00:00",
+    "snr": -19.5,
+    "hops_away": 2,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
     "role": ""
