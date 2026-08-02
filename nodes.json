@@ -7022,5 +7022,15 @@
     "last_heard": "2026-08-02T16:44:53.791093+00:00",
     "snr": -7.5,
     "hops_away": 5
+  },
+  "!b03d4430": {
+    "id": "!b03d4430",
+    "long_name": "SC Base Node",
+    "last_heard": "2026-08-02T17:15:24.578944+00:00",
+    "snr": -4.25,
+    "hops_away": 5,
+    "short_name": "SCB",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
