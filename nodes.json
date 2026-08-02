@@ -2209,10 +2209,13 @@
   },
   "!da5e0380": {
     "id": "!da5e0380",
-    "long_name": "!da5e0380",
-    "last_heard": "2026-08-01T04:20:21.797314+00:00",
-    "snr": -19.5,
-    "hops_away": 1
+    "long_name": "JMK HELT 0380",
+    "last_heard": "2026-08-02T00:21:15.106076+00:00",
+    "snr": -17.5,
+    "hops_away": 1,
+    "short_name": "HELT",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!0404d940": {
     "id": "!0404d940",
