@@ -1,5 +1,16 @@
 [
   {
+    "id": 196717686,
+    "from": "!433e7340",
+    "from_name": "!433e7340",
+    "to": "^all",
+    "text": "Evening Dave",
+    "timestamp": "2026-08-02T14:46:23.307065+00:00",
+    "channel": 0,
+    "snr": -11.0,
+    "hops": 6
+  },
+  {
     "id": 734560660,
     "from": "!b29f9cb8",
     "from_name": "SwdMsh 9cb8",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 12.75,
     "hops": 2
-  },
-  {
-    "id": 1004200056,
-    "from": "!f66bd428",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-08-01T03:53:14.217581+00:00",
-    "channel": 0,
-    "snr": -19.25,
-    "hops": 5
   }
 ]
