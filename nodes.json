@@ -3364,9 +3364,9 @@
   "!433b4bc4": {
     "id": "!433b4bc4",
     "long_name": "M0",
-    "last_heard": "2026-08-01T20:39:29.540277+00:00",
-    "snr": -8.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-02T09:09:13.005317+00:00",
+    "snr": -17.0,
+    "hops_away": 6,
     "short_name": "M0",
     "hw_model": "HELTEC_V3",
     "role": ""
