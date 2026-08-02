@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T07:21:08.175377+00:00",
+    "last_heard": "2026-08-02T07:21:10.257729+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4947,8 +4947,8 @@
   "!698422f4": {
     "id": "!698422f4",
     "long_name": "Fantasia Hub",
-    "last_heard": "2026-08-02T02:21:20.719191+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-08-02T07:21:20.742553+00:00",
+    "snr": -18.0,
     "hops_away": 4,
     "short_name": "F4HB",
     "hw_model": "HELTEC_V4",
