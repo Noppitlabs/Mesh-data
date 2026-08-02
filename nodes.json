@@ -1488,8 +1488,8 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-08-02T16:16:48.593401+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-02T23:46:38.012865+00:00",
+    "snr": -19.75,
     "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
@@ -2653,9 +2653,9 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-02T23:44:29.320253+00:00",
-    "snr": -2.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T23:45:56.723471+00:00",
+    "snr": -4.0,
+    "hops_away": 3,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
     "role": ""
