@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T20:15:46.091476+00:00",
+    "last_heard": "2026-08-02T20:16:46.129694+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2360,8 +2360,8 @@
   "!90a0f6f4": {
     "id": "!90a0f6f4",
     "long_name": "GCM0016 - Capelles \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-08-02T19:25:34.980869+00:00",
-    "snr": -19.75,
+    "last_heard": "2026-08-02T20:17:16.806271+00:00",
+    "snr": -10.0,
     "hops_away": 6,
     "short_name": "f6f4",
     "hw_model": "SEEED_XIAO_S3",
