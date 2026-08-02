@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-02T15:18:47.750170+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-08-02T15:18:56.132675+00:00",
+    "snr": -2.5,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -450,8 +450,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-08-02T14:55:54.695072+00:00",
-    "snr": -12.0,
+    "last_heard": "2026-08-02T15:18:57.457370+00:00",
+    "snr": -6.0,
     "hops_away": 3,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
