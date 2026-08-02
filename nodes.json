@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-02T10:50:01.278744+00:00",
-    "snr": -6.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-02T11:45:24.006636+00:00",
+    "snr": -5.75,
+    "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -1325,9 +1325,9 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-08-02T10:21:04.915001+00:00",
-    "snr": -6.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T11:45:41.995321+00:00",
+    "snr": -4.0,
+    "hops_away": 3,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_MUTE"
