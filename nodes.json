@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T06:09:04.775928+00:00",
+    "last_heard": "2026-08-02T06:10:04.813787+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1019,8 +1019,8 @@
   "!9eed0e74": {
     "id": "!9eed0e74",
     "long_name": "Maia Base",
-    "last_heard": "2026-08-01T21:50:03.374700+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-02T06:10:17.537655+00:00",
+    "snr": -10.25,
     "hops_away": 2,
     "short_name": "Maia",
     "hw_model": "HELTEC_V3",
