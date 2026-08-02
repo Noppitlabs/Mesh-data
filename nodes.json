@@ -6873,9 +6873,9 @@
   "!acc9a243": {
     "id": "!acc9a243",
     "long_name": "JB Mobile V4",
-    "last_heard": "2026-08-01T02:34:24.534547+00:00",
-    "snr": -5.5,
-    "hops_away": 7,
+    "last_heard": "2026-08-02T00:34:21.323432+00:00",
+    "snr": -7.25,
+    "hops_away": 6,
     "short_name": "JB/M",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_MUTE"
