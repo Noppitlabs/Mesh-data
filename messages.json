@@ -1,5 +1,16 @@
 [
   {
+    "id": 1472734134,
+    "from": "!f66bd428",
+    "from_name": "sj27 slimjim j-pole",
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-08-02T07:03:14.175959+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 5
+  },
+  {
     "id": 1977020354,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -536,17 +547,6 @@
     "timestamp": "2026-07-31T22:05:48.288831+00:00",
     "channel": 0,
     "snr": -6.0,
-    "hops": 4
-  },
-  {
-    "id": 1284009674,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "\ud83d\ude06",
-    "timestamp": "2026-07-31T21:25:51.837100+00:00",
-    "channel": 0,
-    "snr": -9.25,
     "hops": 4
   }
 ]
