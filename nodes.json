@@ -1146,9 +1146,9 @@
   "!a9fed67f": {
     "id": "!a9fed67f",
     "long_name": "GCM007 - Rue Du Preel \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-08-02T04:42:28.171500+00:00",
-    "snr": -6.75,
-    "hops_away": 6,
+    "last_heard": "2026-08-02T13:40:14.898878+00:00",
+    "snr": -5.5,
+    "hops_away": 2,
     "short_name": "d67f",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -1629,8 +1629,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-02T13:30:03.070129+00:00",
-    "snr": -5.75,
+    "last_heard": "2026-08-02T13:40:04.516082+00:00",
+    "snr": -5.25,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
