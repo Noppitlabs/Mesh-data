@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-02T14:40:26.495091+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-08-02T15:17:39.061481+00:00",
+    "snr": -1.75,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T14:40:31.508117+00:00",
+    "last_heard": "2026-08-02T15:17:59.119473+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-02T14:23:58.488913+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-08-02T15:11:57.993331+00:00",
+    "snr": -5.75,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-02T14:29:25.682760+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-08-02T15:04:16.378791+00:00",
+    "snr": -4.25,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-02T14:23:33.019933+00:00",
-    "snr": -9.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T15:15:18.648509+00:00",
+    "snr": -3.5,
+    "hops_away": 3,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-02T13:45:25.802930+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-02T14:52:24.629508+00:00",
+    "snr": -13.0,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-02T14:37:11.360398+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-08-02T15:18:19.189438+00:00",
+    "snr": -5.0,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-02T14:15:49.985254+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-08-02T15:05:56.691271+00:00",
+    "snr": -15.25,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -219,9 +219,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-08-02T14:28:25.050338+00:00",
-    "snr": -7.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-02T15:16:38.893694+00:00",
+    "snr": -1.5,
+    "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -296,8 +296,8 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-02T12:58:40.520221+00:00",
-    "snr": 13.25,
+    "last_heard": "2026-08-02T15:13:38.314233+00:00",
+    "snr": 10.25,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
@@ -306,9 +306,9 @@
   "!da565704": {
     "id": "!da565704",
     "long_name": "Meshtastic West Cardiff",
-    "last_heard": "2026-08-02T12:42:28.623529+00:00",
-    "snr": -7.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T14:43:22.711879+00:00",
+    "snr": -11.5,
+    "hops_away": 7,
     "short_name": "CDFW",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -326,9 +326,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-08-02T14:25:50.018852+00:00",
-    "snr": -9.25,
-    "hops_away": 7,
+    "last_heard": "2026-08-02T15:06:16.776037+00:00",
+    "snr": -6.75,
+    "hops_away": 5,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -336,8 +336,8 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-08-02T11:57:38.262006+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-08-02T15:16:18.840339+00:00",
+    "snr": -2.25,
     "hops_away": 6,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
@@ -450,9 +450,9 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-08-02T14:16:48.982210+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T14:55:54.695072+00:00",
+    "snr": -12.0,
+    "hops_away": 3,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
@@ -527,8 +527,8 @@
   "!065b41a2": {
     "id": "!065b41a2",
     "long_name": "Tarr Exmoor 5 Repeater ",
-    "last_heard": "2026-08-02T11:15:13.494426+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-08-02T15:07:37.073866+00:00",
+    "snr": -3.5,
     "hops_away": 2,
     "short_name": "TE 5",
     "hw_model": "RAK4631",
@@ -537,8 +537,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-02T14:27:33.338836+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-08-02T15:07:57.133257+00:00",
+    "snr": -3.5,
     "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
@@ -714,8 +714,8 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-08-02T12:52:28.729433+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-08-02T14:57:35.084588+00:00",
+    "snr": -16.0,
     "hops_away": 3,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
@@ -801,8 +801,8 @@
   "!fe93d41f": {
     "id": "!fe93d41f",
     "long_name": "M0PCZ 7 ele Yagi Solar \ud83c\udfe1 ",
-    "last_heard": "2026-07-29T01:42:47.701045+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-08-02T15:14:58.579322+00:00",
+    "snr": -1.25,
     "hops_away": 7,
     "short_name": "Base",
     "hw_model": "RAK4631",
@@ -1039,9 +1039,9 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-08-02T13:14:57.557043+00:00",
-    "snr": -8.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-02T15:10:17.674849+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
@@ -1412,9 +1412,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-08-02T11:31:14.462638+00:00",
-    "snr": -11.5,
-    "hops_away": 6,
+    "last_heard": "2026-08-02T15:03:16.218901+00:00",
+    "snr": -2.0,
+    "hops_away": 7,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1629,9 +1629,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-02T14:40:02.660179+00:00",
-    "snr": -8.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-02T15:13:58.389006+00:00",
+    "snr": -1.25,
+    "hops_away": 2,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -2005,9 +2005,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-02T14:28:04.287646+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T15:09:37.516258+00:00",
+    "snr": -4.25,
+    "hops_away": 3,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
@@ -2025,9 +2025,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-08-02T14:08:32.245371+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-02T15:09:17.448250+00:00",
+    "snr": -4.0,
+    "hops_away": 2,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -2337,9 +2337,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-08-02T14:11:02.689400+00:00",
-    "snr": -9.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T15:02:56.142042+00:00",
+    "snr": -4.0,
+    "hops_away": 4,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2667,9 +2667,9 @@
   "!db57a270": {
     "id": "!db57a270",
     "long_name": "Winkleigh Desk",
-    "last_heard": "2026-08-02T13:18:24.263051+00:00",
-    "snr": -5.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-02T15:15:38.712463+00:00",
+    "snr": -3.0,
+    "hops_away": 4,
     "short_name": "DESK",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
@@ -3054,9 +3054,9 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-08-02T14:37:52.915776+00:00",
+    "last_heard": "2026-08-02T14:58:35.311182+00:00",
     "snr": -12.25,
-    "hops_away": 3,
+    "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
     "role": ""
@@ -3071,8 +3071,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-08-02T14:28:19.872117+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-08-02T14:56:54.887495+00:00",
+    "snr": -9.75,
     "hops_away": 4,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
@@ -3217,9 +3217,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-08-02T14:31:55.870322+00:00",
-    "snr": -10.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-02T15:07:17.018151+00:00",
+    "snr": -4.5,
+    "hops_away": 2,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3267,8 +3267,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-08-02T14:33:54.578069+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-08-02T14:45:03.041478+00:00",
+    "snr": -9.0,
     "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
@@ -3848,8 +3848,8 @@
   "!a1d779fc": {
     "id": "!a1d779fc",
     "long_name": "Meshtastic 79fc",
-    "last_heard": "2026-08-02T14:21:40.257915+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-08-02T14:56:14.745325+00:00",
+    "snr": -13.75,
     "hops_away": 4,
     "short_name": "79fc",
     "hw_model": "SEEED_XIAO_S3",
@@ -6761,8 +6761,8 @@
   "!433e7340": {
     "id": "!433e7340",
     "long_name": "!433e7340",
-    "last_heard": "2026-07-29T12:53:33.186950+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-08-02T14:46:43.347473+00:00",
+    "snr": -11.0,
     "hops_away": 6
   },
   "!699c9900": {
