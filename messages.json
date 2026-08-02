@@ -1,5 +1,16 @@
 [
   {
+    "id": 734560660,
+    "from": "!b29f9cb8",
+    "from_name": "SwdMsh 9cb8",
+    "to": "^all",
+    "text": "WV16 - Thanks!",
+    "timestamp": "2026-08-02T12:26:04.232924+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 7
+  },
+  {
     "id": 678690786,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.25,
     "hops": 5
-  },
-  {
-    "id": 2988254007,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
-    "timestamp": "2026-08-01T02:27:24.450489+00:00",
-    "channel": 0,
-    "snr": -15.75,
-    "hops": 6
   }
 ]
