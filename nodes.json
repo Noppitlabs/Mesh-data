@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T18:21:41.208164+00:00",
+    "last_heard": "2026-08-02T18:21:43.036524+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2146,8 +2146,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-02T18:15:13.349474+00:00",
-    "snr": -8.5,
+    "last_heard": "2026-08-02T18:21:59.561385+00:00",
+    "snr": -7.5,
     "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
