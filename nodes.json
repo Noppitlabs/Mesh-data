@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-02T03:05:37.632631+00:00",
+    "last_heard": "2026-08-02T03:05:57.404877+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -2865,9 +2865,9 @@
   "!da545314": {
     "id": "!da545314",
     "long_name": "BillBag2 Bishops Cleeve",
-    "last_heard": "2026-08-02T02:33:53.619672+00:00",
-    "snr": -10.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-02T03:05:53.744971+00:00",
+    "snr": -17.75,
+    "hops_away": 4,
     "short_name": "BBBC",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_CLIENT"
