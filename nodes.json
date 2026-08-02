@@ -2216,9 +2216,9 @@
   "!da5e0380": {
     "id": "!da5e0380",
     "long_name": "JMK HELT 0380",
-    "last_heard": "2026-08-02T00:21:15.106076+00:00",
-    "snr": -17.5,
-    "hops_away": 1,
+    "last_heard": "2026-08-02T20:08:40.931131+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
     "short_name": "HELT",
     "hw_model": "HELTEC_V3",
     "role": ""
