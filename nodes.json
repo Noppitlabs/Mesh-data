@@ -6208,13 +6208,10 @@
   },
   "!34dfc3aa": {
     "id": "!34dfc3aa",
-    "long_name": "Frilliam-SolarCube\ud83c\uddef\ud83c\uddea",
-    "last_heard": "2026-07-23T00:38:35.019292+00:00",
-    "snr": -16.0,
-    "hops_away": 3,
-    "short_name": "LAP3",
-    "hw_model": "XIAO_NRF52_KIT",
-    "role": "ROUTER_LATE"
+    "long_name": "!34dfc3aa",
+    "last_heard": "2026-08-03T18:56:58.226255+00:00",
+    "snr": -5.25,
+    "hops_away": 4
   },
   "!987ab80f": {
     "id": "!987ab80f",
