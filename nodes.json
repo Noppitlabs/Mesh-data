@@ -7065,5 +7065,15 @@
     "last_heard": "2026-08-03T19:24:30.205172+00:00",
     "snr": -8.5,
     "hops_away": 6
+  },
+  "!acaa8bb0": {
+    "id": "!acaa8bb0",
+    "long_name": "DigitalNinja",
+    "last_heard": "2026-08-03T23:49:12.460085+00:00",
+    "snr": -9.25,
+    "hops_away": 5,
+    "short_name": "dnij",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
