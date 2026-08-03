@@ -4903,9 +4903,9 @@
   "!79f67b08": {
     "id": "!79f67b08",
     "long_name": "JERSEY ",
-    "last_heard": "2026-08-03T18:14:17.577286+00:00",
-    "snr": -19.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T18:33:29.324455+00:00",
+    "snr": -10.25,
+    "hops_away": 3,
     "short_name": "JRSY",
     "hw_model": "RAK4631",
     "role": "ROUTER"
