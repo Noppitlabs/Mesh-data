@@ -6094,13 +6094,13 @@
   },
   "!ea8f8b48": {
     "id": "!ea8f8b48",
-    "long_name": "LOFT",
-    "last_heard": "2026-07-28T18:22:05.009922+00:00",
-    "snr": -7.0,
-    "hops_away": 7,
-    "short_name": "LOFT",
+    "long_name": "PIXEL",
+    "last_heard": "2026-08-03T19:50:03.823020+00:00",
+    "snr": -7.25,
+    "hops_away": 6,
+    "short_name": "PIXL",
     "hw_model": "SEEED_XIAO_S3",
-    "role": ""
+    "role": "CLIENT_MUTE"
   },
   "!04058b40": {
     "id": "!04058b40",
