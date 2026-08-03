@@ -1,5 +1,16 @@
 [
   {
+    "id": 833546916,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "Knob was 4 hops to Puck",
+    "timestamp": "2026-08-03T17:47:06.026189+00:00",
+    "channel": 0,
+    "snr": -5.75,
+    "hops": 4
+  },
+  {
     "id": 1683055139,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -2.75,
     "hops": 2
-  },
-  {
-    "id": 896223488,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "huh  ?",
-    "timestamp": "2026-08-01T08:39:11.515026+00:00",
-    "channel": 0,
-    "snr": -3.0,
-    "hops": 3
   }
 ]
