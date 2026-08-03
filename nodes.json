@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-03T08:26:04.373962+00:00",
+    "last_heard": "2026-08-03T08:50:05.223316+00:00",
     "snr": -18.25,
-    "hops_away": 0,
+    "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -1365,7 +1365,7 @@
   "!30321da0": {
     "id": "!30321da0",
     "long_name": "whisper_1da0",
-    "last_heard": "2026-08-03T08:34:17.744377+00:00",
+    "last_heard": "2026-08-03T08:50:14.675376+00:00",
     "snr": -7.5,
     "hops_away": 7,
     "short_name": "1da0",
