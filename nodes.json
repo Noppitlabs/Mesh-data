@@ -2818,9 +2818,9 @@
   "!db2f0e2c": {
     "id": "!db2f0e2c",
     "long_name": "Walmore Hill",
-    "last_heard": "2026-08-03T12:41:55.369024+00:00",
-    "snr": -0.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T13:35:57.050355+00:00",
+    "snr": -4.5,
+    "hops_away": 4,
     "short_name": "WLMR",
     "hw_model": "HELTEC_V3",
     "role": ""
