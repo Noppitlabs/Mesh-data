@@ -1,5 +1,16 @@
 [
   {
+    "id": 839047329,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "D",
+    "timestamp": "2026-08-03T16:06:14.977641+00:00",
+    "channel": 0,
+    "snr": -7.25,
+    "hops": 2
+  },
+  {
     "id": 884115985,
     "from": "!7a6061d4",
     "from_name": "!7a6061d4",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-01T08:22:25.078746+00:00",
     "channel": 0,
     "snr": -4.75,
-    "hops": 2
-  },
-  {
-    "id": 519644937,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "but I don't believe it",
-    "timestamp": "2026-08-01T08:19:39.190014+00:00",
-    "channel": 0,
-    "snr": -2.75,
     "hops": 2
   }
 ]
