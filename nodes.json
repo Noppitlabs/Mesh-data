@@ -6990,11 +6990,11 @@
   },
   "!043c2acc": {
     "id": "!043c2acc",
-    "long_name": "Meshtastic 2acc",
-    "last_heard": "2026-08-02T17:40:53.985926+00:00",
-    "snr": -9.25,
+    "long_name": "Matt Mobile ",
+    "last_heard": "2026-08-03T14:12:11.966192+00:00",
+    "snr": -6.75,
     "hops_away": 7,
-    "short_name": "2acc",
+    "short_name": "MAT1",
     "hw_model": "HELTEC_V3",
     "role": ""
   },
