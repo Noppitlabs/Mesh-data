@@ -1,5 +1,16 @@
 [
   {
+    "id": 1611257601,
+    "from": "!002f9a81",
+    "from_name": "Vixxy_Rose",
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-08-03T18:56:26.070544+00:00",
+    "channel": 0,
+    "snr": -7.0,
+    "hops": 6
+  },
+  {
     "id": 833546916,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-01T08:40:04.296898+00:00",
     "channel": 0,
     "snr": -3.5,
-    "hops": 2
-  },
-  {
-    "id": 626843500,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "changing topic - anyone seen supernatural?",
-    "timestamp": "2026-08-01T08:39:45.673173+00:00",
-    "channel": 0,
-    "snr": -2.75,
     "hops": 2
   }
 ]
