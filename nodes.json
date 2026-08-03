@@ -1368,9 +1368,9 @@
   "!30321da0": {
     "id": "!30321da0",
     "long_name": "whisper_1da0",
-    "last_heard": "2026-08-03T07:14:37.929447+00:00",
-    "snr": -16.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T07:31:49.833083+00:00",
+    "snr": -16.75,
+    "hops_away": 6,
     "short_name": "1da0",
     "hw_model": "HELTEC_V3",
     "role": ""
