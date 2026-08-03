@@ -1418,9 +1418,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-08-03T21:49:12.967884+00:00",
-    "snr": -19.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-03T23:19:04.047072+00:00",
+    "snr": -12.25,
+    "hops_away": 5,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2034,9 +2034,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-08-03T23:01:10.262722+00:00",
-    "snr": -10.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T23:19:18.637183+00:00",
+    "snr": -9.75,
+    "hops_away": 5,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
