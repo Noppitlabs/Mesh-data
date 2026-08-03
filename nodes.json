@@ -3197,9 +3197,9 @@
   "!1b867db3": {
     "id": "!1b867db3",
     "long_name": "LW Tracker",
-    "last_heard": "2026-08-03T16:14:32.684310+00:00",
-    "snr": -6.75,
-    "hops_away": 7,
+    "last_heard": "2026-08-03T16:24:17.162279+00:00",
+    "snr": -10.25,
+    "hops_away": 5,
     "short_name": "LWT1",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
