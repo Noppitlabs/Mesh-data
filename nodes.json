@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-03T04:52:09.729144+00:00",
+    "last_heard": "2026-08-03T04:52:11.779394+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-03T04:45:31.862637+00:00",
-    "snr": -3.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T04:52:13.341265+00:00",
+    "snr": -3.25,
+    "hops_away": 3,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
