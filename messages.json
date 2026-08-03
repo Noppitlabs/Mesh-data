@@ -1,5 +1,16 @@
 [
   {
+    "id": 2789417520,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "2\ufe0f\u20e3",
+    "timestamp": "2026-08-03T07:58:03.840530+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 4
+  },
+  {
     "id": 2814122165,
     "from": "!db294630",
     "from_name": "!db294630",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 13.75,
     "hops": 2
-  },
-  {
-    "id": 429897016,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "morning",
-    "timestamp": "2026-08-01T07:56:20.682185+00:00",
-    "channel": 0,
-    "snr": -3.0,
-    "hops": 3
   }
 ]
