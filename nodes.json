@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-03T20:01:53.005033+00:00",
+    "last_heard": "2026-08-03T20:02:54.012755+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-08-03T19:03:34.048600+00:00",
-    "snr": -7.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T20:03:34.415248+00:00",
+    "snr": -9.5,
+    "hops_away": 4,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
