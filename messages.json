@@ -1,5 +1,16 @@
 [
   {
+    "id": 1277888342,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "RX in Exmouth",
+    "timestamp": "2026-08-03T08:08:34.517002+00:00",
+    "channel": 0,
+    "snr": -18.5,
+    "hops": 1
+  },
+  {
     "id": 550766463,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-01T08:13:57.272650+00:00",
     "channel": 0,
     "snr": 13.5,
-    "hops": 2
-  },
-  {
-    "id": 866116397,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "thininkg to put a drone up this evening above exeter and zip tie my t1000e",
-    "timestamp": "2026-08-01T08:09:09.781791+00:00",
-    "channel": 0,
-    "snr": -5.25,
     "hops": 2
   }
 ]
