@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-03T11:43:13.365143+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-08-03T13:02:23.297501+00:00",
+    "snr": 0.25,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-03T11:43:28.710932+00:00",
+    "last_heard": "2026-08-03T13:06:33.600387+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-03T11:23:43.213752+00:00",
-    "snr": -5.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-03T12:49:16.230084+00:00",
+    "snr": null,
+    "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-03T11:43:06.489184+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-08-03T12:58:24.574937+00:00",
+    "snr": 0.5,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-03T11:09:48.202968+00:00",
-    "snr": -6.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:57:45.792463+00:00",
+    "snr": -1.0,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-03T10:54:11.117921+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-08-03T12:54:09.044049+00:00",
+    "snr": 0.25,
     "hops_away": 3,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-03T11:41:52.426540+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-08-03T13:07:09.665676+00:00",
+    "snr": -3.75,
     "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-03T11:35:17.014124+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-08-03T13:05:06.910625+00:00",
+    "snr": -11.5,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -199,8 +199,8 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-08-03T10:48:39.308145+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-08-03T12:51:14.630523+00:00",
+    "snr": -0.5,
     "hops_away": 2,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
@@ -209,9 +209,9 @@
   "!135d0a73": {
     "id": "!135d0a73",
     "long_name": "Meshtastic 0a73",
-    "last_heard": "2026-08-03T07:38:42.776587+00:00",
-    "snr": -17.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T13:00:31.239004+00:00",
+    "snr": -10.75,
+    "hops_away": 4,
     "short_name": "0a73",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
@@ -219,8 +219,8 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-08-03T11:31:19.840926+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-08-03T12:58:31.779822+00:00",
+    "snr": -0.75,
     "hops_away": 2,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
@@ -289,15 +289,15 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "!9e757b90",
-    "last_heard": "2026-08-03T01:48:21.665425+00:00",
-    "snr": 12.0,
-    "hops_away": 7
+    "last_heard": "2026-08-03T13:00:24.026941+00:00",
+    "snr": -17.25,
+    "hops_away": 4
   },
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-03T11:34:16.164380+00:00",
-    "snr": 14.0,
+    "last_heard": "2026-08-03T12:59:01.740289+00:00",
+    "snr": 13.75,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
@@ -403,9 +403,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-08-03T11:07:33.471335+00:00",
-    "snr": -6.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T12:38:06.536520+00:00",
+    "snr": -7.25,
+    "hops_away": 3,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
@@ -430,8 +430,8 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-08-03T10:13:33.413211+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-08-03T12:33:48.472574+00:00",
+    "snr": -8.25,
     "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
@@ -450,8 +450,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-08-03T11:40:17.769588+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-08-03T12:45:33.186572+00:00",
+    "snr": null,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -540,8 +540,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-03T11:34:20.692290+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-08-03T13:02:55.371850+00:00",
+    "snr": 13.25,
     "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
@@ -590,9 +590,9 @@
   "!18aa75f6": {
     "id": "!18aa75f6",
     "long_name": "Gormenghast",
-    "last_heard": "2026-08-03T00:49:07.749765+00:00",
-    "snr": -8.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:49:01.836249+00:00",
+    "snr": -1.0,
+    "hops_away": 4,
     "short_name": "gorm",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -610,9 +610,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-08-03T11:14:48.478970+00:00",
-    "snr": -0.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:20:58.793553+00:00",
+    "snr": -6.0,
+    "hops_away": 2,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
@@ -640,8 +640,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-08-03T10:57:09.421835+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-08-03T12:50:32.904777+00:00",
+    "snr": -4.25,
     "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
@@ -700,9 +700,9 @@
   "!db29ef28": {
     "id": "!db29ef28",
     "long_name": "RX_Roam",
-    "last_heard": "2026-08-03T09:23:50.665557+00:00",
-    "snr": -8.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:23:55.880966+00:00",
+    "snr": -4.75,
+    "hops_away": 5,
     "short_name": "ef28",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -717,8 +717,8 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-08-03T09:22:53.312576+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-08-03T12:52:26.526481+00:00",
+    "snr": null,
     "hops_away": 3,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
@@ -747,9 +747,9 @@
   "!b2a78f18": {
     "id": "!b2a78f18",
     "long_name": "timttmy-V4",
-    "last_heard": "2026-08-03T09:10:39.769381+00:00",
-    "snr": -6.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T12:42:59.708996+00:00",
+    "snr": -7.5,
+    "hops_away": 6,
     "short_name": "t::1",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
@@ -965,8 +965,8 @@
   "!699c9044": {
     "id": "!699c9044",
     "long_name": "Loft V4 - GW1UMH",
-    "last_heard": "2026-08-02T10:04:17.093915+00:00",
-    "snr": -6.5,
+    "last_heard": "2026-08-03T12:12:17.297625+00:00",
+    "snr": -9.0,
     "hops_away": 3,
     "short_name": "Loft",
     "hw_model": "HELTEC_V4",
@@ -1042,9 +1042,9 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-08-02T15:32:46.583549+00:00",
-    "snr": -6.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T13:05:43.601386+00:00",
+    "snr": -3.75,
+    "hops_away": 2,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
@@ -1096,9 +1096,9 @@
   "!7eb259a7": {
     "id": "!7eb259a7",
     "long_name": "GCM017-LancresseRoad\ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-08-03T01:29:43.025242+00:00",
-    "snr": -18.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T12:16:47.778290+00:00",
+    "snr": -2.5,
+    "hops_away": 3,
     "short_name": "59a7",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -1156,8 +1156,8 @@
   "!da5ec92c": {
     "id": "!da5ec92c",
     "long_name": "Sion#2",
-    "last_heard": "2026-08-03T10:27:11.131384+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-08-03T11:44:06.689410+00:00",
+    "snr": -6.0,
     "hops_away": 3,
     "short_name": "Sn#2",
     "hw_model": "HELTEC_V3",
@@ -1210,7 +1210,7 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-08-03T11:29:49.315604+00:00",
+    "last_heard": "2026-08-03T13:01:44.308934+00:00",
     "snr": -10.5,
     "hops_away": 4,
     "short_name": "MP",
@@ -1240,9 +1240,9 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-03T06:22:29.181837+00:00",
-    "snr": -14.5,
-    "hops_away": 0,
+    "last_heard": "2026-08-03T12:10:29.166255+00:00",
+    "snr": -16.25,
+    "hops_away": 1,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
@@ -1301,9 +1301,9 @@
   "!9e7dec32": {
     "id": "!9e7dec32",
     "long_name": "M7ARW 1\ud83d\udce1",
-    "last_heard": "2026-08-03T10:10:18.087054+00:00",
-    "snr": -7.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T12:24:25.105423+00:00",
+    "snr": -3.75,
+    "hops_away": 3,
     "short_name": "ARW1",
     "hw_model": "T_ECHO",
     "role": ""
@@ -1405,9 +1405,9 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-08-03T11:40:02.478236+00:00",
-    "snr": -5.25,
-    "hops_away": 7,
+    "last_heard": "2026-08-03T12:55:55.549302+00:00",
+    "snr": -4.5,
+    "hops_away": 5,
     "short_name": "3ff0",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
@@ -1415,9 +1415,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-08-03T11:39:04.104507+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T12:13:07.686431+00:00",
+    "snr": -0.5,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1485,9 +1485,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-08-03T09:39:02.289432+00:00",
-    "snr": -10.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-03T13:00:08.954432+00:00",
+    "snr": 12.75,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1632,9 +1632,9 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-03T11:43:38.757869+00:00",
-    "snr": -6.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T13:06:22.467407+00:00",
+    "snr": -3.0,
+    "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -1642,9 +1642,9 @@
   "!75e05160": {
     "id": "!75e05160",
     "long_name": "PotaJoe1",
-    "last_heard": "2026-08-03T06:57:36.648056+00:00",
-    "snr": -6.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T12:43:41.737929+00:00",
+    "snr": 13.25,
+    "hops_away": 7,
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
     "role": ""
@@ -1911,8 +1911,8 @@
   "!13a91580": {
     "id": "!13a91580",
     "long_name": "James3D-Mobile1",
-    "last_heard": "2026-08-03T08:33:35.754773+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-08-03T12:02:10.371271+00:00",
+    "snr": -6.75,
     "hops_away": 3,
     "short_name": "J3M1",
     "hw_model": "NOMADSTAR_METEOR_PRO",
@@ -2008,8 +2008,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-03T11:32:00.680040+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-08-03T12:49:09.026740+00:00",
+    "snr": 0.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -2028,9 +2028,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-08-03T11:34:58.615368+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T12:49:23.430157+00:00",
+    "snr": -0.75,
+    "hops_away": 5,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -2089,9 +2089,9 @@
   "!b03b3ffc": {
     "id": "!b03b3ffc",
     "long_name": "Meshtastic 3ffc",
-    "last_heard": "2026-08-02T12:09:46.264106+00:00",
-    "snr": -8.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T12:59:40.516709+00:00",
+    "snr": -0.75,
+    "hops_away": 3,
     "short_name": "3ffc",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2146,9 +2146,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-03T11:02:05.714042+00:00",
-    "snr": -6.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:37:48.008794+00:00",
+    "snr": -8.25,
+    "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
@@ -2263,9 +2263,9 @@
   "!6983e570": {
     "id": "!6983e570",
     "long_name": "GCM0008 - St Clair Hill\ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-08-02T18:36:59.406202+00:00",
-    "snr": -6.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T11:52:06.930078+00:00",
+    "snr": -7.75,
+    "hops_away": 3,
     "short_name": "e570",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -2340,8 +2340,8 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-08-03T11:00:13.570662+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-08-03T12:19:46.225867+00:00",
+    "snr": -11.75,
     "hops_away": 2,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
@@ -2357,9 +2357,9 @@
   "!90a0f6f4": {
     "id": "!90a0f6f4",
     "long_name": "GCM0016 - Capelles \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-08-03T06:16:04.416845+00:00",
-    "snr": -18.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-03T13:02:37.702417+00:00",
+    "snr": -12.5,
+    "hops_away": 4,
     "short_name": "f6f4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
@@ -2367,9 +2367,9 @@
   "!7c5a5424": {
     "id": "!7c5a5424",
     "long_name": "StAustellSimonBase",
-    "last_heard": "2026-08-03T09:45:31.019290+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T12:57:14.808619+00:00",
+    "snr": -2.25,
+    "hops_away": 4,
     "short_name": "SASB",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
@@ -2377,9 +2377,9 @@
   "!433c0074": {
     "id": "!433c0074",
     "long_name": "DCG TR10",
-    "last_heard": "2026-08-01T20:21:16.867779+00:00",
-    "snr": -3.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T12:48:43.287332+00:00",
+    "snr": -4.0,
+    "hops_away": 6,
     "short_name": "TR10",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
@@ -2407,9 +2407,9 @@
   "!1c71c8ae": {
     "id": "!1c71c8ae",
     "long_name": "GU1LRO Solar",
-    "last_heard": "2026-08-02T20:33:16.788292+00:00",
-    "snr": -11.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:43:51.360365+00:00",
+    "snr": 0.25,
+    "hops_away": 4,
     "short_name": "cobo",
     "hw_model": "RAK4631",
     "role": ""
@@ -2576,9 +2576,9 @@
   "!a6962ea8": {
     "id": "!a6962ea8",
     "long_name": "Meshtastic 2ea8",
-    "last_heard": "2026-08-03T05:54:48.403364+00:00",
-    "snr": -1.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T11:55:15.217788+00:00",
+    "snr": -7.0,
+    "hops_away": 5,
     "short_name": "TKV",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -2788,9 +2788,9 @@
   "!ae312a0f": {
     "id": "!ae312a0f",
     "long_name": "Quackers",
-    "last_heard": "2026-08-02T18:40:55.675322+00:00",
-    "snr": -19.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T12:21:06.021050+00:00",
+    "snr": -11.5,
+    "hops_away": 6,
     "short_name": "Qkrs",
     "hw_model": "T_ECHO",
     "role": ""
@@ -2798,9 +2798,9 @@
   "!cae810a9": {
     "id": "!cae810a9",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-08-02T21:14:47.224394+00:00",
-    "snr": -9.5,
-    "hops_away": 6,
+    "last_heard": "2026-08-03T12:55:41.927282+00:00",
+    "snr": -2.5,
+    "hops_away": 7,
     "short_name": "10a9",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "CLIENT_MUTE"
@@ -2818,9 +2818,9 @@
   "!db2f0e2c": {
     "id": "!db2f0e2c",
     "long_name": "Walmore Hill",
-    "last_heard": "2026-08-03T09:50:40.509841+00:00",
-    "snr": -12.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T12:41:55.369024+00:00",
+    "snr": -0.25,
+    "hops_away": 3,
     "short_name": "WLMR",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3054,8 +3054,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-08-03T11:41:26.775738+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-08-03T12:41:09.447131+00:00",
+    "snr": -3.5,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
@@ -3071,8 +3071,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-08-03T11:38:42.044387+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-08-03T12:41:46.978987+00:00",
+    "snr": -0.75,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
@@ -3081,8 +3081,8 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-08-03T09:24:58.077213+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-08-03T13:04:40.712945+00:00",
+    "snr": -0.5,
     "hops_away": 4,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
@@ -3200,9 +3200,9 @@
   "!1b867db3": {
     "id": "!1b867db3",
     "long_name": "!1b867db3",
-    "last_heard": "2026-08-03T11:33:31.875585+00:00",
+    "last_heard": "2026-08-03T12:21:20.422497+00:00",
     "snr": -7.0,
-    "hops_away": 5
+    "hops_away": 7
   },
   "!6985a75c": {
     "id": "!6985a75c",
@@ -3217,9 +3217,9 @@
   "!da547e94": {
     "id": "!da547e94",
     "long_name": "mu7gci office",
-    "last_heard": "2026-08-03T11:34:12.907519+00:00",
-    "snr": -7.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T13:02:16.087828+00:00",
+    "snr": -12.0,
+    "hops_away": 3,
     "short_name": "Luke",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3247,8 +3247,8 @@
   "!23b50c1c": {
     "id": "!23b50c1c",
     "long_name": "GCM018-Terrarmar \ud83c\uddec\ud83c\uddec\ud83d\udd06",
-    "last_heard": "2026-08-03T10:47:44.474769+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-08-03T12:41:39.779252+00:00",
+    "snr": -0.25,
     "hops_away": 2,
     "short_name": "Terr",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -3267,8 +3267,8 @@
   "!70989f97": {
     "id": "!70989f97",
     "long_name": "The Black Swan [Solar \u2600\ufe0f\ud83d\udd0b\ud83d\udce1]",
-    "last_heard": "2026-08-03T10:53:22.675671+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-08-03T12:53:24.444957+00:00",
+    "snr": -9.25,
     "hops_away": 0,
     "short_name": "TBS1",
     "hw_model": "RAK4631",
@@ -3531,8 +3531,8 @@
   "!49b61974": {
     "id": "!49b61974",
     "long_name": "!49b61974",
-    "last_heard": "2026-08-03T01:11:35.499936+00:00",
-    "snr": -5.25,
+    "last_heard": "2026-08-03T11:51:21.657748+00:00",
+    "snr": -8.0,
     "hops_away": 7
   },
   "!02a6cce6": {
@@ -3845,9 +3845,9 @@
   "!a1d779fc": {
     "id": "!a1d779fc",
     "long_name": "Meshtastic 79fc",
-    "last_heard": "2026-08-03T10:03:50.985445+00:00",
-    "snr": -6.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-03T13:02:30.499726+00:00",
+    "snr": 0.5,
+    "hops_away": 5,
     "short_name": "79fc",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
@@ -3855,9 +3855,9 @@
   "!0c2a28f9": {
     "id": "!0c2a28f9",
     "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-08-03T11:05:53.896155+00:00",
-    "snr": -8.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-03T12:42:13.059830+00:00",
+    "snr": null,
+    "hops_away": 3,
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -3987,8 +3987,8 @@
   "!7ba5e3e9": {
     "id": "!7ba5e3e9",
     "long_name": "!7ba5e3e9",
-    "last_heard": "2026-08-03T11:15:50.059229+00:00",
-    "snr": 13.5,
+    "last_heard": "2026-08-03T12:28:42.159302+00:00",
+    "snr": -7.75,
     "hops_away": 3
   },
   "!da633af8": {
@@ -4031,9 +4031,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-08-03T11:35:14.971710+00:00",
-    "snr": -7.5,
-    "hops_away": 7,
+    "last_heard": "2026-08-03T11:49:03.203661+00:00",
+    "snr": -4.5,
+    "hops_away": 6,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4071,9 +4071,9 @@
   "!c7b292b5": {
     "id": "!c7b292b5",
     "long_name": "Robs T-echo",
-    "last_heard": "2026-08-02T21:53:39.687733+00:00",
-    "snr": -9.75,
-    "hops_away": 7,
+    "last_heard": "2026-08-03T12:53:57.510639+00:00",
+    "snr": 0.5,
+    "hops_away": 6,
     "short_name": "Rob",
     "hw_model": "T_ECHO",
     "role": ""
@@ -4192,9 +4192,9 @@
   "!f669c178": {
     "id": "!f669c178",
     "long_name": "Meshtastic c178",
-    "last_heard": "2026-08-02T06:52:57.231067+00:00",
-    "snr": -17.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T12:12:02.161545+00:00",
+    "snr": -0.75,
+    "hops_away": 5,
     "short_name": "ARH2",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4879,9 +4879,9 @@
   "!e6560d60": {
     "id": "!e6560d60",
     "long_name": "!e6560d60",
-    "last_heard": "2026-08-03T11:29:00.171921+00:00",
-    "snr": -6.25,
-    "hops_away": 3
+    "last_heard": "2026-08-03T12:16:02.606789+00:00",
+    "snr": -17.0,
+    "hops_away": 2
   },
   "!f66bd428": {
     "id": "!f66bd428",
@@ -4896,15 +4896,15 @@
   "!6c744440": {
     "id": "!6c744440",
     "long_name": "!6c744440",
-    "last_heard": "2026-08-03T11:35:30.525295+00:00",
-    "snr": -11.25,
-    "hops_away": 4
+    "last_heard": "2026-08-03T12:46:20.642585+00:00",
+    "snr": 0.25,
+    "hops_away": 3
   },
   "!79f67b08": {
     "id": "!79f67b08",
     "long_name": "JERSEY ",
-    "last_heard": "2026-08-03T10:43:53.550971+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-08-03T12:44:13.457787+00:00",
+    "snr": 0.5,
     "hops_away": 5,
     "short_name": "JRSY",
     "hw_model": "RAK4631",
@@ -4913,9 +4913,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Comfortably Numb OMNI",
-    "last_heard": "2026-08-03T10:29:56.742753+00:00",
-    "snr": -6.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-03T13:04:08.607974+00:00",
+    "snr": 0.5,
+    "hops_away": 4,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -4953,9 +4953,9 @@
   "!698422f4": {
     "id": "!698422f4",
     "long_name": "Fantasia Hub",
-    "last_heard": "2026-08-03T01:28:06.679848+00:00",
-    "snr": -18.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-03T12:49:30.657011+00:00",
+    "snr": -2.0,
+    "hops_away": 4,
     "short_name": "F4HB",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -6968,8 +6968,8 @@
   "!e67641e7": {
     "id": "!e67641e7",
     "long_name": "Gannet",
-    "last_heard": "2026-08-02T14:28:58.043510+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-08-03T12:31:00.967004+00:00",
+    "snr": -9.5,
     "hops_away": 2,
     "short_name": "Gann",
     "hw_model": "TRACKER_T1000_E",
