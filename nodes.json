@@ -737,8 +737,8 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-08-03T07:59:00.148096+00:00",
-    "snr": -3.0,
+    "last_heard": "2026-08-03T10:42:14.980717+00:00",
+    "snr": -11.25,
     "hops_away": 4,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
@@ -2146,8 +2146,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-03T10:00:48.503891+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-08-03T10:41:39.734715+00:00",
+    "snr": -7.25,
     "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
