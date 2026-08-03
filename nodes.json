@@ -3199,10 +3199,13 @@
   },
   "!1b867db3": {
     "id": "!1b867db3",
-    "long_name": "!1b867db3",
-    "last_heard": "2026-08-03T12:21:20.422497+00:00",
-    "snr": -7.0,
-    "hops_away": 7
+    "long_name": "LW Tracker",
+    "last_heard": "2026-08-03T13:52:39.050096+00:00",
+    "snr": -4.75,
+    "hops_away": 7,
+    "short_name": "LWT1",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   },
   "!6985a75c": {
     "id": "!6985a75c",
