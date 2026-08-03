@@ -7052,5 +7052,12 @@
     "short_name": "VIXR",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!9ea17f60": {
+    "id": "!9ea17f60",
+    "long_name": "!9ea17f60",
+    "last_heard": "2026-08-03T19:24:30.205172+00:00",
+    "snr": -8.5,
+    "hops_away": 6
   }
 }
