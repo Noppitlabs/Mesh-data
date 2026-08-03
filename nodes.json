@@ -6981,9 +6981,9 @@
   "!433bb5b8": {
     "id": "!433bb5b8",
     "long_name": "Tris'sNode",
-    "last_heard": "2026-08-03T05:13:32.581673+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-08-03T05:16:26.574164+00:00",
+    "snr": 12.5,
+    "hops_away": 2,
     "short_name": "TM89",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": ""
