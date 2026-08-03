@@ -3724,9 +3724,9 @@
   "!f661ed84": {
     "id": "!f661ed84",
     "long_name": "Puck Telecom",
-    "last_heard": "2026-08-03T09:41:22.470909+00:00",
+    "last_heard": "2026-08-03T17:46:42.034372+00:00",
     "snr": -6.5,
-    "hops_away": 2,
+    "hops_away": 4,
     "short_name": "PUCK",
     "hw_model": "HELTEC_V4",
     "role": ""
