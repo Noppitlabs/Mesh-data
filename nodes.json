@@ -720,7 +720,7 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-08-04T09:21:02.720441+00:00",
+    "last_heard": "2026-08-04T10:52:34.268219+00:00",
     "snr": -8.0,
     "hops_away": 3,
     "short_name": "A2-1",
@@ -4922,9 +4922,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Comfortably Numb OMNI",
-    "last_heard": "2026-08-04T09:59:06.367354+00:00",
-    "snr": -9.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-04T10:53:05.202961+00:00",
+    "snr": -8.75,
+    "hops_away": 6,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
