@@ -3851,9 +3851,9 @@
   "!a1d779fc": {
     "id": "!a1d779fc",
     "long_name": "Meshtastic 79fc",
-    "last_heard": "2026-08-04T04:03:44.519674+00:00",
-    "snr": -8.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-04T05:18:41.821532+00:00",
+    "snr": -15.0,
+    "hops_away": 4,
     "short_name": "79fc",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
