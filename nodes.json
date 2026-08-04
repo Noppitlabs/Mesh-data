@@ -403,8 +403,8 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-08-04T15:10:56.908306+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-08-04T16:22:49.583771+00:00",
+    "snr": -8.0,
     "hops_away": 2,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
@@ -4043,8 +4043,8 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-08-04T16:15:10.347943+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-08-04T16:23:46.243337+00:00",
+    "snr": -11.75,
     "hops_away": 4,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
