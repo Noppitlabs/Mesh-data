@@ -6755,10 +6755,13 @@
   },
   "!49b61420": {
     "id": "!49b61420",
-    "long_name": "!49b61420",
-    "last_heard": "2026-07-31T04:40:31.762809+00:00",
-    "snr": -9.25,
-    "hops_away": 7
+    "long_name": "TheDeadGuy-0",
+    "last_heard": "2026-08-04T10:29:04.028202+00:00",
+    "snr": -6.5,
+    "hops_away": 7,
+    "short_name": "TDG0",
+    "hw_model": "HELTEC_V4",
+    "role": "CLIENT_BASE"
   },
   "!4357fdf8": {
     "id": "!4357fdf8",
