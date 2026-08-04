@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-04T03:49:14.338794+00:00",
+    "last_heard": "2026-08-04T03:50:14.370373+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -460,9 +460,9 @@
   "!9e9d1704": {
     "id": "!9e9d1704",
     "long_name": "Wolf Den",
-    "last_heard": "2026-08-04T01:06:41.767061+00:00",
-    "snr": -13.25,
-    "hops_away": 6,
+    "last_heard": "2026-08-04T03:51:01.971201+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
     "short_name": "Star",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER_LATE"
