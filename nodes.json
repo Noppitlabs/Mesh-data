@@ -5468,9 +5468,9 @@
   "!e2e5091c": {
     "id": "!e2e5091c",
     "long_name": "Halesowen RAK Node 3",
-    "last_heard": "2026-08-04T03:00:39.508861+00:00",
-    "snr": -8.75,
-    "hops_away": 7,
+    "last_heard": "2026-08-04T07:59:43.606436+00:00",
+    "snr": -6.75,
+    "hops_away": 5,
     "short_name": "HRN3",
     "hw_model": "HELTEC_V3",
     "role": ""
