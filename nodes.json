@@ -640,8 +640,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-08-04T07:45:56.728702+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-08-04T08:44:46.953951+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
@@ -1897,8 +1897,8 @@
   "!699c36d4": {
     "id": "!699c36d4",
     "long_name": "BiSON 36d4",
-    "last_heard": "2026-08-04T08:02:03.640098+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-08-04T08:44:29.071631+00:00",
+    "snr": -8.75,
     "hops_away": 7,
     "short_name": "BSON",
     "hw_model": "HELTEC_V4",
