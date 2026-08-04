@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-04T08:27:26.436315+00:00",
+    "last_heard": "2026-08-04T08:28:26.467022+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1917,9 +1917,9 @@
   "!13a91580": {
     "id": "!13a91580",
     "long_name": "James3D-Mobile1",
-    "last_heard": "2026-08-04T08:18:54.355183+00:00",
-    "snr": -7.0,
-    "hops_away": 5,
+    "last_heard": "2026-08-04T08:29:03.014640+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
     "short_name": "J3M1",
     "hw_model": "NOMADSTAR_METEOR_PRO",
     "role": ""
