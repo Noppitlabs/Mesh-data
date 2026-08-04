@@ -7069,5 +7069,15 @@
     "short_name": "dnij",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!f34614f9": {
+    "id": "!f34614f9",
+    "long_name": "Meshtastic 14f9",
+    "last_heard": "2026-08-04T04:14:57.955441+00:00",
+    "snr": -9.25,
+    "hops_away": 6,
+    "short_name": "45M",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_BASE"
   }
 }
