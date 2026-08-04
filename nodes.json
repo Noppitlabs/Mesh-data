@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-04T21:09:27.059990+00:00",
-    "snr": -8.5,
+    "last_heard": "2026-08-04T21:10:03.444023+00:00",
+    "snr": -9.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -5059,8 +5059,8 @@
   "!d3191f41": {
     "id": "!d3191f41",
     "long_name": "J Bransford Station",
-    "last_heard": "2026-08-04T09:56:21.039482+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-04T21:10:11.622720+00:00",
+    "snr": -8.75,
     "hops_away": 6,
     "short_name": "JBS",
     "hw_model": "RAK4631",
