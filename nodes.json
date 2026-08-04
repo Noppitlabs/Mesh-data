@@ -4364,9 +4364,9 @@
   "!6c73b684": {
     "id": "!6c73b684",
     "long_name": "MeshMark Roof",
-    "last_heard": "2026-08-03T15:08:43.185617+00:00",
-    "snr": -10.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-04T04:36:34.883491+00:00",
+    "snr": -11.0,
+    "hops_away": 4,
     "short_name": "MMRF",
     "hw_model": "TBEAM",
     "role": ""
