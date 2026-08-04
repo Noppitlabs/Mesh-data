@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-04T09:16:28.617000+00:00",
+    "last_heard": "2026-08-04T09:17:28.660275+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2014,8 +2014,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-04T09:06:48.673162+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-08-04T09:16:35.311903+00:00",
+    "snr": -8.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
