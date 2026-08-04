@@ -797,12 +797,12 @@
   "!a4c2bc74": {
     "id": "!a4c2bc74",
     "long_name": "BACKPACK 1",
-    "last_heard": "2026-07-08T07:16:56.058057+00:00",
-    "snr": -18.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-04T00:12:25.190360+00:00",
+    "snr": -19.25,
+    "hops_away": 5,
     "short_name": "BPK1",
     "hw_model": "XIAO_NRF52_KIT",
-    "role": "CLIENT_MUTE"
+    "role": ""
   },
   "!fe93d41f": {
     "id": "!fe93d41f",
