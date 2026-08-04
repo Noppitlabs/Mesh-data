@@ -2794,9 +2794,9 @@
   "!ae312a0f": {
     "id": "!ae312a0f",
     "long_name": "Quackers",
-    "last_heard": "2026-08-04T00:20:57.745675+00:00",
-    "snr": -8.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-04T14:50:58.362793+00:00",
+    "snr": -9.75,
+    "hops_away": 3,
     "short_name": "Qkrs",
     "hw_model": "T_ECHO",
     "role": ""
