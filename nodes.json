@@ -7092,5 +7092,15 @@
     "last_heard": "2026-08-04T06:37:49.527116+00:00",
     "snr": -18.25,
     "hops_away": 2
+  },
+  "!433c69ec": {
+    "id": "!433c69ec",
+    "long_name": "Henwick Hop 2.7.15 (not monitored) ",
+    "last_heard": "2026-08-04T07:49:30.490921+00:00",
+    "snr": -6.0,
+    "hops_away": 6,
+    "short_name": "HH27",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
