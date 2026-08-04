@@ -460,8 +460,8 @@
   "!9e9d1704": {
     "id": "!9e9d1704",
     "long_name": "Wolf Den",
-    "last_heard": "2026-08-04T11:27:36.757892+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-08-04T12:46:39.496986+00:00",
+    "snr": -11.0,
     "hops_away": 3,
     "short_name": "Star",
     "hw_model": "HELTEC_V3",
@@ -2152,9 +2152,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-04T12:09:50.318243+00:00",
-    "snr": -19.75,
-    "hops_away": 0,
+    "last_heard": "2026-08-04T12:46:55.301723+00:00",
+    "snr": -8.25,
+    "hops_away": 2,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
