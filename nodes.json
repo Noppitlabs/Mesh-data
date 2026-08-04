@@ -2653,8 +2653,8 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-04T20:25:24.218421+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-08-04T20:30:12.225982+00:00",
+    "snr": -8.75,
     "hops_away": 3,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
@@ -3077,9 +3077,9 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-08-04T20:22:59.839119+00:00",
-    "snr": -11.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-04T20:30:03.972050+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
     "role": ""
