@@ -1,5 +1,16 @@
 [
   {
+    "id": 4090480014,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Hello from Swansea",
+    "timestamp": "2026-08-05T19:06:05.428793+00:00",
+    "channel": 0,
+    "snr": -8.5,
+    "hops": 4
+  },
+  {
     "id": 1456942951,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-01T21:11:08.851494+00:00",
     "channel": 0,
     "snr": -8.0,
-    "hops": 6
-  },
-  {
-    "id": 1764246549,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "Rx in North Bristol",
-    "timestamp": "2026-08-01T21:07:17.790012+00:00",
-    "channel": 0,
-    "snr": -2.75,
     "hops": 6
   }
 ]
