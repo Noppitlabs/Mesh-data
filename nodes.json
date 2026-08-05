@@ -3506,9 +3506,9 @@
   "!62be88e2": {
     "id": "!62be88e2",
     "long_name": "Netherton Solar",
-    "last_heard": "2026-08-04T13:47:06.470323+00:00",
+    "last_heard": "2026-08-05T10:16:18.080089+00:00",
     "snr": -13.25,
-    "hops_away": 6,
+    "hops_away": 5,
     "short_name": "Neth",
     "hw_model": "RAK4631",
     "role": ""
