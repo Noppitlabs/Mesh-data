@@ -7115,10 +7115,13 @@
   },
   "!4cacf57e": {
     "id": "!4cacf57e",
-    "long_name": "!4cacf57e",
-    "last_heard": "2026-08-05T08:48:57.554591+00:00",
-    "snr": -2.5,
-    "hops_away": 3
+    "long_name": "G3CJL Chris 2",
+    "last_heard": "2026-08-05T08:55:02.588068+00:00",
+    "snr": -11.25,
+    "hops_away": 2,
+    "short_name": "G3CJ",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!f68dddd8": {
     "id": "!f68dddd8",
