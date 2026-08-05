@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-05T07:18:46.694038+00:00",
-    "snr": -6.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-05T07:20:04.052975+00:00",
+    "snr": -4.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -1629,8 +1629,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-05T07:06:04.139048+00:00",
-    "snr": -20.0,
+    "last_heard": "2026-08-05T07:20:06.952754+00:00",
+    "snr": -5.75,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
