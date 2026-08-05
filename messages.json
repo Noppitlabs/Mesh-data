@@ -1,5 +1,16 @@
 [
   {
+    "id": 1895326492,
+    "from": "!f68dddd8",
+    "from_name": "Meshtastic ddd8",
+    "to": "^all",
+    "text": "Yep, looking good. I have the same issue in digby exeter. I can\u2019t send anything until I get closer to exmouth. I will need to buy a repeater i think. ",
+    "timestamp": "2026-08-05T15:16:33.166756+00:00",
+    "channel": 0,
+    "snr": -5.75,
+    "hops": 2
+  },
+  {
     "id": 346241395,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 1
-  },
-  {
-    "id": 462549356,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "ping",
-    "timestamp": "2026-08-01T18:21:05.773782+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 4
   }
 ]
