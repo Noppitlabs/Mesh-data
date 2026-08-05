@@ -6275,10 +6275,13 @@
   },
   "!f115d208": {
     "id": "!f115d208",
-    "long_name": "!f115d208",
-    "last_heard": "2026-07-16T15:45:46.472255+00:00",
-    "snr": -4.75,
-    "hops_away": 2
+    "long_name": "Meshtastic d208",
+    "last_heard": "2026-08-05T13:28:41.653280+00:00",
+    "snr": -7.75,
+    "hops_away": 3,
+    "short_name": "d208",
+    "hw_model": "M5STACK_C6L",
+    "role": ""
   },
   "!1ba60904": {
     "id": "!1ba60904",
