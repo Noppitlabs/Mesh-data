@@ -7125,9 +7125,12 @@
   },
   "!f68dddd8": {
     "id": "!f68dddd8",
-    "long_name": "!f68dddd8",
-    "last_heard": "2026-08-05T08:47:42.089451+00:00",
-    "snr": -17.0,
-    "hops_away": 3
+    "long_name": "Meshtastic ddd8",
+    "last_heard": "2026-08-05T08:57:24.333878+00:00",
+    "snr": -12.5,
+    "hops_away": 1,
+    "short_name": "ddd8",
+    "hw_model": "THINKNODE_M5",
+    "role": ""
   }
 }
