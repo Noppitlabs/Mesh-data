@@ -1,5 +1,16 @@
 [
   {
+    "id": 1357289478,
+    "from": "!4cacf57e",
+    "from_name": "!4cacf57e",
+    "to": "^all",
+    "text": "Yes, just started experimenting. Best range so far was 3 hops to cornwall and mid wales. Much further than expected.",
+    "timestamp": "2026-08-05T08:48:56.346062+00:00",
+    "channel": 0,
+    "snr": -2.5,
+    "hops": 3
+  },
+  {
     "id": 253640787,
     "from": "!f68dddd8",
     "from_name": "!f68dddd8",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.75,
     "hops": 6
-  },
-  {
-    "id": 535129962,
-    "from": "!2cdff595",
-    "from_name": "!2cdff595",
-    "to": "^all",
-    "text": "enjoying the weather>",
-    "timestamp": "2026-08-01T15:08:22.855859+00:00",
-    "channel": 0,
-    "snr": -6.5,
-    "hops": 7
   }
 ]
