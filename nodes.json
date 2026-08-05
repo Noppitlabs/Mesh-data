@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-05T08:54:33.890569+00:00",
+    "last_heard": "2026-08-05T08:55:04.209625+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -2650,8 +2650,8 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-05T08:54:40.002926+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-08-05T08:55:15.924766+00:00",
+    "snr": -19.0,
     "hops_away": 1,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
