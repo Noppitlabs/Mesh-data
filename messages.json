@@ -1,5 +1,16 @@
 [
   {
+    "id": 697246251,
+    "from": "!2cdff595",
+    "from_name": "!2cdff595",
+    "to": "^all",
+    "text": ".",
+    "timestamp": "2026-08-05T22:57:37.239534+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 7
+  },
+  {
     "id": 4090480014,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-01T21:12:48.157028+00:00",
     "channel": 0,
     "snr": -5.25,
-    "hops": 6
-  },
-  {
-    "id": 411566607,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "Vibe coding beard",
-    "timestamp": "2026-08-01T21:11:08.851494+00:00",
-    "channel": 0,
-    "snr": -8.0,
     "hops": 6
   }
 ]
