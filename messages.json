@@ -1,5 +1,16 @@
 [
   {
+    "id": 1955772506,
+    "from": "!2687afb1",
+    "from_name": "Comfortably Numb OMNI",
+    "to": "^all",
+    "text": "@sj27 168km, 27\u00b0. Testing how far this mesh really goes \u2014 shout back if you can hear me?",
+    "timestamp": "2026-08-05T17:03:41.105329+00:00",
+    "channel": 0,
+    "snr": -6.75,
+    "hops": 2
+  },
+  {
     "id": 952029791,
     "from": "!da64b668",
     "from_name": "Sennan Onan",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.25,
     "hops": 2
-  },
-  {
-    "id": 982262111,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Ollo",
-    "timestamp": "2026-08-01T19:47:39.649518+00:00",
-    "channel": 0,
-    "snr": -5.25,
-    "hops": 4
   }
 ]
