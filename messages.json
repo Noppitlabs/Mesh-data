@@ -1,5 +1,16 @@
 [
   {
+    "id": 346241395,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-08-05T14:20:02.015531+00:00",
+    "channel": 0,
+    "snr": -8.5,
+    "hops": 4
+  },
+  {
     "id": 146050521,
     "from": "!b03be864",
     "from_name": "!b03be864",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 4
-  },
-  {
-    "id": 808345145,
-    "from": "!433d2bf8",
-    "from_name": "\ud83d\udeabWorcester South \ud83d\uddfc",
-    "to": "^all",
-    "text": "Was on 15m LMR400 before ",
-    "timestamp": "2026-08-01T15:13:47.806609+00:00",
-    "channel": 0,
-    "snr": -6.0,
-    "hops": 6
   }
 ]
