@@ -19,7 +19,7 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-05T22:14:30.928930+00:00",
+    "last_heard": "2026-08-05T22:15:10.013516+00:00",
     "snr": -4.5,
     "hops_away": 1,
     "short_name": "GZG",
@@ -2343,9 +2343,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-08-05T21:55:02.778040+00:00",
-    "snr": -3.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-05T22:15:40.934617+00:00",
+    "snr": -11.0,
+    "hops_away": 2,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
