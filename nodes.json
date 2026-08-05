@@ -7000,9 +7000,9 @@
   "!043c2acc": {
     "id": "!043c2acc",
     "long_name": "Matt Mobile ",
-    "last_heard": "2026-08-03T20:15:36.340668+00:00",
-    "snr": -9.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-05T15:09:38.045244+00:00",
+    "snr": -4.25,
+    "hops_away": 5,
     "short_name": "MAT1",
     "hw_model": "HELTEC_V3",
     "role": ""
