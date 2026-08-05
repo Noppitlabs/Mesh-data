@@ -4120,8 +4120,8 @@
   "!1ca7f3ed": {
     "id": "!1ca7f3ed",
     "long_name": "MHUK Cadair Berwyn Test",
-    "last_heard": "2026-08-04T20:46:28.572936+00:00",
-    "snr": -8.5,
+    "last_heard": "2026-08-05T06:39:02.955880+00:00",
+    "snr": -4.0,
     "hops_away": 6,
     "short_name": "f3ed",
     "hw_model": "HELTEC_MESH_NODE_T114",
