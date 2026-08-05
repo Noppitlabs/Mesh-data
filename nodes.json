@@ -7006,10 +7006,13 @@
   },
   "!6faadcec": {
     "id": "!6faadcec",
-    "long_name": "!6faadcec",
-    "last_heard": "2026-08-02T09:34:50.762733+00:00",
-    "snr": -9.0,
-    "hops_away": 5
+    "long_name": "North Birmingham \ud83d\uddfb",
+    "last_heard": "2026-08-05T09:35:06.358353+00:00",
+    "snr": -13.5,
+    "hops_away": 5,
+    "short_name": "NthB",
+    "hw_model": "RAK4631",
+    "role": ""
   },
   "!549516e6": {
     "id": "!549516e6",
