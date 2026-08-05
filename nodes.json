@@ -7138,5 +7138,15 @@
     "short_name": "ddd8",
     "hw_model": "THINKNODE_M5",
     "role": ""
+  },
+  "!b3fd24e0": {
+    "id": "!b3fd24e0",
+    "long_name": "Mesh Under The Stairs",
+    "last_heard": "2026-08-05T19:31:23.809499+00:00",
+    "snr": -7.75,
+    "hops_away": 2,
+    "short_name": "Muts",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
