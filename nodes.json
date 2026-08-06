@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-06T00:54:54.405113+00:00",
-    "snr": -13.5,
-    "hops_away": 1,
+    "last_heard": "2026-08-06T00:56:18.083710+00:00",
+    "snr": -14.5,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -293,7 +293,7 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-06T00:32:37.813935+00:00",
+    "last_heard": "2026-08-06T00:57:05.643569+00:00",
     "snr": 13.75,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
