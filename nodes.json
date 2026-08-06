@@ -4090,9 +4090,9 @@
   "!433d6cc0": {
     "id": "!433d6cc0",
     "long_name": "SwdMsh> 6cc0",
-    "last_heard": "2026-08-01T06:14:30.549520+00:00",
-    "snr": -17.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-06T17:09:16.612181+00:00",
+    "snr": -1.5,
+    "hops_away": 7,
     "short_name": "6cc0",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
     "role": "CLIENT_MUTE"
