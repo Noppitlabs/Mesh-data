@@ -1629,8 +1629,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-06T12:20:46.468133+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-08-06T12:30:46.556780+00:00",
+    "snr": -4.75,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -5198,8 +5198,8 @@
   "!02e73714": {
     "id": "!02e73714",
     "long_name": "pleamore cross",
-    "last_heard": "2026-08-06T02:10:37.120559+00:00",
-    "snr": 14.0,
+    "last_heard": "2026-08-06T12:31:42.575627+00:00",
+    "snr": -6.0,
     "hops_away": 2,
     "short_name": "ta21",
     "hw_model": "HELTEC_V3",
