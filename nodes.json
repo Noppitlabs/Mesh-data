@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-06T15:37:52.419451+00:00",
+    "last_heard": "2026-08-06T15:38:52.454112+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1039,9 +1039,9 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-08-06T14:33:15.327375+00:00",
-    "snr": 13.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-06T15:38:48.506758+00:00",
+    "snr": -0.75,
+    "hops_away": 4,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
     "role": "ROUTER"
