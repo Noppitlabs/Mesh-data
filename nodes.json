@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-06T19:09:16.953660+00:00",
-    "snr": -1.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-06T19:10:59.720567+00:00",
+    "snr": -2.0,
+    "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2031,9 +2031,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-08-06T19:07:16.178679+00:00",
-    "snr": -1.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-06T19:10:03.573004+00:00",
+    "snr": -2.5,
+    "hops_away": 3,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
