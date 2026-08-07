@@ -333,9 +333,9 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-08-07T15:01:45.039376+00:00",
-    "snr": -3.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-07T15:26:42.101158+00:00",
+    "snr": -3.5,
+    "hops_away": 2,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1240,8 +1240,8 @@
   "!9e75d8e0": {
     "id": "!9e75d8e0",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-07T14:34:24.195770+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-08-07T15:26:29.529071+00:00",
+    "snr": -14.0,
     "hops_away": 0,
     "short_name": "EXE7",
     "hw_model": "HELTEC_V3",
