@@ -507,9 +507,9 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-08-07T05:18:24.590569+00:00",
-    "snr": -18.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-07T14:18:29.074340+00:00",
+    "snr": -8.75,
+    "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
     "role": ""
