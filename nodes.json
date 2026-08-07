@@ -2653,7 +2653,7 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-07T19:41:11.749558+00:00",
+    "last_heard": "2026-08-07T19:42:22.868445+00:00",
     "snr": -1.75,
     "hops_away": 2,
     "short_name": "10VP",
@@ -3060,8 +3060,8 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-08-07T19:22:10.265850+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-08-07T19:42:06.129476+00:00",
+    "snr": -2.0,
     "hops_away": 1,
     "short_name": "d3e4",
     "hw_model": "TBEAM",
