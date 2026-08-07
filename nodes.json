@@ -2011,8 +2011,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-07T15:30:05.017164+00:00",
-    "snr": -3.5,
+    "last_heard": "2026-08-07T15:50:04.979768+00:00",
+    "snr": -4.25,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -3077,8 +3077,8 @@
   "!336928d0": {
     "id": "!336928d0",
     "long_name": "D3E4-H2",
-    "last_heard": "2026-08-07T15:44:49.665503+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-08-07T15:50:40.572147+00:00",
+    "snr": -10.25,
     "hops_away": 2,
     "short_name": "D34-",
     "hw_model": "HELTEC_WSL_V3",
