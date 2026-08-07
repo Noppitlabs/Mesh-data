@@ -3790,9 +3790,9 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr B's number 2",
-    "last_heard": "2026-08-07T16:30:26.211920+00:00",
-    "snr": -1.5,
-    "hops_away": 7,
+    "last_heard": "2026-08-07T18:18:52.057578+00:00",
+    "snr": -18.75,
+    "hops_away": 6,
     "short_name": "MrB2",
     "hw_model": "HELTEC_V3",
     "role": ""
