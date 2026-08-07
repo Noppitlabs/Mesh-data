@@ -447,8 +447,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-08-07T14:17:02.598868+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-08-07T15:44:26.623012+00:00",
+    "snr": -3.0,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -3060,7 +3060,7 @@
   "!8487d3e4": {
     "id": "!8487d3e4",
     "long_name": "Meshtastic d3e4",
-    "last_heard": "2026-08-07T15:26:10.720778+00:00",
+    "last_heard": "2026-08-07T15:44:34.768095+00:00",
     "snr": -2.75,
     "hops_away": 1,
     "short_name": "d3e4",
