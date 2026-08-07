@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-07T20:49:07.100605+00:00",
+    "last_heard": "2026-08-07T20:50:07.137629+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4050,9 +4050,9 @@
   "!fa39f7b4": {
     "id": "!fa39f7b4",
     "long_name": "Comfortably Numb YAGI",
-    "last_heard": "2026-08-07T18:15:23.091223+00:00",
-    "snr": -2.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-07T20:50:04.906784+00:00",
+    "snr": -6.25,
+    "hops_away": 6,
     "short_name": "TA2y",
     "hw_model": "HELTEC_HT62",
     "role": "CLIENT_BASE"
