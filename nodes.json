@@ -7152,5 +7152,12 @@
     "short_name": "XST",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!04396f14": {
+    "id": "!04396f14",
+    "long_name": "!04396f14",
+    "last_heard": "2026-08-07T06:17:55.573901+00:00",
+    "snr": -1.0,
+    "hops_away": 3
   }
 }
