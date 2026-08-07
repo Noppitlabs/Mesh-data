@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-07T10:52:07.198934+00:00",
-    "snr": -9.75,
+    "last_heard": "2026-08-07T10:53:17.240090+00:00",
+    "snr": -7.25,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -764,8 +764,8 @@
   "!433e3450": {
     "id": "!433e3450",
     "long_name": "Simcom Wildcard ",
-    "last_heard": "2026-08-07T10:25:02.045111+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-08-07T10:53:36.387460+00:00",
+    "snr": -8.0,
     "hops_away": 3,
     "short_name": "WLCD",
     "hw_model": "HELTEC_V3",
