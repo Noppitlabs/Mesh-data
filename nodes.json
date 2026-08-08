@@ -2349,9 +2349,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-08-08T16:03:32.396769+00:00",
-    "snr": -16.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-08T16:15:24.948957+00:00",
+    "snr": -16.5,
+    "hops_away": 2,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3867,8 +3867,8 @@
   "!0c2a28f9": {
     "id": "!0c2a28f9",
     "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-08-08T10:13:13.011076+00:00",
-    "snr": -3.5,
+    "last_heard": "2026-08-08T16:15:05.214329+00:00",
+    "snr": -7.5,
     "hops_away": 4,
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
