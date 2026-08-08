@@ -720,9 +720,9 @@
   "!33645da0": {
     "id": "!33645da0",
     "long_name": "A2-1",
-    "last_heard": "2026-08-08T22:52:58.950219+00:00",
-    "snr": -17.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-08T23:53:02.963181+00:00",
+    "snr": 13.5,
+    "hops_away": 3,
     "short_name": "A2-1",
     "hw_model": "HELTEC_V3",
     "role": ""
