@@ -2111,9 +2111,9 @@
   "!da629650": {
     "id": "!da629650",
     "long_name": "M7TWC",
-    "last_heard": "2026-08-08T20:08:27.099441+00:00",
-    "snr": -1.25,
-    "hops_away": 6,
+    "last_heard": "2026-08-08T23:29:29.896479+00:00",
+    "snr": -9.5,
+    "hops_away": 3,
     "short_name": "TOM",
     "hw_model": "HELTEC_V3",
     "role": ""
