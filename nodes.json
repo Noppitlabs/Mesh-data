@@ -7230,10 +7230,13 @@
   },
   "!747cda26": {
     "id": "!747cda26",
-    "long_name": "!747cda26",
-    "last_heard": "2026-08-08T21:02:32.892124+00:00",
-    "snr": -12.75,
-    "hops_away": 2
+    "long_name": "Kayleigh ",
+    "last_heard": "2026-08-08T21:25:43.617342+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
+    "short_name": "\ud83d\udc2c",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!e1fbade3": {
     "id": "!e1fbade3",
