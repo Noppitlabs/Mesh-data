@@ -1,5 +1,16 @@
 [
   {
+    "id": 4122991927,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Test from Irish Ferries - cherbourg to Dublin",
+    "timestamp": "2026-08-08T15:37:01.750313+00:00",
+    "channel": 0,
+    "snr": -19.25,
+    "hops": 4
+  },
+  {
     "id": 1309786764,
     "from": "!9ea1b288",
     "from_name": "SwallowsNest - Adam Cullompton",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.0,
     "hops": 6
-  },
-  {
-    "id": 734560660,
-    "from": "!b29f9cb8",
-    "from_name": "SwdMsh 9cb8",
-    "to": "^all",
-    "text": "WV16 - Thanks!",
-    "timestamp": "2026-08-02T12:26:04.232924+00:00",
-    "channel": 0,
-    "snr": -7.75,
-    "hops": 7
   }
 ]
