@@ -4380,9 +4380,9 @@
   "!62f844a4": {
     "id": "!62f844a4",
     "long_name": "Exmoor Mobile 3",
-    "last_heard": "2026-08-07T18:47:52.718922+00:00",
-    "snr": -9.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-08T18:47:48.855730+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
     "short_name": "EXM3",
     "hw_model": "SENSECAP_INDICATOR",
     "role": ""
