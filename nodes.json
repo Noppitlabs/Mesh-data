@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-08T09:05:16.659547+00:00",
+    "last_heard": "2026-08-08T09:05:40.435679+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-08T08:41:34.333940+00:00",
-    "snr": -2.5,
+    "last_heard": "2026-08-08T09:06:09.295892+00:00",
+    "snr": -7.0,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
