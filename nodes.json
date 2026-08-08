@@ -296,9 +296,9 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-08T04:11:33.996851+00:00",
-    "snr": 12.5,
-    "hops_away": 0,
+    "last_heard": "2026-08-08T04:41:19.865495+00:00",
+    "snr": -16.0,
+    "hops_away": 1,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
     "role": ""
