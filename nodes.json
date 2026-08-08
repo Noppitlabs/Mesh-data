@@ -7260,5 +7260,15 @@
     "short_name": "\ud83d\udc08",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!7c5b5974": {
+    "id": "!7c5b5974",
+    "long_name": "Nova Base",
+    "last_heard": "2026-08-08T22:59:07.211675+00:00",
+    "snr": -13.5,
+    "hops_away": 7,
+    "short_name": "Nova",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
