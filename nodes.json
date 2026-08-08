@@ -2255,9 +2255,9 @@
   "!0407c354": {
     "id": "!0407c354",
     "long_name": "GU0SUP Pommier",
-    "last_heard": "2026-08-04T03:23:38.292271+00:00",
-    "snr": 11.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-08T21:59:12.392084+00:00",
+    "snr": -0.75,
+    "hops_away": 4,
     "short_name": "0SUP",
     "hw_model": "HELTEC_V3",
     "role": ""
