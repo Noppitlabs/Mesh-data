@@ -7250,5 +7250,15 @@
     "short_name": "sym",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!f2d6e53b": {
+    "id": "!f2d6e53b",
+    "long_name": "AF-FG\ud83c\uddeb\ud83c\uddf7",
+    "last_heard": "2026-08-08T21:35:10.905742+00:00",
+    "snr": -16.75,
+    "hops_away": 4,
+    "short_name": "\ud83d\udc08",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
