@@ -3460,9 +3460,9 @@
   "!db295fa0": {
     "id": "!db295fa0",
     "long_name": "Gonzo Parkstone Repeater",
-    "last_heard": "2026-08-08T23:48:04.642147+00:00",
+    "last_heard": "2026-08-08T23:57:01.122275+00:00",
     "snr": -14.25,
-    "hops_away": 5,
+    "hops_away": 4,
     "short_name": "NZOR",
     "hw_model": "HELTEC_V3",
     "role": ""
