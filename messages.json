@@ -1,5 +1,16 @@
 [
   {
+    "id": 1691257752,
+    "from": "!ed427eb8",
+    "from_name": "The Tower of Power",
+    "to": "^all",
+    "text": "Hello from GG",
+    "timestamp": "2026-08-08T17:23:53.109431+00:00",
+    "channel": 0,
+    "snr": -18.5,
+    "hops": 5
+  },
+  {
     "id": 1539566297,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.5,
     "hops": 2
-  },
-  {
-    "id": 2789417520,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "2\ufe0f\u20e3",
-    "timestamp": "2026-08-03T07:58:03.840530+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 4
   }
 ]
