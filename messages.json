@@ -1,5 +1,16 @@
 [
   {
+    "id": 899875336,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "Hi all, very new to this hobby,l. what has a better mesh in Devon (Exeter) Meshcore or Meshtasic. ",
+    "timestamp": "2026-08-08T09:30:43.164492+00:00",
+    "channel": 0,
+    "snr": -1.75,
+    "hops": 3
+  },
+  {
     "id": 2563751990,
     "from": "!9ea1b288",
     "from_name": "SwallowsNest - Adam Cullompton",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -4.5,
     "hops": 3
-  },
-  {
-    "id": 1472734134,
-    "from": "!f66bd428",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-08-02T07:03:14.175959+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 5
   }
 ]
