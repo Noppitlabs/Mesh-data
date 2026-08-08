@@ -2275,9 +2275,9 @@
   "!6983e570": {
     "id": "!6983e570",
     "long_name": "GCM0008 - St Clair Hill\ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-08-03T23:40:32.674471+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-08T17:24:36.990400+00:00",
+    "snr": -1.75,
+    "hops_away": 7,
     "short_name": "e570",
     "hw_model": "HELTEC_V4",
     "role": ""
