@@ -7224,9 +7224,9 @@
   "!66d4fe88": {
     "id": "!66d4fe88",
     "long_name": "Meshtastic d104",
-    "last_heard": "2026-08-08T15:51:01.539067+00:00",
-    "snr": -1.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-08T15:52:53.730838+00:00",
+    "snr": -2.5,
+    "hops_away": 1,
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
     "role": ""
