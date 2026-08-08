@@ -7210,5 +7210,15 @@
     "short_name": "fe9c",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
+  },
+  "!699cc574": {
+    "id": "!699cc574",
+    "long_name": "M7DJX Repeater",
+    "last_heard": "2026-08-08T14:58:45.308579+00:00",
+    "snr": -18.5,
+    "hops_away": 2,
+    "short_name": "DJXR",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   }
 }
