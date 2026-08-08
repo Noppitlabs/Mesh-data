@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-08T06:44:32.744407+00:00",
+    "last_heard": "2026-08-08T06:44:34.645384+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2653,8 +2653,8 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-08T06:36:06.859901+00:00",
-    "snr": -1.0,
+    "last_heard": "2026-08-08T06:44:45.689394+00:00",
+    "snr": -18.0,
     "hops_away": 3,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
