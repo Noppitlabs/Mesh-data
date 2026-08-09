@@ -7353,5 +7353,12 @@
     "short_name": "TTG",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_MUTE"
+  },
+  "!09d4e760": {
+    "id": "!09d4e760",
+    "long_name": "!09d4e760",
+    "last_heard": "2026-08-09T17:24:39.884561+00:00",
+    "snr": -16.5,
+    "hops_away": 3
   }
 }
