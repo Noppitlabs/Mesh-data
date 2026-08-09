@@ -7316,5 +7316,12 @@
     "short_name": "FWYB",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
+  },
+  "!7905d5b2": {
+    "id": "!7905d5b2",
+    "long_name": "!7905d5b2",
+    "last_heard": "2026-08-09T13:41:44.126220+00:00",
+    "snr": -13.25,
+    "hops_away": 3
   }
 }
