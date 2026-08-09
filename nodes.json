@@ -1411,11 +1411,11 @@
   "!e3a23ff0": {
     "id": "!e3a23ff0",
     "long_name": "Meshtastic 3ff0",
-    "last_heard": "2026-08-09T00:06:32.534937+00:00",
-    "snr": -15.75,
-    "hops_away": 6,
+    "last_heard": "2026-08-09T00:12:39.605338+00:00",
+    "snr": -1.75,
+    "hops_away": 7,
     "short_name": "3ff0",
-    "hw_model": "TLORA_V2_1_1P6",
+    "hw_model": "TLORA_V1",
     "role": ""
   },
   "!13eb6ced": {
