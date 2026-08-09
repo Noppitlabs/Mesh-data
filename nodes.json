@@ -6962,9 +6962,9 @@
   "!8eefd15f": {
     "id": "!8eefd15f",
     "long_name": "blackbird",
-    "last_heard": "2026-08-09T03:33:39.825745+00:00",
-    "snr": -15.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T04:33:41.858389+00:00",
+    "snr": -14.25,
+    "hops_away": 3,
     "short_name": "d15f",
     "hw_model": "TRACKER_T1000_E",
     "role": "TRACKER"
