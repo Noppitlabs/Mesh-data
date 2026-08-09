@@ -7344,9 +7344,9 @@
   "!f6624d00": {
     "id": "!f6624d00",
     "long_name": "TouTouGros\ud83d\udc3a Base Tim",
-    "last_heard": "2026-08-09T17:16:42.733591+00:00",
-    "snr": 12.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T17:47:15.972524+00:00",
+    "snr": -15.5,
+    "hops_away": 3,
     "short_name": "TTG",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_MUTE"
