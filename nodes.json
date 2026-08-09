@@ -4920,9 +4920,9 @@
   "!6c744440": {
     "id": "!6c744440",
     "long_name": "14PAT022",
-    "last_heard": "2026-08-09T05:57:49.874007+00:00",
-    "snr": -14.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T06:48:13.243977+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "14PT",
     "hw_model": "TBEAM",
     "role": ""
