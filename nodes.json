@@ -7220,9 +7220,9 @@
   "!699cc574": {
     "id": "!699cc574",
     "long_name": "M7DJX Repeater",
-    "last_heard": "2026-08-09T00:18:36.145333+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-09T03:18:39.445878+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "DJXR",
     "hw_model": "HELTEC_V4",
     "role": ""
