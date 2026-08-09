@@ -537,9 +537,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-09T22:41:01.063786+00:00",
-    "snr": -1.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-09T22:45:03.369447+00:00",
+    "snr": -2.5,
+    "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2014,8 +2014,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-09T22:29:59.138118+00:00",
-    "snr": -2.5,
+    "last_heard": "2026-08-09T22:45:12.020648+00:00",
+    "snr": -1.25,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
