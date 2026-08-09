@@ -5656,13 +5656,10 @@
   },
   "!75e9a064": {
     "id": "!75e9a064",
-    "long_name": "M0YCH",
-    "last_heard": "2026-07-06T07:51:07.700190+00:00",
-    "snr": -6.0,
-    "hops_away": 3,
-    "short_name": "YCH1",
-    "hw_model": "HELTEC_WSL_V3",
-    "role": ""
+    "long_name": "!75e9a064",
+    "last_heard": "2026-08-09T17:27:08.064078+00:00",
+    "snr": 13.5,
+    "hops_away": 4
   },
   "!6c730e04": {
     "id": "!6c730e04",
