@@ -5683,10 +5683,13 @@
   },
   "!c1fbdbec": {
     "id": "!c1fbdbec",
-    "long_name": "!c1fbdbec",
-    "last_heard": "2026-08-09T04:31:39.706616+00:00",
-    "snr": -15.75,
-    "hops_away": 5
+    "long_name": "LCARS BASE",
+    "last_heard": "2026-08-09T04:37:12.639336+00:00",
+    "snr": -14.5,
+    "hops_away": -2,
+    "short_name": "xchc",
+    "hw_model": "SEEED_XIAO_S3",
+    "role": "CLIENT_BASE"
   },
   "!5f9426ad": {
     "id": "!5f9426ad",
