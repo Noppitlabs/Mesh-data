@@ -1,5 +1,16 @@
 [
   {
+    "id": 2956193624,
+    "from": "!ea8fd728",
+    "from_name": "Bear",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-08-09T08:11:50.548938+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 3
+  },
+  {
     "id": 751942665,
     "from": "!5589d4e3",
     "from_name": "!5589d4e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.25,
     "hops": 2
-  },
-  {
-    "id": 884115985,
-    "from": "!7a6061d4",
-    "from_name": "!7a6061d4",
-    "to": "^all",
-    "text": "Offer him washing powder in a ziplock bag",
-    "timestamp": "2026-08-03T15:56:28.753274+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 6
   }
 ]
