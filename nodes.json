@@ -1032,9 +1032,9 @@
   "!12813c36": {
     "id": "!12813c36",
     "long_name": "aricooperdavis",
-    "last_heard": "2026-07-23T06:47:22.189318+00:00",
-    "snr": -17.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-09T22:52:44.556380+00:00",
+    "snr": -8.25,
+    "hops_away": 3,
     "short_name": "ari",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
