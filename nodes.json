@@ -5322,9 +5322,9 @@
   "!da5c81a0": {
     "id": "!da5c81a0",
     "long_name": "Hanbury",
-    "last_heard": "2026-08-03T16:22:14.788550+00:00",
-    "snr": -5.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T07:10:02.425193+00:00",
+    "snr": -0.25,
+    "hops_away": 5,
     "short_name": "Hnbr",
     "hw_model": "HELTEC_V3",
     "role": ""
