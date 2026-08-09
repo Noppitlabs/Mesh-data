@@ -1213,9 +1213,9 @@
   "!da5473fc": {
     "id": "!da5473fc",
     "long_name": "Pokey Hollow",
-    "last_heard": "2026-08-09T04:36:00.596576+00:00",
-    "snr": -16.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T04:41:40.090087+00:00",
+    "snr": -15.5,
+    "hops_away": 3,
     "short_name": "MP",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4977,8 +4977,8 @@
   "!698422f4": {
     "id": "!698422f4",
     "long_name": "Fantasia Hub",
-    "last_heard": "2026-08-09T04:26:21.785444+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-08-09T04:41:38.706103+00:00",
+    "snr": -15.75,
     "hops_away": 5,
     "short_name": "F4HB",
     "hw_model": "HELTEC_V4",
