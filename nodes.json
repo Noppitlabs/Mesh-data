@@ -6745,9 +6745,9 @@
   "!9e75ac7c": {
     "id": "!9e75ac7c",
     "long_name": "Malvern Vale",
-    "last_heard": "2026-08-05T11:24:22.001168+00:00",
-    "snr": -19.5,
-    "hops_away": 7,
+    "last_heard": "2026-08-09T04:11:28.013936+00:00",
+    "snr": -16.25,
+    "hops_away": 6,
     "short_name": "ac7c",
     "hw_model": "HELTEC_V3",
     "role": ""
