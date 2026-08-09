@@ -3583,9 +3583,9 @@
   "!a035265c": {
     "id": "!a035265c",
     "long_name": "Havant - Station G2",
-    "last_heard": "2026-08-09T16:37:00.767643+00:00",
-    "snr": -2.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-09T17:12:46.848469+00:00",
+    "snr": 13.75,
+    "hops_away": 3,
     "short_name": "HVNT",
     "hw_model": "STATION_G2",
     "role": ""
