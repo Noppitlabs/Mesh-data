@@ -7333,5 +7333,12 @@
     "short_name": "7ff0",
     "hw_model": "HELTEC_V4",
     "role": "ROUTER"
+  },
+  "!d04b9f02": {
+    "id": "!d04b9f02",
+    "long_name": "!d04b9f02",
+    "last_heard": "2026-08-09T16:26:05.627675+00:00",
+    "snr": -14.0,
+    "hops_away": 2
   }
 }
