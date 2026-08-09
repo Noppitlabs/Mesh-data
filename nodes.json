@@ -1421,9 +1421,9 @@
   "!13eb6ced": {
     "id": "!13eb6ced",
     "long_name": "Trewoder Node 001",
-    "last_heard": "2026-08-09T02:06:39.865289+00:00",
-    "snr": -16.5,
-    "hops_away": 7,
+    "last_heard": "2026-08-09T02:38:19.616814+00:00",
+    "snr": -8.25,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
