@@ -7207,9 +7207,9 @@
   "!f6fbfe9c": {
     "id": "!f6fbfe9c",
     "long_name": "Meshtastic fe9c",
-    "last_heard": "2026-08-09T00:27:07.395416+00:00",
-    "snr": null,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T00:37:05.129701+00:00",
+    "snr": -10.0,
+    "hops_away": 3,
     "short_name": "fe9c",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
