@@ -1,5 +1,16 @@
 [
   {
+    "id": 3786904583,
+    "from": "!2687afb1",
+    "from_name": "Comfortably Numb OMNI",
+    "to": "^all",
+    "text": "@ffff ping",
+    "timestamp": "2026-08-09T08:07:27.125754+00:00",
+    "channel": 0,
+    "snr": -2.0,
+    "hops": 4
+  },
+  {
     "id": 402839806,
     "from": "!0409d1c0",
     "from_name": "M7FYU",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.0,
     "hops": 5
-  },
-  {
-    "id": 2551791845,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-08-03T09:41:21.182039+00:00",
-    "channel": 0,
-    "snr": -6.5,
-    "hops": 2
   }
 ]
