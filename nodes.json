@@ -7190,9 +7190,9 @@
   "!db294c58": {
     "id": "!db294c58",
     "long_name": "SYA DE PB8142",
-    "last_heard": "2026-08-08T20:58:51.107578+00:00",
-    "snr": -2.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-09T01:01:39.473428+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
     "short_name": "SYA",
     "hw_model": "HELTEC_V3",
     "role": ""
