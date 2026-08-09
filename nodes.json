@@ -6775,10 +6775,13 @@
   },
   "!433e7340": {
     "id": "!433e7340",
-    "long_name": "!433e7340",
-    "last_heard": "2026-08-02T14:46:43.347473+00:00",
-    "snr": -11.0,
-    "hops_away": 6
+    "long_name": "sj17 Slimjim standby ",
+    "last_heard": "2026-08-09T03:16:52.375657+00:00",
+    "snr": -14.75,
+    "hops_away": 6,
+    "short_name": "sj17",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_MUTE"
   },
   "!699c9900": {
     "id": "!699c9900",
