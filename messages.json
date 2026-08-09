@@ -1,5 +1,16 @@
 [
   {
+    "id": 1144466463,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Morning from Exmouth",
+    "timestamp": "2026-08-09T08:13:42.288052+00:00",
+    "channel": 0,
+    "snr": -17.5,
+    "hops": 1
+  },
+  {
     "id": 2956193624,
     "from": "!ea8fd728",
     "from_name": "Bear",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.25,
     "hops": 3
-  },
-  {
-    "id": 839047329,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "D",
-    "timestamp": "2026-08-03T16:06:14.977641+00:00",
-    "channel": 0,
-    "snr": -7.25,
-    "hops": 2
   }
 ]
