@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-09T15:31:08.815434+00:00",
+    "last_heard": "2026-08-09T15:32:08.778659+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4917,9 +4917,9 @@
   "!6c744440": {
     "id": "!6c744440",
     "long_name": "14PAT022",
-    "last_heard": "2026-08-09T15:17:03.910625+00:00",
-    "snr": -4.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T15:32:12.331904+00:00",
+    "snr": -14.75,
+    "hops_away": 3,
     "short_name": "14PT",
     "hw_model": "TBEAM",
     "role": ""
