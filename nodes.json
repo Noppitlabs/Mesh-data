@@ -1927,9 +1927,9 @@
   "!9aabd2d3": {
     "id": "!9aabd2d3",
     "long_name": "G6YGR - Mark (TQ14 Base)",
-    "last_heard": "2026-07-22T14:15:50.785109+00:00",
-    "snr": -6.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-09T00:01:12.136725+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
     "short_name": "YGRb",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
