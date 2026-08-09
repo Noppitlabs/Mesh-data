@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-09T07:54:13.157446+00:00",
-    "snr": -1.5,
+    "last_heard": "2026-08-09T07:56:25.759357+00:00",
+    "snr": -17.0,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-09T07:54:45.601718+00:00",
+    "last_heard": "2026-08-09T07:57:05.879285+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-09T07:48:58.984242+00:00",
-    "snr": -16.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-09T07:56:05.701916+00:00",
+    "snr": -2.0,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -540,8 +540,8 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-09T07:30:15.368347+00:00",
-    "snr": -15.75,
+    "last_heard": "2026-08-09T07:56:45.816796+00:00",
+    "snr": -15.5,
     "hops_away": 1,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
@@ -3805,8 +3805,8 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Mr B's number 2",
-    "last_heard": "2026-08-09T07:46:29.923460+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-08-09T07:57:25.936660+00:00",
+    "snr": -15.5,
     "hops_away": 5,
     "short_name": "MrB2",
     "hw_model": "HELTEC_V3",
