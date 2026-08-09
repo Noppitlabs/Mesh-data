@@ -3524,10 +3524,13 @@
   },
   "!6984abac": {
     "id": "!6984abac",
-    "long_name": "!6984abac",
-    "last_heard": "2026-08-09T01:30:09.297692+00:00",
-    "snr": -16.5,
-    "hops_away": 4
+    "long_name": "GCM0014 - St Clements \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
+    "last_heard": "2026-08-09T03:29:26.465028+00:00",
+    "snr": -0.5,
+    "hops_away": 5,
+    "short_name": "abac",
+    "hw_model": "HELTEC_V4",
+    "role": ""
   },
   "!901f9a67": {
     "id": "!901f9a67",
