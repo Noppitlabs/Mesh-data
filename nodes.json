@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-09T13:34:33.602592+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-08-09T13:36:15.480653+00:00",
+    "snr": -15.0,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -2014,8 +2014,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-09T13:18:34.188507+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-08-09T13:36:02.817911+00:00",
+    "snr": 13.75,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
