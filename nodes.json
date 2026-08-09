@@ -4052,9 +4052,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-08-09T18:49:14.892383+00:00",
-    "snr": -2.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-09T21:31:44.909057+00:00",
+    "snr": -18.25,
+    "hops_away": 4,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
