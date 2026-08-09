@@ -7323,5 +7323,15 @@
     "last_heard": "2026-08-09T13:41:44.126220+00:00",
     "snr": -13.25,
     "hops_away": 3
+  },
+  "!8fa77ff0": {
+    "id": "!8fa77ff0",
+    "long_name": "Meshtastic 7ff0 - M1VPN",
+    "last_heard": "2026-08-09T14:21:30.964546+00:00",
+    "snr": -6.75,
+    "hops_away": 3,
+    "short_name": "7ff0",
+    "hw_model": "HELTEC_V4",
+    "role": "ROUTER"
   }
 }
