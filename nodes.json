@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-09T22:37:52.037456+00:00",
-    "snr": -2.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-09T22:38:26.846866+00:00",
+    "snr": -2.75,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-09T22:36:15.553257+00:00",
-    "snr": 13.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-09T22:38:37.383010+00:00",
+    "snr": -14.5,
+    "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
