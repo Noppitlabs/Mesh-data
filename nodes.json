@@ -938,9 +938,9 @@
   "!d45a9bc8": {
     "id": "!d45a9bc8",
     "long_name": "!d45a9bc8",
-    "last_heard": "2026-08-08T18:27:00.234577+00:00",
-    "snr": -10.25,
-    "hops_away": 2
+    "last_heard": "2026-08-10T23:05:02.365839+00:00",
+    "snr": -0.75,
+    "hops_away": 6
   },
   "!43b70dc8": {
     "id": "!43b70dc8",
@@ -1267,9 +1267,9 @@
   "!9ee70f38": {
     "id": "!9ee70f38",
     "long_name": "M0LOB1",
-    "last_heard": "2026-08-09T08:48:35.492122+00:00",
-    "snr": -1.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-10T23:04:34.228080+00:00",
+    "snr": null,
+    "hops_away": 3,
     "short_name": "Lob1",
     "hw_model": "HELTEC_V3",
     "role": ""
