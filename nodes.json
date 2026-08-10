@@ -1779,9 +1779,9 @@
   "!8f51053c": {
     "id": "!8f51053c",
     "long_name": "Exmouth~West",
-    "last_heard": "2026-08-10T17:27:33.621579+00:00",
-    "snr": 13.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-10T23:29:10.416489+00:00",
+    "snr": -17.0,
+    "hops_away": 0,
     "short_name": "E1",
     "hw_model": "RAK4631",
     "role": "ROUTER"
