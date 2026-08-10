@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-10T13:49:04.705077+00:00",
+    "last_heard": "2026-08-10T13:50:04.734220+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -4937,9 +4937,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Comfortably Numb OMNI",
-    "last_heard": "2026-08-10T13:47:56.240026+00:00",
-    "snr": -2.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-10T13:50:43.610759+00:00",
+    "snr": -1.0,
+    "hops_away": 2,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
