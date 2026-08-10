@@ -6101,12 +6101,12 @@
   "!ea8f8b48": {
     "id": "!ea8f8b48",
     "long_name": "PIXEL",
-    "last_heard": "2026-08-09T12:59:52.198571+00:00",
-    "snr": -14.25,
-    "hops_away": 6,
+    "last_heard": "2026-08-10T22:03:38.150653+00:00",
+    "snr": -1.0,
+    "hops_away": 7,
     "short_name": "PIXL",
     "hw_model": "SEEED_XIAO_S3",
-    "role": "CLIENT_MUTE"
+    "role": ""
   },
   "!04058b40": {
     "id": "!04058b40",
