@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-10T14:14:58.001976+00:00",
+    "last_heard": "2026-08-10T14:15:05.726056+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -2034,9 +2034,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-08-10T13:57:31.573909+00:00",
-    "snr": -7.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-10T14:15:31.099901+00:00",
+    "snr": -3.5,
+    "hops_away": 4,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
