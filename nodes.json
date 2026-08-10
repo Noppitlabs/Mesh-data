@@ -637,8 +637,8 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-08-10T12:06:12.525598+00:00",
-    "snr": -3.0,
+    "last_heard": "2026-08-10T14:22:32.431786+00:00",
+    "snr": -2.25,
     "hops_away": 3,
     "short_name": "MDor",
     "hw_model": "HELTEC_V3",
@@ -2416,8 +2416,8 @@
   "!1c71c8ae": {
     "id": "!1c71c8ae",
     "long_name": "GU1LRO Solar",
-    "last_heard": "2026-08-10T00:06:30.830682+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-08-10T14:22:08.656634+00:00",
+    "snr": -0.75,
     "hops_away": 3,
     "short_name": "cobo",
     "hw_model": "RAK4631",
