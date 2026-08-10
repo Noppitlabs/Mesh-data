@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-10T14:03:14.295629+00:00",
-    "snr": -2.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-10T14:05:09.163953+00:00",
+    "snr": -6.0,
+    "hops_away": 3,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1548,9 +1548,9 @@
   "!d7158102": {
     "id": "!d7158102",
     "long_name": "M0ABR ",
-    "last_heard": "2026-08-09T01:57:33.193555+00:00",
-    "snr": -14.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-10T14:05:36.863649+00:00",
+    "snr": -18.0,
+    "hops_away": 3,
     "short_name": "fir",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
