@@ -861,9 +861,9 @@
   "!fbb5bd0f": {
     "id": "!fbb5bd0f",
     "long_name": "unreturnable home",
-    "last_heard": "2026-08-09T16:36:24.447669+00:00",
-    "snr": 13.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-10T17:33:25.130336+00:00",
+    "snr": -19.75,
+    "hops_away": 3,
     "short_name": "URHM",
     "hw_model": "RAK4631",
     "role": ""
