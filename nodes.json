@@ -69,9 +69,9 @@
   "!43b59df4": {
     "id": "!43b59df4",
     "long_name": "2E0HYY Keith",
-    "last_heard": "2026-08-10T13:47:21.982662+00:00",
-    "snr": -7.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-10T14:57:27.904359+00:00",
+    "snr": null,
+    "hops_away": 3,
     "short_name": "KM02",
     "hw_model": "HELTEC_V3",
     "role": ""
