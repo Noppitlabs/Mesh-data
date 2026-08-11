@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-11T09:11:14.726087+00:00",
-    "snr": -1.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-11T09:13:10.616422+00:00",
+    "snr": -17.0,
+    "hops_away": 1,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3093,9 +3093,9 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-08-11T09:02:17.209126+00:00",
-    "snr": -9.75,
-    "hops_away": 6,
+    "last_heard": "2026-08-11T09:13:01.923985+00:00",
+    "snr": -3.75,
+    "hops_away": 4,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
     "role": ""
