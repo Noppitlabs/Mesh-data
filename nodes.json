@@ -3572,9 +3572,9 @@
   "!02ecfb84": {
     "id": "!02ecfb84",
     "long_name": "Caprimesh_datahub",
-    "last_heard": "2026-08-11T05:33:46.802083+00:00",
-    "snr": -3.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-11T23:33:49.777606+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
     "short_name": "CPDH",
     "hw_model": "HELTEC_V3",
     "role": ""
