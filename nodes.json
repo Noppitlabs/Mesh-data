@@ -4718,9 +4718,9 @@
   "!1c15ef40": {
     "id": "!1c15ef40",
     "long_name": "RTE868",
-    "last_heard": "2026-08-11T13:51:01.878848+00:00",
-    "snr": 13.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-11T15:28:03.499235+00:00",
+    "snr": -16.25,
+    "hops_away": 2,
     "short_name": "RTE8",
     "hw_model": "TLORA_V2_1_1P6",
     "role": ""
