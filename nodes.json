@@ -7224,9 +7224,9 @@
   "!0745f17f": {
     "id": "!0745f17f",
     "long_name": "Meshtastic f17f",
-    "last_heard": "2026-08-11T21:55:32.145452+00:00",
-    "snr": -1.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-11T21:58:15.249844+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "f17f",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
