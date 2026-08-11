@@ -7414,5 +7414,15 @@
     "last_heard": "2026-08-11T01:22:05.650811+00:00",
     "snr": -15.75,
     "hops_away": 5
+  },
+  "!02e5d968": {
+    "id": "!02e5d968",
+    "long_name": "Gornal-Base-1",
+    "last_heard": "2026-08-11T02:21:38.419409+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
+    "short_name": "GB1",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
