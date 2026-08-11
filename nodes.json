@@ -5803,9 +5803,9 @@
   "!ed427eb8": {
     "id": "!ed427eb8",
     "long_name": "The Tower of Power",
-    "last_heard": "2026-08-11T17:34:57.201838+00:00",
-    "snr": -17.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-11T22:35:58.137553+00:00",
+    "snr": -18.0,
+    "hops_away": 5,
     "short_name": "299m",
     "hw_model": "RAK6421",
     "role": ""
