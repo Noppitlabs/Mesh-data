@@ -7176,10 +7176,13 @@
   },
   "!04396f14": {
     "id": "!04396f14",
-    "long_name": "!04396f14",
-    "last_heard": "2026-08-11T02:33:21.199780+00:00",
-    "snr": -0.5,
-    "hops_away": 2
+    "long_name": "Nick M0NCY",
+    "last_heard": "2026-08-11T02:44:57.574697+00:00",
+    "snr": 13.5,
+    "hops_away": 3,
+    "short_name": "0NCY",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!2f805f98": {
     "id": "!2f805f98",
