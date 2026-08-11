@@ -1199,9 +1199,9 @@
   "!a39d095a": {
     "id": "!a39d095a",
     "long_name": "Mobile rak\ud83c\udf1e",
-    "last_heard": "2026-08-11T06:50:09.906139+00:00",
-    "snr": -17.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-11T19:37:05.963069+00:00",
+    "snr": -8.0,
+    "hops_away": 5,
     "short_name": "095a",
     "hw_model": "RAK4631",
     "role": ""
