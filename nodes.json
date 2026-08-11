@@ -7460,5 +7460,12 @@
     "short_name": "a61a",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
+  },
+  "!749f46ce": {
+    "id": "!749f46ce",
+    "long_name": "!749f46ce",
+    "last_heard": "2026-08-11T08:16:13.222950+00:00",
+    "snr": -2.25,
+    "hops_away": 4
   }
 }
