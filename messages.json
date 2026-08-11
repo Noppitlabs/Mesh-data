@@ -1,5 +1,16 @@
 [
   {
+    "id": 1968023831,
+    "from": "!9ea0bce4",
+    "from_name": "Hyperion WirelessPaper",
+    "to": "^all",
+    "text": "Dohajydh da, everyone excited for the partial eclipse tomorrow? \ud83d\ude0e",
+    "timestamp": "2026-08-11T13:22:57.388736+00:00",
+    "channel": 0,
+    "snr": -2.5,
+    "hops": 6
+  },
+  {
     "id": 663573364,
     "from": "!ed427eb8",
     "from_name": "The Tower of Power",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-05T08:48:56.346062+00:00",
     "channel": 0,
     "snr": -2.5,
-    "hops": 3
-  },
-  {
-    "id": 253640787,
-    "from": "!f68dddd8",
-    "from_name": "!f68dddd8",
-    "to": "^all",
-    "text": "Only sent when I got to the repeater in Exmouth so that\u2019s quite some good range",
-    "timestamp": "2026-08-05T08:47:41.001634+00:00",
-    "channel": 0,
-    "snr": -17.0,
     "hops": 3
   }
 ]
