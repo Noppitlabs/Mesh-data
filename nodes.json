@@ -238,10 +238,13 @@
   },
   "!433ca780": {
     "id": "!433ca780",
-    "long_name": "!433ca780",
-    "last_heard": "2026-08-10T23:28:36.194604+00:00",
-    "snr": -16.25,
-    "hops_away": 2
+    "long_name": "Nugg",
+    "last_heard": "2026-08-11T00:08:56.697199+00:00",
+    "snr": -17.5,
+    "hops_away": 5,
+    "short_name": "NUGG",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!b6eeec2f": {
     "id": "!b6eeec2f",
