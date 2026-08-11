@@ -299,7 +299,7 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-11T16:06:16.461746+00:00",
+    "last_heard": "2026-08-11T16:26:57.933324+00:00",
     "snr": 13.5,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
@@ -2043,9 +2043,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-08-11T16:09:50.057648+00:00",
-    "snr": -3.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-11T16:26:49.385768+00:00",
+    "snr": -17.75,
+    "hops_away": 1,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
