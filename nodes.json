@@ -3525,9 +3525,9 @@
   "!6984abac": {
     "id": "!6984abac",
     "long_name": "GCM0014 - St Clements \ud83c\uddec\ud83c\uddec\ud83d\udd0c",
-    "last_heard": "2026-08-11T06:50:31.088408+00:00",
-    "snr": 13.75,
-    "hops_away": 6,
+    "last_heard": "2026-08-11T09:29:33.600638+00:00",
+    "snr": -2.5,
+    "hops_away": 5,
     "short_name": "abac",
     "hw_model": "HELTEC_V4",
     "role": ""
