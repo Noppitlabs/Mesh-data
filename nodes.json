@@ -7484,5 +7484,12 @@
     "last_heard": "2026-08-11T20:21:22.787774+00:00",
     "snr": -2.0,
     "hops_away": 6
+  },
+  "!5c4dfeef": {
+    "id": "!5c4dfeef",
+    "long_name": "!5c4dfeef",
+    "last_heard": "2026-08-11T20:24:33.584911+00:00",
+    "snr": -16.25,
+    "hops_away": 5
   }
 }
