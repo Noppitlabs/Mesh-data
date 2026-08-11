@@ -169,9 +169,9 @@
   "!69998cb8": {
     "id": "!69998cb8",
     "long_name": "HWK SOLAR",
-    "last_heard": "2026-08-09T17:28:18.170587+00:00",
-    "snr": -12.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-11T17:20:14.089752+00:00",
+    "snr": -17.5,
+    "hops_away": 4,
     "short_name": "HWK",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
