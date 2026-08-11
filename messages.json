@@ -1,5 +1,16 @@
 [
   {
+    "id": 1162888614,
+    "from": "!8f51053c",
+    "from_name": "Exmouth~West",
+    "to": "^all",
+    "text": "thank you",
+    "timestamp": "2026-08-11T13:47:04.666681+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 0
+  },
+  {
     "id": 1162888613,
     "from": "!8f51053c",
     "from_name": "Exmouth~West",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.5,
     "hops": 4
-  },
-  {
-    "id": 146050521,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "got smooth operator coming in on 95.0",
-    "timestamp": "2026-08-05T13:12:31.184928+00:00",
-    "channel": 0,
-    "snr": -11.0,
-    "hops": 7
   }
 ]
