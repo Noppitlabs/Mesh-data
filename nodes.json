@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-11T05:33:40.939301+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-08-11T05:33:42.962578+00:00",
+    "snr": -16.75,
     "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -3568,10 +3568,13 @@
   },
   "!02ecfb84": {
     "id": "!02ecfb84",
-    "long_name": "!02ecfb84",
-    "last_heard": "2026-08-08T21:56:06.275952+00:00",
-    "snr": -17.5,
-    "hops_away": 2
+    "long_name": "Caprimesh_datahub",
+    "last_heard": "2026-08-11T05:33:46.802083+00:00",
+    "snr": -3.0,
+    "hops_away": 3,
+    "short_name": "CPDH",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!0f14569c": {
     "id": "!0f14569c",
