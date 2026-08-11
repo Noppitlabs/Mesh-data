@@ -1,5 +1,16 @@
 [
   {
+    "id": 954011699,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "RX in Exmouth",
+    "timestamp": "2026-08-11T12:56:58.953267+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 2
+  },
+  {
     "id": 914881954,
     "from": "!849c72a0",
     "from_name": "Meshtastic VeNT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-05T08:46:36.684045+00:00",
     "channel": 0,
     "snr": -9.25,
-    "hops": 2
-  },
-  {
-    "id": 3723244149,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "Test exeter",
-    "timestamp": "2026-08-05T08:45:20.517298+00:00",
-    "channel": 0,
-    "snr": -11.25,
     "hops": 2
   }
 ]
