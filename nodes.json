@@ -2748,13 +2748,10 @@
   },
   "!da56dd40": {
     "id": "!da56dd40",
-    "long_name": "SC Home Base",
-    "last_heard": "2026-07-20T22:19:48.885379+00:00",
-    "snr": -15.0,
-    "hops_away": 2,
-    "short_name": "SCHm",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!da56dd40",
+    "last_heard": "2026-08-12T21:54:44.023323+00:00",
+    "snr": -17.25,
+    "hops_away": 2
   },
   "!a9ec592d": {
     "id": "!a9ec592d",
