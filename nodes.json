@@ -4949,9 +4949,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Comfortably Numb OMNI",
-    "last_heard": "2026-08-12T14:02:36.052122+00:00",
-    "snr": -4.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-12T20:08:14.915211+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
