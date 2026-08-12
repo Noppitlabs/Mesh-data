@@ -199,9 +199,9 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-08-12T01:48:33.377285+00:00",
-    "snr": -17.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-12T02:48:33.947320+00:00",
+    "snr": -1.5,
+    "hops_away": 3,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
@@ -2164,8 +2164,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-12T02:45:49.688515+00:00",
-    "snr": -1.5,
+    "last_heard": "2026-08-12T02:47:49.644878+00:00",
+    "snr": -2.25,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
