@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-12T06:28:47.424292+00:00",
+    "last_heard": "2026-08-12T06:28:59.164458+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -981,9 +981,9 @@
   "!c90ed460": {
     "id": "!c90ed460",
     "long_name": "Mark~G6OMT",
-    "last_heard": "2026-08-12T02:44:02.265247+00:00",
-    "snr": 14.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-12T06:29:16.319275+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "OMT",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
