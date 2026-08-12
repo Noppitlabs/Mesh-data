@@ -3402,9 +3402,9 @@
   "!e33bbd80": {
     "id": "!e33bbd80",
     "long_name": "whisper_bd80",
-    "last_heard": "2026-08-12T07:02:01.841481+00:00",
-    "snr": -16.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-12T07:20:14.659384+00:00",
+    "snr": -19.0,
+    "hops_away": 5,
     "short_name": "bd80",
     "hw_model": "TBEAM",
     "role": ""
