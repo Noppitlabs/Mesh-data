@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-12T16:26:00.942317+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-08-12T16:41:33.232874+00:00",
+    "snr": -18.5,
     "hops_away": 1,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -540,9 +540,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-12T16:15:51.437897+00:00",
-    "snr": -17.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-12T16:41:29.443858+00:00",
+    "snr": -12.0,
+    "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
