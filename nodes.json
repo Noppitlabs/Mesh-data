@@ -3916,9 +3916,9 @@
   "!da568164": {
     "id": "!da568164",
     "long_name": "ZTX2",
-    "last_heard": "2026-07-21T13:21:09.846457+00:00",
-    "snr": -7.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-12T01:22:27.449248+00:00",
+    "snr": -0.75,
+    "hops_away": 4,
     "short_name": "ZTX2",
     "hw_model": "HELTEC_V3",
     "role": ""
