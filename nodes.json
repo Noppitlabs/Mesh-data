@@ -7498,9 +7498,9 @@
   "!ad23175d": {
     "id": "!ad23175d",
     "long_name": "GAT562 175d",
-    "last_heard": "2026-08-12T08:23:02.175671+00:00",
+    "last_heard": "2026-08-12T08:23:11.386174+00:00",
     "snr": -1.0,
-    "hops_away": 6,
+    "hops_away": 5,
     "short_name": "Ey1",
     "hw_model": "RAK4631",
     "role": ""
