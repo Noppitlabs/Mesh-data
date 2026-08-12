@@ -3885,9 +3885,9 @@
   "!0c2a28f9": {
     "id": "!0c2a28f9",
     "long_name": "GCM003-ArsenalRoad \ud83c\uddec\ud83c\uddec \ud83d\udd06",
-    "last_heard": "2026-08-11T23:03:08.463392+00:00",
-    "snr": -2.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-12T00:32:31.026614+00:00",
+    "snr": -17.25,
+    "hops_away": 1,
     "short_name": "ARSE",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
