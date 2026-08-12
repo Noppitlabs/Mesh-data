@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-12T16:26:49.071899+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-08-12T16:26:51.152882+00:00",
+    "snr": -15.75,
     "hops_away": 1,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
@@ -289,9 +289,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-08-12T16:16:45.806360+00:00",
-    "snr": -2.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-12T16:27:19.856218+00:00",
+    "snr": -17.5,
+    "hops_away": 6,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
