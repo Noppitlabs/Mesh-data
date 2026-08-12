@@ -1162,9 +1162,9 @@
   "!da5ec92c": {
     "id": "!da5ec92c",
     "long_name": "Sion#2",
-    "last_heard": "2026-08-12T08:19:58.650087+00:00",
-    "snr": -2.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-12T08:49:47.756548+00:00",
+    "snr": -2.0,
+    "hops_away": 7,
     "short_name": "Sn#2",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -7498,9 +7498,9 @@
   "!ad23175d": {
     "id": "!ad23175d",
     "long_name": "GAT562 175d",
-    "last_heard": "2026-08-12T08:42:59.293214+00:00",
-    "snr": -0.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-12T08:49:08.040121+00:00",
+    "snr": -0.75,
+    "hops_away": 6,
     "short_name": "Ey1",
     "hw_model": "RAK4631",
     "role": ""
