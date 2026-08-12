@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-12T14:16:15.940159+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-08-12T14:45:05.456563+00:00",
+    "snr": -10.75,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -406,9 +406,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-08-12T13:42:23.112121+00:00",
-    "snr": -4.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-12T14:45:16.219986+00:00",
+    "snr": -3.5,
+    "hops_away": 3,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
