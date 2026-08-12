@@ -6720,8 +6720,8 @@
   "!043a3c30": {
     "id": "!043a3c30",
     "long_name": "Widewellbase",
-    "last_heard": "2026-08-11T21:43:37.504182+00:00",
-    "snr": -16.75,
+    "last_heard": "2026-08-12T00:43:44.505976+00:00",
+    "snr": 13.75,
     "hops_away": 3,
     "short_name": "Widb",
     "hw_model": "HELTEC_V3",
