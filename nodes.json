@@ -2665,9 +2665,9 @@
   "!698497f8": {
     "id": "!698497f8",
     "long_name": "TR10 V4 P",
-    "last_heard": "2026-08-12T08:20:52.668680+00:00",
-    "snr": 13.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-12T08:21:51.431857+00:00",
+    "snr": -1.5,
+    "hops_away": 2,
     "short_name": "10VP",
     "hw_model": "HELTEC_V4",
     "role": ""
