@@ -7507,5 +7507,15 @@
     "short_name": "Ey1",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!1c16c938": {
+    "id": "!1c16c938",
+    "long_name": "\u2664\u2661JiG\u00e9B\u00e9\u25c7\u2667",
+    "last_heard": "2026-08-12T21:35:48.664306+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
+    "short_name": "{B8}",
+    "hw_model": "TLORA_V2_1_1P6",
+    "role": ""
   }
 }
