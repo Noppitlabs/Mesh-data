@@ -3392,9 +3392,9 @@
   "!04389188": {
     "id": "!04389188",
     "long_name": "Meshtastic 9188",
-    "last_heard": "2026-08-13T00:10:09.006419+00:00",
-    "snr": -2.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-13T09:10:06.852472+00:00",
+    "snr": -2.75,
+    "hops_away": 5,
     "short_name": "9188",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
