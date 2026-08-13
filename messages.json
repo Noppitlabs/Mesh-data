@@ -1,5 +1,16 @@
 [
   {
+    "id": 1379133027,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "RX in Exmouth",
+    "timestamp": "2026-08-13T08:29:28.256102+00:00",
+    "channel": 0,
+    "snr": -18.25,
+    "hops": 1
+  },
+  {
     "id": 3498418541,
     "from": "!2687afb1",
     "from_name": "Comfortably Numb OMNI",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 13.5,
     "hops": 5
-  },
-  {
-    "id": 1955772506,
-    "from": "!2687afb1",
-    "from_name": "Comfortably Numb OMNI",
-    "to": "^all",
-    "text": "@sj27 168km, 27\u00b0. Testing how far this mesh really goes \u2014 shout back if you can hear me?",
-    "timestamp": "2026-08-05T17:03:41.105329+00:00",
-    "channel": 0,
-    "snr": -6.75,
-    "hops": 2
   }
 ]
