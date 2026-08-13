@@ -1,5 +1,16 @@
 [
   {
+    "id": 1768743938,
+    "from": "!0414aa14",
+    "from_name": "!0414aa14",
+    "to": "^all",
+    "text": "Yep 3 hops",
+    "timestamp": "2026-08-13T08:29:36.394401+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 1
+  },
+  {
     "id": 1379133027,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.0,
     "hops": 6
-  },
-  {
-    "id": 995684877,
-    "from": "!2687afb1",
-    "from_name": "Comfortably Numb OMNI",
-    "to": "^all",
-    "text": "@sj17 if you can read this from 168km on 27\u00b0, physics is being generous today.",
-    "timestamp": "2026-08-05T17:23:41.037950+00:00",
-    "channel": 0,
-    "snr": 13.5,
-    "hops": 5
   }
 ]
