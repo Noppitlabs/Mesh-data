@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-13T14:02:33.283799+00:00",
-    "snr": -18.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-13T14:17:33.398591+00:00",
+    "snr": -3.75,
+    "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1644,8 +1644,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-08-13T14:07:27.904243+00:00",
-    "snr": -3.25,
+    "last_heard": "2026-08-13T14:17:29.843896+00:00",
+    "snr": -11.5,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
