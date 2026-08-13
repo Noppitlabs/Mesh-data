@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-13T10:36:15.055392+00:00",
+    "last_heard": "2026-08-13T10:37:22.035574+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -877,9 +877,9 @@
   "!da65a77c": {
     "id": "!da65a77c",
     "long_name": "Teignmouth 001",
-    "last_heard": "2026-08-13T04:15:44.396664+00:00",
-    "snr": -2.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-13T10:37:12.577497+00:00",
+    "snr": -3.0,
+    "hops_away": 3,
     "short_name": "TQ14",
     "hw_model": "HELTEC_V3",
     "role": ""
