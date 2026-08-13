@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-13T12:51:04.678083+00:00",
-    "snr": -11.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-13T12:55:23.267684+00:00",
+    "snr": -3.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -740,9 +740,9 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-08-13T05:56:55.852106+00:00",
-    "snr": -16.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-13T12:55:35.506498+00:00",
+    "snr": -18.75,
+    "hops_away": 6,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
