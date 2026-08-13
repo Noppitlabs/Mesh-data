@@ -329,9 +329,9 @@
   "!0409d1c0": {
     "id": "!0409d1c0",
     "long_name": "M7FYU",
-    "last_heard": "2026-08-13T21:49:17.546780+00:00",
-    "snr": -3.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-13T23:49:59.799543+00:00",
+    "snr": -3.5,
+    "hops_away": 4,
     "short_name": "FYU",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -750,8 +750,8 @@
   "!b2a78f18": {
     "id": "!b2a78f18",
     "long_name": "timttmy-V4",
-    "last_heard": "2026-08-13T22:24:02.817340+00:00",
-    "snr": -2.25,
+    "last_heard": "2026-08-13T23:49:52.051529+00:00",
+    "snr": -1.5,
     "hops_away": 6,
     "short_name": "t::1",
     "hw_model": "HELTEC_V4",
