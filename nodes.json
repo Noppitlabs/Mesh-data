@@ -2715,9 +2715,9 @@
   "!7c5cc0bc": {
     "id": "!7c5cc0bc",
     "long_name": "Cinderford_Rusty_Pole",
-    "last_heard": "2026-08-12T01:46:57.340977+00:00",
-    "snr": -16.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-13T07:17:51.800580+00:00",
+    "snr": -2.75,
+    "hops_away": 6,
     "short_name": "Cndr",
     "hw_model": "HELTEC_V3",
     "role": ""
