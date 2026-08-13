@@ -540,9 +540,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-13T14:05:52.296955+00:00",
-    "snr": -5.0,
-    "hops_away": 5,
+    "last_heard": "2026-08-13T14:38:13.831918+00:00",
+    "snr": -3.0,
+    "hops_away": 3,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4061,9 +4061,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-08-13T13:04:00.794163+00:00",
-    "snr": -18.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-13T14:38:05.001735+00:00",
+    "snr": -3.0,
+    "hops_away": 5,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
