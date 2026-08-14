@@ -7526,9 +7526,9 @@
   "!526b9112": {
     "id": "!526b9112",
     "long_name": "Meshtastic d988",
-    "last_heard": "2026-08-14T17:09:48.213354+00:00",
-    "snr": -11.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-14T19:13:46.022194+00:00",
+    "snr": -4.0,
+    "hops_away": 2,
     "short_name": "d988",
     "hw_model": "THINKNODE_M5",
     "role": ""
