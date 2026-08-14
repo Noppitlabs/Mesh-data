@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-14T19:01:41.002282+00:00",
+    "last_heard": "2026-08-14T19:02:41.033461+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3798,9 +3798,9 @@
   "!9ea134a0": {
     "id": "!9ea134a0",
     "long_name": "MrBs portable mesh",
-    "last_heard": "2026-08-14T15:09:27.902271+00:00",
-    "snr": -7.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-14T19:03:01.316570+00:00",
+    "snr": -3.5,
+    "hops_away": 7,
     "short_name": "Mr B",
     "hw_model": "HELTEC_V3",
     "role": ""
