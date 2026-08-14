@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-14T05:09:05.271941+00:00",
+    "last_heard": "2026-08-14T05:10:05.309974+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -807,8 +807,8 @@
   "!fe93d41f": {
     "id": "!fe93d41f",
     "long_name": "M0PCZ 7 ele Yagi Solar \ud83c\udfe1 ",
-    "last_heard": "2026-08-14T04:10:13.265583+00:00",
-    "snr": -1.25,
+    "last_heard": "2026-08-14T05:10:13.592681+00:00",
+    "snr": -4.0,
     "hops_away": 1,
     "short_name": "Base",
     "hw_model": "RAK4631",
