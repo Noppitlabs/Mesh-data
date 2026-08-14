@@ -433,8 +433,8 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-08-14T04:42:08.896610+00:00",
-    "snr": -1.0,
+    "last_heard": "2026-08-14T07:37:31.309918+00:00",
+    "snr": -7.25,
     "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
@@ -1232,8 +1232,8 @@
   "!acaa933c": {
     "id": "!acaa933c",
     "long_name": "!acaa933c",
-    "last_heard": "2026-08-14T05:05:48.749899+00:00",
-    "snr": -1.5,
+    "last_heard": "2026-08-14T07:37:13.977339+00:00",
+    "snr": -2.75,
     "hops_away": 3
   },
   "!74f0fbd0": {
