@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-14T09:42:08.646889+00:00",
-    "snr": -3.5,
+    "last_heard": "2026-08-14T09:43:21.629713+00:00",
+    "snr": -3.0,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -1889,8 +1889,8 @@
   "!cebc35e7": {
     "id": "!cebc35e7",
     "long_name": "MHUK Black Mountain RT ",
-    "last_heard": "2026-08-13T20:41:01.542536+00:00",
-    "snr": -2.75,
+    "last_heard": "2026-08-14T09:43:18.796941+00:00",
+    "snr": -2.25,
     "hops_away": 7,
     "short_name": "35e7",
     "hw_model": "HELTEC_MESH_NODE_T114",
