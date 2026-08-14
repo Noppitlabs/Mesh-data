@@ -7543,9 +7543,9 @@
   "!433ca77c": {
     "id": "!433ca77c",
     "long_name": "Ninjagrey",
-    "last_heard": "2026-08-14T21:33:57.341207+00:00",
-    "snr": -9.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-14T21:47:12.905006+00:00",
+    "snr": -6.75,
+    "hops_away": 5,
     "short_name": "Grey",
     "hw_model": "HELTEC_V3",
     "role": ""
