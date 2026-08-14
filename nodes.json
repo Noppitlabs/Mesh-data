@@ -7532,5 +7532,12 @@
     "short_name": "d988",
     "hw_model": "THINKNODE_M5",
     "role": ""
+  },
+  "!cfc948e9": {
+    "id": "!cfc948e9",
+    "long_name": "!cfc948e9",
+    "last_heard": "2026-08-14T19:33:54.901088+00:00",
+    "snr": 13.75,
+    "hops_away": 7
   }
 }
