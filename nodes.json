@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-14T23:40:29.374127+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-08-14T23:58:55.588093+00:00",
+    "snr": -2.75,
     "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -189,9 +189,9 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-14T23:29:03.033928+00:00",
-    "snr": -15.25,
-    "hops_away": 1,
+    "last_heard": "2026-08-14T23:58:58.612808+00:00",
+    "snr": -20.25,
+    "hops_away": 0,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
