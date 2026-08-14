@@ -3808,9 +3808,9 @@
   "!f6fba300": {
     "id": "!f6fba300",
     "long_name": "Meshtastic a300",
-    "last_heard": "2026-08-14T09:51:03.932275+00:00",
-    "snr": -3.25,
-    "hops_away": 7,
+    "last_heard": "2026-08-14T10:36:05.921361+00:00",
+    "snr": -5.25,
+    "hops_away": 5,
     "short_name": "a300",
     "hw_model": "HELTEC_V3",
     "role": ""
