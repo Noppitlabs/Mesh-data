@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-14T01:06:54.019559+00:00",
+    "last_heard": "2026-08-14T01:07:54.058802+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-14T00:51:42.914819+00:00",
-    "snr": -2.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-14T01:07:49.767682+00:00",
+    "snr": -5.5,
+    "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
