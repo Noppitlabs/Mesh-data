@@ -189,7 +189,7 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-15T00:33:59.482972+00:00",
+    "last_heard": "2026-08-15T00:37:02.990859+00:00",
     "snr": -16.25,
     "hops_away": 1,
     "short_name": "MOBI",
@@ -2026,9 +2026,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-15T00:15:06.436288+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-15T00:37:01.722695+00:00",
+    "snr": -1.75,
+    "hops_away": 3,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
