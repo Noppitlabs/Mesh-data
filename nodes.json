@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-15T02:23:59.721752+00:00",
+    "last_heard": "2026-08-15T02:24:59.753907+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -299,8 +299,8 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-15T02:03:00.779450+00:00",
-    "snr": 12.0,
+    "last_heard": "2026-08-15T02:24:47.487895+00:00",
+    "snr": 11.75,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
     "hw_model": "T_ECHO",
