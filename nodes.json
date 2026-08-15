@@ -7550,8 +7550,8 @@
   "!8fccd104": {
     "id": "!8fccd104",
     "long_name": "Meshtastic d104",
-    "last_heard": "2026-08-15T18:05:17.174517+00:00",
-    "snr": -10.5,
+    "last_heard": "2026-08-15T18:15:43.859343+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
