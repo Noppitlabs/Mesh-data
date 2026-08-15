@@ -1,5 +1,16 @@
 [
   {
+    "id": 4008066778,
+    "from": "!8fccd104",
+    "from_name": "Meshtastic d104",
+    "to": "^all",
+    "text": "All released in exeter ",
+    "timestamp": "2026-08-15T17:34:22.434149+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 3
+  },
+  {
     "id": 1928360356,
     "from": "!8fccd104",
     "from_name": "Meshtastic d104",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 2
-  },
-  {
-    "id": 1059126095,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "\ud83d\ude02",
-    "timestamp": "2026-08-07T13:14:19.530397+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 6
   }
 ]
