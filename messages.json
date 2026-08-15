@@ -1,5 +1,16 @@
 [
   {
+    "id": 1487825510,
+    "from": "!8fa77ff0",
+    "from_name": "Meshtastic 7ff0 - M1VPN",
+    "to": "^all",
+    "text": "Pong",
+    "timestamp": "2026-08-15T20:19:34.905462+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 3
+  },
+  {
     "id": 4008066778,
     "from": "!8fccd104",
     "from_name": "Meshtastic d104",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.25,
     "hops": 6
-  },
-  {
-    "id": 481015518,
-    "from": "!04396f14",
-    "from_name": "!04396f14",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-08-07T22:21:39.698092+00:00",
-    "channel": 0,
-    "snr": -16.75,
-    "hops": 2
   }
 ]
