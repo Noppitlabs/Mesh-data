@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-15T14:59:31.453048+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-15T15:45:47.028577+00:00",
+    "snr": -12.0,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -2184,9 +2184,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-08-15T14:41:34.602356+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-15T15:45:36.749764+00:00",
+    "snr": -11.0,
+    "hops_away": 2,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
