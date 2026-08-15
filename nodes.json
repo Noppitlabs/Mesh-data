@@ -1651,8 +1651,8 @@
   "!75e05160": {
     "id": "!75e05160",
     "long_name": "PotaJoe1",
-    "last_heard": "2026-08-15T04:05:00.313956+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-08-15T07:28:34.214617+00:00",
+    "snr": -16.25,
     "hops_away": 3,
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
@@ -4943,7 +4943,7 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Comfortably Numb OMNI",
-    "last_heard": "2026-08-15T04:29:04.044314+00:00",
+    "last_heard": "2026-08-15T07:28:15.102129+00:00",
     "snr": -16.5,
     "hops_away": 1,
     "short_name": "TA2o",
