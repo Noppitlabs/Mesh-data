@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-15T03:16:09.223566+00:00",
-    "snr": -3.5,
-    "hops_away": 1,
+    "last_heard": "2026-08-15T03:18:04.172539+00:00",
+    "snr": -4.75,
+    "hops_away": 3,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -730,9 +730,9 @@
   "!1f9ff578": {
     "id": "!1f9ff578",
     "long_name": "Corfemullen Node",
-    "last_heard": "2026-08-15T01:41:01.226671+00:00",
-    "snr": -16.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-15T03:18:11.571139+00:00",
+    "snr": -5.25,
+    "hops_away": 7,
     "short_name": "GBCM",
     "hw_model": "TBEAM",
     "role": ""
