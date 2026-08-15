@@ -1,5 +1,16 @@
 [
   {
+    "id": 467985298,
+    "from": "!2687afb1",
+    "from_name": "Comfortably Numb OMNI",
+    "to": "^all",
+    "text": "\ud83d\udc4b 1 Hop to Taunton",
+    "timestamp": "2026-08-15T21:36:27.651676+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 2
+  },
+  {
     "id": 1487825510,
     "from": "!8fa77ff0",
     "from_name": "Meshtastic 7ff0 - M1VPN",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.25,
     "hops": 3
-  },
-  {
-    "id": 374721330,
-    "from": "!2cdff595",
-    "from_name": "!2cdff595",
-    "to": "^all",
-    "text": "4173: 4 hops",
-    "timestamp": "2026-08-07T22:27:23.016406+00:00",
-    "channel": 0,
-    "snr": -16.25,
-    "hops": 6
   }
 ]
