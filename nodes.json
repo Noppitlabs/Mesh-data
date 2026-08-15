@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-15T02:08:46.558870+00:00",
-    "snr": -4.0,
+    "last_heard": "2026-08-15T02:41:07.028456+00:00",
+    "snr": -4.25,
     "hops_away": 2,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -640,7 +640,7 @@
   "!30327710": {
     "id": "!30327710",
     "long_name": "Mid Dorset",
-    "last_heard": "2026-08-15T02:10:58.546182+00:00",
+    "last_heard": "2026-08-15T02:41:02.705088+00:00",
     "snr": -2.25,
     "hops_away": 3,
     "short_name": "MDor",
