@@ -119,8 +119,8 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-15T19:45:48.104667+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-08-15T20:45:54.403541+00:00",
+    "snr": -10.0,
     "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
@@ -2174,9 +2174,9 @@
   "!db517d8c": {
     "id": "!db517d8c",
     "long_name": "HaddonHill123",
-    "last_heard": "2026-08-15T20:19:16.829338+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-15T20:45:49.108015+00:00",
+    "snr": -9.75,
+    "hops_away": 2,
     "short_name": "G1",
     "hw_model": "HELTEC_V3",
     "role": ""
