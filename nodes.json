@@ -2184,9 +2184,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-08-15T01:58:14.998168+00:00",
-    "snr": -1.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-15T03:16:54.370808+00:00",
+    "snr": -16.25,
+    "hops_away": 1,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
