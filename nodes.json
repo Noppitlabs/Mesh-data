@@ -540,9 +540,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-15T05:41:13.146932+00:00",
-    "snr": -4.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-15T06:32:35.863261+00:00",
+    "snr": -2.25,
+    "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2164,8 +2164,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-15T06:11:46.701958+00:00",
-    "snr": -6.25,
+    "last_heard": "2026-08-15T06:32:12.431188+00:00",
+    "snr": -6.0,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
