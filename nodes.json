@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-08-15T22:32:56.937160+00:00",
-    "snr": -15.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-15T23:03:00.987620+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -159,8 +159,8 @@
   "!4359694c": {
     "id": "!4359694c",
     "long_name": "Meshtastic 694c",
-    "last_heard": "2026-08-15T15:50:55.916066+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-08-15T23:03:09.276400+00:00",
+    "snr": -13.0,
     "hops_away": 1,
     "short_name": "694c",
     "hw_model": "HELTEC_V3",
