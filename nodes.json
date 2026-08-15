@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-15T18:03:31.333024+00:00",
-    "snr": 10.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-15T18:05:04.048813+00:00",
+    "snr": -9.75,
+    "hops_away": 2,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -7550,8 +7550,8 @@
   "!8fccd104": {
     "id": "!8fccd104",
     "long_name": "Meshtastic d104",
-    "last_heard": "2026-08-15T17:34:23.667139+00:00",
-    "snr": -11.25,
+    "last_heard": "2026-08-15T18:05:17.174517+00:00",
+    "snr": -10.5,
     "hops_away": 3,
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
