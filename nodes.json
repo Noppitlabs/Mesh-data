@@ -5411,9 +5411,9 @@
   "!040835b0": {
     "id": "!040835b0",
     "long_name": "PROTECCI\u00d3N CIVIL A RUA",
-    "last_heard": "2026-08-16T18:37:55.558685+00:00",
-    "snr": -11.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-16T19:08:40.947508+00:00",
+    "snr": -18.25,
+    "hops_away": 6,
     "short_name": "SPC",
     "hw_model": "HELTEC_V3",
     "role": ""
