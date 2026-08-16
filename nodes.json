@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-16T04:18:05.329097+00:00",
+    "last_heard": "2026-08-16T04:19:05.378850+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -259,9 +259,9 @@
   "!da638a8c": {
     "id": "!da638a8c",
     "long_name": "North Molton Attic",
-    "last_heard": "2026-08-15T23:04:58.009051+00:00",
-    "snr": -14.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-16T04:19:09.864913+00:00",
+    "snr": 10.25,
+    "hops_away": 3,
     "short_name": "EXM2",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
