@@ -7615,5 +7615,12 @@
     "short_name": "e2e3",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!db2953d4": {
+    "id": "!db2953d4",
+    "long_name": "!db2953d4",
+    "last_heard": "2026-08-16T22:08:08.155516+00:00",
+    "snr": -13.0,
+    "hops_away": 7
   }
 }
