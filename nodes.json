@@ -7595,5 +7595,12 @@
     "short_name": "3730",
     "hw_model": "SEEED_WIO_TRACKER_L1",
     "role": "CLIENT_BASE"
+  },
+  "!cbc976b9": {
+    "id": "!cbc976b9",
+    "long_name": "!cbc976b9",
+    "last_heard": "2026-08-16T19:39:40.561758+00:00",
+    "snr": -10.5,
+    "hops_away": 4
   }
 }
