@@ -4077,9 +4077,9 @@
   "!fa39f7b4": {
     "id": "!fa39f7b4",
     "long_name": "Comfortably Numb YAGI",
-    "last_heard": "2026-08-16T15:31:16.826958+00:00",
-    "snr": -10.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-16T16:39:15.948990+00:00",
+    "snr": -16.5,
+    "hops_away": 3,
     "short_name": "TA2y",
     "hw_model": "HELTEC_HT62",
     "role": "CLIENT_BASE"
