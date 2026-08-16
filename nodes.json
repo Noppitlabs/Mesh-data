@@ -7548,9 +7548,9 @@
   "!cfc948e9": {
     "id": "!cfc948e9",
     "long_name": "dhztrackermini",
-    "last_heard": "2026-08-16T18:52:24.253615+00:00",
-    "snr": -11.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-16T20:10:42.002330+00:00",
+    "snr": -11.75,
+    "hops_away": 7,
     "short_name": "DHZm",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
