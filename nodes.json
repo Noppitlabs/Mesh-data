@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-16T07:58:14.536491+00:00",
+    "last_heard": "2026-08-16T07:59:14.580015+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -2597,8 +2597,8 @@
   "!a6962ea8": {
     "id": "!a6962ea8",
     "long_name": "Meshtastic 2ea8",
-    "last_heard": "2026-08-16T05:06:50.063997+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-08-16T07:59:05.485609+00:00",
+    "snr": -13.25,
     "hops_away": 3,
     "short_name": "TKV",
     "hw_model": "HELTEC_V4",
