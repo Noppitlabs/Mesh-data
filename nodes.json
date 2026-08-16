@@ -3469,10 +3469,13 @@
   },
   "!1fc1a154": {
     "id": "!1fc1a154",
-    "long_name": "!1fc1a154",
-    "last_heard": "2026-08-16T04:53:23.568192+00:00",
-    "snr": -13.5,
-    "hops_away": 3
+    "long_name": "NG_home",
+    "last_heard": "2026-08-16T04:53:43.331272+00:00",
+    "snr": -14.0,
+    "hops_away": 3,
+    "short_name": "NG_h",
+    "hw_model": "TBEAM",
+    "role": ""
   },
   "!433a61e0": {
     "id": "!433a61e0",
