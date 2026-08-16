@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-16T01:45:55.862954+00:00",
-    "snr": 13.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-16T02:45:49.096541+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -2194,8 +2194,8 @@
   "!9ee70fbc": {
     "id": "!9ee70fbc",
     "long_name": "PNTX_M",
-    "last_heard": "2026-08-02T21:25:50.934850+00:00",
-    "snr": -5.0,
+    "last_heard": "2026-08-16T02:45:05.570420+00:00",
+    "snr": -14.75,
     "hops_away": 3,
     "short_name": "PNTX",
     "hw_model": "HELTEC_V3",
