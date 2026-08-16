@@ -7562,5 +7562,12 @@
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
     "role": ""
+  },
+  "!b9b383cc": {
+    "id": "!b9b383cc",
+    "long_name": "!b9b383cc",
+    "last_heard": "2026-08-16T13:16:36.156627+00:00",
+    "snr": -7.5,
+    "hops_away": 2
   }
 }
