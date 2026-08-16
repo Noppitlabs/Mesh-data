@@ -7544,10 +7544,13 @@
   },
   "!cfc948e9": {
     "id": "!cfc948e9",
-    "long_name": "!cfc948e9",
-    "last_heard": "2026-08-16T18:32:41.196461+00:00",
-    "snr": -13.0,
-    "hops_away": 5
+    "long_name": "dhztrackermini",
+    "last_heard": "2026-08-16T18:52:24.253615+00:00",
+    "snr": -11.0,
+    "hops_away": 6,
+    "short_name": "DHZm",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   },
   "!433ca77c": {
     "id": "!433ca77c",
