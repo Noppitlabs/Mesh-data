@@ -289,9 +289,9 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-08-16T05:18:16.965019+00:00",
-    "snr": -19.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-16T05:29:54.515138+00:00",
+    "snr": 10.25,
+    "hops_away": 4,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
     "role": ""
