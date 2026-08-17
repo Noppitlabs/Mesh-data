@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-17T18:54:23.584111+00:00",
-    "snr": 13.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-17T19:50:05.372891+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -1003,9 +1003,9 @@
   "!91ec7b3a": {
     "id": "!91ec7b3a",
     "long_name": "XXA-SOLAR 7b3a",
-    "last_heard": "2026-08-17T15:50:56.278210+00:00",
-    "snr": -19.5,
-    "hops_away": 5,
+    "last_heard": "2026-08-17T19:50:44.956842+00:00",
+    "snr": 10.25,
+    "hops_away": 3,
     "short_name": "XXAs",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
