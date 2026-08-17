@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-08-17T14:50:53.320369+00:00",
-    "snr": 10.5,
+    "last_heard": "2026-08-17T15:14:57.272439+00:00",
+    "snr": 13.25,
     "hops_away": 3,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-17T15:09:24.992218+00:00",
-    "snr": -15.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-17T15:14:53.759285+00:00",
+    "snr": 13.5,
+    "hops_away": 5,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
