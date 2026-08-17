@@ -6962,9 +6962,9 @@
   "!433d2bf8": {
     "id": "!433d2bf8",
     "long_name": "\ud83d\udeabWorcester South \ud83d\uddfc",
-    "last_heard": "2026-08-05T14:06:40.964478+00:00",
-    "snr": -5.5,
-    "hops_away": 6,
+    "last_heard": "2026-08-17T21:28:22.112397+00:00",
+    "snr": -13.75,
+    "hops_away": 7,
     "short_name": "WSTH",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
