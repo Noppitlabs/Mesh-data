@@ -2183,9 +2183,9 @@
   "!db517d8c": {
     "id": "!db517d8c",
     "long_name": "HaddonHill123",
-    "last_heard": "2026-08-17T21:26:02.096284+00:00",
-    "snr": -14.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-17T21:35:03.475939+00:00",
+    "snr": -13.0,
+    "hops_away": 4,
     "short_name": "G1",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -6084,8 +6084,8 @@
   "!b8fd5b6e": {
     "id": "!b8fd5b6e",
     "long_name": "!b8fd5b6e",
-    "last_heard": "2026-08-16T17:24:10.755259+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-08-17T21:35:20.869103+00:00",
+    "snr": -11.25,
     "hops_away": 7
   },
   "!fad07f1c": {
