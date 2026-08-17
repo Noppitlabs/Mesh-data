@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-17T18:35:43.036293+00:00",
+    "last_heard": "2026-08-17T18:36:42.436579+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-17T18:33:56.084668+00:00",
-    "snr": -14.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-17T18:36:02.599637+00:00",
+    "snr": 11.75,
+    "hops_away": 5,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -3105,8 +3105,8 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-08-17T18:12:00.828367+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-08-17T18:36:07.354614+00:00",
+    "snr": -14.5,
     "hops_away": 4,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
