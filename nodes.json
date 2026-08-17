@@ -5039,8 +5039,8 @@
   "!050c24f0": {
     "id": "!050c24f0",
     "long_name": "Meshtastic 24f0",
-    "last_heard": "2026-08-17T21:53:19.374910+00:00",
-    "snr": 11.25,
+    "last_heard": "2026-08-17T23:38:57.299018+00:00",
+    "snr": -7.5,
     "hops_away": 4,
     "short_name": "24f0",
     "hw_model": "TBEAM",
