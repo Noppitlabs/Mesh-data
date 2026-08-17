@@ -415,10 +415,13 @@
   },
   "!da56b4a0": {
     "id": "!da56b4a0",
-    "long_name": "!da56b4a0",
-    "last_heard": "2026-08-17T03:15:42.128369+00:00",
-    "snr": 12.5,
-    "hops_away": 3
+    "long_name": "M0PCZ ",
+    "last_heard": "2026-08-17T05:38:30.293730+00:00",
+    "snr": -13.75,
+    "hops_away": 2,
+    "short_name": "PCZ",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!62f8b250": {
     "id": "!62f8b250",
