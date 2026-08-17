@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-17T13:34:34.605592+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-08-17T13:40:12.687162+00:00",
+    "snr": -16.75,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -2855,8 +2855,8 @@
   "!433c1b9c": {
     "id": "!433c1b9c",
     "long_name": "M3",
-    "last_heard": "2026-08-16T16:47:37.415757+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-08-17T13:40:07.161763+00:00",
+    "snr": 12.25,
     "hops_away": 7,
     "short_name": "M3",
     "hw_model": "HELTEC_WIRELESS_TRACKER",
