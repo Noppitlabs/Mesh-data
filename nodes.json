@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-17T13:45:53.929575+00:00",
-    "snr": -11.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-17T14:59:42.194746+00:00",
+    "snr": 13.0,
+    "hops_away": 3,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -2035,9 +2035,9 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-17T14:38:17.011554+00:00",
-    "snr": -13.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-17T14:59:59.976666+00:00",
+    "snr": 12.75,
+    "hops_away": 4,
     "short_name": "exw1",
     "hw_model": "RAK4631",
     "role": ""
