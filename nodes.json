@@ -1757,9 +1757,9 @@
   "!9e9fb118": {
     "id": "!9e9fb118",
     "long_name": "Meshtastic b118",
-    "last_heard": "2026-08-10T20:19:58.973230+00:00",
-    "snr": -18.0,
-    "hops_away": 4,
+    "last_heard": "2026-08-17T17:20:11.846601+00:00",
+    "snr": 12.75,
+    "hops_away": 5,
     "short_name": "b118",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -7629,8 +7629,8 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-08-17T17:17:19.758880+00:00",
-    "snr": 13.5,
+    "last_heard": "2026-08-17T17:20:17.238860+00:00",
+    "snr": 12.5,
     "hops_away": 2,
     "short_name": "ca10",
     "hw_model": "HELTEC_V4",
