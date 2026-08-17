@@ -2183,9 +2183,9 @@
   "!db517d8c": {
     "id": "!db517d8c",
     "long_name": "HaddonHill123",
-    "last_heard": "2026-08-17T15:15:54.183068+00:00",
-    "snr": -15.25,
-    "hops_away": 4,
+    "last_heard": "2026-08-17T15:24:48.354493+00:00",
+    "snr": 13.5,
+    "hops_away": 5,
     "short_name": "G1",
     "hw_model": "HELTEC_V3",
     "role": ""
