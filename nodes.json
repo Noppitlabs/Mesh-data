@@ -5143,8 +5143,8 @@
   "!166fc3ad": {
     "id": "!166fc3ad",
     "long_name": "Bear Solar",
-    "last_heard": "2026-08-16T08:20:09.922653+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-08-17T06:32:43.712059+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "BEAR",
     "hw_model": "SEEED_SOLAR_NODE",
