@@ -199,8 +199,8 @@
   "!3d734d98": {
     "id": "!3d734d98",
     "long_name": "Tiverton_N_Repeater-G4ZAL2",
-    "last_heard": "2026-08-17T22:30:54.437571+00:00",
-    "snr": 10.0,
+    "last_heard": "2026-08-17T23:15:19.437214+00:00",
+    "snr": -8.5,
     "hops_away": 3,
     "short_name": "TivN",
     "hw_model": "XIAO_NRF52_KIT",
