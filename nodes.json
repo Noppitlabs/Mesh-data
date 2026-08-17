@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-08-17T16:59:38.360391+00:00",
-    "snr": -16.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-17T17:45:56.978286+00:00",
+    "snr": 10.75,
+    "hops_away": 3,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -7629,7 +7629,7 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-08-17T17:45:43.386388+00:00",
+    "last_heard": "2026-08-17T17:45:47.976058+00:00",
     "snr": 10.5,
     "hops_away": 2,
     "short_name": "ca10",
