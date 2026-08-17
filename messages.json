@@ -1,5 +1,16 @@
 [
   {
+    "id": 427263557,
+    "from": "!49b3ca10",
+    "from_name": "Meshtastic ca10",
+    "to": "^all",
+    "text": "Firmware: 2.7.26.54e0d8d",
+    "timestamp": "2026-08-17T18:21:22.200572+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 1
+  },
+  {
     "id": 636099974,
     "from": "!49b3ca10",
     "from_name": "Meshtastic ca10",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 1
-  },
-  {
-    "id": 3221170305,
-    "from": "!2687afb1",
-    "from_name": "Comfortably Numb OMNI",
-    "to": "^all",
-    "text": "Anybody in the far reaches of the mesh hear me ? - I am in Taunton. ",
-    "timestamp": "2026-08-09T09:01:49.217672+00:00",
-    "channel": 0,
-    "snr": -1.25,
-    "hops": 7
   }
 ]
