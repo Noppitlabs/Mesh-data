@@ -1,5 +1,16 @@
 [
   {
+    "id": 133262059,
+    "from": "!49b3ca10",
+    "from_name": "Meshtastic ca10",
+    "to": "^all",
+    "text": "yes also exmouth",
+    "timestamp": "2026-08-17T17:45:46.128490+00:00",
+    "channel": 0,
+    "snr": 10.5,
+    "hops": 2
+  },
+  {
     "id": 120651377,
     "from": "!49b3ca10",
     "from_name": "Meshtastic ca10",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.5,
     "hops": 1
-  },
-  {
-    "id": 2956193624,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-08-09T08:11:50.548938+00:00",
-    "channel": 0,
-    "snr": -16.0,
-    "hops": 3
   }
 ]
