@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-17T18:01:04.563717+00:00",
-    "snr": -19.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-17T18:03:17.238092+00:00",
+    "snr": -15.25,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -4955,9 +4955,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "Comfortably Numb OMNI",
-    "last_heard": "2026-08-17T16:01:03.590809+00:00",
-    "snr": 12.75,
-    "hops_away": 7,
+    "last_heard": "2026-08-17T18:02:52.472961+00:00",
+    "snr": -14.5,
+    "hops_away": 2,
     "short_name": "TA2o",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
