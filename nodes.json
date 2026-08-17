@@ -4172,10 +4172,13 @@
   },
   "!f6fccfe8": {
     "id": "!f6fccfe8",
-    "long_name": "!f6fccfe8",
-    "last_heard": "2026-08-01T12:08:51.786650+00:00",
-    "snr": -3.0,
-    "hops_away": 7
+    "long_name": "Base69",
+    "last_heard": "2026-08-17T19:43:33.995336+00:00",
+    "snr": 10.0,
+    "hops_away": 6,
+    "short_name": "\ud83c\udf32",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!0404e714": {
     "id": "!0404e714",
