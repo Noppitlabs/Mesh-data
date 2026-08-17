@@ -456,8 +456,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-08-17T16:44:47.915995+00:00",
-    "snr": 12.5,
+    "last_heard": "2026-08-17T18:04:32.368346+00:00",
+    "snr": -14.75,
     "hops_away": 3,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -2240,9 +2240,9 @@
   "!da5e0380": {
     "id": "!da5e0380",
     "long_name": "JMK HELT 0380",
-    "last_heard": "2026-08-16T15:55:41.842964+00:00",
-    "snr": -15.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-17T18:04:24.168758+00:00",
+    "snr": -15.75,
+    "hops_away": 2,
     "short_name": "HELT",
     "hw_model": "HELTEC_V3",
     "role": ""
