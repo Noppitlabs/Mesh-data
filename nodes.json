@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-17T18:06:29.902768+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-08-17T18:07:04.578969+00:00",
+    "snr": -18.25,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -1476,9 +1476,9 @@
   "!6b7a84a1": {
     "id": "!6b7a84a1",
     "long_name": "timttmy-tracker",
-    "last_heard": "2026-08-17T15:34:19.501912+00:00",
-    "snr": 12.0,
-    "hops_away": 5,
+    "last_heard": "2026-08-17T18:06:55.878466+00:00",
+    "snr": -16.75,
+    "hops_away": 4,
     "short_name": "Card",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -2183,9 +2183,9 @@
   "!db517d8c": {
     "id": "!db517d8c",
     "long_name": "HaddonHill123",
-    "last_heard": "2026-08-17T17:40:21.272629+00:00",
-    "snr": 11.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-17T18:07:23.687229+00:00",
+    "snr": -15.75,
+    "hops_away": 2,
     "short_name": "G1",
     "hw_model": "HELTEC_V3",
     "role": ""
