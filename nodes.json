@@ -816,9 +816,9 @@
   "!fe93d41f": {
     "id": "!fe93d41f",
     "long_name": "M0PCZ 4.5 dBi Omni \ud83c\udfe1 ",
-    "last_heard": "2026-08-17T21:41:38.058504+00:00",
-    "snr": 11.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-18T00:47:55.831707+00:00",
+    "snr": -9.75,
+    "hops_away": 1,
     "short_name": "Base",
     "hw_model": "RAK4631",
     "role": ""
