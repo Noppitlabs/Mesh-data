@@ -1,5 +1,16 @@
 [
   {
+    "id": 1974818268,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-08-18T11:23:22.387069+00:00",
+    "channel": 0,
+    "snr": -3.25,
+    "hops": 3
+  },
+  {
     "id": 1581027593,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 13.75,
     "hops": 7
-  },
-  {
-    "id": 1968023831,
-    "from": "!9ea0bce4",
-    "from_name": "Hyperion WirelessPaper",
-    "to": "^all",
-    "text": "Dohajydh da, everyone excited for the partial eclipse tomorrow? \ud83d\ude0e",
-    "timestamp": "2026-08-11T13:22:57.388736+00:00",
-    "channel": 0,
-    "snr": -2.5,
-    "hops": 6
   }
 ]
