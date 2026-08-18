@@ -1,5 +1,16 @@
 [
   {
+    "id": 1709280873,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "I will be away at times today but will check for messages. Happy meshing!",
+    "timestamp": "2026-08-18T11:25:46.625262+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 2
+  },
+  {
     "id": 1974818268,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.25,
     "hops": 0
-  },
-  {
-    "id": 381488436,
-    "from": "!b03be864",
-    "from_name": "!b03be864",
-    "to": "^all",
-    "text": "direct",
-    "timestamp": "2026-08-11T13:42:42.740806+00:00",
-    "channel": 0,
-    "snr": 13.75,
-    "hops": 7
   }
 ]
