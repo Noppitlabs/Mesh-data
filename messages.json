@@ -1,5 +1,16 @@
 [
   {
+    "id": 257502568,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "How many Gus Honeybun hops from Exeter Centre? \ud83c\udf44\ud83d\udc07 Big respec' TSW massif",
+    "timestamp": "2026-08-18T21:47:03.608983+00:00",
+    "channel": 0,
+    "snr": -11.5,
+    "hops": 2
+  },
+  {
     "id": 3967238821,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 7
-  },
-  {
-    "id": 2704922746,
-    "from": "!2687afb1",
-    "from_name": "Comfortably Numb OMNI",
-    "to": "^all",
-    "text": "x",
-    "timestamp": "2026-08-16T15:29:46.917333+00:00",
-    "channel": 0,
-    "snr": -11.0,
-    "hops": 2
   }
 ]
