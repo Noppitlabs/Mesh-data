@@ -1,5 +1,16 @@
 [
   {
+    "id": 3620979859,
+    "from": "!7bae4f27",
+    "from_name": "Meshtastic 4f27",
+    "to": "^all",
+    "text": "I was looking through Aliexpress, and wondered what these small devices were, looked them up on the internet brought a wio tracker pro Which arrived today downloaded the app and here I am one hour in.",
+    "timestamp": "2026-08-18T17:22:33.377557+00:00",
+    "channel": 0,
+    "snr": 10.5,
+    "hops": 3
+  },
+  {
     "id": 3294033317,
     "from": "!7bae4f27",
     "from_name": "Meshtastic 4f27",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 6
-  },
-  {
-    "id": 467985298,
-    "from": "!2687afb1",
-    "from_name": "Comfortably Numb OMNI",
-    "to": "^all",
-    "text": "\ud83d\udc4b 1 Hop to Taunton",
-    "timestamp": "2026-08-15T21:36:27.651676+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 2
   }
 ]
