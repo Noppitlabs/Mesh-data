@@ -1,5 +1,16 @@
 [
   {
+    "id": 1581027593,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "That's my fleet (\u2060\u25e0\u2060\u203f\u2060\u25d5\u2060)",
+    "timestamp": "2026-08-18T11:21:37.439105+00:00",
+    "channel": 0,
+    "snr": -18.75,
+    "hops": 1
+  },
+  {
     "id": 1073920702,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -2.5,
     "hops": 6
-  },
-  {
-    "id": 663573364,
-    "from": "!ed427eb8",
-    "from_name": "The Tower of Power",
-    "to": "^all",
-    "text": "Rx in Gy",
-    "timestamp": "2026-08-11T13:17:18.908350+00:00",
-    "channel": 0,
-    "snr": -3.0,
-    "hops": 3
   }
 ]
