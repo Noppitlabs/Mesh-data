@@ -1,5 +1,16 @@
 [
   {
+    "id": 3294033317,
+    "from": "!7bae4f27",
+    "from_name": "Meshtastic 4f27",
+    "to": "^all",
+    "text": "I was looking through Aliexpress, and wondered what these small devices were, looked them up on the internet brought a wio tracker pro Which arrived today downloaded the app and here I am one hour in.",
+    "timestamp": "2026-08-18T17:21:52.301299+00:00",
+    "channel": 0,
+    "snr": -16.25,
+    "hops": 2
+  },
+  {
     "id": 2615823547,
     "from": "!7bae4f27",
     "from_name": "Meshtastic 4f27",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.5,
     "hops": 2
-  },
-  {
-    "id": 1487825510,
-    "from": "!8fa77ff0",
-    "from_name": "Meshtastic 7ff0 - M1VPN",
-    "to": "^all",
-    "text": "Pong",
-    "timestamp": "2026-08-15T20:19:34.905462+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 3
   }
 ]
