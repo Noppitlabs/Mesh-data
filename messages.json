@@ -1,5 +1,16 @@
 [
   {
+    "id": 3967238821,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "7\ufe0f\u20e3",
+    "timestamp": "2026-08-18T21:28:16.190731+00:00",
+    "channel": 0,
+    "snr": -13.25,
+    "hops": 2
+  },
+  {
     "id": 3620979859,
     "from": "!7bae4f27",
     "from_name": "Meshtastic 4f27",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.0,
     "hops": 2
-  },
-  {
-    "id": 534753219,
-    "from": "!f66bd428",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-08-16T06:39:56.250805+00:00",
-    "channel": 0,
-    "snr": -15.75,
-    "hops": 6
   }
 ]
