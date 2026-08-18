@@ -1,5 +1,16 @@
 [
   {
+    "id": 3064052544,
+    "from": "!fb7215a3",
+    "from_name": "!fb7215a3",
+    "to": "^all",
+    "text": "Goooodmorning from my plane from Curacao to Amsterdam",
+    "timestamp": "2026-08-18T06:38:25.662963+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 3
+  },
+  {
     "id": 2089156207,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 13.5,
     "hops": 2
-  },
-  {
-    "id": 2119873749,
-    "from": "!6982bcb0",
-    "from_name": "Hambridge V4 - Paul ",
-    "to": "^all",
-    "text": "1 hop here",
-    "timestamp": "2026-08-09T15:30:35.533748+00:00",
-    "channel": 0,
-    "snr": -17.25,
-    "hops": 3
   }
 ]
