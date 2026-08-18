@@ -1,5 +1,16 @@
 [
   {
+    "id": 926679226,
+    "from": "!a0cb4648",
+    "from_name": "!a0cb4648",
+    "to": "^all",
+    "text": "Oh yes about the river?",
+    "timestamp": "2026-08-18T11:05:29.824970+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 2
+  },
+  {
     "id": 1370585703,
     "from": "!a0cb4648",
     "from_name": "!a0cb4648",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 5
-  },
-  {
-    "id": 1932318268,
-    "from": "!aca9fff0",
-    "from_name": "MrBs Meshtastic M7MRB",
-    "to": "^all",
-    "text": "Nothing going on local.",
-    "timestamp": "2026-08-10T10:18:34.702005+00:00",
-    "channel": 0,
-    "snr": -20.25,
-    "hops": 3
   }
 ]
