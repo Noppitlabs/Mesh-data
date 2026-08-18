@@ -1,5 +1,16 @@
 [
   {
+    "id": 4189744355,
+    "from": "!7bae4f27",
+    "from_name": "Meshtastic 4f27",
+    "to": "^all",
+    "text": "I\u2019ll check out the You tube, RDEw node?",
+    "timestamp": "2026-08-18T17:00:58.082126+00:00",
+    "channel": 0,
+    "snr": -18.25,
+    "hops": 2
+  },
+  {
     "id": 31627861,
     "from": "!7bae4f27",
     "from_name": "Meshtastic 4f27",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -2.0,
     "hops": 7
-  },
-  {
-    "id": 3077636956,
-    "from": "!5a66a61a",
-    "from_name": "Meshtastic a61a",
-    "to": "^all",
-    "text": "\ud83d\udd25",
-    "timestamp": "2026-08-14T05:15:04.120247+00:00",
-    "channel": 0,
-    "snr": -2.75,
-    "hops": 5
   }
 ]
