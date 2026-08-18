@@ -1,5 +1,16 @@
 [
   {
+    "id": 1355979992,
+    "from": "!7bae4f27",
+    "from_name": "!7bae4f27",
+    "to": "^all",
+    "text": "Great, can you recommend me any good literature on the whole Mesh thing?",
+    "timestamp": "2026-08-18T16:52:57.221213+00:00",
+    "channel": 0,
+    "snr": -10.75,
+    "hops": 2
+  },
+  {
     "id": 1974818271,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-13T08:29:36.394401+00:00",
     "channel": 0,
     "snr": -17.25,
-    "hops": 1
-  },
-  {
-    "id": 1379133027,
-    "from": "!c90ed460",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "RX in Exmouth",
-    "timestamp": "2026-08-13T08:29:28.256102+00:00",
-    "channel": 0,
-    "snr": -18.25,
     "hops": 1
   }
 ]
