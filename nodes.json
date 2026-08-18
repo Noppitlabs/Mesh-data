@@ -993,9 +993,9 @@
   "!c90ed460": {
     "id": "!c90ed460",
     "long_name": "Mark~G6OMT",
-    "last_heard": "2026-08-15T18:12:20.851212+00:00",
-    "snr": -18.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-18T02:16:24.760763+00:00",
+    "snr": 13.0,
+    "hops_away": 2,
     "short_name": "OMT",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
