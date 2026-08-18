@@ -1,5 +1,16 @@
 [
   {
+    "id": 1370585703,
+    "from": "!a0cb4648",
+    "from_name": "!a0cb4648",
+    "to": "^all",
+    "text": "Roger OMT",
+    "timestamp": "2026-08-18T11:01:02.238945+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 4
+  },
+  {
     "id": 1974818262,
     "from": "!a0cb4648",
     "from_name": "!a0cb4648",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-10T10:18:34.702005+00:00",
     "channel": 0,
     "snr": -20.25,
-    "hops": 3
-  },
-  {
-    "id": 175748113,
-    "from": "!cfb37091",
-    "from_name": "Resilience 1 Winkleigh \u2600\ufe0f ",
-    "to": "^all",
-    "text": "Test on new Firmware",
-    "timestamp": "2026-08-10T08:59:41.502772+00:00",
-    "channel": 0,
-    "snr": -1.5,
     "hops": 3
   }
 ]
