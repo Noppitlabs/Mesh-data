@@ -1,5 +1,16 @@
 [
   {
+    "id": 299257829,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "2.7.26 on a Heltec v3",
+    "timestamp": "2026-08-18T11:10:41.510327+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 2
+  },
+  {
     "id": 1255016869,
     "from": "!a0cb4648",
     "from_name": "!a0cb4648",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 1
-  },
-  {
-    "id": 188044799,
-    "from": "!aca9fff0",
-    "from_name": "MrBs Meshtastic M7MRB",
-    "to": "^all",
-    "text": "25 hours of nothing, may shut my Meshtastic down.",
-    "timestamp": "2026-08-11T11:11:28.443925+00:00",
-    "channel": 0,
-    "snr": -4.0,
-    "hops": 6
   }
 ]
