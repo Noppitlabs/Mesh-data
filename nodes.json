@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-18T02:33:32.786512+00:00",
-    "snr": -11.0,
+    "last_heard": "2026-08-18T02:35:09.465721+00:00",
+    "snr": -12.5,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-18T02:34:03.224405+00:00",
+    "last_heard": "2026-08-18T02:35:03.261004+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
