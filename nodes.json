@@ -1915,9 +1915,9 @@
   "!699c36d4": {
     "id": "!699c36d4",
     "long_name": "BiSON 36d4",
-    "last_heard": "2026-08-10T09:00:40.017622+00:00",
-    "snr": -16.5,
-    "hops_away": 6,
+    "last_heard": "2026-08-19T14:30:31.980733+00:00",
+    "snr": -3.75,
+    "hops_away": 7,
     "short_name": "BSON",
     "hw_model": "HELTEC_V4",
     "role": ""
