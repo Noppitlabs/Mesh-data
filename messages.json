@@ -1,5 +1,16 @@
 [
   {
+    "id": 518164005,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "good morning",
+    "timestamp": "2026-08-19T09:12:32.542047+00:00",
+    "channel": 0,
+    "snr": 10.0,
+    "hops": 2
+  },
+  {
     "id": 3967238825,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-16T20:49:24.903931+00:00",
     "channel": 0,
     "snr": -8.75,
-    "hops": 4
-  },
-  {
-    "id": 113833406,
-    "from": "!0409d1c0",
-    "from_name": "Rich M7FYU ",
-    "to": "^all",
-    "text": "5 hops Plymouth",
-    "timestamp": "2026-08-16T19:23:16.978523+00:00",
-    "channel": 0,
-    "snr": -9.0,
     "hops": 4
   }
 ]
