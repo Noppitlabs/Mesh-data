@@ -406,9 +406,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-08-19T02:13:29.269487+00:00",
-    "snr": -15.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-19T02:15:24.195694+00:00",
+    "snr": 13.0,
+    "hops_away": 2,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
