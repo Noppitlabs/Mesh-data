@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-19T11:31:39.579060+00:00",
-    "snr": -18.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-19T12:17:31.405083+00:00",
+    "snr": -7.0,
+    "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -189,8 +189,8 @@
   "!6164e218": {
     "id": "!6164e218",
     "long_name": "Beachesandsea.com",
-    "last_heard": "2026-08-19T12:17:18.389912+00:00",
-    "snr": 11.0,
+    "last_heard": "2026-08-19T12:18:21.791483+00:00",
+    "snr": 12.75,
     "hops_away": 2,
     "short_name": "MOBI",
     "hw_model": "TRACKER_T1000_E",
