@@ -7675,9 +7675,9 @@
   "!a9ca88c4": {
     "id": "!a9ca88c4",
     "long_name": "Meshtastic d104",
-    "last_heard": "2026-08-19T19:23:51.980563+00:00",
-    "snr": 12.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-19T19:38:37.801304+00:00",
+    "snr": -14.5,
+    "hops_away": 6,
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
     "role": ""
