@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-08-19T18:26:06.825173+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-19T18:46:14.054927+00:00",
+    "snr": -8.5,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2173,9 +2173,9 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-08-19T18:41:41.584831+00:00",
-    "snr": -7.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-19T18:45:58.980491+00:00",
+    "snr": -9.75,
+    "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
     "role": "CLIENT_MUTE"
