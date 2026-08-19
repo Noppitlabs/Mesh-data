@@ -1,5 +1,16 @@
 [
   {
+    "id": 1352261361,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Morning still 1 hop away",
+    "timestamp": "2026-08-19T05:30:53.641013+00:00",
+    "channel": 0,
+    "snr": 12.5,
+    "hops": 2
+  },
+  {
     "id": 66052161,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.25,
     "hops": 2
-  },
-  {
-    "id": 2956193746,
-    "from": "!ea8fd728",
-    "from_name": "Bear",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-08-16T18:32:26.365499+00:00",
-    "channel": 0,
-    "snr": -10.0,
-    "hops": 3
   }
 ]
