@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-19T01:39:03.411545+00:00",
+    "last_heard": "2026-08-19T01:40:03.453473+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-08-19T00:40:08.291189+00:00",
-    "snr": -10.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-19T01:40:04.876122+00:00",
+    "snr": -9.0,
+    "hops_away": 4,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
