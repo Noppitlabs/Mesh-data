@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-19T09:29:18.642156+00:00",
-    "snr": -19.5,
+    "last_heard": "2026-08-19T09:31:46.496307+00:00",
+    "snr": -19.25,
     "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -339,9 +339,9 @@
   "!ba663cac": {
     "id": "!ba663cac",
     "long_name": "Mesh_EX15 esp3v3",
-    "last_heard": "2026-08-19T09:17:03.941101+00:00",
+    "last_heard": "2026-08-19T09:31:55.436202+00:00",
     "snr": -4.5,
-    "hops_away": 3,
+    "hops_away": 4,
     "short_name": "esp3",
     "hw_model": "HELTEC_V3",
     "role": ""
