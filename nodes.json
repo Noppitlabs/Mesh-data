@@ -139,8 +139,8 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-08-18T22:40:05.197139+00:00",
-    "snr": -13.75,
+    "last_heard": "2026-08-19T00:10:02.824920+00:00",
+    "snr": -14.25,
     "hops_away": 4,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
@@ -2109,8 +2109,8 @@
   "!10596db0": {
     "id": "!10596db0",
     "long_name": "Silverton~",
-    "last_heard": "2026-08-18T00:10:50.505140+00:00",
-    "snr": 12.25,
+    "last_heard": "2026-08-19T00:10:52.102692+00:00",
+    "snr": 12.0,
     "hops_away": 2,
     "short_name": "S2",
     "hw_model": "RAK4631",
