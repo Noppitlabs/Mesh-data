@@ -7604,12 +7604,12 @@
   "!8ec03730": {
     "id": "!8ec03730",
     "long_name": "Meshtastic 3730",
-    "last_heard": "2026-08-18T09:09:50.652715+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-19T01:38:43.030678+00:00",
+    "snr": -11.25,
     "hops_away": 4,
     "short_name": "3730",
     "hw_model": "SEEED_WIO_TRACKER_L1",
-    "role": "CLIENT_BASE"
+    "role": ""
   },
   "!cbc976b9": {
     "id": "!cbc976b9",
