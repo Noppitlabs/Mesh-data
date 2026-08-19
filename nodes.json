@@ -7691,5 +7691,15 @@
     "short_name": "b1ac",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
+  },
+  "!4ba77713": {
+    "id": "!4ba77713",
+    "long_name": "Meshtastic d988",
+    "last_heard": "2026-08-19T18:48:04.211580+00:00",
+    "snr": -10.0,
+    "hops_away": 2,
+    "short_name": "d988",
+    "hw_model": "THINKNODE_M5",
+    "role": "CLIENT_BASE"
   }
 }
