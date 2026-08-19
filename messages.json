@@ -1,5 +1,16 @@
 [
   {
+    "id": 275899742,
+    "from": "!a0cb4648",
+    "from_name": "Puck Roaming",
+    "to": "^all",
+    "text": "Farewell for now from Exe Valley Puck",
+    "timestamp": "2026-08-19T14:07:32.658238+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 2
+  },
+  {
     "id": 2046107465,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 4
-  },
-  {
-    "id": 940224118,
-    "from": "!e58e66d3",
-    "from_name": "Ex5R Dave M0JQH",
-    "to": "^all",
-    "text": "4CE1 , Hola de south west England",
-    "timestamp": "2026-08-16T22:19:29.028164+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 2
   }
 ]
