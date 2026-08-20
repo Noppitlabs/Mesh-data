@@ -1,5 +1,16 @@
 [
   {
+    "id": 1418572195,
+    "from": "!f6969970",
+    "from_name": "!f6969970",
+    "to": "^all",
+    "text": "hello \n",
+    "timestamp": "2026-08-20T14:43:03.754967+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 3
+  },
+  {
     "id": 596221346,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-17T18:08:30.152892+00:00",
     "channel": 0,
     "snr": -15.0,
-    "hops": 2
-  },
-  {
-    "id": 133262059,
-    "from": "!49b3ca10",
-    "from_name": "Meshtastic ca10",
-    "to": "^all",
-    "text": "yes also exmouth",
-    "timestamp": "2026-08-17T17:45:46.128490+00:00",
-    "channel": 0,
-    "snr": 10.5,
     "hops": 2
   }
 ]
