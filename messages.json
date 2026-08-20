@@ -1,5 +1,16 @@
 [
   {
+    "id": 2243977178,
+    "from": "!f6969970",
+    "from_name": "!f6969970",
+    "to": "^all",
+    "text": " .",
+    "timestamp": "2026-08-20T17:08:36.199386+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 3
+  },
+  {
     "id": 444024792,
     "from": "!f6969970",
     "from_name": "!f6969970",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.25,
     "hops": 5
-  },
-  {
-    "id": 427263557,
-    "from": "!49b3ca10",
-    "from_name": "Meshtastic ca10",
-    "to": "^all",
-    "text": "Firmware: 2.7.26.54e0d8d",
-    "timestamp": "2026-08-17T18:21:22.200572+00:00",
-    "channel": 0,
-    "snr": -15.25,
-    "hops": 1
   }
 ]
