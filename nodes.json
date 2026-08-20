@@ -219,9 +219,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-08-20T04:35:16.253095+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-20T04:55:10.710532+00:00",
+    "snr": -6.25,
+    "hops_away": 3,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -3108,8 +3108,8 @@
   "!aca9fff0": {
     "id": "!aca9fff0",
     "long_name": "MrBs Meshtastic M7MRB",
-    "last_heard": "2026-08-20T04:28:29.558248+00:00",
-    "snr": -4.25,
+    "last_heard": "2026-08-20T04:55:03.862444+00:00",
+    "snr": -4.75,
     "hops_away": 4,
     "short_name": "7mrb",
     "hw_model": "HELTEC_V3",
