@@ -319,8 +319,8 @@
   "!ba6a6ccc": {
     "id": "!ba6a6ccc",
     "long_name": "Meshtastic 6ccc",
-    "last_heard": "2026-08-20T10:28:09.395576+00:00",
-    "snr": -11.75,
+    "last_heard": "2026-08-20T13:15:06.284503+00:00",
+    "snr": -8.75,
     "hops_away": 2,
     "short_name": "6ccc",
     "hw_model": "HELTEC_V3",
@@ -7688,8 +7688,8 @@
   "!28b6b1ac": {
     "id": "!28b6b1ac",
     "long_name": "Meshtastic b1ac",
-    "last_heard": "2026-08-20T12:11:26.095488+00:00",
-    "snr": -8.75,
+    "last_heard": "2026-08-20T13:15:03.822643+00:00",
+    "snr": -10.0,
     "hops_away": 2,
     "short_name": "b1ac",
     "hw_model": "HELTEC_MESH_NODE_T114",
