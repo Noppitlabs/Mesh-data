@@ -1060,8 +1060,8 @@
   "!db52031c": {
     "id": "!db52031c",
     "long_name": "Meshtastic 031c",
-    "last_heard": "2026-08-19T16:36:43.406072+00:00",
-    "snr": -12.0,
+    "last_heard": "2026-08-20T12:43:42.602751+00:00",
+    "snr": -6.25,
     "hops_away": 4,
     "short_name": "031c",
     "hw_model": "HELTEC_V3",
