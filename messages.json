@@ -1,5 +1,16 @@
 [
   {
+    "id": 2567995356,
+    "from": "!f6969970",
+    "from_name": "!f6969970",
+    "to": "^all",
+    "text": ".",
+    "timestamp": "2026-08-20T17:08:53.869784+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 2
+  },
+  {
     "id": 2243977178,
     "from": "!f6969970",
     "from_name": "!f6969970",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.0,
     "hops": 3
-  },
-  {
-    "id": 2089156207,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "Good morning Rx 1 hop \u25c9\u2060\u203f\u2060\u25c9",
-    "timestamp": "2026-08-18T06:34:35.461443+00:00",
-    "channel": 0,
-    "snr": -5.25,
-    "hops": 5
   }
 ]
