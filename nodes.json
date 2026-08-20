@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-20T07:32:19.249549+00:00",
+    "last_heard": "2026-08-20T07:33:09.838515+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -299,7 +299,7 @@
   "!b68fbb47": {
     "id": "!b68fbb47",
     "long_name": "TrafficJam",
-    "last_heard": "2026-08-20T07:26:10.497884+00:00",
+    "last_heard": "2026-08-20T07:33:19.064653+00:00",
     "snr": 11.0,
     "hops_away": 0,
     "short_name": "\ud83c\udf0a",
