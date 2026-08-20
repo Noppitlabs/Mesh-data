@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-20T01:24:03.051141+00:00",
+    "last_heard": "2026-08-20T01:25:03.097359+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-20T01:10:18.531022+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-08-20T01:25:15.448804+00:00",
+    "snr": -7.25,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
