@@ -1,5 +1,16 @@
 [
   {
+    "id": 596221346,
+    "from": null,
+    "from_name": null,
+    "to": "^all",
+    "text": "two six division calling",
+    "timestamp": "2026-08-20T14:42:32.547910+00:00",
+    "channel": 0,
+    "snr": -8.25,
+    "hops": 3
+  },
+  {
     "id": 1243169116,
     "from": null,
     "from_name": null,
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-17T17:45:46.128490+00:00",
     "channel": 0,
     "snr": 10.5,
-    "hops": 2
-  },
-  {
-    "id": 120651377,
-    "from": "!49b3ca10",
-    "from_name": "Meshtastic ca10",
-    "to": "^all",
-    "text": "hello from exmouth",
-    "timestamp": "2026-08-17T17:37:11.184502+00:00",
-    "channel": 0,
-    "snr": -15.0,
     "hops": 2
   }
 ]
