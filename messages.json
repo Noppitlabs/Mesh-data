@@ -1,5 +1,16 @@
 [
   {
+    "id": 3509517283,
+    "from": "!f6969970",
+    "from_name": "!f6969970",
+    "to": "^all",
+    "text": "r",
+    "timestamp": "2026-08-20T17:10:06.943400+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 2
+  },
+  {
     "id": 3750204386,
     "from": "!f6969970",
     "from_name": "!f6969970",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.25,
     "hops": 2
-  },
-  {
-    "id": 1255016869,
-    "from": "!a0cb4648",
-    "from_name": "!a0cb4648",
-    "to": "^all",
-    "text": "You're coming in each time as two hops. Btw Puck Roaming is my portable which I only switch on when I travel",
-    "timestamp": "2026-08-18T11:09:23.279186+00:00",
-    "channel": 0,
-    "snr": -6.5,
-    "hops": 3
   }
 ]
