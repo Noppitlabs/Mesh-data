@@ -7717,9 +7717,12 @@
   },
   "!f6969970": {
     "id": "!f6969970",
-    "long_name": "!f6969970",
-    "last_heard": "2026-08-20T17:10:13.750179+00:00",
-    "snr": -10.5,
-    "hops_away": 2
+    "long_name": "26RC126/P",
+    "last_heard": "2026-08-20T17:16:38.536574+00:00",
+    "snr": -9.0,
+    "hops_away": 3,
+    "short_name": "jk",
+    "hw_model": "T_DECK",
+    "role": ""
   }
 }
