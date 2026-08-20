@@ -4089,9 +4089,9 @@
   "!fa39f7b4": {
     "id": "!fa39f7b4",
     "long_name": "TA26 YAGI",
-    "last_heard": "2026-08-19T20:32:59.614524+00:00",
-    "snr": -8.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-20T00:48:54.972323+00:00",
+    "snr": -19.5,
+    "hops_away": 2,
     "short_name": "TA2y",
     "hw_model": "HELTEC_HT62",
     "role": "CLIENT_BASE"
