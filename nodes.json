@@ -7727,5 +7727,15 @@
     "short_name": "jk",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!734833f2": {
+    "id": "!734833f2",
+    "long_name": "R\u00c6NGER",
+    "last_heard": "2026-08-21T03:36:49.104602+00:00",
+    "snr": -9.25,
+    "hops_away": 3,
+    "short_name": "RNG",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_MUTE"
   }
 }
