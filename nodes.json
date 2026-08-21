@@ -7734,5 +7734,12 @@
     "short_name": "RNG",
     "hw_model": "RAK4631",
     "role": "CLIENT_MUTE"
+  },
+  "!ea965fc5": {
+    "id": "!ea965fc5",
+    "long_name": "!ea965fc5",
+    "last_heard": "2026-08-21T18:11:05.076808+00:00",
+    "snr": -15.25,
+    "hops_away": 3
   }
 }
