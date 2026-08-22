@@ -7432,10 +7432,13 @@
   },
   "!da55ea78": {
     "id": "!da55ea78",
-    "long_name": "!da55ea78",
-    "last_heard": "2026-08-19T12:53:55.913699+00:00",
-    "snr": -5.25,
-    "hops_away": 3
+    "long_name": "Xenon Base",
+    "last_heard": "2026-08-22T18:17:57.276543+00:00",
+    "snr": -3.5,
+    "hops_away": 3,
+    "short_name": "XBSE",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!04395d44": {
     "id": "!04395d44",
