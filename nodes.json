@@ -7797,5 +7797,12 @@
     "short_name": "ilmn",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!9e75a65c": {
+    "id": "!9e75a65c",
+    "long_name": "!9e75a65c",
+    "last_heard": "2026-08-22T22:53:53.358333+00:00",
+    "snr": -13.0,
+    "hops_away": 3
   }
 }
