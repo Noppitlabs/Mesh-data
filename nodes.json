@@ -6717,9 +6717,9 @@
   "!d406c8f4": {
     "id": "!d406c8f4",
     "long_name": "portex - car",
-    "last_heard": "2026-08-16T10:43:44.621403+00:00",
-    "snr": 11.0,
-    "hops_away": 6,
+    "last_heard": "2026-08-22T21:53:20.958878+00:00",
+    "snr": -9.25,
+    "hops_away": 4,
     "short_name": "ptxc",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "CLIENT_BASE"
