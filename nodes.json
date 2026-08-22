@@ -656,9 +656,9 @@
   "!019ec4aa": {
     "id": "!019ec4aa",
     "long_name": "rh5",
-    "last_heard": "2026-08-22T08:32:28.509131+00:00",
-    "snr": -17.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-22T08:57:36.150676+00:00",
+    "snr": -5.0,
+    "hops_away": 2,
     "short_name": "rh5",
     "hw_model": "RAK4631",
     "role": ""
