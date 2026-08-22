@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-22T19:54:54.753407+00:00",
+    "last_heard": "2026-08-22T19:55:54.785643+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1569,9 +1569,9 @@
   "!d7158102": {
     "id": "!d7158102",
     "long_name": "M0ABR ",
-    "last_heard": "2026-08-22T06:24:54.874179+00:00",
-    "snr": -12.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-22T19:55:05.072530+00:00",
+    "snr": -10.5,
+    "hops_away": 2,
     "short_name": "fir",
     "hw_model": "XIAO_NRF52_KIT",
     "role": "ROUTER"
