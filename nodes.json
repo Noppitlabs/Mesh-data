@@ -7787,5 +7787,15 @@
     "short_name": "BBF2",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!b03da3b0": {
+    "id": "!b03da3b0",
+    "long_name": "ilminster12",
+    "last_heard": "2026-08-22T20:57:19.373668+00:00",
+    "snr": -4.5,
+    "hops_away": 3,
+    "short_name": "ilmn",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
