@@ -7791,9 +7791,9 @@
   "!b03da3b0": {
     "id": "!b03da3b0",
     "long_name": "ilminster12",
-    "last_heard": "2026-08-22T20:57:19.373668+00:00",
-    "snr": -4.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-22T21:18:57.949313+00:00",
+    "snr": -19.25,
+    "hops_away": 2,
     "short_name": "ilmn",
     "hw_model": "HELTEC_V3",
     "role": ""
