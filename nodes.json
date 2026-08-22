@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-22T23:24:03.904868+00:00",
+    "last_heard": "2026-08-22T23:25:03.940054+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1720,9 +1720,9 @@
   "!38496e39": {
     "id": "!38496e39",
     "long_name": "Spitfire",
-    "last_heard": "2026-08-22T23:18:34.929151+00:00",
-    "snr": -19.25,
-    "hops_away": 6,
+    "last_heard": "2026-08-22T23:25:20.970945+00:00",
+    "snr": -18.25,
+    "hops_away": 5,
     "short_name": "Sptf",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
