@@ -1509,9 +1509,9 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-08-22T08:56:59.733933+00:00",
-    "snr": -15.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-22T16:31:04.692062+00:00",
+    "snr": -12.25,
+    "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -3444,8 +3444,8 @@
   "!da567ab8": {
     "id": "!da567ab8",
     "long_name": "puffin billy--(Tim)",
-    "last_heard": "2026-08-22T11:48:00.704499+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-08-22T16:30:49.517687+00:00",
+    "snr": -5.25,
     "hops_away": 3,
     "short_name": "pb",
     "hw_model": "HELTEC_V3",
