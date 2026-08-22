@@ -6709,10 +6709,13 @@
   },
   "!0414aa14": {
     "id": "!0414aa14",
-    "long_name": "!0414aa14",
-    "last_heard": "2026-08-13T09:24:33.304716+00:00",
-    "snr": -2.25,
-    "hops_away": 2
+    "long_name": "M0PCZ/p",
+    "last_heard": "2026-08-22T11:22:17.183316+00:00",
+    "snr": -5.75,
+    "hops_away": 2,
+    "short_name": "PCZP",
+    "hw_model": "THINKNODE_M1",
+    "role": "CLIENT_MUTE"
   },
   "!d406c8f4": {
     "id": "!d406c8f4",
