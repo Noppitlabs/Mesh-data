@@ -1,5 +1,16 @@
 [
   {
+    "id": 3033803414,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Ah ok, thanks for the info. looking to get a solar repeater and will see which network is best before making the final switch \ud83d\ude0a looking at getting the GAT562 30S 1W solar repeater from Aliexpress ",
+    "timestamp": "2026-08-23T19:04:32.037132+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 3
+  },
+  {
     "id": 1111035533,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-20T17:08:36.199386+00:00",
     "channel": 0,
     "snr": -10.25,
-    "hops": 3
-  },
-  {
-    "id": 444024792,
-    "from": "!f6969970",
-    "from_name": "!f6969970",
-    "to": "^all",
-    "text": "hello",
-    "timestamp": "2026-08-20T17:08:03.595333+00:00",
-    "channel": 0,
-    "snr": -10.75,
     "hops": 3
   }
 ]
