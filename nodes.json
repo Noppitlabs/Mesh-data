@@ -7197,9 +7197,9 @@
   "!0db7b34a": {
     "id": "!0db7b34a",
     "long_name": "XST/P",
-    "last_heard": "2026-08-23T11:25:58.787079+00:00",
-    "snr": -4.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-23T11:38:57.115948+00:00",
+    "snr": -6.0,
+    "hops_away": 2,
     "short_name": "XST",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
