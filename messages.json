@@ -1,5 +1,16 @@
 [
   {
+    "id": 1563973223,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "I'm goood too, thanks \ud83d\udc4d",
+    "timestamp": "2026-08-23T18:22:41.602748+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 2
+  },
+  {
     "id": 1456025285,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-19T09:12:32.542047+00:00",
     "channel": 0,
     "snr": 10.0,
-    "hops": 2
-  },
-  {
-    "id": 3967238825,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "1\ufe0f\u20e3",
-    "timestamp": "2026-08-19T06:52:33.579985+00:00",
-    "channel": 0,
-    "snr": -3.5,
     "hops": 2
   }
 ]
