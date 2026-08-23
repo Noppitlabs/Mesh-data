@@ -1506,8 +1506,8 @@
   "!849c72a0": {
     "id": "!849c72a0",
     "long_name": "Meshtastic VeNT",
-    "last_heard": "2026-08-23T05:21:16.422609+00:00",
-    "snr": -7.0,
+    "last_heard": "2026-08-23T05:28:30.612690+00:00",
+    "snr": -7.75,
     "hops_away": 6,
     "short_name": "VeNT",
     "hw_model": "HELTEC_V3",
@@ -1794,8 +1794,8 @@
   "!8f51053c": {
     "id": "!8f51053c",
     "long_name": "Exmouth~West",
-    "last_heard": "2026-08-23T02:28:30.641605+00:00",
-    "snr": -19.5,
+    "last_heard": "2026-08-23T05:28:32.483397+00:00",
+    "snr": -16.75,
     "hops_away": 0,
     "short_name": "E1",
     "hw_model": "RAK4631",
