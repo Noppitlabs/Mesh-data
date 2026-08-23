@@ -4577,9 +4577,9 @@
   "!043d24b0": {
     "id": "!043d24b0",
     "long_name": "Merlin",
-    "last_heard": "2026-08-23T13:02:18.750765+00:00",
-    "snr": -2.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-23T13:12:15.095504+00:00",
+    "snr": -1.75,
+    "hops_away": 2,
     "short_name": "24b0",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
