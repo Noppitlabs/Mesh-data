@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-23T05:47:10.564349+00:00",
-    "snr": -17.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-23T05:49:23.052000+00:00",
+    "snr": -10.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-23T05:48:23.400637+00:00",
+    "last_heard": "2026-08-23T05:49:24.796334+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1985,9 +1985,9 @@
   "!f1a8ce4f": {
     "id": "!f1a8ce4f",
     "long_name": "St Ives Solar Node 2E0XCN",
-    "last_heard": "2026-08-23T03:45:24.536284+00:00",
-    "snr": -17.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-23T05:49:41.432604+00:00",
+    "snr": -18.75,
+    "hops_away": 2,
     "short_name": "Ives",
     "hw_model": "RAK4631",
     "role": ""
@@ -7200,8 +7200,8 @@
   "!0db7b34a": {
     "id": "!0db7b34a",
     "long_name": "XST/P",
-    "last_heard": "2026-08-23T05:29:38.380295+00:00",
-    "snr": -7.5,
+    "last_heard": "2026-08-23T05:50:06.128526+00:00",
+    "snr": -7.25,
     "hops_away": 3,
     "short_name": "XST",
     "hw_model": "TRACKER_T1000_E",
