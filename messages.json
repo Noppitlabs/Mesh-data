@@ -1,5 +1,16 @@
 [
   {
+    "id": 1111035533,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Digby and signal isnt great here. I have put one of my elecrow m5\u2019s in the loft as a base and my other m5 is now getting some signal / messages at least. So many high buildings here. ",
+    "timestamp": "2026-08-23T18:57:08.067719+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 3
+  },
+  {
     "id": 1172212857,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-20T17:08:03.595333+00:00",
     "channel": 0,
     "snr": -10.75,
-    "hops": 3
-  },
-  {
-    "id": 1418572195,
-    "from": "!f6969970",
-    "from_name": "!f6969970",
-    "to": "^all",
-    "text": "hello \n",
-    "timestamp": "2026-08-20T14:43:03.754967+00:00",
-    "channel": 0,
-    "snr": -5.5,
     "hops": 3
   }
 ]
