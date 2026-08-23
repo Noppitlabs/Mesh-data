@@ -7821,5 +7821,12 @@
     "short_name": "TA23",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!777861fa": {
+    "id": "!777861fa",
+    "long_name": "!777861fa",
+    "last_heard": "2026-08-23T23:16:06.243001+00:00",
+    "snr": -8.75,
+    "hops_away": 6
   }
 }
