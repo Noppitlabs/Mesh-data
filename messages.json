@@ -1,5 +1,16 @@
 [
   {
+    "id": 1104863453,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "\ud83d\ude06",
+    "timestamp": "2026-08-23T07:38:37.950560+00:00",
+    "channel": 0,
+    "snr": -19.25,
+    "hops": 5
+  },
+  {
     "id": 323641409,
     "from": "!f66bd428",
     "from_name": "sj27 slimjim j-pole",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 2
-  },
-  {
-    "id": 1974818271,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "1\ufe0f\u20e3",
-    "timestamp": "2026-08-18T16:51:50.246487+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 3
   }
 ]
