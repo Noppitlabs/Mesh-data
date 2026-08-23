@@ -7814,5 +7814,15 @@
     "short_name": "SSCF",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
+  },
+  "!aca9e67c": {
+    "id": "!aca9e67c",
+    "long_name": "TA23",
+    "last_heard": "2026-08-23T04:55:45.338755+00:00",
+    "snr": -18.25,
+    "hops_away": 2,
+    "short_name": "TA23",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
