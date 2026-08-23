@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-23T21:09:03.215638+00:00",
+    "last_heard": "2026-08-23T21:10:03.243869+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3698,8 +3698,8 @@
   "!59517113": {
     "id": "!59517113",
     "long_name": "GG Winkleigh Base 1",
-    "last_heard": "2026-08-23T21:08:05.370637+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-08-23T21:10:54.755025+00:00",
+    "snr": -9.0,
     "hops_away": 3,
     "short_name": "MOB1",
     "hw_model": "HELTEC_MESH_NODE_T114",
