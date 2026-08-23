@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-23T05:58:50.735458+00:00",
+    "last_heard": "2026-08-23T05:59:23.840787+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -746,9 +746,9 @@
   "!31058798": {
     "id": "!31058798",
     "long_name": "Hyperion SenseCAP",
-    "last_heard": "2026-08-22T23:44:23.722350+00:00",
-    "snr": -7.5,
-    "hops_away": 6,
+    "last_heard": "2026-08-23T05:58:59.951389+00:00",
+    "snr": -16.25,
+    "hops_away": 3,
     "short_name": "HPN2",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
@@ -4079,9 +4079,9 @@
   "!da543aec": {
     "id": "!da543aec",
     "long_name": "st kew highway fixed node",
-    "last_heard": "2026-08-23T05:29:27.082665+00:00",
-    "snr": -17.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-23T05:59:17.136952+00:00",
+    "snr": -7.5,
+    "hops_away": 5,
     "short_name": "home",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -7200,8 +7200,8 @@
   "!0db7b34a": {
     "id": "!0db7b34a",
     "long_name": "XST/P",
-    "last_heard": "2026-08-23T05:50:06.128526+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-08-23T05:58:54.483758+00:00",
+    "snr": -8.5,
     "hops_away": 3,
     "short_name": "XST",
     "hw_model": "TRACKER_T1000_E",
