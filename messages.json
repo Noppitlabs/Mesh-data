@@ -1,5 +1,16 @@
 [
   {
+    "id": 803650079,
+    "from": "!777861fa",
+    "from_name": "!777861fa",
+    "to": "^all",
+    "text": "the chances of anything coming form mars are million to one he said",
+    "timestamp": "2026-08-23T23:16:08.324193+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 6
+  },
+  {
     "id": 639368203,
     "from": "!f661ed84",
     "from_name": "Puck Telecom",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.0,
     "hops": 3
-  },
-  {
-    "id": 2567995356,
-    "from": "!f6969970",
-    "from_name": "!f6969970",
-    "to": "^all",
-    "text": ".",
-    "timestamp": "2026-08-20T17:08:53.869784+00:00",
-    "channel": 0,
-    "snr": -11.25,
-    "hops": 2
   }
 ]
