@@ -1,5 +1,16 @@
 [
   {
+    "id": 650868253,
+    "from": "!c90ed460",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "For message activity yes",
+    "timestamp": "2026-08-23T18:52:31.671864+00:00",
+    "channel": 0,
+    "snr": -19.25,
+    "hops": 1
+  },
+  {
     "id": 3352935432,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.25,
     "hops": 3
-  },
-  {
-    "id": 1243169116,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "bad bot",
-    "timestamp": "2026-08-20T10:18:41.731662+00:00",
-    "channel": 0,
-    "snr": -15.75,
-    "hops": 7
   }
 ]
