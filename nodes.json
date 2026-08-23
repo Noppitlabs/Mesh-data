@@ -1861,9 +1861,9 @@
   "!a7df87aa": {
     "id": "!a7df87aa",
     "long_name": "Pendoggett_Duel_Core_Solar",
-    "last_heard": "2026-08-23T00:53:49.503255+00:00",
-    "snr": -9.0,
-    "hops_away": 3,
+    "last_heard": "2026-08-23T01:46:51.599517+00:00",
+    "snr": -18.75,
+    "hops_away": 2,
     "short_name": "PENS",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": "ROUTER_LATE"
