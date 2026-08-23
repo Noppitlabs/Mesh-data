@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-23T05:47:23.382516+00:00",
+    "last_heard": "2026-08-23T05:48:23.400637+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -3441,8 +3441,8 @@
   "!da567ab8": {
     "id": "!da567ab8",
     "long_name": "puffin billy--(Tim)",
-    "last_heard": "2026-08-23T05:32:04.029633+00:00",
-    "snr": -7.25,
+    "last_heard": "2026-08-23T05:48:05.347380+00:00",
+    "snr": -6.5,
     "hops_away": 3,
     "short_name": "pb",
     "hw_model": "HELTEC_V3",
