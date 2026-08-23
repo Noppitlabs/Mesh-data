@@ -756,9 +756,9 @@
   "!b2a78f18": {
     "id": "!b2a78f18",
     "long_name": "timttmy-V4",
-    "last_heard": "2026-08-23T04:37:32.300745+00:00",
-    "snr": -6.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-23T07:07:00.097887+00:00",
+    "snr": -6.25,
+    "hops_away": 6,
     "short_name": "t::1",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
@@ -6607,9 +6607,9 @@
   "!0408d734": {
     "id": "!0408d734",
     "long_name": "!0408d734",
-    "last_heard": "2026-08-22T20:03:36.725278+00:00",
-    "snr": -4.0,
-    "hops_away": 4
+    "last_heard": "2026-08-23T07:06:41.668453+00:00",
+    "snr": -14.75,
+    "hops_away": 3
   },
   "!12b10f7c": {
     "id": "!12b10f7c",
