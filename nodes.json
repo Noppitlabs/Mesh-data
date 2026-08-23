@@ -7804,5 +7804,15 @@
     "last_heard": "2026-08-22T22:53:53.358333+00:00",
     "snr": -13.0,
     "hops_away": 3
+  },
+  "!8a9767c3": {
+    "id": "!8a9767c3",
+    "long_name": "SCAP SLR CF",
+    "last_heard": "2026-08-23T03:11:22.958426+00:00",
+    "snr": -7.75,
+    "hops_away": 4,
+    "short_name": "SSCF",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": "ROUTER"
   }
 }
