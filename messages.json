@@ -1,5 +1,16 @@
 [
   {
+    "id": 1405425735,
+    "from": "!28b6b1ac",
+    "from_name": "Meshtastic b1ac",
+    "to": "^all",
+    "text": "Morning ",
+    "timestamp": "2026-08-23T08:56:03.320499+00:00",
+    "channel": 0,
+    "snr": -5.0,
+    "hops": 2
+  },
+  {
     "id": 812761133,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-18T17:10:28.811810+00:00",
     "channel": 0,
     "snr": -11.0,
-    "hops": 2
-  },
-  {
-    "id": 1974818273,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-08-18T17:05:33.490144+00:00",
-    "channel": 0,
-    "snr": -13.5,
     "hops": 2
   }
 ]
