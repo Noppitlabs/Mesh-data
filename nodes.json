@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-23T05:31:20.618438+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-08-23T05:31:50.824059+00:00",
+    "snr": -17.5,
     "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-23T05:30:22.667542+00:00",
+    "last_heard": "2026-08-23T05:32:22.769585+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1717,9 +1717,9 @@
   "!38496e39": {
     "id": "!38496e39",
     "long_name": "Spitfire",
-    "last_heard": "2026-08-22T23:25:20.970945+00:00",
-    "snr": -18.25,
-    "hops_away": 5,
+    "last_heard": "2026-08-23T05:31:31.485377+00:00",
+    "snr": -19.25,
+    "hops_away": 4,
     "short_name": "Sptf",
     "hw_model": "HELTEC_MESH_NODE_T114",
     "role": ""
@@ -3441,9 +3441,9 @@
   "!da567ab8": {
     "id": "!da567ab8",
     "long_name": "puffin billy--(Tim)",
-    "last_heard": "2026-08-23T04:36:01.492208+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-23T05:32:04.029633+00:00",
+    "snr": -7.25,
+    "hops_away": 3,
     "short_name": "pb",
     "hw_model": "HELTEC_V3",
     "role": ""
