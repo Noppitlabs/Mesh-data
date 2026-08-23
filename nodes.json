@@ -616,8 +616,8 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-08-23T04:01:03.232540+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-08-23T05:30:09.185165+00:00",
+    "snr": -7.5,
     "hops_away": 3,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
@@ -7200,8 +7200,8 @@
   "!0db7b34a": {
     "id": "!0db7b34a",
     "long_name": "XST/P",
-    "last_heard": "2026-08-23T04:48:03.849427+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-08-23T05:29:38.380295+00:00",
+    "snr": -7.5,
     "hops_away": 3,
     "short_name": "XST",
     "hw_model": "TRACKER_T1000_E",
