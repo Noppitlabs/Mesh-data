@@ -1,5 +1,16 @@
 [
   {
+    "id": 1172212857,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Thanks once i get a proper repeater will look to change. ",
+    "timestamp": "2026-08-23T18:53:33.388823+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 3
+  },
+  {
     "id": 650868253,
     "from": "!c90ed460",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-20T14:43:03.754967+00:00",
     "channel": 0,
     "snr": -5.5,
-    "hops": 3
-  },
-  {
-    "id": 596221346,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "two six division calling",
-    "timestamp": "2026-08-20T14:42:32.547910+00:00",
-    "channel": 0,
-    "snr": -8.25,
     "hops": 3
   }
 ]
