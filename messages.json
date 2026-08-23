@@ -1,5 +1,16 @@
 [
   {
+    "id": 3042268916,
+    "from": "!f661ed84",
+    "from_name": "Puck Telecom",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-08-23T16:14:35.233426+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 4
+  },
+  {
     "id": 2552538161,
     "from": "!a0cb4648",
     "from_name": "Puck Roaming",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-19T04:35:42.938188+00:00",
     "channel": 0,
     "snr": 13.0,
-    "hops": 2
-  },
-  {
-    "id": 257502568,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "How many Gus Honeybun hops from Exeter Centre? \ud83c\udf44\ud83d\udc07 Big respec' TSW massif",
-    "timestamp": "2026-08-18T21:47:03.608983+00:00",
-    "channel": 0,
-    "snr": -11.5,
     "hops": 2
   }
 ]
