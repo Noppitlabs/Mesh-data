@@ -7848,5 +7848,15 @@
     "short_name": "B055",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!6e3784f4": {
+    "id": "!6e3784f4",
+    "long_name": "RAKR#1",
+    "last_heard": "2026-08-24T00:52:11.759399+00:00",
+    "snr": -9.75,
+    "hops_away": 4,
+    "short_name": "RAKR",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
