@@ -7025,9 +7025,9 @@
   "!e67641e7": {
     "id": "!e67641e7",
     "long_name": "Gannet",
-    "last_heard": "2026-08-23T22:00:38.678537+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-24T01:00:53.141649+00:00",
+    "snr": -8.75,
+    "hops_away": 4,
     "short_name": "41e7",
     "hw_model": "TRACKER_T1000_E",
     "role": "TRACKER"
