@@ -1319,9 +1319,9 @@
   "!9e7dec32": {
     "id": "!9e7dec32",
     "long_name": "M7ARW 1\ud83d\udce1",
-    "last_heard": "2026-08-23T08:19:57.835079+00:00",
-    "snr": -19.75,
-    "hops_away": 3,
+    "last_heard": "2026-08-24T18:37:59.826844+00:00",
+    "snr": -9.0,
+    "hops_away": 5,
     "short_name": "ARW1",
     "hw_model": "T_ECHO",
     "role": ""
