@@ -2939,9 +2939,9 @@
   "!ea8fd728": {
     "id": "!ea8fd728",
     "long_name": "Bear",
-    "last_heard": "2026-08-23T23:37:28.682933+00:00",
-    "snr": -8.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-24T05:36:58.518882+00:00",
+    "snr": -10.25,
+    "hops_away": 3,
     "short_name": "BEAR",
     "hw_model": "SENSECAP_INDICATOR",
     "role": ""
