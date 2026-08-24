@@ -7835,9 +7835,9 @@
   "!9ea3d0ec": {
     "id": "!9ea3d0ec",
     "long_name": "Limerick3",
-    "last_heard": "2026-08-24T01:24:13.964364+00:00",
-    "snr": -9.25,
-    "hops_away": 6,
+    "last_heard": "2026-08-24T23:22:31.537291+00:00",
+    "snr": -11.0,
+    "hops_away": 4,
     "short_name": "LK3",
     "hw_model": "HELTEC_V3",
     "role": ""
