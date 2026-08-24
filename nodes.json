@@ -7838,5 +7838,15 @@
     "short_name": "LK3",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!0432bcc4": {
+    "id": "!0432bcc4",
+    "long_name": "Bo55H0gg",
+    "last_heard": "2026-08-24T00:39:24.312611+00:00",
+    "snr": -10.25,
+    "hops_away": 3,
+    "short_name": "B055",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
