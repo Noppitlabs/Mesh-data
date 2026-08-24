@@ -2997,9 +2997,9 @@
   "!31bc572b": {
     "id": "!31bc572b",
     "long_name": "EVNT",
-    "last_heard": "2026-08-24T00:30:43.620963+00:00",
-    "snr": -9.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-24T01:30:50.402786+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "EVNT",
     "hw_model": "XIAO_NRF52_KIT",
     "role": ""
