@@ -7861,5 +7861,12 @@
     "short_name": "RAKR",
     "hw_model": "RAK4631",
     "role": ""
+  },
+  "!da545da4": {
+    "id": "!da545da4",
+    "long_name": "!da545da4",
+    "last_heard": "2026-08-24T19:06:11.887795+00:00",
+    "snr": -9.0,
+    "hops_away": 7
   }
 }
