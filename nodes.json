@@ -7881,5 +7881,12 @@
     "short_name": "SNT",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!48968602": {
+    "id": "!48968602",
+    "long_name": "!48968602",
+    "last_heard": "2026-08-25T20:31:06.102563+00:00",
+    "snr": -11.0,
+    "hops_away": 2
   }
 }
