@@ -7118,10 +7118,13 @@
   },
   "!9ea17f60": {
     "id": "!9ea17f60",
-    "long_name": "!9ea17f60",
-    "last_heard": "2026-08-08T22:43:37.731164+00:00",
-    "snr": -1.75,
-    "hops_away": 7
+    "long_name": "Meshtastic 7f60",
+    "last_heard": "2026-08-25T02:26:10.032957+00:00",
+    "snr": -8.75,
+    "hops_away": 7,
+    "short_name": "7f60",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   },
   "!acaa8bb0": {
     "id": "!acaa8bb0",
