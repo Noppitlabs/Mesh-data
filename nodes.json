@@ -2949,9 +2949,9 @@
   "!db51ca1c": {
     "id": "!db51ca1c",
     "long_name": "Webheath Redditch B97",
-    "last_heard": "2026-08-24T14:59:36.647954+00:00",
-    "snr": -14.25,
-    "hops_away": 6,
+    "last_heard": "2026-08-25T05:09:33.521424+00:00",
+    "snr": -13.25,
+    "hops_away": 7,
     "short_name": "WHPT",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
