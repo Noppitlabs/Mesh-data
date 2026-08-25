@@ -2190,8 +2190,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-08-25T15:50:28.875617+00:00",
-    "snr": -10.75,
+    "last_heard": "2026-08-25T16:30:51.892612+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
@@ -7203,8 +7203,8 @@
   "!0db7b34a": {
     "id": "!0db7b34a",
     "long_name": "XST/P",
-    "last_heard": "2026-08-25T15:13:50.984672+00:00",
-    "snr": -15.75,
+    "last_heard": "2026-08-25T16:30:49.314932+00:00",
+    "snr": -11.5,
     "hops_away": 3,
     "short_name": "XST",
     "hw_model": "TRACKER_T1000_E",
