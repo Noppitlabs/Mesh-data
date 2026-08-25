@@ -7871,5 +7871,15 @@
     "last_heard": "2026-08-24T19:06:11.887795+00:00",
     "snr": -9.0,
     "hops_away": 7
+  },
+  "!e2e4b340": {
+    "id": "!e2e4b340",
+    "long_name": "S\u0116NT1N\u0116L",
+    "last_heard": "2026-08-25T17:58:57.380644+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
+    "short_name": "SNT",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
