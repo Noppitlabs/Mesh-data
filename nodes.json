@@ -7643,9 +7643,9 @@
   "!db2953d4": {
     "id": "!db2953d4",
     "long_name": "Myke the 1st",
-    "last_heard": "2026-08-25T16:06:41.843790+00:00",
-    "snr": -12.0,
-    "hops_away": 7,
+    "last_heard": "2026-08-25T16:13:37.075304+00:00",
+    "snr": -11.25,
+    "hops_away": 4,
     "short_name": "myke",
     "hw_model": "HELTEC_V3",
     "role": ""
