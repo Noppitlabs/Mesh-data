@@ -1,5 +1,16 @@
 [
   {
+    "id": 110412945,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "oh yeah I've seen that",
+    "timestamp": "2026-08-26T09:14:33.445132+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 3
+  },
+  {
     "id": 514383023,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.75,
     "hops": 2
-  },
-  {
-    "id": 367195552,
-    "from": "!f66bd428",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Ping",
-    "timestamp": "2026-08-21T06:43:39.732563+00:00",
-    "channel": 0,
-    "snr": -7.75,
-    "hops": 6
   }
 ]
