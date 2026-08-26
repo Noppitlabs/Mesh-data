@@ -1,5 +1,16 @@
 [
   {
+    "id": 514383023,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "how is things? very slow here seems to be... is that because of holiday season :)",
+    "timestamp": "2026-08-26T09:05:10.506971+00:00",
+    "channel": 0,
+    "snr": -17.5,
+    "hops": 2
+  },
+  {
     "id": 576608799,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.75,
     "hops": 6
-  },
-  {
-    "id": 2122107307,
-    "from": "!4ba77713",
-    "from_name": "Meshtastic d988",
-    "to": "^all",
-    "text": "testing sending message via PC software?",
-    "timestamp": "2026-08-20T18:35:09.123757+00:00",
-    "channel": 0,
-    "snr": -8.25,
-    "hops": 2
   }
 ]
