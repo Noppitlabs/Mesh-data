@@ -7891,5 +7891,15 @@
     "short_name": "Elk",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!020c94da": {
+    "id": "!020c94da",
+    "long_name": "M Hat Tracker",
+    "last_heard": "2026-08-26T14:21:45.042230+00:00",
+    "snr": -18.0,
+    "hops_away": 2,
+    "short_name": "Mhat",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "TRACKER"
   }
 }
