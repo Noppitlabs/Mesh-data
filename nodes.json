@@ -2032,8 +2032,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-08-26T10:18:39.437580+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-08-26T10:25:22.859945+00:00",
+    "snr": -9.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -7653,8 +7653,8 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-08-26T10:23:29.805633+00:00",
-    "snr": -12.25,
+    "last_heard": "2026-08-26T10:25:03.565440+00:00",
+    "snr": -8.5,
     "hops_away": 1,
     "short_name": "ca10",
     "hw_model": "HELTEC_V4",
