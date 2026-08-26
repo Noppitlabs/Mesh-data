@@ -6409,11 +6409,11 @@
   },
   "!2bc4dbbe": {
     "id": "!2bc4dbbe",
-    "long_name": "Chris Exeter G3CJL",
-    "last_heard": "2026-08-22T16:10:39.523990+00:00",
-    "snr": -3.25,
+    "long_name": "Chris Blue G3CJL",
+    "last_heard": "2026-08-26T08:38:08.812815+00:00",
+    "snr": -16.25,
     "hops_away": 2,
-    "short_name": "CJL1",
+    "short_name": "Blue",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
   },
