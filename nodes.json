@@ -616,9 +616,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-08-26T00:11:25.447991+00:00",
-    "snr": -13.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-26T00:18:03.366862+00:00",
+    "snr": -13.5,
+    "hops_away": 4,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
