@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-26T20:39:08.093170+00:00",
+    "last_heard": "2026-08-26T20:40:08.138216+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -5237,9 +5237,9 @@
   "!02e73714": {
     "id": "!02e73714",
     "long_name": "pleamore cross",
-    "last_heard": "2026-08-26T20:15:02.012746+00:00",
-    "snr": -14.25,
-    "hops_away": 2,
+    "last_heard": "2026-08-26T20:40:11.885708+00:00",
+    "snr": -10.0,
+    "hops_away": 3,
     "short_name": "ta21",
     "hw_model": "HELTEC_V3",
     "role": ""
