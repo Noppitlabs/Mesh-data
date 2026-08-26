@@ -7885,8 +7885,8 @@
   "!48968602": {
     "id": "!48968602",
     "long_name": "Meshtastic Elk",
-    "last_heard": "2026-08-26T01:41:54.831969+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-08-26T03:51:35.063921+00:00",
+    "snr": -15.75,
     "hops_away": 2,
     "short_name": "Elk",
     "hw_model": "TRACKER_T1000_E",
