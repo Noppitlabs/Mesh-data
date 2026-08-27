@@ -1,5 +1,16 @@
 [
   {
+    "id": 828290426,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Maybe we just pick a date for end of September (before students return?), spread the word & see who rocks up?",
+    "timestamp": "2026-08-27T16:31:44.330343+00:00",
+    "channel": 0,
+    "snr": -4.25,
+    "hops": 2
+  },
+  {
     "id": 4055465069,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-24T18:06:37.823943+00:00",
     "channel": 0,
     "snr": -12.0,
-    "hops": 2
-  },
-  {
-    "id": 1794458053,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Evening Mark",
-    "timestamp": "2026-08-24T18:04:33.914338+00:00",
-    "channel": 0,
-    "snr": -13.0,
     "hops": 2
   }
 ]
