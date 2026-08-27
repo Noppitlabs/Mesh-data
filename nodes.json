@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-27T17:37:00.814440+00:00",
+    "last_heard": "2026-08-27T17:38:49.306805+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -99,9 +99,9 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-27T16:36:54.792004+00:00",
-    "snr": -6.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-27T17:38:29.202714+00:00",
+    "snr": -14.5,
+    "hops_away": 3,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
     "role": ""
@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-08-27T17:35:23.671783+00:00",
-    "snr": -13.0,
+    "last_heard": "2026-08-27T17:38:09.132496+00:00",
+    "snr": -15.5,
     "hops_away": 3,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -4166,9 +4166,9 @@
   "!394f2a16": {
     "id": "!394f2a16",
     "long_name": "M7XMV | Truro Solar",
-    "last_heard": "2026-08-27T09:36:53.544029+00:00",
-    "snr": -12.75,
-    "hops_away": 5,
+    "last_heard": "2026-08-27T17:37:39.067443+00:00",
+    "snr": -11.25,
+    "hops_away": 4,
     "short_name": "XMV2",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
