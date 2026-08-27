@@ -1,5 +1,16 @@
 [
   {
+    "id": 4055465075,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-08-27T16:33:46.395897+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 2
+  },
+  {
     "id": 1308673558,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 2
-  },
-  {
-    "id": 4071543937,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "6\ufe0f\u20e3",
-    "timestamp": "2026-08-24T19:37:06.930848+00:00",
-    "channel": 0,
-    "snr": -18.0,
-    "hops": 4
   }
 ]
