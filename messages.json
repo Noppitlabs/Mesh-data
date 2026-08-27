@@ -1,5 +1,16 @@
 [
   {
+    "id": 373700608,
+    "from": "!48968602",
+    "from_name": "Meshtastic Elk",
+    "to": "^all",
+    "text": "Oh that X1 looks neat",
+    "timestamp": "2026-08-27T09:07:06.980543+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 2
+  },
+  {
     "id": 493322026,
     "from": "!48968602",
     "from_name": "Meshtastic Elk",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-23T08:51:49.295630+00:00",
     "channel": 0,
     "snr": -9.0,
-    "hops": 2
-  },
-  {
-    "id": 822452168,
-    "from": "!9ea1b288",
-    "from_name": "SwallowsNest - Adam Cullompton",
-    "to": "^all",
-    "text": "Morning!",
-    "timestamp": "2026-08-23T08:43:00.120746+00:00",
-    "channel": 0,
-    "snr": -5.5,
     "hops": 2
   }
 ]
