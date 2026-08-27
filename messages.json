@@ -1,5 +1,16 @@
 [
   {
+    "id": 4055464222,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-08-27T08:53:37.496926+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 2
+  },
+  {
     "id": 2878356479,
     "from": "!48968602",
     "from_name": "Meshtastic Elk",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-23T07:38:37.950560+00:00",
     "channel": 0,
     "snr": -19.25,
-    "hops": 5
-  },
-  {
-    "id": 323641409,
-    "from": "!f66bd428",
-    "from_name": "sj27 slimjim j-pole",
-    "to": "^all",
-    "text": "Hh",
-    "timestamp": "2026-08-23T07:37:44.699659+00:00",
-    "channel": 0,
-    "snr": -19.0,
     "hops": 5
   }
 ]
