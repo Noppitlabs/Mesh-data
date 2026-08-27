@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-27T17:39:59.618109+00:00",
-    "snr": -11.75,
-    "hops_away": 1,
+    "last_heard": "2026-08-27T17:42:11.412886+00:00",
+    "snr": -12.0,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -2354,7 +2354,7 @@
   "!163b3fd6": {
     "id": "!163b3fd6",
     "long_name": "A-NET Main ",
-    "last_heard": "2026-08-27T02:57:42.927717+00:00",
+    "last_heard": "2026-08-27T17:41:25.917353+00:00",
     "snr": -15.0,
     "hops_away": 5,
     "short_name": "ANGD",
@@ -7653,9 +7653,9 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-08-27T16:09:32.756315+00:00",
-    "snr": -12.0,
-    "hops_away": 1,
+    "last_heard": "2026-08-27T17:41:57.366302+00:00",
+    "snr": -11.0,
+    "hops_away": 2,
     "short_name": "ca10",
     "hw_model": "HELTEC_V4",
     "role": ""
