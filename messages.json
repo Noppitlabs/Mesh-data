@@ -1,5 +1,16 @@
 [
   {
+    "id": 1686391082,
+    "from": "!49b3ca10",
+    "from_name": "Meshtastic ca10",
+    "to": "^all",
+    "text": "No live by the docks, just got a heltech to start playing around",
+    "timestamp": "2026-08-27T08:27:32.750665+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 1
+  },
+  {
     "id": 730657733,
     "from": "!49b3ca10",
     "from_name": "Meshtastic ca10",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-22T11:47:40.950548+00:00",
     "channel": 0,
     "snr": -3.75,
-    "hops": 2
-  },
-  {
-    "id": 1359929607,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "Good morning all.",
-    "timestamp": "2026-08-22T07:34:28.468508+00:00",
-    "channel": 0,
-    "snr": -10.75,
     "hops": 2
   }
 ]
