@@ -1,5 +1,16 @@
 [
   {
+    "id": 847340934,
+    "from": "!4cacf57e",
+    "from_name": "Chris Orange G3CJL",
+    "to": "^all",
+    "text": "Yes.Get one with a really good antenna and put it as high as possible, preferably on high ground.",
+    "timestamp": "2026-08-27T08:53:54.826850+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 2
+  },
+  {
     "id": 4055464222,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.25,
     "hops": 1
-  },
-  {
-    "id": 1104863453,
-    "from": "!f661ed84",
-    "from_name": "Puck Telecom",
-    "to": "^all",
-    "text": "\ud83d\ude06",
-    "timestamp": "2026-08-23T07:38:37.950560+00:00",
-    "channel": 0,
-    "snr": -19.25,
-    "hops": 5
   }
 ]
