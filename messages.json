@@ -1,5 +1,16 @@
 [
   {
+    "id": 133545384,
+    "from": "!49b3ca10",
+    "from_name": "Meshtastic ca10",
+    "to": "^all",
+    "text": "I used to work there back before 2004",
+    "timestamp": "2026-08-27T09:15:00.032806+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 1
+  },
+  {
     "id": 1950417947,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-23T09:02:00.275903+00:00",
     "channel": 0,
     "snr": -4.5,
-    "hops": 2
-  },
-  {
-    "id": 1405425735,
-    "from": "!28b6b1ac",
-    "from_name": "Meshtastic b1ac",
-    "to": "^all",
-    "text": "Morning ",
-    "timestamp": "2026-08-23T08:56:03.320499+00:00",
-    "channel": 0,
-    "snr": -5.0,
     "hops": 2
   }
 ]
