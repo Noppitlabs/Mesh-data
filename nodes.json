@@ -2364,9 +2364,9 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-08-27T14:59:27.629649+00:00",
-    "snr": -10.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-27T15:18:58.282233+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
