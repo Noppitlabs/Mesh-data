@@ -1,5 +1,16 @@
 [
   {
+    "id": 77959958,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Was thinking the 'spoons in Exeter. A bit more central for folk maybe",
+    "timestamp": "2026-08-27T16:09:41.841902+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 2
+  },
+  {
     "id": 1881968676,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.0,
     "hops": 5
-  },
-  {
-    "id": 3033803414,
-    "from": "!4ba77713",
-    "from_name": "Meshtastic d988",
-    "to": "^all",
-    "text": "Ah ok, thanks for the info. looking to get a solar repeater and will see which network is best before making the final switch \ud83d\ude0a looking at getting the GAT562 30S 1W solar repeater from Aliexpress ",
-    "timestamp": "2026-08-23T19:04:32.037132+00:00",
-    "channel": 0,
-    "snr": -7.75,
-    "hops": 3
   }
 ]
