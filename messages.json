@@ -1,5 +1,16 @@
 [
   {
+    "id": 1486467334,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Received in Pinhoe",
+    "timestamp": "2026-08-27T15:48:16.145743+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 2
+  },
+  {
     "id": 528848775,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 4
-  },
-  {
-    "id": 2552538161,
-    "from": "!a0cb4648",
-    "from_name": "Puck Roaming",
-    "to": "^all",
-    "text": "5\ufe0f\u20e3",
-    "timestamp": "2026-08-23T14:00:38.835143+00:00",
-    "channel": 0,
-    "snr": -5.75,
-    "hops": 6
   }
 ]
