@@ -1,5 +1,16 @@
 [
   {
+    "id": 1950417947,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Yup. Shows you in bonhay area",
+    "timestamp": "2026-08-27T09:08:44.562084+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 2
+  },
+  {
     "id": 4055464250,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.0,
     "hops": 2
-  },
-  {
-    "id": 812761133,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "morning",
-    "timestamp": "2026-08-23T08:53:53.882442+00:00",
-    "channel": 0,
-    "snr": -4.75,
-    "hops": 3
   }
 ]
