@@ -6410,10 +6410,10 @@
   "!2bc4dbbe": {
     "id": "!2bc4dbbe",
     "long_name": "Chris Blue G3CJL",
-    "last_heard": "2026-08-28T07:53:32.936729+00:00",
-    "snr": -10.0,
-    "hops_away": 2,
-    "short_name": "Blue",
+    "last_heard": "2026-08-28T07:53:58.748121+00:00",
+    "snr": -19.75,
+    "hops_away": 1,
+    "short_name": "BLUE",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
   },
