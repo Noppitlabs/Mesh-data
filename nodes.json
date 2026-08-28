@@ -7935,5 +7935,15 @@
     "short_name": "f45d",
     "hw_model": "T_ECHO",
     "role": ""
+  },
+  "!043a7418": {
+    "id": "!043a7418",
+    "long_name": "Meshtastic 7418",
+    "last_heard": "2026-08-28T16:01:08.234786+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
+    "short_name": "7418",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
