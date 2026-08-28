@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-08-28T13:21:34.799868+00:00",
-    "snr": -11.0,
-    "hops_away": 2,
+    "last_heard": "2026-08-28T13:24:07.359457+00:00",
+    "snr": -16.75,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-08-28T13:20:52.217531+00:00",
+    "last_heard": "2026-08-28T13:22:55.768324+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -99,8 +99,8 @@
   "!133a8e1e": {
     "id": "!133a8e1e",
     "long_name": "Rich~M7FJD",
-    "last_heard": "2026-08-28T12:09:19.450220+00:00",
-    "snr": -13.25,
+    "last_heard": "2026-08-28T13:22:05.502853+00:00",
+    "snr": -12.5,
     "hops_away": 2,
     "short_name": "FJDt",
     "hw_model": "WISMESH_TAG",
@@ -456,8 +456,8 @@
   "!c6727d3e": {
     "id": "!c6727d3e",
     "long_name": "EX4 Base E@ 7d3e",
-    "last_heard": "2026-08-28T12:37:49.071434+00:00",
-    "snr": -8.5,
+    "last_heard": "2026-08-28T13:23:25.868403+00:00",
+    "snr": -13.25,
     "hops_away": 2,
     "short_name": "EX4E",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -546,9 +546,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-08-28T11:05:47.556652+00:00",
-    "snr": -14.25,
-    "hops_away": 3,
+    "last_heard": "2026-08-28T13:23:47.306567+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -7650,8 +7650,8 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-08-28T12:50:08.575187+00:00",
-    "snr": -15.25,
+    "last_heard": "2026-08-28T13:21:41.585409+00:00",
+    "snr": -13.25,
     "hops_away": 2,
     "short_name": "ca10",
     "hw_model": "HELTEC_V4",
