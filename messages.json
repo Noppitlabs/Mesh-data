@@ -1,5 +1,16 @@
 [
   {
+    "id": 2028017125,
+    "from": "!cfb37091",
+    "from_name": "RES1 Winkleigh Repeater \u2600\ufe0f",
+    "to": "^all",
+    "text": "Test please. Thank you.",
+    "timestamp": "2026-08-28T14:14:14.985616+00:00",
+    "channel": 0,
+    "snr": -14.0,
+    "hops": 2
+  },
+  {
     "id": 1120121290,
     "from": "!2bc4dbbe",
     "from_name": "Chris Blue G3CJL",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-26T21:21:54.568047+00:00",
     "channel": 0,
     "snr": -13.5,
-    "hops": 3
-  },
-  {
-    "id": 1274431018,
-    "from": "!cfb37091",
-    "from_name": "Resilience 1 Winkleigh \u2600\ufe0f ",
-    "to": "^all",
-    "text": "Test after firmware upgrade please",
-    "timestamp": "2026-08-26T21:20:54.190591+00:00",
-    "channel": 0,
-    "snr": -14.75,
     "hops": 3
   }
 ]
