@@ -1,5 +1,16 @@
 [
   {
+    "id": 3756191882,
+    "from": "!43b59df4",
+    "from_name": "2E0HYY Keith",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-08-28T12:14:17.178875+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 2
+  },
+  {
     "id": 583490992,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -18.0,
     "hops": 3
-  },
-  {
-    "id": 514383023,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "how is things? very slow here seems to be... is that because of holiday season :)",
-    "timestamp": "2026-08-26T09:05:10.506971+00:00",
-    "channel": 0,
-    "snr": -17.5,
-    "hops": 2
   }
 ]
