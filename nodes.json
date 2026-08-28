@@ -7928,5 +7928,15 @@
     "short_name": "19e8",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!7154f45d": {
+    "id": "!7154f45d",
+    "long_name": "Meshtastic f45d",
+    "last_heard": "2026-08-28T08:18:52.151331+00:00",
+    "snr": -14.5,
+    "hops_away": 2,
+    "short_name": "f45d",
+    "hw_model": "T_ECHO",
+    "role": ""
   }
 }
