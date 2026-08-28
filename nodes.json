@@ -7929,8 +7929,8 @@
   "!7154f45d": {
     "id": "!7154f45d",
     "long_name": "Meshtastic f45d",
-    "last_heard": "2026-08-28T08:43:09.919105+00:00",
-    "snr": -11.5,
+    "last_heard": "2026-08-28T11:43:04.994760+00:00",
+    "snr": -16.0,
     "hops_away": 2,
     "short_name": "f45d",
     "hw_model": "T_ECHO",
