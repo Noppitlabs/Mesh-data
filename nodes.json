@@ -7694,8 +7694,8 @@
   "!28b6b1ac": {
     "id": "!28b6b1ac",
     "long_name": "Meshtastic b1ac",
-    "last_heard": "2026-08-28T12:41:15.883376+00:00",
-    "snr": -14.75,
+    "last_heard": "2026-08-28T14:07:23.311792+00:00",
+    "snr": -13.25,
     "hops_away": 2,
     "short_name": "b1ac",
     "hw_model": "HELTEC_MESH_NODE_T114",
