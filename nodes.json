@@ -4166,9 +4166,9 @@
   "!394f2a16": {
     "id": "!394f2a16",
     "long_name": "M7XMV | Truro Solar",
-    "last_heard": "2026-08-28T01:12:33.321860+00:00",
-    "snr": -10.75,
-    "hops_away": 4,
+    "last_heard": "2026-08-28T01:30:35.908391+00:00",
+    "snr": -12.25,
+    "hops_away": 5,
     "short_name": "XMV2",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "CLIENT_BASE"
