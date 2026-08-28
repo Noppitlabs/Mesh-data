@@ -1,5 +1,16 @@
 [
   {
+    "id": 583490992,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Morning",
+    "timestamp": "2026-08-28T07:51:56.063911+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 2
+  },
+  {
     "id": 925846211,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-26T09:05:10.506971+00:00",
     "channel": 0,
     "snr": -17.5,
-    "hops": 2
-  },
-  {
-    "id": 576608799,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "good morning",
-    "timestamp": "2026-08-26T08:43:34.675969+00:00",
-    "channel": 0,
-    "snr": -12.25,
     "hops": 2
   }
 ]
