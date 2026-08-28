@@ -6281,9 +6281,9 @@
   "!043d3128": {
     "id": "!043d3128",
     "long_name": "Harrison 007",
-    "last_heard": "2026-07-15T10:58:33.002659+00:00",
-    "snr": -10.75,
-    "hops_away": 2,
+    "last_heard": "2026-08-28T08:29:49.224896+00:00",
+    "snr": -10.25,
+    "hops_away": 3,
     "short_name": "Lab",
     "hw_model": "HELTEC_V3",
     "role": ""
