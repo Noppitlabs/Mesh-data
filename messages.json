@@ -1,5 +1,16 @@
 [
   {
+    "id": 115459499,
+    "from": "!da56b4a0",
+    "from_name": "M0PCZ ",
+    "to": "^all",
+    "text": "You know where there is a 7 ele yagi..",
+    "timestamp": "2026-08-29T15:13:08.538138+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 3
+  },
+  {
     "id": 1844982269,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T09:05:13.208884+00:00",
     "channel": 0,
     "snr": -10.5,
-    "hops": 2
-  },
-  {
-    "id": 2668573461,
-    "from": "!48968602",
-    "from_name": "Meshtastic Elk",
-    "to": "^all",
-    "text": "Honestly! Seems like the card tracker game is representing hard!",
-    "timestamp": "2026-08-27T09:02:17.726663+00:00",
-    "channel": 0,
-    "snr": -12.25,
     "hops": 2
   }
 ]
