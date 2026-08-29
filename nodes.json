@@ -3819,9 +3819,9 @@
   "!9ea134a0": {
     "id": "!9ea134a0",
     "long_name": "MrBs portable mesh",
-    "last_heard": "2026-08-24T12:45:45.282811+00:00",
-    "snr": -11.0,
-    "hops_away": 5,
+    "last_heard": "2026-08-29T02:14:14.632056+00:00",
+    "snr": -7.25,
+    "hops_away": 6,
     "short_name": "Mr B",
     "hw_model": "HELTEC_V3",
     "role": ""
