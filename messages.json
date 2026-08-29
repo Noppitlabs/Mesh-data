@@ -1,5 +1,16 @@
 [
   {
+    "id": 715187537,
+    "from": "!9eed0e74",
+    "from_name": "Maia Base",
+    "to": "^all",
+    "text": "Automated test message",
+    "timestamp": "2026-08-29T22:22:25.948722+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 4
+  },
+  {
     "id": 633740622,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T09:07:51.098703+00:00",
     "channel": 0,
     "snr": -10.75,
-    "hops": 2
-  },
-  {
-    "id": 373700608,
-    "from": "!48968602",
-    "from_name": "Meshtastic Elk",
-    "to": "^all",
-    "text": "Oh that X1 looks neat",
-    "timestamp": "2026-08-27T09:07:06.980543+00:00",
-    "channel": 0,
-    "snr": -15.25,
     "hops": 2
   }
 ]
