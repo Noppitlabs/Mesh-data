@@ -5234,9 +5234,9 @@
   "!02e73714": {
     "id": "!02e73714",
     "long_name": "pleamore cross",
-    "last_heard": "2026-08-29T16:47:45.774305+00:00",
-    "snr": -19.5,
-    "hops_away": 3,
+    "last_heard": "2026-08-29T17:34:40.166618+00:00",
+    "snr": -10.75,
+    "hops_away": 2,
     "short_name": "ta21",
     "hw_model": "HELTEC_V3",
     "role": ""
