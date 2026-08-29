@@ -1,5 +1,16 @@
 [
   {
+    "id": 633740622,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-08-29T21:57:01.555450+00:00",
+    "channel": 0,
+    "snr": -16.25,
+    "hops": 3
+  },
+  {
     "id": 1012203063,
     "from": "!9eed0e74",
     "from_name": "Maia Base",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T09:07:06.980543+00:00",
     "channel": 0,
     "snr": -15.25,
-    "hops": 2
-  },
-  {
-    "id": 493322026,
-    "from": "!48968602",
-    "from_name": "Meshtastic Elk",
-    "to": "^all",
-    "text": "Exeter. Does my location  not pop up?",
-    "timestamp": "2026-08-27T09:05:52.256051+00:00",
-    "channel": 0,
-    "snr": -10.25,
     "hops": 2
   }
 ]
