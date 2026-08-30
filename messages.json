@@ -1,5 +1,16 @@
 [
   {
+    "id": 917867900,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Poking around in my base node\u2019s logs.. turns out the \u2018Ignore MQTT\u2019 option is internally called DontMqttMeBro \ud83d\ude06 ",
+    "timestamp": "2026-08-30T17:54:54.166157+00:00",
+    "channel": 0,
+    "snr": -8.25,
+    "hops": 3
+  },
+  {
     "id": 1423587579,
     "from": "!849c72a0",
     "from_name": "Meshtastic VeNT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.0,
     "hops": 4
-  },
-  {
-    "id": 3796374722,
-    "from": "!48968602",
-    "from_name": "Meshtastic Elk",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-08-27T09:16:58.688394+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 2
   }
 ]
