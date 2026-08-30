@@ -5251,9 +5251,9 @@
   "!5589d4e3": {
     "id": "!5589d4e3",
     "long_name": "N\u00d8M\u00c5D",
-    "last_heard": "2026-08-30T11:44:39.174841+00:00",
-    "snr": -9.5,
-    "hops_away": 2,
+    "last_heard": "2026-08-30T14:35:24.286450+00:00",
+    "snr": -7.5,
+    "hops_away": 3,
     "short_name": "NTU",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
