@@ -4958,9 +4958,9 @@
   "!2687afb1": {
     "id": "!2687afb1",
     "long_name": "TA26 OMNI",
-    "last_heard": "2026-08-30T22:07:34.162376+00:00",
-    "snr": -16.5,
-    "hops_away": 4,
+    "last_heard": "2026-08-30T23:34:05.955300+00:00",
+    "snr": -19.0,
+    "hops_away": 3,
     "short_name": "T2o9",
     "hw_model": "RAK4631",
     "role": "CLIENT_MUTE"
