@@ -1,5 +1,16 @@
 [
   {
+    "id": 1423587579,
+    "from": "!849c72a0",
+    "from_name": "Meshtastic VeNT",
+    "to": "^all",
+    "text": "We're too use to nice weather",
+    "timestamp": "2026-08-30T17:28:11.990905+00:00",
+    "channel": 0,
+    "snr": -10.5,
+    "hops": 7
+  },
+  {
     "id": 4204287717,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 2
-  },
-  {
-    "id": 133545384,
-    "from": "!49b3ca10",
-    "from_name": "Meshtastic ca10",
-    "to": "^all",
-    "text": "I used to work there back before 2004",
-    "timestamp": "2026-08-27T09:15:00.032806+00:00",
-    "channel": 0,
-    "snr": -11.25,
-    "hops": 1
   }
 ]
