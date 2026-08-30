@@ -6600,10 +6600,13 @@
   },
   "!0408d734": {
     "id": "!0408d734",
-    "long_name": "!0408d734",
-    "last_heard": "2026-08-29T11:56:03.841367+00:00",
-    "snr": -12.25,
-    "hops_away": 4
+    "long_name": "Robbo \ud83d\udc3b (G0FSD)",
+    "last_heard": "2026-08-30T17:05:24.317020+00:00",
+    "snr": -9.75,
+    "hops_away": 4,
+    "short_name": "PAR",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   },
   "!12b10f7c": {
     "id": "!12b10f7c",
