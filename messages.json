@@ -1,5 +1,16 @@
 [
   {
+    "id": 2544068154,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Very much so \ud83d\ude0a ",
+    "timestamp": "2026-08-31T09:14:39.825643+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 3
+  },
+  {
     "id": 3339815461,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T15:52:04.570295+00:00",
     "channel": 0,
     "snr": -14.25,
-    "hops": 2
-  },
-  {
-    "id": 1513913652,
-    "from": null,
-    "from_name": null,
-    "to": "^all",
-    "text": "I think I have a lot to learn ! Lol",
-    "timestamp": "2026-08-27T15:49:15.064659+00:00",
-    "channel": 0,
-    "snr": -12.75,
     "hops": 2
   }
 ]
