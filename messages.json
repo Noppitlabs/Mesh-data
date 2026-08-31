@@ -1,5 +1,16 @@
 [
   {
+    "id": 111874063,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "exeter is nice compared to london for example but its nothing like what it was 20 years ago when I came here :(",
+    "timestamp": "2026-08-31T09:17:10.795431+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 3
+  },
+  {
     "id": 17456328,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 3
-  },
-  {
-    "id": 1582123168,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Whos buying? \ud83d\ude05",
-    "timestamp": "2026-08-27T15:53:00.877108+00:00",
-    "channel": 0,
-    "snr": -11.0,
-    "hops": 2
   }
 ]
