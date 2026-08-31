@@ -7740,10 +7740,13 @@
   },
   "!ea965fc5": {
     "id": "!ea965fc5",
-    "long_name": "!ea965fc5",
-    "last_heard": "2026-08-31T15:12:23.095286+00:00",
-    "snr": -12.25,
-    "hops_away": 3
+    "long_name": "2E0XCC Base",
+    "last_heard": "2026-08-31T16:53:05.210198+00:00",
+    "snr": -15.25,
+    "hops_away": 3,
+    "short_name": "BASE",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": "CLIENT_BASE"
   },
   "!a00cbbb2": {
     "id": "!a00cbbb2",
