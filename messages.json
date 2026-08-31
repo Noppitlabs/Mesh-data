@@ -1,5 +1,16 @@
 [
   {
+    "id": 3339815461,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "And you?",
+    "timestamp": "2026-08-31T09:06:49.057042+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 3
+  },
+  {
     "id": 1423334662,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T15:49:15.064659+00:00",
     "channel": 0,
     "snr": -12.75,
-    "hops": 2
-  },
-  {
-    "id": 1486467334,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Received in Pinhoe",
-    "timestamp": "2026-08-27T15:48:16.145743+00:00",
-    "channel": 0,
-    "snr": -9.5,
     "hops": 2
   }
 ]
