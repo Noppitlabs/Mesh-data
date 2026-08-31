@@ -1,5 +1,16 @@
 [
   {
+    "id": 1769030279,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Is the mc network more reliable?",
+    "timestamp": "2026-08-31T11:33:53.139258+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 3
+  },
+  {
     "id": 4188254530,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 3
-  },
-  {
-    "id": 77959958,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Was thinking the 'spoons in Exeter. A bit more central for folk maybe",
-    "timestamp": "2026-08-27T16:09:41.841902+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 2
   }
 ]
