@@ -5058,13 +5058,10 @@
   },
   "!b03bc558": {
     "id": "!b03bc558",
-    "long_name": "Simcom WT1",
-    "last_heard": "2026-06-21T13:03:34.797043+00:00",
-    "snr": -13.25,
-    "hops_away": 6,
-    "short_name": "SCW1",
-    "hw_model": "HELTEC_V3",
-    "role": ""
+    "long_name": "!b03bc558",
+    "last_heard": "2026-08-31T10:52:05.187698+00:00",
+    "snr": -10.5,
+    "hops_away": 4
   },
   "!9e75c320": {
     "id": "!9e75c320",
