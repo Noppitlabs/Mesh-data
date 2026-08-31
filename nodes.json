@@ -4455,10 +4455,13 @@
   },
   "!bdf0d2a8": {
     "id": "!bdf0d2a8",
-    "long_name": "!bdf0d2a8",
-    "last_heard": "2026-08-30T14:50:15.861054+00:00",
-    "snr": -10.5,
-    "hops_away": 4
+    "long_name": "Robotriks d2a8",
+    "last_heard": "2026-08-31T23:38:40.769540+00:00",
+    "snr": -18.25,
+    "hops_away": 6,
+    "short_name": "d2a8",
+    "hw_model": "TBEAM",
+    "role": ""
   },
   "!02ee84f8": {
     "id": "!02ee84f8",
