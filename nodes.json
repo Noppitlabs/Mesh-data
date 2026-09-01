@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-01T16:34:03.849629+00:00",
+    "last_heard": "2026-09-01T16:35:03.892522+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -1654,9 +1654,9 @@
   "!75e05160": {
     "id": "!75e05160",
     "long_name": "PotaJoe1",
-    "last_heard": "2026-09-01T15:35:03.849080+00:00",
-    "snr": -10.0,
-    "hops_away": 4,
+    "last_heard": "2026-09-01T16:35:12.320756+00:00",
+    "snr": -9.25,
+    "hops_away": 5,
     "short_name": "PJ1",
     "hw_model": "TLORA_T3_S3",
     "role": ""
