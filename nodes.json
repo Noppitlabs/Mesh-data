@@ -5261,9 +5261,9 @@
   "!048eb0e0": {
     "id": "!048eb0e0",
     "long_name": "A-NET Mobile",
-    "last_heard": "2026-09-01T19:00:26.111764+00:00",
-    "snr": -7.5,
-    "hops_away": 2,
+    "last_heard": "2026-09-01T19:05:52.847350+00:00",
+    "snr": -13.5,
+    "hops_away": 4,
     "short_name": "A-NM",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
