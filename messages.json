@@ -1,5 +1,16 @@
 [
   {
+    "id": 4191642691,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "I\u2019m trying out the new 2.8 firmware so the ID is now based on the public key rather than the hardware mac address",
+    "timestamp": "2026-09-01T20:10:41.425328+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 3
+  },
+  {
     "id": 1116210066,
     "from": "!98477427",
     "from_name": "Maia Base",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T16:33:46.395897+00:00",
     "channel": 0,
     "snr": -5.5,
-    "hops": 2
-  },
-  {
-    "id": 1308673558,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "That naked bungee jumping is time consuming huh. I had to give that up too.",
-    "timestamp": "2026-08-27T16:33:08.160215+00:00",
-    "channel": 0,
-    "snr": -5.25,
     "hops": 2
   }
 ]
