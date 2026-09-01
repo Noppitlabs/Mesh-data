@@ -546,9 +546,9 @@
   "!da56f7a0": {
     "id": "!da56f7a0",
     "long_name": "Tether's End",
-    "last_heard": "2026-09-01T18:40:11.544811+00:00",
-    "snr": -7.5,
-    "hops_away": 4,
+    "last_heard": "2026-09-01T18:55:13.710099+00:00",
+    "snr": -10.0,
+    "hops_away": 5,
     "short_name": "SR#9",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -4547,8 +4547,8 @@
   "!07339f2b": {
     "id": "!07339f2b",
     "long_name": "Maia mobile",
-    "last_heard": "2026-09-01T18:33:42.239619+00:00",
-    "snr": -8.25,
+    "last_heard": "2026-09-01T18:55:26.599399+00:00",
+    "snr": -8.75,
     "hops_away": 3,
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
