@@ -2029,8 +2029,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-09-01T13:50:08.097785+00:00",
-    "snr": -9.0,
+    "last_heard": "2026-09-01T14:05:04.606268+00:00",
+    "snr": -14.5,
     "hops_away": 2,
     "short_name": "exw1",
     "hw_model": "RAK4631",
@@ -4547,8 +4547,8 @@
   "!07339f2b": {
     "id": "!07339f2b",
     "long_name": "Maia mobile",
-    "last_heard": "2026-09-01T13:51:05.148041+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-09-01T14:05:14.195577+00:00",
+    "snr": -9.25,
     "hops_away": 3,
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
