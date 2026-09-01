@@ -1,5 +1,16 @@
 [
   {
+    "id": 1116210066,
+    "from": "!98477427",
+    "from_name": "Maia Base",
+    "to": "^all",
+    "text": "Hello all, please know that this is the new Maia Base node",
+    "timestamp": "2026-09-01T20:07:50.140904+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 2
+  },
+  {
     "id": 1090760029,
     "from": "!1969b119",
     "from_name": "PlymSteve",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-27T16:33:08.160215+00:00",
     "channel": 0,
     "snr": -5.25,
-    "hops": 2
-  },
-  {
-    "id": 828290426,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Maybe we just pick a date for end of September (before students return?), spread the word & see who rocks up?",
-    "timestamp": "2026-08-27T16:31:44.330343+00:00",
-    "channel": 0,
-    "snr": -4.25,
     "hops": 2
   }
 ]
