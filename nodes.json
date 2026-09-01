@@ -369,9 +369,9 @@
   "!798e872d": {
     "id": "!798e872d",
     "long_name": "Exmouth~East",
-    "last_heard": "2026-09-01T11:47:55.035162+00:00",
-    "snr": -14.0,
-    "hops_away": 1,
+    "last_heard": "2026-09-01T21:30:12.774257+00:00",
+    "snr": -17.25,
+    "hops_away": 2,
     "short_name": "R1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
