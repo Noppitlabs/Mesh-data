@@ -1,5 +1,16 @@
 [
   {
+    "id": 2048773557,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "I think it just needs to advertise its public key (even though it\u2019s technically the same)",
+    "timestamp": "2026-09-01T20:17:53.840410+00:00",
+    "channel": 0,
+    "snr": -14.75,
+    "hops": 3
+  },
+  {
     "id": 4191642691,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 1
-  },
-  {
-    "id": 4055465075,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-08-27T16:33:46.395897+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 2
   }
 ]
