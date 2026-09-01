@@ -1,5 +1,16 @@
 [
   {
+    "id": 3346608705,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "It\u2019s in alpha at the moment",
+    "timestamp": "2026-09-01T21:04:37.761450+00:00",
+    "channel": 0,
+    "snr": -18.5,
+    "hops": 3
+  },
+  {
     "id": 2181117853,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-28T12:14:17.178875+00:00",
     "channel": 0,
     "snr": -12.75,
-    "hops": 2
-  },
-  {
-    "id": 583490992,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Morning",
-    "timestamp": "2026-08-28T07:51:56.063911+00:00",
-    "channel": 0,
-    "snr": -15.25,
     "hops": 2
   }
 ]
