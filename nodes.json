@@ -6704,9 +6704,9 @@
   "!0414aa14": {
     "id": "!0414aa14",
     "long_name": "M0PCZ/p",
-    "last_heard": "2026-09-01T08:08:25.771252+00:00",
-    "snr": -8.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-01T08:14:38.643845+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "PCZP",
     "hw_model": "THINKNODE_M1",
     "role": "CLIENT_MUTE"
