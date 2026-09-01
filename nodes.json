@@ -7972,5 +7972,15 @@
     "last_heard": "2026-08-31T12:47:24.242915+00:00",
     "snr": -7.75,
     "hops_away": 4
+  },
+  "!8fcd5434": {
+    "id": "!8fcd5434",
+    "long_name": "Meshtastic 5434 - M1VPN",
+    "last_heard": "2026-09-01T10:11:24.602822+00:00",
+    "snr": -14.25,
+    "hops_away": 2,
+    "short_name": "5434",
+    "hw_model": "T_DECK",
+    "role": ""
   }
 }
