@@ -1,5 +1,16 @@
 [
   {
+    "id": 2181117853,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "I\u2019m wondering because I\u2019m using the same keys but the node ID is different",
+    "timestamp": "2026-09-01T20:34:20.780299+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 3
+  },
+  {
     "id": 4278877438,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-28T07:51:56.063911+00:00",
     "channel": 0,
     "snr": -15.25,
-    "hops": 2
-  },
-  {
-    "id": 925846211,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "good morning",
-    "timestamp": "2026-08-28T07:51:08.604201+00:00",
-    "channel": 0,
-    "snr": -14.75,
     "hops": 2
   }
 ]
