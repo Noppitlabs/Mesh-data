@@ -7985,5 +7985,15 @@
     "short_name": "5434",
     "hw_model": "T_DECK",
     "role": ""
+  },
+  "!98477427": {
+    "id": "!98477427",
+    "long_name": "Maia Base",
+    "last_heard": "2026-09-01T20:07:47.989098+00:00",
+    "snr": -15.25,
+    "hops_away": 2,
+    "short_name": "Maia",
+    "hw_model": "HELTEC_V3",
+    "role": "CLIENT_BASE"
   }
 }
