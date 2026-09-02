@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-09-02T08:14:44.879533+00:00",
-    "snr": -11.75,
-    "hops_away": 3,
+    "last_heard": "2026-09-02T08:29:45.475702+00:00",
+    "snr": -12.25,
+    "hops_away": 2,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -616,9 +616,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-09-02T08:22:14.901319+00:00",
+    "last_heard": "2026-09-02T08:29:56.828477+00:00",
     "snr": -11.75,
-    "hops_away": 2,
+    "hops_away": 4,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
