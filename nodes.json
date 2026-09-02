@@ -2802,9 +2802,9 @@
   "!e010afc8": {
     "id": "!e010afc8",
     "long_name": "Meshtastic~afc8",
-    "last_heard": "2026-09-02T14:57:55.088435+00:00",
-    "snr": -13.0,
-    "hops_away": 2,
+    "last_heard": "2026-09-02T14:58:27.861613+00:00",
+    "snr": -11.25,
+    "hops_away": 1,
     "short_name": "afc8",
     "hw_model": "CROWPANEL",
     "role": ""
