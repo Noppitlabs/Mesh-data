@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-09-02T08:25:19.863194+00:00",
-    "snr": -17.5,
+    "last_heard": "2026-09-02T08:52:46.402958+00:00",
+    "snr": -14.5,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
@@ -2187,8 +2187,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-09-02T08:21:47.898358+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-09-02T08:52:53.231135+00:00",
+    "snr": -14.25,
     "hops_away": 2,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
