@@ -616,9 +616,9 @@
   "!d45b928c": {
     "id": "!d45b928c",
     "long_name": "Seeedpod",
-    "last_heard": "2026-09-02T12:17:15.484224+00:00",
-    "snr": -11.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-02T13:01:03.667121+00:00",
+    "snr": -16.0,
+    "hops_away": 5,
     "short_name": "Spod",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_BASE"
@@ -2752,8 +2752,8 @@
   "!da56dd40": {
     "id": "!da56dd40",
     "long_name": "SC Home Base",
-    "last_heard": "2026-08-29T03:34:11.675131+00:00",
-    "snr": -6.0,
+    "last_heard": "2026-09-02T13:00:57.644847+00:00",
+    "snr": -13.25,
     "hops_away": 3,
     "short_name": "SCHm",
     "hw_model": "HELTEC_V3",
