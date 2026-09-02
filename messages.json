@@ -1,5 +1,16 @@
 [
   {
+    "id": 1085047752,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Test",
+    "timestamp": "2026-09-02T14:52:57.809718+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 3
+  },
+  {
     "id": 3694406291,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 3
-  },
-  {
-    "id": 2028017125,
-    "from": "!cfb37091",
-    "from_name": "RES1 Winkleigh Repeater \u2600\ufe0f",
-    "to": "^all",
-    "text": "Test please. Thank you.",
-    "timestamp": "2026-08-28T14:14:14.985616+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 2
   }
 ]
