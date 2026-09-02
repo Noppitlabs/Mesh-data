@@ -19,7 +19,7 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-09-02T05:00:56.641379+00:00",
+    "last_heard": "2026-09-02T05:01:27.218351+00:00",
     "snr": -18.0,
     "hops_away": 3,
     "short_name": "GZG",
@@ -7473,9 +7473,9 @@
   "!cfed5f57": {
     "id": "!cfed5f57",
     "long_name": "Https://torbayars.org",
-    "last_heard": "2026-08-31T00:58:44.344698+00:00",
-    "snr": -15.0,
-    "hops_away": 6,
+    "last_heard": "2026-09-02T05:00:59.606343+00:00",
+    "snr": -18.25,
+    "hops_away": 5,
     "short_name": "TARS",
     "hw_model": "RAK4631",
     "role": ""
