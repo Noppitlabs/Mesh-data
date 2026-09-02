@@ -516,9 +516,9 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-09-02T08:55:56.968196+00:00",
-    "snr": -14.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-02T11:55:53.885105+00:00",
+    "snr": -11.25,
+    "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
     "role": ""
@@ -966,8 +966,8 @@
   "!43b70dc8": {
     "id": "!43b70dc8",
     "long_name": "Edmund's Hill",
-    "last_heard": "2026-09-02T11:32:13.381905+00:00",
-    "snr": -13.5,
+    "last_heard": "2026-09-02T11:56:32.722033+00:00",
+    "snr": -10.25,
     "hops_away": 3,
     "short_name": "EH",
     "hw_model": "HELTEC_WSL_V3",
