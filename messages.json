@@ -1,5 +1,16 @@
 [
   {
+    "id": 2562089563,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Unsure if I\u2019ve said this before but I think we should have a go at switching presets sometime to see if there are performance gains",
+    "timestamp": "2026-09-02T22:06:09.399147+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 3
+  },
+  {
     "id": 3786792991,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.75,
     "hops": 2
-  },
-  {
-    "id": 917867900,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Poking around in my base node\u2019s logs.. turns out the \u2018Ignore MQTT\u2019 option is internally called DontMqttMeBro \ud83d\ude06 ",
-    "timestamp": "2026-08-30T17:54:54.166157+00:00",
-    "channel": 0,
-    "snr": -8.25,
-    "hops": 3
   }
 ]
