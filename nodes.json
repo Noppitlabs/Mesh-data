@@ -7995,5 +7995,12 @@
     "short_name": "Maia",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
+  },
+  "!16cd4a04": {
+    "id": "!16cd4a04",
+    "long_name": "!16cd4a04",
+    "last_heard": "2026-09-02T09:59:32.015948+00:00",
+    "snr": -17.25,
+    "hops_away": 5
   }
 }
