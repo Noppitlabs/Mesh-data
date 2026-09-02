@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-02T14:12:57.646790+00:00",
+    "last_heard": "2026-09-02T14:13:00.070154+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -6707,8 +6707,8 @@
   "!0414aa14": {
     "id": "!0414aa14",
     "long_name": "M0PCZ/p",
-    "last_heard": "2026-09-02T13:51:42.279975+00:00",
-    "snr": -16.5,
+    "last_heard": "2026-09-02T14:13:02.677315+00:00",
+    "snr": -18.75,
     "hops_away": 4,
     "short_name": "PCZP",
     "hw_model": "THINKNODE_M1",
