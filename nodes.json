@@ -8002,5 +8002,15 @@
     "last_heard": "2026-09-02T10:01:31.850815+00:00",
     "snr": -13.75,
     "hops_away": 2
+  },
+  "!85c6ecb7": {
+    "id": "!85c6ecb7",
+    "long_name": "Meshtastic ecb7",
+    "last_heard": "2026-09-02T10:44:24.197512+00:00",
+    "snr": -15.25,
+    "hops_away": 4,
+    "short_name": "T2y9",
+    "hw_model": "RAK4631",
+    "role": ""
   }
 }
