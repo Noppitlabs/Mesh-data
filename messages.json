@@ -1,5 +1,16 @@
 [
   {
+    "id": 1102734094,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Unsure if I\u2019ve said this before but I think we should have a go at switching presets sometime to see if there are performance gains",
+    "timestamp": "2026-09-03T13:59:46.172376+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 4
+  },
+  {
     "id": 2172006559,
     "from": "!0414aa14",
     "from_name": "M0PCZ/p",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-31T09:17:56.606661+00:00",
     "channel": 0,
     "snr": -17.25,
-    "hops": 3
-  },
-  {
-    "id": 79701940,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Where\u2019s it moving to?",
-    "timestamp": "2026-08-31T09:17:39.403653+00:00",
-    "channel": 0,
-    "snr": -11.75,
     "hops": 3
   }
 ]
