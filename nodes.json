@@ -1798,9 +1798,9 @@
   "!69822bd4": {
     "id": "!69822bd4",
     "long_name": "RC_BASE",
-    "last_heard": "2026-09-03T03:49:27.802220+00:00",
-    "snr": -12.25,
-    "hops_away": 3,
+    "last_heard": "2026-09-03T12:31:31.752669+00:00",
+    "snr": -3.0,
+    "hops_away": 2,
     "short_name": "RC00",
     "hw_model": "HELTEC_V4",
     "role": "CLIENT_BASE"
