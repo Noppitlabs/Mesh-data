@@ -1,5 +1,16 @@
 [
   {
+    "id": 1854702557,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "\ud83d\udc4b",
+    "timestamp": "2026-09-03T21:06:52.230004+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 4
+  },
+  {
     "id": 163302856,
     "from": "!b2a78f18",
     "from_name": "timttmy-V4",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-31T11:27:46.527152+00:00",
     "channel": 0,
     "snr": -10.75,
-    "hops": 3
-  },
-  {
-    "id": 4239498487,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Unfortunately a lot of people dont, when i was analysing my radio\u2019s logs i was seeing position/telemetry packets every couple seconds",
-    "timestamp": "2026-08-31T11:22:17.423616+00:00",
-    "channel": 0,
-    "snr": -12.5,
     "hops": 3
   }
 ]
