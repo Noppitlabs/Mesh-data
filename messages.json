@@ -1,5 +1,16 @@
 [
   {
+    "id": 4197644725,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "That\u2019s what some other meshes decided to do after switching and apparently it works quite well to help new users",
+    "timestamp": "2026-09-03T14:13:35.509342+00:00",
+    "channel": 0,
+    "snr": -10.75,
+    "hops": 3
+  },
+  {
     "id": 1102734094,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.5,
     "hops": 2
-  },
-  {
-    "id": 1292862926,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "\ud83d\ude22",
-    "timestamp": "2026-08-31T09:17:56.606661+00:00",
-    "channel": 0,
-    "snr": -17.25,
-    "hops": 3
   }
 ]
