@@ -1,5 +1,16 @@
 [
   {
+    "id": 3413508021,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "https://meshtastic.org/blog/why-your-mesh-should-switch-from-longfast/ this is a good read with real world examples",
+    "timestamp": "2026-09-03T14:17:27.515016+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 3
+  },
+  {
     "id": 4197644725,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 4
-  },
-  {
-    "id": 422191272,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "downhill unfortunately",
-    "timestamp": "2026-08-31T09:18:04.785639+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 2
   }
 ]
