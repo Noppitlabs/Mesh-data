@@ -8025,5 +8025,15 @@
     "short_name": "afc8",
     "hw_model": "CROWPANEL",
     "role": ""
+  },
+  "!d4a896a0": {
+    "id": "!d4a896a0",
+    "long_name": "ESP32S3",
+    "last_heard": "2026-09-03T13:34:17.767900+00:00",
+    "snr": -10.0,
+    "hops_away": 5,
+    "short_name": "96a0",
+    "hw_model": "PRIVATE_HW",
+    "role": ""
   }
 }
