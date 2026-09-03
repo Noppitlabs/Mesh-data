@@ -8029,9 +8029,9 @@
   "!d4a896a0": {
     "id": "!d4a896a0",
     "long_name": "ESP32S3",
-    "last_heard": "2026-09-03T20:37:22.030252+00:00",
-    "snr": -7.25,
-    "hops_away": 6,
+    "last_heard": "2026-09-03T21:03:32.146239+00:00",
+    "snr": -11.5,
+    "hops_away": 5,
     "short_name": "96a0",
     "hw_model": "PRIVATE_HW",
     "role": ""
