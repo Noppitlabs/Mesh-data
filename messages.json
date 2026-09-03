@@ -1,5 +1,16 @@
 [
   {
+    "id": 1337442671,
+    "from": "!9ea1b288",
+    "from_name": "SwallowsNest - Adam Cullompton",
+    "to": "^all",
+    "text": "Rx in Cullompton 3 hops",
+    "timestamp": "2026-09-03T11:26:43.468505+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 2
+  },
+  {
     "id": 1061074873,
     "from": "!0414aa14",
     "from_name": "M0PCZ/p",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-31T09:14:39.825643+00:00",
     "channel": 0,
     "snr": -9.75,
-    "hops": 3
-  },
-  {
-    "id": 3339815461,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "And you?",
-    "timestamp": "2026-08-31T09:06:49.057042+00:00",
-    "channel": 0,
-    "snr": -10.25,
     "hops": 3
   }
 ]
