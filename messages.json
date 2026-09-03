@@ -1,5 +1,16 @@
 [
   {
+    "id": 163302856,
+    "from": "!b2a78f18",
+    "from_name": "timttmy-V4",
+    "to": "^all",
+    "text": "Test message for George",
+    "timestamp": "2026-09-03T15:16:55.616955+00:00",
+    "channel": 0,
+    "snr": -7.25,
+    "hops": 5
+  },
+  {
     "id": 2923408238,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 3
-  },
-  {
-    "id": 1775597140,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Starting 2.8, telemetry and position will be disabled by default. Curious to see if the lack of all that noise will help message reliability :)",
-    "timestamp": "2026-08-31T11:15:33.584455+00:00",
-    "channel": 0,
-    "snr": -18.25,
-    "hops": 4
   }
 ]
