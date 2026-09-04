@@ -8078,5 +8078,15 @@
     "short_name": "R2",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!09c1761f": {
+    "id": "!09c1761f",
+    "long_name": "Mobile Client Base",
+    "last_heard": "2026-09-04T14:20:36.585249+00:00",
+    "snr": -16.0,
+    "hops_away": 1,
+    "short_name": "R2",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_BASE"
   }
 }
