@@ -1,5 +1,16 @@
 [
   {
+    "id": 1002252934,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "to be reset on Routers etc",
+    "timestamp": "2026-09-04T07:18:51.862853+00:00",
+    "channel": 0,
+    "snr": -10.5,
+    "hops": 2
+  },
+  {
     "id": 77775544,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-31T11:32:31.426519+00:00",
     "channel": 0,
     "snr": -10.25,
-    "hops": 3
-  },
-  {
-    "id": 2434126971,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "If you visit https://maia395.dev/meshtastic and say something it should appear there",
-    "timestamp": "2026-08-31T11:28:04.772005+00:00",
-    "channel": 0,
-    "snr": -11.5,
     "hops": 3
   }
 ]
