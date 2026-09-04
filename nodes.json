@@ -6440,9 +6440,9 @@
   "!a2e77980": {
     "id": "!a2e77980",
     "long_name": "Dave lilygo 7980",
-    "last_heard": "2026-09-04T23:03:08.583909+00:00",
-    "snr": -17.5,
-    "hops_away": 6,
+    "last_heard": "2026-09-04T23:13:33.491952+00:00",
+    "snr": -17.75,
+    "hops_away": 5,
     "short_name": "7980",
     "hw_model": "T_DECK",
     "role": ""
