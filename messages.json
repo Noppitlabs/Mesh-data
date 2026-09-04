@@ -1,5 +1,16 @@
 [
   {
+    "id": 896320201,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Has anyone had luck with meshcore in Exeter?",
+    "timestamp": "2026-09-04T21:14:56.054065+00:00",
+    "channel": 0,
+    "snr": -7.75,
+    "hops": 3
+  },
+  {
     "id": 2693243637,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.5,
     "hops": 2
-  },
-  {
-    "id": 2003877179,
-    "from": "!19bd4e78",
-    "from_name": "Meshtastic~afc8",
-    "to": "^all",
-    "text": "for testing",
-    "timestamp": "2026-09-02T16:20:42.922580+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 1
   }
 ]
