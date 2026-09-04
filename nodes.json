@@ -6413,9 +6413,9 @@
   "!2bc4dbbe": {
     "id": "!2bc4dbbe",
     "long_name": "Chris Blue G3CJL",
-    "last_heard": "2026-09-04T14:50:05.280871+00:00",
-    "snr": -9.0,
-    "hops_away": 2,
+    "last_heard": "2026-09-04T15:50:00.340495+00:00",
+    "snr": -13.5,
+    "hops_away": 1,
     "short_name": "BLUE",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
