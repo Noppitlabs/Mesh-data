@@ -1,5 +1,16 @@
 [
   {
+    "id": 31202385,
+    "from": "!e5446b7b",
+    "from_name": "Meshtastic 6b7b",
+    "to": "^all",
+    "text": "New node test please.. ",
+    "timestamp": "2026-09-04T11:00:59.014562+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 2
+  },
+  {
     "id": 1190747543,
     "from": "!4cacf57e",
     "from_name": "Chris Orange G3CJL",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.25,
     "hops": 4
-  },
-  {
-    "id": 1769030279,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Is the mc network more reliable?",
-    "timestamp": "2026-08-31T11:33:53.139258+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 3
   }
 ]
