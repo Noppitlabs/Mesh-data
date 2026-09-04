@@ -1171,9 +1171,9 @@
   "!da5ec92c": {
     "id": "!da5ec92c",
     "long_name": "Meshtastic c92c",
-    "last_heard": "2026-09-03T23:37:29.293392+00:00",
-    "snr": -18.25,
-    "hops_away": 4,
+    "last_heard": "2026-09-04T00:37:33.626906+00:00",
+    "snr": -8.5,
+    "hops_away": 3,
     "short_name": "c92c",
     "hw_model": "HELTEC_V3",
     "role": ""
