@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-04T06:37:42.685057+00:00",
+    "last_heard": "2026-09-04T06:38:44.549472+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -6710,9 +6710,9 @@
   "!0414aa14": {
     "id": "!0414aa14",
     "long_name": "M0PCZ/p",
-    "last_heard": "2026-09-04T06:19:15.496534+00:00",
-    "snr": -7.25,
-    "hops_away": 1,
+    "last_heard": "2026-09-04T06:38:51.380970+00:00",
+    "snr": -6.25,
+    "hops_away": 2,
     "short_name": "PCZP",
     "hw_model": "THINKNODE_M1",
     "role": "CLIENT_MUTE"
