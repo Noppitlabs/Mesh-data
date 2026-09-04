@@ -4904,9 +4904,9 @@
   "!da5af428": {
     "id": "!da5af428",
     "long_name": "B12PAC car",
-    "last_heard": "2026-08-30T14:02:16.563906+00:00",
-    "snr": -20.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-04T01:03:21.560051+00:00",
+    "snr": -11.5,
+    "hops_away": 4,
     "short_name": "T2m1",
     "hw_model": "TLORA_T3_S3",
     "role": ""
