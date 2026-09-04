@@ -7659,9 +7659,9 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-09-04T21:38:28.754462+00:00",
-    "snr": -9.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-04T22:38:24.040343+00:00",
+    "snr": -17.75,
+    "hops_away": 1,
     "short_name": "ca10",
     "hw_model": "HELTEC_V4",
     "role": ""
