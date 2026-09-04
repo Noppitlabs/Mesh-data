@@ -1,5 +1,16 @@
 [
   {
+    "id": 1567280067,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Greetings.",
+    "timestamp": "2026-09-04T18:42:45.107967+00:00",
+    "channel": 0,
+    "snr": -7.25,
+    "hops": 3
+  },
+  {
     "id": 431501139,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.75,
     "hops": 3
-  },
-  {
-    "id": 3694406291,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Shhhh \ud83e\udd72",
-    "timestamp": "2026-09-02T11:21:54.903485+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 2
   }
 ]
