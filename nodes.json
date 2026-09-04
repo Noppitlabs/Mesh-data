@@ -219,9 +219,9 @@
   "!9b9bd3e3": {
     "id": "!9b9bd3e3",
     "long_name": "T1000-e E@ d3e3",
-    "last_heard": "2026-09-04T19:04:40.563343+00:00",
-    "snr": -11.75,
-    "hops_away": 4,
+    "last_heard": "2026-09-04T19:10:11.949418+00:00",
+    "snr": -6.0,
+    "hops_away": 3,
     "short_name": "TTag",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
@@ -2190,9 +2190,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-09-04T18:48:53.380194+00:00",
-    "snr": -5.75,
-    "hops_away": 5,
+    "last_heard": "2026-09-04T19:10:05.436901+00:00",
+    "snr": -4.25,
+    "hops_away": 2,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
