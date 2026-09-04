@@ -1,5 +1,16 @@
 [
   {
+    "id": 3846477212,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-09-04T11:40:19.951973+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 1
+  },
+  {
     "id": 45662004,
     "from": "!0414aa14",
     "from_name": "M0PCZ/p",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-02T11:19:22.163703+00:00",
     "channel": 0,
     "snr": -12.75,
-    "hops": 3
-  },
-  {
-    "id": 3346608705,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "It\u2019s in alpha at the moment",
-    "timestamp": "2026-09-01T21:04:37.761450+00:00",
-    "channel": 0,
-    "snr": -18.5,
     "hops": 3
   }
 ]
