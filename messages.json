@@ -1,5 +1,16 @@
 [
   {
+    "id": 1493088459,
+    "from": "!0414aa14",
+    "from_name": "M0PCZ/p",
+    "to": "^all",
+    "text": "Test Exeter Rd, opposite the Co-op, Exmouth",
+    "timestamp": "2026-09-04T11:37:04.972325+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 1
+  },
+  {
     "id": 1242666497,
     "from": "!0414aa14",
     "from_name": "M0PCZ/p",
@@ -534,17 +545,6 @@
     "to": "^all",
     "text": "Theres a button called \u201cexchange user info\"",
     "timestamp": "2026-09-01T20:25:38.440383+00:00",
-    "channel": 0,
-    "snr": -14.75,
-    "hops": 3
-  },
-  {
-    "id": 2048773557,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "I think it just needs to advertise its public key (even though it\u2019s technically the same)",
-    "timestamp": "2026-09-01T20:17:53.840410+00:00",
     "channel": 0,
     "snr": -14.75,
     "hops": 3
