@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-04T02:57:33.386793+00:00",
+    "last_heard": "2026-09-04T02:58:33.404983+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -8032,8 +8032,8 @@
   "!d4a896a0": {
     "id": "!d4a896a0",
     "long_name": "ESP32S3",
-    "last_heard": "2026-09-04T00:36:37.848425+00:00",
-    "snr": -11.25,
+    "last_heard": "2026-09-04T02:58:17.850981+00:00",
+    "snr": -13.5,
     "hops_away": 5,
     "short_name": "96a0",
     "hw_model": "PRIVATE_HW",
