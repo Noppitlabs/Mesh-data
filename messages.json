@@ -1,5 +1,16 @@
 [
   {
+    "id": 177465977,
+    "from": "!07339f2b",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Seen in Exeter",
+    "timestamp": "2026-09-04T11:01:28.443290+00:00",
+    "channel": 0,
+    "snr": -7.25,
+    "hops": 3
+  },
+  {
     "id": 31202385,
     "from": "!e5446b7b",
     "from_name": "Meshtastic 6b7b",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-01T08:05:27.513760+00:00",
     "channel": 0,
     "snr": -9.25,
-    "hops": 4
-  },
-  {
-    "id": 2959861158,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Gotcha",
-    "timestamp": "2026-08-31T11:50:34.932470+00:00",
-    "channel": 0,
-    "snr": -14.25,
     "hops": 4
   }
 ]
