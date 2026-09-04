@@ -8038,5 +8038,15 @@
     "short_name": "96a0",
     "hw_model": "PRIVATE_HW",
     "role": ""
+  },
+  "!c489455d": {
+    "id": "!c489455d",
+    "long_name": "Mark~G6OMT",
+    "last_heard": "2026-09-04T07:17:46.479714+00:00",
+    "snr": -10.0,
+    "hops_away": 1,
+    "short_name": "OMT",
+    "hw_model": "TRACKER_T1000_E",
+    "role": "CLIENT_MUTE"
   }
 }
