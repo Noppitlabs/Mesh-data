@@ -1,5 +1,16 @@
 [
   {
+    "id": 77775544,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Just noticed that other Nodes lost OMT as a favourite so has",
+    "timestamp": "2026-09-04T07:17:48.850374+00:00",
+    "channel": 0,
+    "snr": -10.0,
+    "hops": 1
+  },
+  {
     "id": 1854702557,
     "from": "!07339f2b",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-08-31T11:28:04.772005+00:00",
     "channel": 0,
     "snr": -11.5,
-    "hops": 3
-  },
-  {
-    "id": 278927179,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Speaking of analysing my logs, messages seen by my node are now automatically uploaded to my website",
-    "timestamp": "2026-08-31T11:27:46.527152+00:00",
-    "channel": 0,
-    "snr": -10.75,
     "hops": 3
   }
 ]
