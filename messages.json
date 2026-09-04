@@ -1,5 +1,16 @@
 [
   {
+    "id": 146289365,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "I have updated R1 Exmouth East this morning to v2.8.0",
+    "timestamp": "2026-09-04T11:04:07.926983+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 1
+  },
+  {
     "id": 2033113519,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 3
-  },
-  {
-    "id": 256992797,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "morning",
-    "timestamp": "2026-09-01T08:05:41.206779+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 2
   }
 ]
