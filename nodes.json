@@ -925,13 +925,13 @@
   },
   "!4eb5cccc": {
     "id": "!4eb5cccc",
-    "long_name": "Mobile~Base",
-    "last_heard": "2026-09-04T13:43:19.640697+00:00",
-    "snr": -18.75,
+    "long_name": "Meshtastic cccc",
+    "last_heard": "2026-09-04T15:17:29.677279+00:00",
+    "snr": -15.0,
     "hops_away": 1,
-    "short_name": "R2",
+    "short_name": "cccc",
     "hw_model": "RAK4631",
-    "role": "CLIENT_BASE"
+    "role": ""
   },
   "!5ccaa577": {
     "id": "!5ccaa577",
