@@ -926,9 +926,9 @@
   "!4eb5cccc": {
     "id": "!4eb5cccc",
     "long_name": "Meshtastic cccc",
-    "last_heard": "2026-09-04T15:41:07.922363+00:00",
-    "snr": -16.75,
-    "hops_away": 2,
+    "last_heard": "2026-09-04T15:43:13.177618+00:00",
+    "snr": -12.75,
+    "hops_away": 1,
     "short_name": "cccc",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
