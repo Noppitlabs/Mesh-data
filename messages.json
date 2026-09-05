@@ -1,5 +1,16 @@
 [
   {
+    "id": 897629947,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-09-05T09:26:33.927740+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 1
+  },
+  {
     "id": 4242837697,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-05T09:01:48.754439+00:00",
     "channel": 0,
     "snr": -10.75,
-    "hops": 2
-  },
-  {
-    "id": 1547659728,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "They are also double up with MeshCore Nodes",
-    "timestamp": "2026-09-04T21:24:33.379634+00:00",
-    "channel": 0,
-    "snr": -9.0,
     "hops": 2
   }
 ]
