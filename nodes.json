@@ -8042,9 +8042,9 @@
   "!c489455d": {
     "id": "!c489455d",
     "long_name": "Mark~G6OMT",
-    "last_heard": "2026-09-05T15:09:07.279794+00:00",
-    "snr": -14.0,
-    "hops_away": 2,
+    "last_heard": "2026-09-05T16:09:11.162821+00:00",
+    "snr": -11.0,
+    "hops_away": 1,
     "short_name": "OMT",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
