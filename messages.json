@@ -1,5 +1,16 @@
 [
   {
+    "id": 779470468,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Hello Ed, I am fine now but had major problems with updating a node to v2.8.0 FW",
+    "timestamp": "2026-09-05T09:05:37.546563+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 1
+  },
+  {
     "id": 41917150,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.25,
     "hops": 2
-  },
-  {
-    "id": 2562089563,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Unsure if I\u2019ve said this before but I think we should have a go at switching presets sometime to see if there are performance gains",
-    "timestamp": "2026-09-02T22:06:09.399147+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 3
   }
 ]
