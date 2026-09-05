@@ -1,5 +1,16 @@
 [
   {
+    "id": 2257027414,
+    "from": "!7bae4f27",
+    "from_name": "Meshtastic 4f27",
+    "to": "^all",
+    "text": "Good day",
+    "timestamp": "2026-09-05T11:11:06.053454+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 2
+  },
+  {
     "id": 4242837699,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.5,
     "hops": 3
-  },
-  {
-    "id": 779470468,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Hello Ed, I am fine now but had major problems with updating a node to v2.8.0 FW",
-    "timestamp": "2026-09-05T09:05:37.546563+00:00",
-    "channel": 0,
-    "snr": -14.25,
-    "hops": 1
   }
 ]
