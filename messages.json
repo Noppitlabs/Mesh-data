@@ -1,5 +1,16 @@
 [
   {
+    "id": 4155767264,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "v2.8.1 is out now",
+    "timestamp": "2026-09-05T09:07:25.848741+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 4
+  },
+  {
     "id": 331944065,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 3
-  },
-  {
-    "id": 1102734094,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Unsure if I\u2019ve said this before but I think we should have a go at switching presets sometime to see if there are performance gains",
-    "timestamp": "2026-09-03T13:59:46.172376+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 4
   }
 ]
