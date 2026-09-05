@@ -1,5 +1,16 @@
 [
   {
+    "id": 757385835,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "I had used it fine to put everything on v2.7.26",
+    "timestamp": "2026-09-05T09:22:12.745142+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 1
+  },
+  {
     "id": 262594863,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-04T21:15:16.509634+00:00",
     "channel": 0,
     "snr": -7.5,
-    "hops": 3
-  },
-  {
-    "id": 896320201,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Has anyone had luck with meshcore in Exeter?",
-    "timestamp": "2026-09-04T21:14:56.054065+00:00",
-    "channel": 0,
-    "snr": -7.75,
     "hops": 3
   }
 ]
