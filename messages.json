@@ -1,5 +1,16 @@
 [
   {
+    "id": 1498169816,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Not planning to update the other Routers yet",
+    "timestamp": "2026-09-05T09:18:28.731512+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 2
+  },
+  {
     "id": 1714615508,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.5,
     "hops": 1
-  },
-  {
-    "id": 1242666497,
-    "from": "!0414aa14",
-    "from_name": "M0PCZ/p",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-04T11:36:31.167788+00:00",
-    "channel": 0,
-    "snr": -10.0,
-    "hops": 2
   }
 ]
