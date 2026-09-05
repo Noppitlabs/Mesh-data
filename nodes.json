@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-05T18:37:17.904059+00:00",
+    "last_heard": "2026-09-05T18:38:17.269342+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -436,7 +436,7 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-09-05T15:45:16.368081+00:00",
+    "last_heard": "2026-09-05T18:38:27.613999+00:00",
     "snr": -11.25,
     "hops_away": 0,
     "short_name": "EX8#",
