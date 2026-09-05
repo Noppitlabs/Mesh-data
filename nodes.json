@@ -8108,5 +8108,12 @@
     "short_name": "R2",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!837ba3b5": {
+    "id": "!837ba3b5",
+    "long_name": "!837ba3b5",
+    "last_heard": "2026-09-05T22:52:07.132281+00:00",
+    "snr": -12.75,
+    "hops_away": 1
   }
 }
