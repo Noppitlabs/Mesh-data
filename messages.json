@@ -1,5 +1,16 @@
 [
   {
+    "id": 1358880848,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "A T1000E is good node",
+    "timestamp": "2026-09-05T09:08:15.276203+00:00",
+    "channel": 0,
+    "snr": -13.25,
+    "hops": 1
+  },
+  {
     "id": 2771515873,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.75,
     "hops": 4
-  },
-  {
-    "id": 287040192,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "A lot of the old issues with MT have also been fixed/improved upon e.g since firmware 2.6 MT nodes route messages the same way as MC and once 2.8 comes out there won\u2019t be so much noise from position",
-    "timestamp": "2026-09-03T14:49:11.712844+00:00",
-    "channel": 0,
-    "snr": -7.0,
-    "hops": 3
   }
 ]
