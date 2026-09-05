@@ -1,5 +1,16 @@
 [
   {
+    "id": 426723716,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "M9 is like a standalone device?",
+    "timestamp": "2026-09-05T09:18:33.679631+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 3
+  },
+  {
     "id": 1498169816,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-04T11:37:47.769261+00:00",
     "channel": 0,
     "snr": -9.5,
-    "hops": 1
-  },
-  {
-    "id": 1493088459,
-    "from": "!0414aa14",
-    "from_name": "M0PCZ/p",
-    "to": "^all",
-    "text": "Test Exeter Rd, opposite the Co-op, Exmouth",
-    "timestamp": "2026-09-04T11:37:04.972325+00:00",
-    "channel": 0,
-    "snr": -5.5,
     "hops": 1
   }
 ]
