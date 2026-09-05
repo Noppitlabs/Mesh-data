@@ -8102,9 +8102,9 @@
   "!89eea855": {
     "id": "!89eea855",
     "long_name": "Mobile~Base",
-    "last_heard": "2026-09-05T08:39:35.123613+00:00",
+    "last_heard": "2026-09-05T08:39:51.280639+00:00",
     "snr": -12.75,
-    "hops_away": 1,
+    "hops_away": 2,
     "short_name": "R2",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
