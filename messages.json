@@ -1,5 +1,16 @@
 [
   {
+    "id": 459256806,
+    "from": "!9b9bd3e3",
+    "from_name": "T1000-e E@ d3e3",
+    "to": "^all",
+    "text": "Tried on my solar node and it worked fine end of June",
+    "timestamp": "2026-09-05T09:22:22.796642+00:00",
+    "channel": 0,
+    "snr": -13.25,
+    "hops": 3
+  },
+  {
     "id": 757385835,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.25,
     "hops": 2
-  },
-  {
-    "id": 425837267,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "I tried sending out some messages earlier but saw no replies/acknowledgement",
-    "timestamp": "2026-09-04T21:15:16.509634+00:00",
-    "channel": 0,
-    "snr": -7.5,
-    "hops": 3
   }
 ]
