@@ -1,5 +1,16 @@
 [
   {
+    "id": 2771515873,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "yes was looking at the M9 looks really good",
+    "timestamp": "2026-09-05T09:07:54.082937+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 3
+  },
+  {
     "id": 1260638162,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-03T14:49:11.712844+00:00",
     "channel": 0,
     "snr": -7.0,
-    "hops": 3
-  },
-  {
-    "id": 3413508021,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "https://meshtastic.org/blog/why-your-mesh-should-switch-from-longfast/ this is a good read with real world examples",
-    "timestamp": "2026-09-03T14:17:27.515016+00:00",
-    "channel": 0,
-    "snr": -8.75,
     "hops": 3
   }
 ]
