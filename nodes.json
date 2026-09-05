@@ -786,9 +786,9 @@
   "!02d4cd04": {
     "id": "!02d4cd04",
     "long_name": "Preston~Bowyer",
-    "last_heard": "2026-09-03T15:17:03.660818+00:00",
-    "snr": -5.75,
-    "hops_away": 2,
+    "last_heard": "2026-09-05T00:22:31.883905+00:00",
+    "snr": -19.0,
+    "hops_away": 3,
     "short_name": "T4",
     "hw_model": "RAK4631",
     "role": "ROUTER"
