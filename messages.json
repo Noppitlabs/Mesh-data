@@ -1,5 +1,16 @@
 [
   {
+    "id": 1780885591,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "The X1 will soon be released",
+    "timestamp": "2026-09-05T09:09:49.794600+00:00",
+    "channel": 0,
+    "snr": -13.5,
+    "hops": 2
+  },
+  {
     "id": 2698582499,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.0,
     "hops": 1
-  },
-  {
-    "id": 1854702557,
-    "from": "!07339f2b",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-09-03T21:06:52.230004+00:00",
-    "channel": 0,
-    "snr": -9.75,
-    "hops": 4
   }
 ]
