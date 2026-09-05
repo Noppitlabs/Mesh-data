@@ -3482,9 +3482,9 @@
   "!1fc1a154": {
     "id": "!1fc1a154",
     "long_name": "NG_home",
-    "last_heard": "2026-09-05T09:38:45.030617+00:00",
-    "snr": -14.0,
-    "hops_away": 3,
+    "last_heard": "2026-09-05T22:49:45.194925+00:00",
+    "snr": -12.75,
+    "hops_away": 2,
     "short_name": "NG_h",
     "hw_model": "TBEAM",
     "role": ""
