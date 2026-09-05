@@ -1,5 +1,16 @@
 [
   {
+    "id": 2098207448,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Welcome to the local Mesh \ud83d\udc4b",
+    "timestamp": "2026-09-05T09:11:07.507473+00:00",
+    "channel": 0,
+    "snr": -19.5,
+    "hops": 2
+  },
+  {
     "id": 1707450027,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.25,
     "hops": 3
-  },
-  {
-    "id": 31202385,
-    "from": "!e5446b7b",
-    "from_name": "Meshtastic 6b7b",
-    "to": "^all",
-    "text": "New node test please.. ",
-    "timestamp": "2026-09-04T11:00:59.014562+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 2
   }
 ]
