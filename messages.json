@@ -1,5 +1,16 @@
 [
   {
+    "id": 498142642,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Morning everyone from Exmouth",
+    "timestamp": "2026-09-05T09:03:25.014697+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 1
+  },
+  {
     "id": 1502166091,
     "from": "!9b9bd3e3",
     "from_name": "T1000-e E@ d3e3",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-02T22:05:36.030315+00:00",
     "channel": 0,
     "snr": -10.0,
-    "hops": 3
-  },
-  {
-    "id": 1337053530,
-    "from": "!4ba77713",
-    "from_name": "Meshtastic d988",
-    "to": "^all",
-    "text": "Hello also from Exeter ",
-    "timestamp": "2026-09-02T20:48:14.902410+00:00",
-    "channel": 0,
-    "snr": -7.75,
     "hops": 3
   }
 ]
