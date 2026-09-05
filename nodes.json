@@ -8098,5 +8098,15 @@
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
+  },
+  "!89eea855": {
+    "id": "!89eea855",
+    "long_name": "Mobile~Base",
+    "last_heard": "2026-09-05T08:32:14.647984+00:00",
+    "snr": -13.5,
+    "hops_away": 1,
+    "short_name": "R2",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_BASE"
   }
 }
