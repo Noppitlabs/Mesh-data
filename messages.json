@@ -1,5 +1,16 @@
 [
   {
+    "id": 1714615508,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Re updating to v2.8.0 two went well but one was a nightmare, got it to accept the upgrade this morning",
+    "timestamp": "2026-09-05T09:17:43.363555+00:00",
+    "channel": 0,
+    "snr": -13.75,
+    "hops": 1
+  },
+  {
     "id": 1685983513,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-04T11:36:31.167788+00:00",
     "channel": 0,
     "snr": -10.0,
-    "hops": 2
-  },
-  {
-    "id": 1242666496,
-    "from": "!0414aa14",
-    "from_name": "M0PCZ/p",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-04T11:36:25.299217+00:00",
-    "channel": 0,
-    "snr": -16.75,
     "hops": 2
   }
 ]
