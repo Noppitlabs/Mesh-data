@@ -1,5 +1,16 @@
 [
   {
+    "id": 1768558751,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Afternoon from Exmouth",
+    "timestamp": "2026-09-05T11:12:28.214138+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 1
+  },
+  {
     "id": 2257027414,
     "from": "!7bae4f27",
     "from_name": "Meshtastic 4f27",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.75,
     "hops": 2
-  },
-  {
-    "id": 2516637150,
-    "from": "!4ba77713",
-    "from_name": "Meshtastic d988",
-    "to": "^all",
-    "text": "@TTag new 1w repeater is on order so will be good to see if that improves anything :)",
-    "timestamp": "2026-09-05T09:05:55.325332+00:00",
-    "channel": 0,
-    "snr": -17.5,
-    "hops": 3
   }
 ]
