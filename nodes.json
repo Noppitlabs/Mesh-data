@@ -7676,9 +7676,9 @@
   "!7bae4f27": {
     "id": "!7bae4f27",
     "long_name": "Meshtastic 4f27",
-    "last_heard": "2026-09-05T10:59:34.939969+00:00",
-    "snr": -13.5,
-    "hops_away": 4,
+    "last_heard": "2026-09-05T11:08:10.492583+00:00",
+    "snr": -13.0,
+    "hops_away": 3,
     "short_name": "4f27",
     "hw_model": "SEEED_WIO_TRACKER_L1",
     "role": ""
