@@ -8092,9 +8092,9 @@
   "!800c7b8c": {
     "id": "!800c7b8c",
     "long_name": "Maia mobile",
-    "last_heard": "2026-09-06T10:11:07.369172+00:00",
-    "snr": -12.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-06T10:13:46.639338+00:00",
+    "snr": -14.0,
+    "hops_away": 4,
     "short_name": "Maia",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
