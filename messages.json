@@ -1,5 +1,16 @@
 [
   {
+    "id": 2440270448,
+    "from": "!a9ca88c4",
+    "from_name": "Meshtastic d104",
+    "to": "^all",
+    "text": "*in",
+    "timestamp": "2026-09-06T21:37:17.523284+00:00",
+    "channel": 0,
+    "snr": -11.5,
+    "hops": 4
+  },
+  {
     "id": 136852309,
     "from": "!a9ca88c4",
     "from_name": "Meshtastic d104",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-06T09:40:19.486328+00:00",
     "channel": 0,
     "snr": -9.25,
-    "hops": 3
-  },
-  {
-    "id": 3339189610,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "What about my nodes?",
-    "timestamp": "2026-09-06T09:39:31.989404+00:00",
-    "channel": 0,
-    "snr": -6.25,
     "hops": 3
   }
 ]
