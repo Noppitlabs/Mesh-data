@@ -1,5 +1,16 @@
 [
   {
+    "id": 4225633832,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "I\u2019ve looked in a couple places on the iOS app for the firmware version but it always truncates it to 2.8.0",
+    "timestamp": "2026-09-06T10:07:54.460822+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 3
+  },
+  {
     "id": 686367225,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-05T12:39:38.758422+00:00",
     "channel": 0,
     "snr": -12.5,
-    "hops": 1
-  },
-  {
-    "id": 959160846,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "That is due to the LongFast channel position slider setting",
-    "timestamp": "2026-09-05T12:38:35.454196+00:00",
-    "channel": 0,
-    "snr": -9.25,
     "hops": 1
   }
 ]
