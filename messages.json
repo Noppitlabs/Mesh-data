@@ -1,5 +1,16 @@
 [
   {
+    "id": 3172523012,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Are you new to the mesh?",
+    "timestamp": "2026-09-06T21:35:40.032341+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 3
+  },
+  {
     "id": 2164141742,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -5.25,
     "hops": 1
-  },
-  {
-    "id": 675241917,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Not yet",
-    "timestamp": "2026-09-06T09:39:06.719476+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 5
   }
 ]
