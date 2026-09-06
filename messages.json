@@ -1,5 +1,16 @@
 [
   {
+    "id": 2934101992,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Yeah but for some reason iOS doesn\u2019t allow OTA firmware updates so I had to do it over USB on my PC",
+    "timestamp": "2026-09-06T10:11:06.195643+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 3
+  },
+  {
     "id": 876657490,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.25,
     "hops": 1
-  },
-  {
-    "id": 1816157234,
-    "from": "!b2a78f18",
-    "from_name": "timttmy-V4",
-    "to": "^all",
-    "text": "Morning Irish nodes and everyone else :)",
-    "timestamp": "2026-09-06T08:34:34.829893+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 5
   }
 ]
