@@ -1,5 +1,16 @@
 [
   {
+    "id": 1614873194,
+    "from": "!a9ca88c4",
+    "from_name": "Meshtastic d104",
+    "to": "^all",
+    "text": "U new as well? \u263a\ufe0f",
+    "timestamp": "2026-09-06T21:37:55.130554+00:00",
+    "channel": 0,
+    "snr": -16.25,
+    "hops": 6
+  },
+  {
     "id": 2440270448,
     "from": "!a9ca88c4",
     "from_name": "Meshtastic d104",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.0,
     "hops": 2
-  },
-  {
-    "id": 723006368,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Its my solar node i am worried \ud83d\ude05\ud83e\udd37\ud83c\udffb\u200d\u2642",
-    "timestamp": "2026-09-06T09:40:19.486328+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 3
   }
 ]
