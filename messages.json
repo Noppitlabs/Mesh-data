@@ -1,5 +1,16 @@
 [
   {
+    "id": 1984925405,
+    "from": "!02ec7f5c",
+    "from_name": "Meshtastic 7f5c",
+    "to": "^all",
+    "text": "Finally! Someone can see my messages!! \ud83d\ude03 Hiii",
+    "timestamp": "2026-09-06T21:31:34.376061+00:00",
+    "channel": 0,
+    "snr": -14.75,
+    "hops": 2
+  },
+  {
     "id": 2371112136,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-06T09:38:50.883907+00:00",
     "channel": 0,
     "snr": -5.5,
-    "hops": 1
-  },
-  {
-    "id": 750957157,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Are you seeing a shield next to my node name in your contacts",
-    "timestamp": "2026-09-06T09:38:36.591547+00:00",
-    "channel": 0,
-    "snr": -5.75,
     "hops": 1
   }
 ]
