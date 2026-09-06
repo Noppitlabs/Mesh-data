@@ -8142,5 +8142,15 @@
     "short_name": "d53e",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
+  },
+  "!04097460": {
+    "id": "!04097460",
+    "long_name": "Jim",
+    "last_heard": "2026-09-06T20:43:21.537860+00:00",
+    "snr": -13.75,
+    "hops_away": 4,
+    "short_name": "7460",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
