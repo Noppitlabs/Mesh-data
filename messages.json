@@ -1,5 +1,16 @@
 [
   {
+    "id": 709902062,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "I have updated 4 and each sees the other 3 with shields",
+    "timestamp": "2026-09-06T09:41:56.610380+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 2
+  },
+  {
     "id": 876657483,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 1
-  },
-  {
-    "id": 2257027414,
-    "from": "!7bae4f27",
-    "from_name": "Meshtastic 4f27",
-    "to": "^all",
-    "text": "Good day",
-    "timestamp": "2026-09-05T11:11:06.053454+00:00",
-    "channel": 0,
-    "snr": -15.5,
-    "hops": 2
   }
 ]
