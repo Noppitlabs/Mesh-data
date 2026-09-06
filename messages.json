@@ -1,5 +1,16 @@
 [
   {
+    "id": 1106051478,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Maia do you see a shield on your other Node",
+    "timestamp": "2026-09-06T09:44:17.586226+00:00",
+    "channel": 0,
+    "snr": -6.25,
+    "hops": 1
+  },
+  {
     "id": 709902062,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-05T11:18:11.128672+00:00",
     "channel": 0,
     "snr": -20.25,
-    "hops": 1
-  },
-  {
-    "id": 1768558751,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Afternoon from Exmouth",
-    "timestamp": "2026-09-05T11:12:28.214138+00:00",
-    "channel": 0,
-    "snr": -14.5,
     "hops": 1
   }
 ]
