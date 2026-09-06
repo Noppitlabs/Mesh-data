@@ -1,5 +1,16 @@
 [
   {
+    "id": 1840872740,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "It contains a major change so I will wait before I update any mast mounted nodes",
+    "timestamp": "2026-09-06T09:46:13.573761+00:00",
+    "channel": 0,
+    "snr": -6.0,
+    "hops": 1
+  },
+  {
     "id": 876657484,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-05T11:19:51.371681+00:00",
     "channel": 0,
     "snr": -15.25,
-    "hops": 2
-  },
-  {
-    "id": 1855689883,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "Or this \ud83d\ude05",
-    "timestamp": "2026-09-05T11:19:32.752363+00:00",
-    "channel": 0,
-    "snr": -14.25,
     "hops": 2
   }
 ]
