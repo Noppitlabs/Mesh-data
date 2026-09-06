@@ -1,5 +1,16 @@
 [
   {
+    "id": 241033728,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Going back to the shield icon I am not sure why you or I can see each others Nodes displaying them",
+    "timestamp": "2026-09-06T10:30:25.218285+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 1
+  },
+  {
     "id": 876657492,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-06T09:24:59.189300+00:00",
     "channel": 0,
     "snr": -7.5,
-    "hops": 2
-  },
-  {
-    "id": 69829142,
-    "from": "!43b59df4",
-    "from_name": "2E0HYY Keith",
-    "to": "^all",
-    "text": "Morning Mark and Ed",
-    "timestamp": "2026-09-06T09:24:41.711239+00:00",
-    "channel": 0,
-    "snr": -6.5,
     "hops": 2
   }
 ]
