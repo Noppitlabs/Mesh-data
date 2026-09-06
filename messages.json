@@ -1,5 +1,16 @@
 [
   {
+    "id": 824097241,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "Also received this. Successful traceroutes now for 7f5c, d104 and d988.",
+    "timestamp": "2026-09-06T22:07:03.059915+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 4
+  },
+  {
     "id": 988858521,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.25,
     "hops": 1
-  },
-  {
-    "id": 709902062,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "I have updated 4 and each sees the other 3 with shields",
-    "timestamp": "2026-09-06T09:41:56.610380+00:00",
-    "channel": 0,
-    "snr": -6.0,
-    "hops": 2
   }
 ]
