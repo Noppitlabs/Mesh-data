@@ -1,5 +1,16 @@
 [
   {
+    "id": 909283264,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Their version of the MT app has always missing something compared to the Android app",
+    "timestamp": "2026-09-06T10:08:04.939707+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 1
+  },
+  {
     "id": 4225633832,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-05T12:44:27.816727+00:00",
     "channel": 0,
     "snr": -11.75,
-    "hops": 1
-  },
-  {
-    "id": 1177937683,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "On all the other Nodes",
-    "timestamp": "2026-09-05T12:39:38.758422+00:00",
-    "channel": 0,
-    "snr": -12.5,
     "hops": 1
   }
 ]
