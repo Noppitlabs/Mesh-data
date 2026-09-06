@@ -1,5 +1,16 @@
 [
   {
+    "id": 1429030514,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "That is the same alpha I am using",
+    "timestamp": "2026-09-06T10:10:19.175796+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 1
+  },
+  {
     "id": 876657489,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.75,
     "hops": 3
-  },
-  {
-    "id": 493309779,
-    "from": "!837ba3b5",
-    "from_name": "!837ba3b5",
-    "to": "^all",
-    "text": "Can anyone confirm they've received?",
-    "timestamp": "2026-09-05T22:52:09.052925+00:00",
-    "channel": 0,
-    "snr": -12.75,
-    "hops": 1
   }
 ]
