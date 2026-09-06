@@ -1,5 +1,16 @@
 [
   {
+    "id": 988858521,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "They both have live message feeds for the south west mesh",
+    "timestamp": "2026-09-06T21:43:00.400792+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 3
+  },
+  {
     "id": 840157489,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.0,
     "hops": 2
-  },
-  {
-    "id": 876657483,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\u26c8\ufe0f",
-    "timestamp": "2026-09-06T09:41:01.335212+00:00",
-    "channel": 0,
-    "snr": -4.25,
-    "hops": 1
   }
 ]
