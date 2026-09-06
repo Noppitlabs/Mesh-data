@@ -8126,9 +8126,9 @@
   "!02ec7f5c": {
     "id": "!02ec7f5c",
     "long_name": "Meshtastic 7f5c",
-    "last_heard": "2026-09-06T11:40:41.759912+00:00",
-    "snr": -16.25,
-    "hops_away": 1,
+    "last_heard": "2026-09-06T21:16:25.249039+00:00",
+    "snr": -18.0,
+    "hops_away": 2,
     "short_name": "7f5c",
     "hw_model": "HELTEC_V3",
     "role": ""
