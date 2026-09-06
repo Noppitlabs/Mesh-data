@@ -1,5 +1,16 @@
 [
   {
+    "id": 1779526849,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Waiting is understandable",
+    "timestamp": "2026-09-06T09:50:50.184131+00:00",
+    "channel": 0,
+    "snr": -5.75,
+    "hops": 3
+  },
+  {
     "id": 848708299,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.0,
     "hops": 3
-  },
-  {
-    "id": 1777897282,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Both, I have updated to the next security level on the FW",
-    "timestamp": "2026-09-05T11:20:36.438026+00:00",
-    "channel": 0,
-    "snr": -15.0,
-    "hops": 1
   }
 ]
