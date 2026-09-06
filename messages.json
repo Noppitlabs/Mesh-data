@@ -1,5 +1,16 @@
 [
   {
+    "id": 1905522594,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Morning, not yet seen here in Exmouth",
+    "timestamp": "2026-09-06T08:35:35.933952+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 1
+  },
+  {
     "id": 1816157234,
     "from": "!b2a78f18",
     "from_name": "timttmy-V4",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.0,
     "hops": 3
-  },
-  {
-    "id": 1498169816,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Not planning to update the other Routers yet",
-    "timestamp": "2026-09-05T09:18:28.731512+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 2
   }
 ]
