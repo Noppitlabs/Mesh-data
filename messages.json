@@ -1,5 +1,16 @@
 [
   {
+    "id": 824924160,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "With Brittany in France on Meshcore",
+    "timestamp": "2026-09-06T10:35:14.386594+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 1
+  },
+  {
     "id": 1314998187,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.75,
     "hops": 3
-  },
-  {
-    "id": 876657480,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-09-06T09:25:04.506108+00:00",
-    "channel": 0,
-    "snr": -6.75,
-    "hops": 1
   }
 ]
