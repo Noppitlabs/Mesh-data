@@ -1,5 +1,16 @@
 [
   {
+    "id": 3246668467,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "On both of my nodes now",
+    "timestamp": "2026-09-06T09:37:25.989741+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 3
+  },
+  {
     "id": 2055300842,
     "from": "!43b59df4",
     "from_name": "2E0HYY Keith",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.0,
     "hops": 2
-  },
-  {
-    "id": 1982456858,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "OMT, R1, and R2 are on the latest Alpha",
-    "timestamp": "2026-09-05T09:24:30.286692+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 1
   }
 ]
