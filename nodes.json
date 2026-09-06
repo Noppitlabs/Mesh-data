@@ -8132,5 +8132,15 @@
     "short_name": "7f5c",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!4f16d53e": {
+    "id": "!4f16d53e",
+    "long_name": "Meshtastic d53e",
+    "last_heard": "2026-09-06T15:20:46.009701+00:00",
+    "snr": -12.25,
+    "hops_away": 3,
+    "short_name": "d53e",
+    "hw_model": "TRACKER_T1000_E",
+    "role": ""
   }
 }
