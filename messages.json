@@ -1,5 +1,16 @@
 [
   {
+    "id": 1190604127,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "There is still a link but it doesn't have a strong signal",
+    "timestamp": "2026-09-07T13:38:27.414365+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 1
+  },
+  {
     "id": 1122591396,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.75,
     "hops": 2
-  },
-  {
-    "id": 824924160,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "With Brittany in France on Meshcore",
-    "timestamp": "2026-09-06T10:35:14.386594+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 1
   }
 ]
