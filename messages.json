@@ -1,5 +1,16 @@
 [
   {
+    "id": 1122591396,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Exmouth lost it's main link to Torbay when they converted to Meshcore last November",
+    "timestamp": "2026-09-07T13:36:54.206775+00:00",
+    "channel": 0,
+    "snr": -17.0,
+    "hops": 1
+  },
+  {
     "id": 67883994,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 1
-  },
-  {
-    "id": 1314998187,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "As a side note just had an exchange of m3wi",
-    "timestamp": "2026-09-06T10:33:58.052102+00:00",
-    "channel": 0,
-    "snr": -8.5,
-    "hops": 2
   }
 ]
