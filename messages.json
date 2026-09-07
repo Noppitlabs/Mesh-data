@@ -1,5 +1,16 @@
 [
   {
+    "id": 2666177108,
+    "from": "!b03b3ffc",
+    "from_name": "Meshtastic 3ffc",
+    "to": "^all",
+    "text": "Afternoon",
+    "timestamp": "2026-09-07T11:37:48.655742+00:00",
+    "channel": 0,
+    "snr": -9.0,
+    "hops": 3
+  },
+  {
     "id": 949734182,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-06T10:02:51.507005+00:00",
     "channel": 0,
     "snr": -5.5,
-    "hops": 1
-  },
-  {
-    "id": 779348270,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Look at your connections screen",
-    "timestamp": "2026-09-06T09:54:29.426544+00:00",
-    "channel": 0,
-    "snr": -5.75,
     "hops": 1
   }
 ]
