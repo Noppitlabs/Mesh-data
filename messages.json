@@ -1,5 +1,16 @@
 [
   {
+    "id": 974117354,
+    "from": "!48f0db39",
+    "from_name": "fptp",
+    "to": "^all",
+    "text": "RDEw seems to be responsible for a lot of connectivity in central Exeter. Buildings obscure signal in a lot of places. The East Devon coastline is well covered. Valleys are tricky but some good spots",
+    "timestamp": "2026-09-07T12:39:14.394665+00:00",
+    "channel": 0,
+    "snr": -11.75,
+    "hops": 4
+  },
+  {
     "id": 1744643293,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 2
-  },
-  {
-    "id": 486905554,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Something else that's missing \ud83d\ude02",
-    "timestamp": "2026-09-06T10:11:47.295157+00:00",
-    "channel": 0,
-    "snr": -12.5,
-    "hops": 1
   }
 ]
