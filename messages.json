@@ -1,5 +1,16 @@
 [
   {
+    "id": 13649270,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "There were two Sidmouth based Routers serving about two passing Nodes, so they got removed and in use elsewhere",
+    "timestamp": "2026-09-07T13:33:20.708796+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 1
+  },
+  {
     "id": 1525872480,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.5,
     "hops": 1
-  },
-  {
-    "id": 3863674823,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "I\u2019ve been wanting an Android anyway lol",
-    "timestamp": "2026-09-06T10:15:41.323038+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 3
   }
 ]
