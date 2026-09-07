@@ -1,5 +1,16 @@
 [
   {
+    "id": 332462988,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Hello from Exmouth",
+    "timestamp": "2026-09-07T11:39:16.814697+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 1
+  },
+  {
     "id": 1063758747,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.0,
     "hops": 1
-  },
-  {
-    "id": 4181339086,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Probably just an iOS thing",
-    "timestamp": "2026-09-06T10:04:04.253399+00:00",
-    "channel": 0,
-    "snr": -6.25,
-    "hops": 4
   }
 ]
