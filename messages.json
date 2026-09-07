@@ -1,5 +1,16 @@
 [
   {
+    "id": 1525872480,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Good afternoon!",
+    "timestamp": "2026-09-07T12:48:03.057060+00:00",
+    "channel": 0,
+    "snr": -17.5,
+    "hops": 3
+  },
+  {
     "id": 1569844767,
     "from": "!02ec7f5c",
     "from_name": "Meshtastic 7f5c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.25,
     "hops": 3
-  },
-  {
-    "id": 1032764669,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "don't change it just to get a better app",
-    "timestamp": "2026-09-06T10:15:08.787470+00:00",
-    "channel": 0,
-    "snr": -9.5,
-    "hops": 2
   }
 ]
