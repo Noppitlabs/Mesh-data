@@ -1,5 +1,16 @@
 [
   {
+    "id": 263202380,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "I live in a valley in the sticks so no other devices in range there. Don't really see many nodes when walking in east devon either. Only really works whilst here in exeter.",
+    "timestamp": "2026-09-07T11:49:31.755797+00:00",
+    "channel": 0,
+    "snr": -12.0,
+    "hops": 3
+  },
+  {
     "id": 55256766,
     "from": "!02ec7f5c",
     "from_name": "Meshtastic 7f5c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.25,
     "hops": 3
-  },
-  {
-    "id": 1429030514,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "That is the same alpha I am using",
-    "timestamp": "2026-09-06T10:10:19.175796+00:00",
-    "channel": 0,
-    "snr": -14.5,
-    "hops": 1
   }
 ]
