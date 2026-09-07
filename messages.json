@@ -1,5 +1,16 @@
 [
   {
+    "id": 1063758747,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Afternoon from Exmouth",
+    "timestamp": "2026-09-07T11:38:53.023146+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 1
+  },
+  {
     "id": 1719771793,
     "from": "!02ec7f5c",
     "from_name": "Meshtastic 7f5c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -6.25,
     "hops": 4
-  },
-  {
-    "id": 2048518550,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Yup",
-    "timestamp": "2026-09-06T10:03:53.081198+00:00",
-    "channel": 0,
-    "snr": -5.5,
-    "hops": 3
   }
 ]
