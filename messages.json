@@ -1,5 +1,27 @@
 [
   {
+    "id": 583173324,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "hate mondays",
+    "timestamp": "2026-09-07T06:30:52.511230+00:00",
+    "channel": 0,
+    "snr": -9.75,
+    "hops": 2
+  },
+  {
+    "id": 278579581,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "It's Monday \ud83d\udc4b",
+    "timestamp": "2026-09-07T06:30:05.842479+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 1
+  },
+  {
     "id": 824097241,
     "from": "!48f0db39",
     "from_name": "fptp",
@@ -525,28 +547,6 @@
     "timestamp": "2026-09-06T09:44:50.198379+00:00",
     "channel": 0,
     "snr": -5.75,
-    "hops": 1
-  },
-  {
-    "id": 1962425642,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Yeah my own nodes all show as signed",
-    "timestamp": "2026-09-06T09:44:36.979017+00:00",
-    "channel": 0,
-    "snr": -5.75,
-    "hops": 5
-  },
-  {
-    "id": 1106051478,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Maia do you see a shield on your other Node",
-    "timestamp": "2026-09-06T09:44:17.586226+00:00",
-    "channel": 0,
-    "snr": -6.25,
     "hops": 1
   }
 ]
