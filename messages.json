@@ -1,5 +1,16 @@
 [
   {
+    "id": 504038579,
+    "from": "!02ec7f5c",
+    "from_name": "Meshtastic 7f5c",
+    "to": "^all",
+    "text": "That's interesting. How long have you been using mesh?",
+    "timestamp": "2026-09-07T11:50:29.537099+00:00",
+    "channel": 0,
+    "snr": -8.5,
+    "hops": 2
+  },
+  {
     "id": 263202380,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-06T10:11:06.195643+00:00",
     "channel": 0,
     "snr": -12.5,
-    "hops": 3
-  },
-  {
-    "id": 876657490,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-06T10:10:46.168051+00:00",
-    "channel": 0,
-    "snr": -11.25,
     "hops": 3
   }
 ]
