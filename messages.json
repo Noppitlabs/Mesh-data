@@ -1,5 +1,16 @@
 [
   {
+    "id": 377596767,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "no it is a lie",
+    "timestamp": "2026-09-07T06:30:57.988767+00:00",
+    "channel": 0,
+    "snr": -9.5,
+    "hops": 2
+  },
+  {
     "id": 583173324,
     "from": "!9ea0c064",
     "from_name": "Red E@ c064",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-06T09:46:13.573761+00:00",
     "channel": 0,
     "snr": -6.0,
-    "hops": 1
-  },
-  {
-    "id": 876657484,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-06T09:44:50.198379+00:00",
-    "channel": 0,
-    "snr": -5.75,
     "hops": 1
   }
 ]
