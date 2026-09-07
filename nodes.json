@@ -8146,9 +8146,9 @@
   "!04097460": {
     "id": "!04097460",
     "long_name": "Jim",
-    "last_heard": "2026-09-06T23:25:01.227702+00:00",
-    "snr": -12.5,
-    "hops_away": 5,
+    "last_heard": "2026-09-07T01:29:45.257546+00:00",
+    "snr": -10.0,
+    "hops_away": 4,
     "short_name": "7460",
     "hw_model": "HELTEC_V3",
     "role": ""
