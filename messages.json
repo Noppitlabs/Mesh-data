@@ -1,5 +1,16 @@
 [
   {
+    "id": 292104735,
+    "from": "!9ea0c064",
+    "from_name": "Red E@ c064",
+    "to": "^all",
+    "text": "afternoon",
+    "timestamp": "2026-09-07T11:41:30.095022+00:00",
+    "channel": 0,
+    "snr": -10.25,
+    "hops": 2
+  },
+  {
     "id": 893999577,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.25,
     "hops": 1
-  },
-  {
-    "id": 4225633832,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "I\u2019ve looked in a couple places on the iOS app for the firmware version but it always truncates it to 2.8.0",
-    "timestamp": "2026-09-06T10:07:54.460822+00:00",
-    "channel": 0,
-    "snr": -11.25,
-    "hops": 3
   }
 ]
