@@ -1,5 +1,16 @@
 [
   {
+    "id": 67883994,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "How long ago was that proberbly before November 2025",
+    "timestamp": "2026-09-07T13:35:16.146016+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 2
+  },
+  {
     "id": 4055480982,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -8.5,
     "hops": 2
-  },
-  {
-    "id": 241033728,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Going back to the shield icon I am not sure why you or I can see each others Nodes displaying them",
-    "timestamp": "2026-09-06T10:30:25.218285+00:00",
-    "channel": 0,
-    "snr": -8.75,
-    "hops": 1
   }
 ]
