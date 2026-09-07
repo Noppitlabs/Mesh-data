@@ -1,5 +1,16 @@
 [
   {
+    "id": 1569844767,
+    "from": "!02ec7f5c",
+    "from_name": "Meshtastic 7f5c",
+    "to": "^all",
+    "text": "I was in Portland when I first activated my heltec V3, and after a few hours I'd picked up loads of nodes in Exeter and Exmouth, but none anywhere else, despite having good views in all directions",
+    "timestamp": "2026-09-07T12:45:56.675313+00:00",
+    "channel": 0,
+    "snr": -18.25,
+    "hops": 3
+  },
+  {
     "id": 466498442,
     "from": "!02ec7f5c",
     "from_name": "Meshtastic 7f5c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.5,
     "hops": 2
-  },
-  {
-    "id": 495373749,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "I\u2019ll probably keep using this phone until it breaks and then get an android",
-    "timestamp": "2026-09-06T10:13:48.677353+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 4
   }
 ]
