@@ -1,5 +1,16 @@
 [
   {
+    "id": 1744643293,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "About a year or so.",
+    "timestamp": "2026-09-07T11:52:14.112621+00:00",
+    "channel": 0,
+    "snr": -9.25,
+    "hops": 2
+  },
+  {
     "id": 504038579,
     "from": "!02ec7f5c",
     "from_name": "Meshtastic 7f5c",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 1
-  },
-  {
-    "id": 2934101992,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Yeah but for some reason iOS doesn\u2019t allow OTA firmware updates so I had to do it over USB on my PC",
-    "timestamp": "2026-09-06T10:11:06.195643+00:00",
-    "channel": 0,
-    "snr": -12.5,
-    "hops": 3
   }
 ]
