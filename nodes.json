@@ -6953,9 +6953,9 @@
   "!1ba56624": {
     "id": "!1ba56624",
     "long_name": "M0NNK mobile",
-    "last_heard": "2026-09-07T07:50:14.544292+00:00",
-    "snr": -16.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-07T08:00:14.879632+00:00",
+    "snr": -15.0,
+    "hops_away": 3,
     "short_name": "BS2M",
     "hw_model": "HELTEC_V4",
     "role": ""
