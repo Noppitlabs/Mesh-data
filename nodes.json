@@ -516,9 +516,9 @@
   "!6b5324d5": {
     "id": "!6b5324d5",
     "long_name": "A2-B",
-    "last_heard": "2026-09-08T08:56:30.424066+00:00",
+    "last_heard": "2026-09-08T10:05:11.159248+00:00",
     "snr": -6.25,
-    "hops_away": 4,
+    "hops_away": 2,
     "short_name": "A2-B",
     "hw_model": "RAK4631",
     "role": ""
@@ -7659,8 +7659,8 @@
   "!49b3ca10": {
     "id": "!49b3ca10",
     "long_name": "Meshtastic ca10",
-    "last_heard": "2026-09-08T09:12:39.250592+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-09-08T10:05:05.288850+00:00",
+    "snr": -19.0,
     "hops_away": 1,
     "short_name": "ca10",
     "hw_model": "HELTEC_V4",
