@@ -7648,11 +7648,11 @@
   },
   "!db2953d4": {
     "id": "!db2953d4",
-    "long_name": "Myke the 1st",
-    "last_heard": "2026-08-31T19:24:55.696989+00:00",
-    "snr": -11.5,
-    "hops_away": 2,
-    "short_name": "myke",
+    "long_name": "Myke mesh node",
+    "last_heard": "2026-09-08T03:21:46.026732+00:00",
+    "snr": -14.0,
+    "hops_away": 4,
+    "short_name": "myk1",
     "hw_model": "HELTEC_V3",
     "role": ""
   },
