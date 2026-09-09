@@ -406,9 +406,9 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-09-09T09:19:20.988774+00:00",
-    "snr": -5.75,
-    "hops_away": 4,
+    "last_heard": "2026-09-09T09:20:10.495860+00:00",
+    "snr": -5.5,
+    "hops_away": 3,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
     "role": ""
@@ -1343,9 +1343,9 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-09-08T20:15:15.768599+00:00",
-    "snr": -10.5,
-    "hops_away": 2,
+    "last_heard": "2026-09-09T09:20:03.705547+00:00",
+    "snr": -5.5,
+    "hops_away": 3,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
     "role": "CLIENT_MUTE"
