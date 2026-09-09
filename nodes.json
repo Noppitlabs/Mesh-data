@@ -2,8 +2,8 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "Meshtastic 33e8",
-    "last_heard": "2026-09-09T17:47:37.569782+00:00",
-    "snr": -18.75,
+    "last_heard": "2026-09-09T18:13:05.814994+00:00",
+    "snr": -14.25,
     "hops_away": 1,
     "short_name": "33e8",
     "hw_model": "HELTEC_V3",
@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-09-09T18:09:15.140643+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-09-09T18:11:56.843136+00:00",
+    "snr": -14.5,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-09T18:08:17.947570+00:00",
+    "last_heard": "2026-09-09T18:13:25.868774+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -49,8 +49,8 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-09-09T18:04:28.959193+00:00",
-    "snr": -16.0,
+    "last_heard": "2026-09-09T18:12:45.757004+00:00",
+    "snr": -13.5,
     "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
