@@ -1,5 +1,16 @@
 [
   {
+    "id": 834791363,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Thought in your contacts filter three lines menu have you got Unknown selected",
+    "timestamp": "2026-09-10T20:51:41.892684+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 1
+  },
+  {
     "id": 1447560336,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-07T11:40:56.395898+00:00",
     "channel": 0,
     "snr": -10.5,
-    "hops": 3
-  },
-  {
-    "id": 1214284550,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Was it you at Hardy's monument yesterday?",
-    "timestamp": "2026-09-07T11:40:10.596135+00:00",
-    "channel": 0,
-    "snr": -10.25,
     "hops": 3
   }
 ]
