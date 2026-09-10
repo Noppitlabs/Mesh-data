@@ -1,5 +1,16 @@
 [
   {
+    "id": 1851934465,
+    "from": "!a511f9c0",
+    "from_name": "Exeter Middlemoor Solar ",
+    "to": "^all",
+    "text": "Not on the solar will switch to my other node to secs ",
+    "timestamp": "2026-09-10T20:45:40.671678+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 5
+  },
+  {
     "id": 1445013943,
     "from": "!a511f9c0",
     "from_name": "Exeter Middlemoor Solar ",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.75,
     "hops": 1
-  },
-  {
-    "id": 1719771793,
-    "from": "!02ec7f5c",
-    "from_name": "Meshtastic 7f5c",
-    "to": "^all",
-    "text": "Hello !",
-    "timestamp": "2026-09-07T11:38:09.241203+00:00",
-    "channel": 0,
-    "snr": -10.25,
-    "hops": 2
   }
 ]
