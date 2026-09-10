@@ -8152,5 +8152,15 @@
     "short_name": "7460",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!a9fd88c3": {
+    "id": "!a9fd88c3",
+    "long_name": "Meshtastic d104",
+    "last_heard": "2026-09-10T12:26:35.684598+00:00",
+    "snr": -10.0,
+    "hops_away": 4,
+    "short_name": "d104",
+    "hw_model": "THINKNODE_M5",
+    "role": ""
   }
 }
