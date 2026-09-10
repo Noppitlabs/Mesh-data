@@ -1,5 +1,16 @@
 [
   {
+    "id": 619608353,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "\ud83d\ude06",
+    "timestamp": "2026-09-10T09:57:36.110176+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 5
+  },
+  {
     "id": 1549497746,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-07T06:31:15.836888+00:00",
     "channel": 0,
     "snr": -9.75,
-    "hops": 2
-  },
-  {
-    "id": 377596767,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "no it is a lie",
-    "timestamp": "2026-09-07T06:30:57.988767+00:00",
-    "channel": 0,
-    "snr": -9.5,
     "hops": 2
   }
 ]
