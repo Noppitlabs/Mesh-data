@@ -1,5 +1,16 @@
 [
   {
+    "id": 1549497746,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "sounds like me all the time... \ud83d\ude1c",
+    "timestamp": "2026-09-10T09:56:51.253550+00:00",
+    "channel": 0,
+    "snr": -8.75,
+    "hops": 1
+  },
+  {
     "id": 1747774876,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-07T06:30:57.988767+00:00",
     "channel": 0,
     "snr": -9.5,
-    "hops": 2
-  },
-  {
-    "id": 583173324,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "hate mondays",
-    "timestamp": "2026-09-07T06:30:52.511230+00:00",
-    "channel": 0,
-    "snr": -9.75,
     "hops": 2
   }
 ]
