@@ -1,5 +1,16 @@
 [
   {
+    "id": 573863002,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Have you seen Maia messages",
+    "timestamp": "2026-09-10T20:24:55.136429+00:00",
+    "channel": 0,
+    "snr": -18.0,
+    "hops": 1
+  },
+  {
     "id": 619608353,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-07T06:31:40.153673+00:00",
     "channel": 0,
     "snr": -10.0,
-    "hops": 2
-  },
-  {
-    "id": 584931390,
-    "from": "!9ea0c064",
-    "from_name": "Red E@ c064",
-    "to": "^all",
-    "text": "good morning",
-    "timestamp": "2026-09-07T06:31:15.836888+00:00",
-    "channel": 0,
-    "snr": -9.75,
     "hops": 2
   }
 ]
