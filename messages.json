@@ -1,5 +1,16 @@
 [
   {
+    "id": 135518090,
+    "from": "!a511f9c0",
+    "from_name": "!a511f9c0",
+    "to": "^all",
+    "text": "If you mean 0 hops away from me i have the following nodes. 30cd, exmouth west, c92c, 7713, 4f27, A2-1",
+    "timestamp": "2026-09-10T20:40:52.310930+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 5
+  },
+  {
     "id": 2184723820,
     "from": null,
     "from_name": null,
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 2
-  },
-  {
-    "id": 1998898236,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Morning Ed, a few weeks ago you couldn't wait for the schools to break up \ud83d\ude0e",
-    "timestamp": "2026-09-07T06:33:27.128484+00:00",
-    "channel": 0,
-    "snr": -11.0,
-    "hops": 1
   }
 ]
