@@ -8009,9 +8009,9 @@
   "!85c6ecb7": {
     "id": "!85c6ecb7",
     "long_name": "TA2 RAK Yagi-9",
-    "last_heard": "2026-09-03T16:32:27.575699+00:00",
-    "snr": -6.25,
-    "hops_away": 3,
+    "last_heard": "2026-09-11T23:06:08.438078+00:00",
+    "snr": -15.5,
+    "hops_away": 5,
     "short_name": "T2ry",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
