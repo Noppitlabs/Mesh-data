@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-11T22:09:25.809571+00:00",
+    "last_heard": "2026-09-11T22:10:24.186073+00:00",
     "snr": null,
-    "hops_away": 0,
+    "hops_away": -7,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -2029,8 +2029,8 @@
   "!794eb20a": {
     "id": "!794eb20a",
     "long_name": "EXWire Server",
-    "last_heard": "2026-09-11T21:46:04.555640+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-09-11T22:10:05.104419+00:00",
+    "snr": -13.25,
     "hops_away": 3,
     "short_name": "exw1",
     "hw_model": "RAK4631",
