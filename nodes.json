@@ -2106,9 +2106,9 @@
   "!10596db0": {
     "id": "!10596db0",
     "long_name": "Silverton~",
-    "last_heard": "2026-09-09T03:22:00.613756+00:00",
-    "snr": -17.75,
-    "hops_away": 5,
+    "last_heard": "2026-09-11T08:55:25.853496+00:00",
+    "snr": -19.0,
+    "hops_away": 4,
     "short_name": "S2",
     "hw_model": "RAK4631",
     "role": "ROUTER"
