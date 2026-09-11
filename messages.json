@@ -1,5 +1,16 @@
 [
   {
+    "id": 1856981348,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "It's Friday are you still working",
+    "timestamp": "2026-09-11T14:46:49.580821+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 1
+  },
+  {
     "id": 1647157841,
     "from": "!74f0fbd0",
     "from_name": "YT-1300f (M7OXC)",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-07T11:43:43.583713+00:00",
     "channel": 0,
     "snr": -11.5,
-    "hops": 2
-  },
-  {
-    "id": 1423639811,
-    "from": "!02ec7f5c",
-    "from_name": "Meshtastic 7f5c",
-    "to": "^all",
-    "text": "Nice! I couldn't seem to get message replys yesterday and wasn't sure if my messages were even transmitted. Where are you now?",
-    "timestamp": "2026-09-07T11:43:02.252618+00:00",
-    "channel": 0,
-    "snr": -9.75,
     "hops": 2
   }
 ]
