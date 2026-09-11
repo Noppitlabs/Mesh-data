@@ -1,5 +1,16 @@
 [
   {
+    "id": 1647157841,
+    "from": "!74f0fbd0",
+    "from_name": "YT-1300f (M7OXC)",
+    "to": "^all",
+    "text": "Nearly the weekend!",
+    "timestamp": "2026-09-11T14:45:45.734414+00:00",
+    "channel": 0,
+    "snr": -10.75,
+    "hops": 4
+  },
+  {
     "id": 695887914,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.75,
     "hops": 2
-  },
-  {
-    "id": 632702492,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "Ha. It was me at Eggardon",
-    "timestamp": "2026-09-07T11:41:37.829704+00:00",
-    "channel": 0,
-    "snr": -10.75,
-    "hops": 3
   }
 ]
