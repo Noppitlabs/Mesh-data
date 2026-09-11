@@ -7820,9 +7820,9 @@
   "!8a9767c3": {
     "id": "!8a9767c3",
     "long_name": "SCAP2 SLR CF",
-    "last_heard": "2026-08-29T15:17:30.215038+00:00",
-    "snr": -10.25,
-    "hops_away": 6,
+    "last_heard": "2026-09-11T03:22:10.628599+00:00",
+    "snr": -17.75,
+    "hops_away": 3,
     "short_name": "SCP2",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER"
