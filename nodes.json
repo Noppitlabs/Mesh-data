@@ -1245,9 +1245,9 @@
   "!74f0fbd0": {
     "id": "!74f0fbd0",
     "long_name": "YT-1300f (M7OXC)",
-    "last_heard": "2026-09-11T08:45:36.116455+00:00",
-    "snr": -5.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-11T09:16:23.298581+00:00",
+    "snr": -5.25,
+    "hops_away": 4,
     "short_name": "fbd0",
     "hw_model": "TRACKER_T1000_E",
     "role": ""
