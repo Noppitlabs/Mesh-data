@@ -1279,9 +1279,9 @@
   "!9ee70f38": {
     "id": "!9ee70f38",
     "long_name": "M0LOB1",
-    "last_heard": "2026-09-11T09:10:22.927147+00:00",
-    "snr": -4.75,
-    "hops_away": 4,
+    "last_heard": "2026-09-12T04:59:38.184688+00:00",
+    "snr": -12.5,
+    "hops_away": 3,
     "short_name": "Lob1",
     "hw_model": "HELTEC_V3",
     "role": ""
