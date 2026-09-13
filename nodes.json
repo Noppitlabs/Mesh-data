@@ -2049,9 +2049,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-09-13T03:55:16.337448+00:00",
-    "snr": -16.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-13T04:10:57.750648+00:00",
+    "snr": -16.75,
+    "hops_away": 4,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
