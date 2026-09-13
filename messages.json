@@ -1,5 +1,16 @@
 [
   {
+    "id": 878111683,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "No MT in Cranbrook",
+    "timestamp": "2026-09-13T14:46:02.411335+00:00",
+    "channel": 0,
+    "snr": -5.5,
+    "hops": 1
+  },
+  {
     "id": 772452847,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.75,
     "hops": 4
-  },
-  {
-    "id": 1744643293,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "About a year or so.",
-    "timestamp": "2026-09-07T11:52:14.112621+00:00",
-    "channel": 0,
-    "snr": -9.25,
-    "hops": 2
   }
 ]
