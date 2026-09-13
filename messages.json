@@ -1,5 +1,16 @@
 [
   {
+    "id": 169454937,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Morning from Exmouth",
+    "timestamp": "2026-09-13T08:22:44.215331+00:00",
+    "channel": 0,
+    "snr": 13.5,
+    "hops": 2
+  },
+  {
     "id": 1304416026,
     "from": "!b03b3ffc",
     "from_name": "Meshtastic 3ffc",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.0,
     "hops": 3
-  },
-  {
-    "id": 55256766,
-    "from": "!02ec7f5c",
-    "from_name": "Meshtastic 7f5c",
-    "to": "^all",
-    "text": "Nice! How are you getting on with meshtastic? I only set mine up yesterday, although I did try it last year. Very much struggling with poor signal at my location in city centre. Amazed it's working",
-    "timestamp": "2026-09-07T11:46:57.899782+00:00",
-    "channel": 0,
-    "snr": -12.0,
-    "hops": 2
   }
 ]
