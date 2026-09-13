@@ -19,8 +19,8 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-09-13T15:34:21.333900+00:00",
-    "snr": -5.5,
+    "last_heard": "2026-09-13T15:36:02.729027+00:00",
+    "snr": -4.75,
     "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
@@ -29,9 +29,9 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-13T15:35:09.375575+00:00",
+    "last_heard": "2026-09-13T15:36:42.857719+00:00",
     "snr": null,
-    "hops_away": -7,
+    "hops_away": 0,
     "short_name": "AP3X",
     "hw_model": "TLORA_T3_S3",
     "role": "CLIENT_BASE"
@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-09-13T15:23:17.626463+00:00",
-    "snr": -5.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-13T15:35:21.219231+00:00",
+    "snr": -5.75,
+    "hops_away": 3,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2167,8 +2167,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-09-13T14:59:13.746151+00:00",
-    "snr": -6.75,
+    "last_heard": "2026-09-13T15:37:02.964430+00:00",
+    "snr": 12.0,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
