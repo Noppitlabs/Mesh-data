@@ -8182,5 +8182,15 @@
     "short_name": "aee8",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!9eeb2a80": {
+    "id": "!9eeb2a80",
+    "long_name": "Myke G3MYK mt3",
+    "last_heard": "2026-09-14T10:15:30.497735+00:00",
+    "snr": -12.25,
+    "hops_away": 3,
+    "short_name": "Myk3",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
