@@ -1,5 +1,16 @@
 [
   {
+    "id": 323052100,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "I\u2019m good, and yes; first lecture is today",
+    "timestamp": "2026-09-14T09:54:41.889411+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 4
+  },
+  {
     "id": 1299658501,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.0,
     "hops": 3
-  },
-  {
-    "id": 13649270,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "There were two Sidmouth based Routers serving about two passing Nodes, so they got removed and in use elsewhere",
-    "timestamp": "2026-09-07T13:33:20.708796+00:00",
-    "channel": 0,
-    "snr": -16.75,
-    "hops": 1
   }
 ]
