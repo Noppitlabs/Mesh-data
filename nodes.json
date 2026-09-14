@@ -826,8 +826,8 @@
   "!9e9d72b8": {
     "id": "!9e9d72b8",
     "long_name": "T0rr Client 1",
-    "last_heard": "2026-09-14T10:01:01.645483+00:00",
-    "snr": -10.25,
+    "last_heard": "2026-09-14T23:46:14.605958+00:00",
+    "snr": 11.5,
     "hops_away": 3,
     "short_name": "T0C1",
     "hw_model": "HELTEC_V3",
