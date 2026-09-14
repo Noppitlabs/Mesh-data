@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-09-14T23:10:17.788621+00:00",
-    "snr": -15.5,
-    "hops_away": 2,
+    "last_heard": "2026-09-14T23:16:32.053461+00:00",
+    "snr": -14.0,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-14T23:12:30.167945+00:00",
+    "last_heard": "2026-09-14T23:16:52.126703+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -129,9 +129,9 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-09-14T23:11:35.063912+00:00",
-    "snr": -16.0,
-    "hops_away": 7,
+    "last_heard": "2026-09-14T23:13:31.462126+00:00",
+    "snr": -14.5,
+    "hops_away": 3,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -1343,8 +1343,8 @@
   "!9ea0c064": {
     "id": "!9ea0c064",
     "long_name": "Red E@ c064",
-    "last_heard": "2026-09-14T20:13:52.835917+00:00",
-    "snr": -16.25,
+    "last_heard": "2026-09-14T23:14:11.590732+00:00",
+    "snr": -14.25,
     "hops_away": 3,
     "short_name": "REde",
     "hw_model": "HELTEC_WIRELESS_PAPER",
@@ -1644,8 +1644,8 @@
   "!5ef9c1d6": {
     "id": "!5ef9c1d6",
     "long_name": "G0VEA Ewald",
-    "last_heard": "2026-09-14T23:05:11.382202+00:00",
-    "snr": -15.75,
+    "last_heard": "2026-09-14T23:13:11.399062+00:00",
+    "snr": -14.5,
     "hops_away": 1,
     "short_name": "0VEA",
     "hw_model": "HELTEC_MESH_NODE_T114",
@@ -2190,8 +2190,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-09-14T22:56:32.985117+00:00",
-    "snr": -14.0,
+    "last_heard": "2026-09-14T23:14:31.653737+00:00",
+    "snr": -16.5,
     "hops_away": 4,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
@@ -2542,9 +2542,9 @@
   "!12d5dc7e": {
     "id": "!12d5dc7e",
     "long_name": "timttmy-tag",
-    "last_heard": "2026-09-14T22:48:08.946410+00:00",
-    "snr": -16.0,
-    "hops_away": 5,
+    "last_heard": "2026-09-14T23:16:11.994785+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "Wtag",
     "hw_model": "WISMESH_TAG",
     "role": "CLIENT_MUTE"
@@ -3445,8 +3445,8 @@
   "!59543b8d": {
     "id": "!59543b8d",
     "long_name": "Torquay TQ2 ",
-    "last_heard": "2026-09-14T10:27:51.654181+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-09-14T23:15:11.777387+00:00",
+    "snr": -14.0,
     "hops_away": 2,
     "short_name": "GH",
     "hw_model": "SEEED_SOLAR_NODE",
@@ -8192,5 +8192,15 @@
     "short_name": "Myk3",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!3e381ce5": {
+    "id": "!3e381ce5",
+    "long_name": "Sennan Onan",
+    "last_heard": "2026-09-14T23:17:12.231076+00:00",
+    "snr": -13.75,
+    "hops_away": 6,
+    "short_name": "Sen1",
+    "hw_model": "HELTEC_WSL_V3",
+    "role": "CLIENT_BASE"
   }
 }
