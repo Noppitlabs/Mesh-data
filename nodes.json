@@ -139,9 +139,9 @@
   "!48f0db39": {
     "id": "!48f0db39",
     "long_name": "fptp",
-    "last_heard": "2026-09-14T05:02:48.187168+00:00",
-    "snr": -13.5,
-    "hops_away": 2,
+    "last_heard": "2026-09-14T05:32:58.586381+00:00",
+    "snr": -11.0,
+    "hops_away": 4,
     "short_name": "fptp",
     "hw_model": "TRACKER_T1000_E",
     "role": "CLIENT_MUTE"
