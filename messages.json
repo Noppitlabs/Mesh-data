@@ -1,5 +1,16 @@
 [
   {
+    "id": 708008814,
+    "from": "!9379383f",
+    "from_name": "!9379383f",
+    "to": "^all",
+    "text": "University is for sure back in full swing. Very busy traffic wise. Glad I'm only here for delivery",
+    "timestamp": "2026-09-14T11:28:19.574710+00:00",
+    "channel": 0,
+    "snr": -14.0,
+    "hops": 3
+  },
+  {
     "id": 1157391481,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -7.75,
     "hops": 3
-  },
-  {
-    "id": 1190604127,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "There is still a link but it doesn't have a strong signal",
-    "timestamp": "2026-09-07T13:38:27.414365+00:00",
-    "channel": 0,
-    "snr": -15.5,
-    "hops": 1
   }
 ]
