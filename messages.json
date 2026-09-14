@@ -1,5 +1,16 @@
 [
   {
+    "id": 1854441497,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Got some busy days ahead because I\u2019m going to be advertising my society to the freshers",
+    "timestamp": "2026-09-14T09:55:14.879497+00:00",
+    "channel": 0,
+    "snr": -13.5,
+    "hops": 4
+  },
+  {
     "id": 323052100,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 2
-  },
-  {
-    "id": 4055480982,
-    "from": "!74f0fbd0",
-    "from_name": "YT-1300f (M7OXC)",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-07T13:34:41.169790+00:00",
-    "channel": 0,
-    "snr": -15.0,
-    "hops": 3
   }
 ]
