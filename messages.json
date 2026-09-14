@@ -1,5 +1,16 @@
 [
   {
+    "id": 249486987,
+    "from": "!9eeb2a80",
+    "from_name": "Myke G3MYK mt3",
+    "to": "^all",
+    "text": "You at Exeter uni?",
+    "timestamp": "2026-09-14T10:15:32.292393+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 3
+  },
+  {
     "id": 1854441497,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.0,
     "hops": 1
-  },
-  {
-    "id": 67883994,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "How long ago was that proberbly before November 2025",
-    "timestamp": "2026-09-07T13:35:16.146016+00:00",
-    "channel": 0,
-    "snr": -17.75,
-    "hops": 2
   }
 ]
