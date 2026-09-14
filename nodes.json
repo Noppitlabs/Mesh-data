@@ -38,11 +38,11 @@
   },
   "!da655af4": {
     "id": "!da655af4",
-    "long_name": "PIXEL",
-    "last_heard": "2026-07-23T18:05:05.075376+00:00",
-    "snr": -11.5,
-    "hops_away": 7,
-    "short_name": "PIXL",
+    "long_name": "RETIRED",
+    "last_heard": "2026-09-14T02:39:23.142133+00:00",
+    "snr": 12.5,
+    "hops_away": 5,
+    "short_name": "RETD",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
   },
