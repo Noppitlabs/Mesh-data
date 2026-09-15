@@ -8052,9 +8052,9 @@
   "!c325c37a": {
     "id": "!c325c37a",
     "long_name": "Exmouth~East",
-    "last_heard": "2026-09-15T19:26:35.490189+00:00",
-    "snr": -9.0,
-    "hops_away": 1,
+    "last_heard": "2026-09-15T21:01:44.872755+00:00",
+    "snr": 11.5,
+    "hops_away": 2,
     "short_name": "R1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
