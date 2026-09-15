@@ -8202,5 +8202,15 @@
     "short_name": "Sen1",
     "hw_model": "HELTEC_WSL_V3",
     "role": "CLIENT_BASE"
+  },
+  "!09d4266c": {
+    "id": "!09d4266c",
+    "long_name": "Network-B",
+    "last_heard": "2026-09-15T06:46:59.410006+00:00",
+    "snr": -11.0,
+    "hops_away": 3,
+    "short_name": "TQR",
+    "hw_model": "HELTEC_V3",
+    "role": ""
   }
 }
