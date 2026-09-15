@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-09-15T05:51:18.894145+00:00",
-    "snr": 13.75,
-    "hops_away": 4,
+    "last_heard": "2026-09-15T06:50:03.670418+00:00",
+    "snr": -9.5,
+    "hops_away": 3,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
@@ -2170,8 +2170,8 @@
   "!fa9dc488": {
     "id": "!fa9dc488",
     "long_name": "MeshConsole@M9WAV.uk",
-    "last_heard": "2026-09-15T06:17:33.575934+00:00",
-    "snr": -12.0,
+    "last_heard": "2026-09-15T06:50:34.977651+00:00",
+    "snr": -12.5,
     "hops_away": 1,
     "short_name": "MESH",
     "hw_model": "LILYGO_TBEAM_S3_CORE",
