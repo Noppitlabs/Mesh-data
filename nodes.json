@@ -8002,9 +8002,9 @@
   "!16cd4a04": {
     "id": "!16cd4a04",
     "long_name": "G3MYK 4a04",
-    "last_heard": "2026-09-15T16:26:59.372956+00:00",
-    "snr": -13.75,
-    "hops_away": 4,
+    "last_heard": "2026-09-15T17:41:01.125310+00:00",
+    "snr": 13.0,
+    "hops_away": 1,
     "short_name": "Myk2",
     "hw_model": "T_DECK",
     "role": ""
