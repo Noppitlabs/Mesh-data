@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-15T13:14:05.000147+00:00",
+    "last_heard": "2026-09-15T13:15:05.052438+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -8212,5 +8212,12 @@
     "short_name": "TQR",
     "hw_model": "HELTEC_V3",
     "role": ""
+  },
+  "!9bdd1813": {
+    "id": "!9bdd1813",
+    "long_name": "!9bdd1813",
+    "last_heard": "2026-09-15T13:15:29.882001+00:00",
+    "snr": -17.5,
+    "hops_away": 6
   }
 }
