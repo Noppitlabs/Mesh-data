@@ -2542,9 +2542,9 @@
   "!12d5dc7e": {
     "id": "!12d5dc7e",
     "long_name": "timttmy-tag",
-    "last_heard": "2026-09-14T23:16:11.994785+00:00",
-    "snr": -14.5,
-    "hops_away": 4,
+    "last_heard": "2026-09-15T04:32:33.028107+00:00",
+    "snr": -18.0,
+    "hops_away": 6,
     "short_name": "Wtag",
     "hw_model": "WISMESH_TAG",
     "role": "CLIENT_MUTE"
