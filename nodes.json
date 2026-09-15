@@ -3251,9 +3251,9 @@
   "!cfb37091": {
     "id": "!cfb37091",
     "long_name": "RES1 Winkleigh Repeater \u2600\ufe0f",
-    "last_heard": "2026-09-03T17:04:48.111064+00:00",
-    "snr": -6.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-15T05:06:04.447906+00:00",
+    "snr": 12.5,
+    "hops_away": 3,
     "short_name": "RES1",
     "hw_model": "RAK4631",
     "role": ""
