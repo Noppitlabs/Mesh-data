@@ -39,9 +39,9 @@
   "!da655af4": {
     "id": "!da655af4",
     "long_name": "RETIRED",
-    "last_heard": "2026-09-14T04:54:57.331188+00:00",
-    "snr": -13.75,
-    "hops_away": 4,
+    "last_heard": "2026-09-15T02:33:00.123267+00:00",
+    "snr": 12.75,
+    "hops_away": 5,
     "short_name": "RETD",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_MUTE"
