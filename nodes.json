@@ -8176,8 +8176,8 @@
   "!0400aee8": {
     "id": "!0400aee8",
     "long_name": "Meshtastic aee8",
-    "last_heard": "2026-09-15T23:39:35.720309+00:00",
-    "snr": -8.0,
+    "last_heard": "2026-09-16T00:20:00.582839+00:00",
+    "snr": -6.75,
     "hops_away": 7,
     "short_name": "aee8",
     "hw_model": "HELTEC_V3",
