@@ -436,9 +436,9 @@
   "!11b740e4": {
     "id": "!11b740e4",
     "long_name": "EXMOUTH G8GON#",
-    "last_heard": "2026-09-16T06:38:41.232421+00:00",
-    "snr": 12.0,
-    "hops_away": 1,
+    "last_heard": "2026-09-16T09:38:37.647523+00:00",
+    "snr": -5.5,
+    "hops_away": 0,
     "short_name": "EX8#",
     "hw_model": "RAK4631",
     "role": "ROUTER"
