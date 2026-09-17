@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-17T23:42:31.387095+00:00",
+    "last_heard": "2026-09-17T23:44:02.961152+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -636,8 +636,8 @@
   "!40e4c5b1": {
     "id": "!40e4c5b1",
     "long_name": "The Black Swan - Mobile",
-    "last_heard": "2026-09-17T20:43:39.433004+00:00",
-    "snr": 13.25,
+    "last_heard": "2026-09-17T23:44:35.213194+00:00",
+    "snr": 11.25,
     "hops_away": 1,
     "short_name": "TBS",
     "hw_model": "TRACKER_T1000_E",
@@ -4780,8 +4780,8 @@
   "!2ddc7e6c": {
     "id": "!2ddc7e6c",
     "long_name": "!2ddc7e6c",
-    "last_heard": "2026-09-17T23:04:43.043745+00:00",
-    "snr": -15.5,
+    "last_heard": "2026-09-17T23:43:34.096116+00:00",
+    "snr": -16.25,
     "hops_away": 7
   },
   "!6e271f82": {
