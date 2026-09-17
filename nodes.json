@@ -8223,9 +8223,9 @@
   "!8575d6fc": {
     "id": "!8575d6fc",
     "long_name": "Uncl34nMesh",
-    "last_heard": "2026-09-16T15:14:15.863927+00:00",
-    "snr": -16.5,
-    "hops_away": 6,
+    "last_heard": "2026-09-17T17:34:03.874323+00:00",
+    "snr": -15.0,
+    "hops_away": 7,
     "short_name": "UNCL",
     "hw_model": "M5STACK_CARDPUTER_ADV",
     "role": ""
