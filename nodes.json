@@ -8247,9 +8247,9 @@
   "!bd4f0aac": {
     "id": "!bd4f0aac",
     "long_name": "KNESOLARNODE",
-    "last_heard": "2026-09-18T14:09:19.170439+00:00",
-    "snr": -15.5,
-    "hops_away": 6,
+    "last_heard": "2026-09-18T16:20:20.007484+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "KNES",
     "hw_model": "HELTEC_V3",
     "role": ""
