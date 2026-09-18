@@ -8257,9 +8257,9 @@
   "!da628680": {
     "id": "!da628680",
     "long_name": "KNE1",
-    "last_heard": "2026-09-18T15:23:40.452000+00:00",
-    "snr": -16.5,
-    "hops_away": 5,
+    "last_heard": "2026-09-18T16:23:32.833930+00:00",
+    "snr": -15.5,
+    "hops_away": 6,
     "short_name": "KNE1",
     "hw_model": "HELTEC_V3",
     "role": ""
