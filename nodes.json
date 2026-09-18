@@ -3802,9 +3802,9 @@
   "!f2454a5c": {
     "id": "!f2454a5c",
     "long_name": "TGN1",
-    "last_heard": "2026-09-14T08:05:23.388513+00:00",
-    "snr": -12.75,
-    "hops_away": 5,
+    "last_heard": "2026-09-18T00:00:54.347337+00:00",
+    "snr": -10.75,
+    "hops_away": 3,
     "short_name": "TGN1",
     "hw_model": "TBEAM",
     "role": ""
