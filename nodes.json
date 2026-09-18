@@ -8267,9 +8267,9 @@
   "!a0b582ac": {
     "id": "!a0b582ac",
     "long_name": "Meshtastic KNEMobile1",
-    "last_heard": "2026-09-18T15:14:32.947013+00:00",
-    "snr": -15.25,
-    "hops_away": 5,
+    "last_heard": "2026-09-18T16:16:43.781677+00:00",
+    "snr": -11.75,
+    "hops_away": 6,
     "short_name": "KNM1",
     "hw_model": "T_DECK",
     "role": ""
