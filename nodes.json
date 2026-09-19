@@ -8156,12 +8156,12 @@
   "!a9fd88c3": {
     "id": "!a9fd88c3",
     "long_name": "Meshtastic d104",
-    "last_heard": "2026-09-10T12:26:35.684598+00:00",
-    "snr": -10.0,
-    "hops_away": 4,
+    "last_heard": "2026-09-19T18:20:14.962902+00:00",
+    "snr": 10.75,
+    "hops_away": 5,
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
-    "role": ""
+    "role": "CLIENT_MUTE"
   },
   "!a511f9c0": {
     "id": "!a511f9c0",
