@@ -8012,9 +8012,9 @@
   "!85c6ecb7": {
     "id": "!85c6ecb7",
     "long_name": "TA26 RAK YAGI on Rotator",
-    "last_heard": "2026-09-18T21:10:20.223650+00:00",
-    "snr": 13.5,
-    "hops_away": 5,
+    "last_heard": "2026-09-19T00:10:25.834515+00:00",
+    "snr": -7.75,
+    "hops_away": 4,
     "short_name": "TA2Y",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
