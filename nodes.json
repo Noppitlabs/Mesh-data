@@ -79,8 +79,8 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-09-19T22:57:54.008061+00:00",
-    "snr": -11.0,
+    "last_heard": "2026-09-19T23:10:03.094585+00:00",
+    "snr": -8.75,
     "hops_away": 3,
     "short_name": "EXw",
     "hw_model": "RAK4631",
@@ -406,8 +406,8 @@
   "!e58e66d3": {
     "id": "!e58e66d3",
     "long_name": "Ex5R Dave M0JQH",
-    "last_heard": "2026-09-19T22:11:20.573354+00:00",
-    "snr": -9.5,
+    "last_heard": "2026-09-19T23:10:15.711226+00:00",
+    "snr": -8.75,
     "hops_away": 5,
     "short_name": "EX5R",
     "hw_model": "RAK4631",
