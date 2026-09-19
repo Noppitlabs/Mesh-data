@@ -129,8 +129,8 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-09-19T23:47:07.203064+00:00",
-    "snr": -9.25,
+    "last_heard": "2026-09-19T23:51:33.628243+00:00",
+    "snr": -19.25,
     "hops_away": 4,
     "short_name": "MOHS",
     "hw_model": "RAK4631",
@@ -2190,8 +2190,8 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-09-19T23:37:06.388261+00:00",
-    "snr": -12.75,
+    "last_heard": "2026-09-19T23:51:42.290710+00:00",
+    "snr": -13.75,
     "hops_away": 4,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
