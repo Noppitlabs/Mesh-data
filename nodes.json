@@ -906,9 +906,9 @@
   "!9ea1fe80": {
     "id": "!9ea1fe80",
     "long_name": "WOODY",
-    "last_heard": "2026-09-14T06:35:59.325593+00:00",
-    "snr": 10.75,
-    "hops_away": 6,
+    "last_heard": "2026-09-20T23:15:57.684852+00:00",
+    "snr": -9.75,
+    "hops_away": 7,
     "short_name": "EDWD",
     "hw_model": "HELTEC_V3",
     "role": ""
