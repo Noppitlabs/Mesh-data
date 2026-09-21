@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-09-21T11:18:26.609898+00:00",
-    "snr": -13.25,
-    "hops_away": 3,
+    "last_heard": "2026-09-21T11:20:12.312952+00:00",
+    "snr": -14.0,
+    "hops_away": 1,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -8297,9 +8297,9 @@
   "!db98d761": {
     "id": "!db98d761",
     "long_name": "TA26 RAK YAGI on Rotator",
-    "last_heard": "2026-09-21T08:11:40.743086+00:00",
-    "snr": -19.25,
-    "hops_away": 5,
+    "last_heard": "2026-09-21T11:20:03.698357+00:00",
+    "snr": -13.75,
+    "hops_away": 4,
     "short_name": "TA2Y",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
