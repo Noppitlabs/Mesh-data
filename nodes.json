@@ -8293,5 +8293,15 @@
     "last_heard": "2026-09-21T04:08:04.011224+00:00",
     "snr": -9.25,
     "hops_away": 5
+  },
+  "!db98d761": {
+    "id": "!db98d761",
+    "long_name": "TA26 RAK YAGI on Rotator",
+    "last_heard": "2026-09-21T08:11:40.743086+00:00",
+    "snr": -19.25,
+    "hops_away": 5,
+    "short_name": "TA2Y",
+    "hw_model": "RAK4631",
+    "role": "CLIENT_BASE"
   }
 }
