@@ -8221,10 +8221,13 @@
   },
   "!9bdd1813": {
     "id": "!9bdd1813",
-    "long_name": "!9bdd1813",
-    "last_heard": "2026-09-20T22:45:31.427224+00:00",
-    "snr": -9.5,
-    "hops_away": 6
+    "long_name": "st kew solartastic repeater",
+    "last_heard": "2026-09-21T19:23:55.875265+00:00",
+    "snr": -10.0,
+    "hops_away": 7,
+    "short_name": "st k",
+    "hw_model": "THINKNODE_M6",
+    "role": ""
   },
   "!8575d6fc": {
     "id": "!8575d6fc",
