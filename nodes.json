@@ -49,9 +49,9 @@
   "!da56e94c": {
     "id": "!da56e94c",
     "long_name": "Withy EX8 Ian",
-    "last_heard": "2026-09-22T10:44:42.244176+00:00",
-    "snr": 12.5,
-    "hops_away": 3,
+    "last_heard": "2026-09-22T10:50:15.736643+00:00",
+    "snr": -18.75,
+    "hops_away": 1,
     "short_name": "WEI",
     "hw_model": "HELTEC_V3",
     "role": ""
@@ -2052,9 +2052,9 @@
   "!ea8fe024": {
     "id": "!ea8fe024",
     "long_name": "MQT base 01.4",
-    "last_heard": "2026-09-22T09:58:19.424723+00:00",
-    "snr": 12.5,
-    "hops_away": 6,
+    "last_heard": "2026-09-22T10:50:03.671515+00:00",
+    "snr": 11.75,
+    "hops_away": 5,
     "short_name": "MQT4",
     "hw_model": "SEEED_XIAO_S3",
     "role": ""
