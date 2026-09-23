@@ -8326,5 +8326,15 @@
     "short_name": "TBS1",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!e0ce05c0": {
+    "id": "!e0ce05c0",
+    "long_name": "The Black Swan",
+    "last_heard": "2026-09-23T10:43:16.288904+00:00",
+    "snr": -16.5,
+    "hops_away": 1,
+    "short_name": "TBS4",
+    "hw_model": "HELTEC_V2_0",
+    "role": ""
   }
 }
