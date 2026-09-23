@@ -8330,9 +8330,9 @@
   "!e0ce05c0": {
     "id": "!e0ce05c0",
     "long_name": "The Black Swan",
-    "last_heard": "2026-09-23T10:49:42.357009+00:00",
-    "snr": 11.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-23T10:50:08.374517+00:00",
+    "snr": -16.25,
+    "hops_away": 1,
     "short_name": "TBS4",
     "hw_model": "HELTEC_V2_0",
     "role": ""
