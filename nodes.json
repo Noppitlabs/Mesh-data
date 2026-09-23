@@ -2,9 +2,9 @@
   "!b03d33e8": {
     "id": "!b03d33e8",
     "long_name": "Meshtastic 33e8",
-    "last_heard": "2026-09-23T23:17:13.821395+00:00",
-    "snr": -10.75,
-    "hops_away": 1,
+    "last_heard": "2026-09-23T23:29:39.283847+00:00",
+    "snr": 13.5,
+    "hops_away": 4,
     "short_name": "33e8",
     "hw_model": "HELTEC_V3",
     "role": ""
