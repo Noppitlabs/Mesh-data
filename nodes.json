@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-23T02:39:39.887662+00:00",
+    "last_heard": "2026-09-23T02:40:39.925455+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -7482,9 +7482,9 @@
   "!cfed5f57": {
     "id": "!cfed5f57",
     "long_name": "Https://torbayars.org",
-    "last_heard": "2026-09-22T23:08:55.319016+00:00",
-    "snr": 11.75,
-    "hops_away": 5,
+    "last_heard": "2026-09-23T02:40:05.531745+00:00",
+    "snr": -16.25,
+    "hops_away": 4,
     "short_name": "TARS",
     "hw_model": "RAK4631",
     "role": ""
