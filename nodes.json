@@ -3438,9 +3438,9 @@
   "!da567ab8": {
     "id": "!da567ab8",
     "long_name": "puffin billy--(Tim)",
-    "last_heard": "2026-09-20T06:48:46.596896+00:00",
-    "snr": -5.25,
-    "hops_away": 2,
+    "last_heard": "2026-09-23T01:01:16.685528+00:00",
+    "snr": -16.0,
+    "hops_away": 3,
     "short_name": "pb",
     "hw_model": "HELTEC_V3",
     "role": ""
