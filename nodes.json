@@ -8306,5 +8306,15 @@
     "short_name": "TA2Y",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
+  },
+  "!812edd6f": {
+    "id": "!812edd6f",
+    "long_name": "Exeter Middlemoor Base",
+    "last_heard": "2026-09-23T07:52:48.927014+00:00",
+    "snr": -17.0,
+    "hops_away": 4,
+    "short_name": "EXmm",
+    "hw_model": 129,
+    "role": "CLIENT_BASE"
   }
 }
