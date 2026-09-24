@@ -19,9 +19,9 @@
   "!04c588a4": {
     "id": "!04c588a4",
     "long_name": "G1GZG - Mike",
-    "last_heard": "2026-09-24T03:18:40.487062+00:00",
-    "snr": -18.0,
-    "hops_away": 3,
+    "last_heard": "2026-09-24T03:20:28.156108+00:00",
+    "snr": -11.0,
+    "hops_away": 2,
     "short_name": "GZG",
     "hw_model": "HELTEC_V4",
     "role": ""
@@ -3438,7 +3438,7 @@
   "!da567ab8": {
     "id": "!da567ab8",
     "long_name": "puffin billy--(Tim)",
-    "last_heard": "2026-09-24T03:14:05.124549+00:00",
+    "last_heard": "2026-09-24T03:20:04.914590+00:00",
     "snr": -10.75,
     "hops_away": 2,
     "short_name": "pb",
