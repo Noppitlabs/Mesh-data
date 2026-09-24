@@ -1,5 +1,16 @@
 [
   {
+    "id": 643393109,
+    "from": "!77673dd4",
+    "from_name": "Exeter Middermoor Base",
+    "to": "^all",
+    "text": "Now that was sent from exeter. New node workimg well then. Thanks ",
+    "timestamp": "2026-09-24T21:18:10.956356+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 5
+  },
+  {
     "id": 690821578,
     "from": "!fbd990c6",
     "from_name": "The Black Swan \ud83d\udd0c\ud83c\udf01\ud83d\udce1",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 2
-  },
-  {
-    "id": 4068945035,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-14T11:28:51.658262+00:00",
-    "channel": 0,
-    "snr": -15.75,
-    "hops": 1
   }
 ]
