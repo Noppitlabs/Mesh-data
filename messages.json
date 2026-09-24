@@ -1,5 +1,16 @@
 [
   {
+    "id": 833634046,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "CDFW Meshtastic West Cardiff = RIP",
+    "timestamp": "2026-09-24T14:54:32.325422+00:00",
+    "channel": 0,
+    "snr": -16.75,
+    "hops": 3
+  },
+  {
     "id": 1856545244,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.25,
     "hops": 3
-  },
-  {
-    "id": 1854441497,
-    "from": "!800c7b8c",
-    "from_name": "Maia mobile",
-    "to": "^all",
-    "text": "Got some busy days ahead because I\u2019m going to be advertising my society to the freshers",
-    "timestamp": "2026-09-14T09:55:14.879497+00:00",
-    "channel": 0,
-    "snr": -13.5,
-    "hops": 4
   }
 ]
