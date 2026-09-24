@@ -8162,9 +8162,9 @@
   "!a9fd88c3": {
     "id": "!a9fd88c3",
     "long_name": "Meshtastic d104",
-    "last_heard": "2026-09-22T22:47:10.006731+00:00",
-    "snr": 11.0,
-    "hops_away": 5,
+    "last_heard": "2026-09-24T22:14:46.590675+00:00",
+    "snr": -15.25,
+    "hops_away": 7,
     "short_name": "d104",
     "hw_model": "THINKNODE_M5",
     "role": "CLIENT_MUTE"
