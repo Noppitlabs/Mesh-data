@@ -8068,9 +8068,9 @@
   "!e5446b7b": {
     "id": "!e5446b7b",
     "long_name": "Meshtastic 6b7b",
-    "last_heard": "2026-09-24T00:34:05.546144+00:00",
-    "snr": -13.5,
-    "hops_away": 2,
+    "last_heard": "2026-09-24T12:34:25.120960+00:00",
+    "snr": -13.75,
+    "hops_away": 3,
     "short_name": "6b7b",
     "hw_model": "RAK4631",
     "role": ""
