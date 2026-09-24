@@ -1,5 +1,16 @@
 [
   {
+    "id": 4149056785,
+    "from": "!77673dd4",
+    "from_name": "Exeter Middermoor Base",
+    "to": "^all",
+    "text": "Test new node in loft",
+    "timestamp": "2026-09-24T19:52:21.573108+00:00",
+    "channel": 0,
+    "snr": -12.25,
+    "hops": 4
+  },
+  {
     "id": 833634046,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.0,
     "hops": 1
-  },
-  {
-    "id": 249486987,
-    "from": "!9eeb2a80",
-    "from_name": "Myke G3MYK mt3",
-    "to": "^all",
-    "text": "You at Exeter uni?",
-    "timestamp": "2026-09-14T10:15:32.292393+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 3
   }
 ]
