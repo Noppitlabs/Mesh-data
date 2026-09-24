@@ -7998,9 +7998,9 @@
   "!98477427": {
     "id": "!98477427",
     "long_name": "Maia Base",
-    "last_heard": "2026-09-24T18:50:43.602005+00:00",
-    "snr": -12.5,
-    "hops_away": 4,
+    "last_heard": "2026-09-24T21:50:36.102099+00:00",
+    "snr": -15.5,
+    "hops_away": 3,
     "short_name": "Maia",
     "hw_model": "HELTEC_V3",
     "role": "CLIENT_BASE"
