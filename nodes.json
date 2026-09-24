@@ -8182,9 +8182,9 @@
   "!0400aee8": {
     "id": "!0400aee8",
     "long_name": "Meshtastic aee8",
-    "last_heard": "2026-09-24T03:58:45.645240+00:00",
-    "snr": -11.0,
-    "hops_away": 7,
+    "last_heard": "2026-09-24T04:14:55.458210+00:00",
+    "snr": -10.75,
+    "hops_away": 5,
     "short_name": "aee8",
     "hw_model": "HELTEC_V3",
     "role": ""
