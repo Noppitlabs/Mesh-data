@@ -1,5 +1,16 @@
 [
   {
+    "id": 922866104,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Nice minds only a \u00a310 job, but if that doesn\u2019t work out, I\u2019ll look at this one. Also looking to install POE to run my M7 outside and a waterproof box.",
+    "timestamp": "2026-09-25T15:00:01.791753+00:00",
+    "channel": 0,
+    "snr": 11.0,
+    "hops": 5
+  },
+  {
     "id": 1002768872,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-22T09:37:02.800769+00:00",
     "channel": 0,
     "snr": 12.5,
-    "hops": 2
-  },
-  {
-    "id": 3633175926,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "\ud83d\udc4b",
-    "timestamp": "2026-09-22T09:36:56.441554+00:00",
-    "channel": 0,
-    "snr": 12.25,
     "hops": 2
   }
 ]
