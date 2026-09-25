@@ -1,5 +1,16 @@
 [
   {
+    "id": 304547578,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "I also look after a MeshCore network",
+    "timestamp": "2026-09-25T15:06:06.815842+00:00",
+    "channel": 0,
+    "snr": -13.0,
+    "hops": 2
+  },
+  {
     "id": 854439308,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 3
-  },
-  {
-    "id": 1856545244,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "It has been converted to a Meshcore Repeater",
-    "timestamp": "2026-09-24T14:51:57.190374+00:00",
-    "channel": 0,
-    "snr": 14.5,
-    "hops": 2
   }
 ]
