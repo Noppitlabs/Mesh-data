@@ -7719,9 +7719,9 @@
   "!4ba77713": {
     "id": "!4ba77713",
     "long_name": "Meshtastic d988",
-    "last_heard": "2026-09-25T02:04:26.844231+00:00",
+    "last_heard": "2026-09-25T03:22:05.671869+00:00",
     "snr": -13.0,
-    "hops_away": 5,
+    "hops_away": 4,
     "short_name": "d988",
     "hw_model": "THINKNODE_M5",
     "role": "CLIENT_MUTE"
