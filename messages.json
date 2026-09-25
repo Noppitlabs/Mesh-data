@@ -1,5 +1,16 @@
 [
   {
+    "id": 471383978,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "It was discovered in the assembly process so they have issued guidance on how to deal with it",
+    "timestamp": "2026-09-25T13:11:25.855661+00:00",
+    "channel": 0,
+    "snr": -14.75,
+    "hops": 1
+  },
+  {
     "id": 4288360053,
     "from": "!77673dd4",
     "from_name": "Exeter Middermoor Base",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.0,
     "hops": 5
-  },
-  {
-    "id": 542699303,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-15T19:43:38.757464+00:00",
-    "channel": 0,
-    "snr": -15.25,
-    "hops": 3
   }
 ]
