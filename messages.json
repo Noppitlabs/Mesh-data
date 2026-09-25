@@ -1,5 +1,16 @@
 [
   {
+    "id": 1436091229,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "It has a 6dbi McGill Omni on it",
+    "timestamp": "2026-09-25T14:51:39.327364+00:00",
+    "channel": 0,
+    "snr": -17.75,
+    "hops": 1
+  },
+  {
     "id": 630065538,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.5,
     "hops": 1
-  },
-  {
-    "id": 1300572934,
-    "from": "!9ea1b288",
-    "from_name": "SwallowsNest - Adam Cullompton",
-    "to": "^all",
-    "text": "Morning",
-    "timestamp": "2026-09-22T08:04:42.573964+00:00",
-    "channel": 0,
-    "snr": -19.0,
-    "hops": 4
   }
 ]
