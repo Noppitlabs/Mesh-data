@@ -1,5 +1,16 @@
 [
   {
+    "id": 1301105957,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "That's good, are you using a Client or Client_Mute node through your Client_Base. If you do, aslo favorite them also",
+    "timestamp": "2026-09-25T14:18:02.802838+00:00",
+    "channel": 0,
+    "snr": 10.25,
+    "hops": 2
+  },
+  {
     "id": 527416587,
     "from": "!77673dd4",
     "from_name": "Exeter Middermoor Base",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.75,
     "hops": 3
-  },
-  {
-    "id": 1360673552,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Yes RX in Exmouth \ud83d\udc4b",
-    "timestamp": "2026-09-18T09:32:32.193681+00:00",
-    "channel": 0,
-    "snr": -12.5,
-    "hops": 1
   }
 ]
