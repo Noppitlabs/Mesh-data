@@ -1,5 +1,16 @@
 [
   {
+    "id": 1962232492,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "we got RF to work for MT",
+    "timestamp": "2026-09-25T15:07:28.028898+00:00",
+    "channel": 0,
+    "snr": 10.5,
+    "hops": 2
+  },
+  {
     "id": 1293437213,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-24T20:58:13.692827+00:00",
     "channel": 0,
     "snr": -2.5,
-    "hops": 1
-  },
-  {
-    "id": 998403103,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "RX in Exmouth",
-    "timestamp": "2026-09-24T19:52:41.920969+00:00",
-    "channel": 0,
-    "snr": -11.25,
     "hops": 1
   }
 ]
