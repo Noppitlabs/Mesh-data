@@ -1,5 +1,16 @@
 [
   {
+    "id": 3135778306,
+    "from": "!77673dd4",
+    "from_name": "Exeter Middermoor Base",
+    "to": "^all",
+    "text": "topic starter. I had ordered a outdoor node but changed my mind last minute. I ordered an Elecrow M7. It\u2019s now in my loft acting as a BC. So blown away by its performance. Anyone else using Elecrow.",
+    "timestamp": "2026-09-25T09:28:50.094597+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 3
+  },
+  {
     "id": 2102263397,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -9.75,
     "hops": 3
-  },
-  {
-    "id": 1456169932,
-    "from": "!9eeb2a80",
-    "from_name": "Myke G3MYK mt3",
-    "to": "^all",
-    "text": "Received Exeter",
-    "timestamp": "2026-09-15T10:33:24.992670+00:00",
-    "channel": 0,
-    "snr": -9.75,
-    "hops": 4
   }
 ]
