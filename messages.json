@@ -1,5 +1,16 @@
 [
   {
+    "id": 1555976669,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "MT is better for Tracking, MC is better for messages",
+    "timestamp": "2026-09-25T15:08:36.504028+00:00",
+    "channel": 0,
+    "snr": -14.0,
+    "hops": 1
+  },
+  {
     "id": 210399657,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 10.75,
     "hops": 2
-  },
-  {
-    "id": 643393109,
-    "from": "!77673dd4",
-    "from_name": "Exeter Middermoor Base",
-    "to": "^all",
-    "text": "Now that was sent from exeter. New node workimg well then. Thanks ",
-    "timestamp": "2026-09-24T21:18:10.956356+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 5
   }
 ]
