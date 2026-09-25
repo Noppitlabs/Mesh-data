@@ -1,5 +1,16 @@
 [
   {
+    "id": 630065538,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "4.25 snr also ",
+    "timestamp": "2026-09-25T14:50:26.056825+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 4
+  },
+  {
     "id": 3516586300,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -19.0,
     "hops": 4
-  },
-  {
-    "id": 1081993947,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "That's good the latest Beta is fine but don't go to the Alpha yet",
-    "timestamp": "2026-09-21T15:25:34.605529+00:00",
-    "channel": 0,
-    "snr": 10.75,
-    "hops": 3
   }
 ]
