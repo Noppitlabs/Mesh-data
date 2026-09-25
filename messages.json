@@ -1,5 +1,16 @@
 [
   {
+    "id": 1162870743,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "And meshcore or meshtasic ",
+    "timestamp": "2026-09-25T15:03:40.492848+00:00",
+    "channel": 0,
+    "snr": -12.5,
+    "hops": 4
+  },
+  {
     "id": 3718144647,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-24T13:21:11.832781+00:00",
     "channel": 0,
     "snr": -12.5,
-    "hops": 1
-  },
-  {
-    "id": 1085308667,
-    "from": "!f1a76014",
-    "from_name": "The Black Swan",
-    "to": "^all",
-    "text": "test",
-    "timestamp": "2026-09-23T15:38:06.551116+00:00",
-    "channel": 0,
-    "snr": -4.5,
     "hops": 1
   }
 ]
