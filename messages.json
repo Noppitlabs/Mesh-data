@@ -1,5 +1,16 @@
 [
   {
+    "id": 1683512359,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-09-25T14:44:10.504641+00:00",
+    "channel": 0,
+    "snr": -14.5,
+    "hops": 1
+  },
+  {
     "id": 1683512358,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 3
-  },
-  {
-    "id": 1970356831,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Paul what version of FW are you currently running",
-    "timestamp": "2026-09-21T13:04:36.439915+00:00",
-    "channel": 0,
-    "snr": -16.0,
-    "hops": 1
   }
 ]
