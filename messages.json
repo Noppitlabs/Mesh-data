@@ -1,5 +1,16 @@
 [
   {
+    "id": 955542720,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "If Exmm is your only Client then try it in that mode, rather than Client_Base",
+    "timestamp": "2026-09-25T14:25:19.384328+00:00",
+    "channel": 0,
+    "snr": -15.5,
+    "hops": 2
+  },
+  {
     "id": 2062471797,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-18T13:39:47.621629+00:00",
     "channel": 0,
     "snr": 11.75,
-    "hops": 4
-  },
-  {
-    "id": 1908964579,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Is there anyone out there",
-    "timestamp": "2026-09-18T13:39:13.045695+00:00",
-    "channel": 0,
-    "snr": -15.25,
     "hops": 4
   }
 ]
