@@ -1,5 +1,16 @@
 [
   {
+    "id": 2015902544,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "When owners of the other Repeaters update their Direct Nodes you will see your hop count drop",
+    "timestamp": "2026-09-25T14:19:42.352477+00:00",
+    "channel": 0,
+    "snr": 10.0,
+    "hops": 3
+  },
+  {
     "id": 1301105957,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -12.5,
     "hops": 1
-  },
-  {
-    "id": 560449535,
-    "from": "!2bc4dbbe",
-    "from_name": "Chris Blue G3CJL",
-    "to": "^all",
-    "text": "Thanks",
-    "timestamp": "2026-09-18T09:33:01.695707+00:00",
-    "channel": 0,
-    "snr": -11.75,
-    "hops": 3
   }
 ]
