@@ -1,5 +1,16 @@
 [
   {
+    "id": 551095393,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Client repeats messages and two many nodes that repeat can cause problems in close proximity to each other",
+    "timestamp": "2026-09-25T14:30:37.103992+00:00",
+    "channel": 0,
+    "snr": -17.0,
+    "hops": 2
+  },
+  {
     "id": 1233027603,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.0,
     "hops": 4
-  },
-  {
-    "id": 1672616080,
-    "from": "!433e3450",
-    "from_name": "Simcom Wildcard ",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-18T18:13:34.483588+00:00",
-    "channel": 0,
-    "snr": -15.5,
-    "hops": 7
   }
 ]
