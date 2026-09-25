@@ -1,5 +1,16 @@
 [
   {
+    "id": 2062471797,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "To start off, Routers are unmessegable so should not be used in any Client situation",
+    "timestamp": "2026-09-25T14:23:45.148606+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 1
+  },
+  {
     "id": 619516247,
     "from": "!77673dd4",
     "from_name": "Exeter Middermoor Base",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.25,
     "hops": 4
-  },
-  {
-    "id": 2029482672,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Chris you may need to consider increasing your hops to 7 which is the maximum",
-    "timestamp": "2026-09-18T09:38:30.442097+00:00",
-    "channel": 0,
-    "snr": -13.0,
-    "hops": 2
   }
 ]
