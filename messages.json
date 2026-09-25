@@ -1,5 +1,16 @@
 [
   {
+    "id": 416262460,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "New messages only",
+    "timestamp": "2026-09-25T14:33:44.158791+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 1
+  },
+  {
     "id": 1463359616,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.75,
     "hops": 3
-  },
-  {
-    "id": 513788224,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Test from West Down Beacon",
-    "timestamp": "2026-09-19T10:19:49.072789+00:00",
-    "channel": 0,
-    "snr": -13.5,
-    "hops": 1
   }
 ]
