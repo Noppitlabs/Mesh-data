@@ -1,5 +1,16 @@
 [
   {
+    "id": 798343208,
+    "from": "!c325c37a",
+    "from_name": "Exmouth~East",
+    "to": "^all",
+    "text": "https://meshtastic.org/docs/configuration/tips/",
+    "timestamp": "2026-09-25T14:35:50.488828+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 1
+  },
+  {
     "id": 416262460,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -16.5,
     "hops": 1
-  },
-  {
-    "id": 134119183,
-    "from": "!0414aa14",
-    "from_name": "M0PCZ/p",
-    "to": "^all",
-    "text": "Test Heavitree pleasure ground Exeter",
-    "timestamp": "2026-09-21T13:02:05.672596+00:00",
-    "channel": 0,
-    "snr": -16.75,
-    "hops": 3
   }
 ]
