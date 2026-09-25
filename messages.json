@@ -1,5 +1,16 @@
 [
   {
+    "id": 1862199356,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Sounds like you flying with new toys",
+    "timestamp": "2026-09-25T14:42:27.597479+00:00",
+    "channel": 0,
+    "snr": -17.0,
+    "hops": 1
+  },
+  {
     "id": 1366105286,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-21T13:03:42.936734+00:00",
     "channel": 0,
     "snr": -17.75,
-    "hops": 3
-  },
-  {
-    "id": 1350010104,
-    "from": "!0414aa14",
-    "from_name": "M0PCZ/p",
-    "to": "^all",
-    "text": "Qsl to both thanks thinknode sat on dash.",
-    "timestamp": "2026-09-21T13:03:33.235923+00:00",
-    "channel": 0,
-    "snr": -17.25,
     "hops": 3
   }
 ]
