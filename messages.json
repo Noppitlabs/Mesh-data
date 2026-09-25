@@ -1,5 +1,16 @@
 [
   {
+    "id": 3516586300,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Ah nice and thats a coincidence. Thats the one i am using to compare rssi when the new antenna arrives. -85 at the moment 0 hops. Is yours high up?",
+    "timestamp": "2026-09-25T14:47:35.797091+00:00",
+    "channel": 0,
+    "snr": -14.75,
+    "hops": 4
+  },
+  {
     "id": 1683512359,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-21T15:25:34.605529+00:00",
     "channel": 0,
     "snr": 10.75,
-    "hops": 3
-  },
-  {
-    "id": 113858247,
-    "from": "!0414aa14",
-    "from_name": "M0PCZ/p",
-    "to": "^all",
-    "text": "2.7.15",
-    "timestamp": "2026-09-21T13:43:09.425999+00:00",
-    "channel": 0,
-    "snr": -16.75,
     "hops": 3
   }
 ]
