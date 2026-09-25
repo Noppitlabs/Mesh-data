@@ -1,5 +1,16 @@
 [
   {
+    "id": 965304644,
+    "from": "!77673dd4",
+    "from_name": "Exeter Middermoor Base",
+    "to": "^all",
+    "text": "I also have 2 elecrow m5\u2019s. The m7 is permently powered in the loft and is the base client. ",
+    "timestamp": "2026-09-25T14:26:49.584758+00:00",
+    "channel": 0,
+    "snr": -8.0,
+    "hops": 4
+  },
+  {
     "id": 955542720,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-18T13:40:44.521954+00:00",
     "channel": 0,
     "snr": -19.5,
-    "hops": 4
-  },
-  {
-    "id": 742380426,
-    "from": "!4cacf57e",
-    "from_name": "Chris Orange G3CJL",
-    "to": "^all",
-    "text": "Yes.",
-    "timestamp": "2026-09-18T13:39:47.621629+00:00",
-    "channel": 0,
-    "snr": 11.75,
     "hops": 4
   }
 ]
