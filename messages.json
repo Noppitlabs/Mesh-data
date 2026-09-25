@@ -1,5 +1,16 @@
 [
   {
+    "id": 1293437213,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Best to run both then? ",
+    "timestamp": "2026-09-25T15:07:07.107120+00:00",
+    "channel": 0,
+    "snr": -15.25,
+    "hops": 4
+  },
+  {
     "id": 657785685,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.25,
     "hops": 1
-  },
-  {
-    "id": 4149056785,
-    "from": "!77673dd4",
-    "from_name": "Exeter Middermoor Base",
-    "to": "^all",
-    "text": "Test new node in loft",
-    "timestamp": "2026-09-24T19:52:21.573108+00:00",
-    "channel": 0,
-    "snr": -12.25,
-    "hops": 4
   }
 ]
