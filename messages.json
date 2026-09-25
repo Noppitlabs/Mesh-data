@@ -1,5 +1,16 @@
 [
   {
+    "id": 1347971831,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Have you set your Direct Nodes as favourites",
+    "timestamp": "2026-09-25T14:07:40.527462+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 2
+  },
+  {
     "id": 517144278,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -14.5,
     "hops": 3
-  },
-  {
-    "id": 54299634,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "After testing the Alpha FW I reverted back to the staple beta 2.7.26 FW",
-    "timestamp": "2026-09-17T18:49:48.083080+00:00",
-    "channel": 0,
-    "snr": -14.75,
-    "hops": 1
   }
 ]
