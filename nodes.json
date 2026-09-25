@@ -6143,9 +6143,9 @@
   "!ea8f8b48": {
     "id": "!ea8f8b48",
     "long_name": "PIXEL",
-    "last_heard": "2026-09-24T12:44:17.270109+00:00",
-    "snr": -15.25,
-    "hops_away": 5,
+    "last_heard": "2026-09-25T00:42:10.600708+00:00",
+    "snr": -16.5,
+    "hops_away": 6,
     "short_name": "PIXL",
     "hw_model": "SEEED_XIAO_S3",
     "role": "CLIENT_MUTE"
