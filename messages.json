@@ -1,5 +1,16 @@
 [
   {
+    "id": 854439308,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "MQTT is set as ignored on all the Routers and my own nodes",
+    "timestamp": "2026-09-25T15:05:02.720194+00:00",
+    "channel": 0,
+    "snr": -12.75,
+    "hops": 2
+  },
+  {
     "id": 3507043382,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-24T14:51:57.190374+00:00",
     "channel": 0,
     "snr": 14.5,
-    "hops": 2
-  },
-  {
-    "id": 2059470942,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "It been very quite for most of this year",
-    "timestamp": "2026-09-24T13:22:40.973695+00:00",
-    "channel": 0,
-    "snr": -2.75,
     "hops": 2
   }
 ]
