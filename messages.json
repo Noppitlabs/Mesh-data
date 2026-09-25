@@ -1,5 +1,16 @@
 [
   {
+    "id": 619516247,
+    "from": "!77673dd4",
+    "from_name": "Exeter Middermoor Base",
+    "to": "^all",
+    "text": "Fab. From what i can tell you should only set your device to a repeater if its up a very big tree / mast?",
+    "timestamp": "2026-09-25T14:21:35.387589+00:00",
+    "channel": 0,
+    "snr": -17.0,
+    "hops": 6
+  },
+  {
     "id": 2015902544,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -13.0,
     "hops": 2
-  },
-  {
-    "id": 369677904,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Different Node that time",
-    "timestamp": "2026-09-18T09:33:45.583971+00:00",
-    "channel": 0,
-    "snr": -12.5,
-    "hops": 1
   }
 ]
