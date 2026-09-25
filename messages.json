@@ -1,5 +1,16 @@
 [
   {
+    "id": 1366105286,
+    "from": "!4ba77713",
+    "from_name": "Meshtastic d988",
+    "to": "^all",
+    "text": "Signal to my node is great around digby and middlemoor was doing so testing today. Already managing to make some zero hops to Exmouth. New big antenna ordered also",
+    "timestamp": "2026-09-25T14:41:13.818649+00:00",
+    "channel": 0,
+    "snr": 11.75,
+    "hops": 5
+  },
+  {
     "id": 531808350,
     "from": "!4ba77713",
     "from_name": "Meshtastic d988",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.25,
     "hops": 3
-  },
-  {
-    "id": 1562545464,
-    "from": "!4cacf57e",
-    "from_name": "Chris Orange G3CJL",
-    "to": "^all",
-    "text": "Heard at top of University hill",
-    "timestamp": "2026-09-21T13:02:55.686534+00:00",
-    "channel": 0,
-    "snr": -16.0,
-    "hops": 5
   }
 ]
