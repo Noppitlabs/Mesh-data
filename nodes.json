@@ -8360,9 +8360,9 @@
   "!77673dd4": {
     "id": "!77673dd4",
     "long_name": "Exeter Middermoor Base",
-    "last_heard": "2026-09-26T08:55:35.827998+00:00",
-    "snr": -13.75,
-    "hops_away": 3,
+    "last_heard": "2026-09-26T09:39:31.532169+00:00",
+    "snr": -0.75,
+    "hops_away": 4,
     "short_name": "EXmm",
     "hw_model": 129,
     "role": "CLIENT_BASE"
