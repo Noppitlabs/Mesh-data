@@ -8251,10 +8251,13 @@
   },
   "!4d01399a": {
     "id": "!4d01399a",
-    "long_name": "!4d01399a",
-    "last_heard": "2026-09-16T23:16:05.931787+00:00",
-    "snr": -14.25,
-    "hops_away": 3
+    "long_name": "BTY2 \ud83d\ude0e",
+    "last_heard": "2026-09-27T08:05:13.921650+00:00",
+    "snr": -11.5,
+    "hops_away": 3,
+    "short_name": "BTY2",
+    "hw_model": "SEEED_SOLAR_NODE",
+    "role": ""
   },
   "!bd4f0aac": {
     "id": "!bd4f0aac",
