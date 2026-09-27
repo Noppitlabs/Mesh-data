@@ -1,5 +1,16 @@
 [
   {
+    "id": 2959241554,
+    "from": "!fdcee922",
+    "from_name": "TA2 RAK Omni",
+    "to": "^all",
+    "text": "Ping",
+    "timestamp": "2026-09-27T04:34:20.955165+00:00",
+    "channel": 0,
+    "snr": -12.0,
+    "hops": 4
+  },
+  {
     "id": 673328096,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 10.0,
     "hops": 4
-  },
-  {
-    "id": 1898297573,
-    "from": "!433e3450",
-    "from_name": "Simcom Wildcard ",
-    "to": "^all",
-    "text": "\ud83d\udc4d",
-    "timestamp": "2026-09-24T21:30:57.097611+00:00",
-    "channel": 0,
-    "snr": -13.25,
-    "hops": 7
   }
 ]
