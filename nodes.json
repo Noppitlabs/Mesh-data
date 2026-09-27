@@ -8383,9 +8383,9 @@
   "!48049bc9": {
     "id": "!48049bc9",
     "long_name": "Ribalka02",
-    "last_heard": "2026-09-27T05:50:41.264404+00:00",
-    "snr": -15.0,
-    "hops_away": 2,
+    "last_heard": "2026-09-27T06:20:44.343755+00:00",
+    "snr": -9.25,
+    "hops_away": 3,
     "short_name": "9bc9",
     "hw_model": "SEEED_WIO_TRACKER_L1",
     "role": ""
