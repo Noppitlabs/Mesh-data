@@ -29,7 +29,7 @@
   "!75eddf30": {
     "id": "!75eddf30",
     "long_name": "APEX",
-    "last_heard": "2026-09-27T10:09:07.666156+00:00",
+    "last_heard": "2026-09-27T10:10:05.306701+00:00",
     "snr": null,
     "hops_away": -7,
     "short_name": "AP3X",
@@ -6962,8 +6962,8 @@
   "!1ba56624": {
     "id": "!1ba56624",
     "long_name": "M0NNK mobile",
-    "last_heard": "2026-09-27T10:09:38.231211+00:00",
-    "snr": -12.0,
+    "last_heard": "2026-09-27T10:10:09.213190+00:00",
+    "snr": -10.25,
     "hops_away": 2,
     "short_name": "BS2M",
     "hw_model": "HELTEC_V4",
