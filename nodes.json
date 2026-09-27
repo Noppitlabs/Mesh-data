@@ -4786,9 +4786,9 @@
   "!2ddc7e6c": {
     "id": "!2ddc7e6c",
     "long_name": "A-NET Base",
-    "last_heard": "2026-09-27T06:01:53.966073+00:00",
-    "snr": -15.0,
-    "hops_away": 5,
+    "last_heard": "2026-09-27T06:14:01.119735+00:00",
+    "snr": -10.75,
+    "hops_away": 6,
     "short_name": "A-NB",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
