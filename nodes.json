@@ -8185,9 +8185,9 @@
   "!0400aee8": {
     "id": "!0400aee8",
     "long_name": "Yeovilton",
-    "last_heard": "2026-09-27T04:37:01.867792+00:00",
-    "snr": -10.5,
-    "hops_away": 6,
+    "last_heard": "2026-09-27T08:15:11.388099+00:00",
+    "snr": -12.5,
+    "hops_away": 5,
     "short_name": "Yeov",
     "hw_model": "HELTEC_V3",
     "role": ""
