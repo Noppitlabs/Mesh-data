@@ -1,5 +1,16 @@
 [
   {
+    "id": 117275991,
+    "from": "!19bd4e78",
+    "from_name": "Meshtastic~afc8",
+    "to": "^all",
+    "text": "test using screen on the panel",
+    "timestamp": "2026-09-27T09:28:16.717295+00:00",
+    "channel": 0,
+    "snr": -11.25,
+    "hops": 1
+  },
+  {
     "id": 661586185,
     "from": "!19bd4e78",
     "from_name": "Meshtastic~afc8",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.0,
     "hops": 6
-  },
-  {
-    "id": 2015902544,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "When owners of the other Repeaters update their Direct Nodes you will see your hop count drop",
-    "timestamp": "2026-09-25T14:19:42.352477+00:00",
-    "channel": 0,
-    "snr": 10.0,
-    "hops": 3
   }
 ]
