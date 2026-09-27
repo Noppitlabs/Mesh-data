@@ -7658,9 +7658,9 @@
   "!db2953d4": {
     "id": "!db2953d4",
     "long_name": "Myke mesh node",
-    "last_heard": "2026-09-27T05:09:22.164239+00:00",
-    "snr": -13.5,
-    "hops_away": 4,
+    "last_heard": "2026-09-27T07:09:20.576537+00:00",
+    "snr": -12.5,
+    "hops_away": 5,
     "short_name": "myk1",
     "hw_model": "HELTEC_V3",
     "role": ""
