@@ -119,9 +119,9 @@
   "!e2864d04": {
     "id": "!e2864d04",
     "long_name": "RDEw",
-    "last_heard": "2026-09-27T20:50:56.325154+00:00",
-    "snr": 13.75,
-    "hops_away": 6,
+    "last_heard": "2026-09-27T21:54:02.593192+00:00",
+    "snr": -19.5,
+    "hops_away": 2,
     "short_name": "RDEw",
     "hw_model": "RAK4631",
     "role": "ROUTER"
