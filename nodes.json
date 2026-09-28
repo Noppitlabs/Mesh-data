@@ -3808,10 +3808,10 @@
   "!f2454a5c": {
     "id": "!f2454a5c",
     "long_name": "TGN1",
-    "last_heard": "2026-09-18T00:00:54.347337+00:00",
-    "snr": -10.75,
-    "hops_away": 3,
-    "short_name": "TGN1",
+    "last_heard": "2026-09-28T19:42:52.939318+00:00",
+    "snr": -18.25,
+    "hops_away": 5,
+    "short_name": "4a5c",
     "hw_model": "TBEAM",
     "role": ""
   },
