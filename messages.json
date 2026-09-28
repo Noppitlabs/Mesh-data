@@ -1,5 +1,16 @@
 [
   {
+    "id": 1572321377,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "thanks for the heads up",
+    "timestamp": "2026-09-28T15:02:05.449966+00:00",
+    "channel": 0,
+    "snr": -16.25,
+    "hops": 1
+  },
+  {
     "id": 3295452439,
     "from": "!19bd4e78",
     "from_name": "Meshtastic~afc8",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -15.75,
     "hops": 4
-  },
-  {
-    "id": 1436091229,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "It has a 6dbi McGill Omni on it",
-    "timestamp": "2026-09-25T14:51:39.327364+00:00",
-    "channel": 0,
-    "snr": -17.75,
-    "hops": 1
   }
 ]
