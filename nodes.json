@@ -79,9 +79,9 @@
   "!9d3415a7": {
     "id": "!9d3415a7",
     "long_name": "M7FJD~Base",
-    "last_heard": "2026-09-28T01:09:14.727063+00:00",
-    "snr": -8.25,
-    "hops_away": 5,
+    "last_heard": "2026-09-28T01:15:23.968291+00:00",
+    "snr": -19.25,
+    "hops_away": 3,
     "short_name": "EXw",
     "hw_model": "RAK4631",
     "role": "CLIENT_BASE"
@@ -2186,9 +2186,9 @@
   "!db517d8c": {
     "id": "!db517d8c",
     "long_name": "HaddonHill123",
-    "last_heard": "2026-09-28T01:11:36.121598+00:00",
-    "snr": -8.0,
-    "hops_away": 5,
+    "last_heard": "2026-09-28T01:15:03.517775+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
     "short_name": "G1",
     "hw_model": "HELTEC_V3",
     "role": ""
