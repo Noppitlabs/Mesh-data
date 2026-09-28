@@ -1,5 +1,16 @@
 [
   {
+    "id": 3295452439,
+    "from": "!19bd4e78",
+    "from_name": "Meshtastic~afc8",
+    "to": "^all",
+    "text": "yes the security level was set at Balance and neded to be changed to Compatible",
+    "timestamp": "2026-09-28T15:01:13.151626+00:00",
+    "channel": 0,
+    "snr": -15.75,
+    "hops": 2
+  },
+  {
     "id": 1242016754,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -17.75,
     "hops": 1
-  },
-  {
-    "id": 630065538,
-    "from": "!4ba77713",
-    "from_name": "Meshtastic d988",
-    "to": "^all",
-    "text": "4.25 snr also ",
-    "timestamp": "2026-09-25T14:50:26.056825+00:00",
-    "channel": 0,
-    "snr": -15.5,
-    "hops": 4
   }
 ]
