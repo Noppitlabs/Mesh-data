@@ -8399,9 +8399,9 @@
   "!fdcee922": {
     "id": "!fdcee922",
     "long_name": "TA2 RAK Omni",
-    "last_heard": "2026-09-28T04:36:24.173071+00:00",
-    "snr": -13.5,
-    "hops_away": 4,
+    "last_heard": "2026-09-28T23:58:29.360898+00:00",
+    "snr": -8.75,
+    "hops_away": 3,
     "short_name": "T2ro",
     "hw_model": "RAK3401",
     "role": "CLIENT_BASE"
