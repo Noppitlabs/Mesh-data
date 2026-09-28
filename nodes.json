@@ -8292,9 +8292,9 @@
   "!81c62b59": {
     "id": "!81c62b59",
     "long_name": "Luckaborough solar node",
-    "last_heard": "2026-09-28T02:58:32.385640+00:00",
-    "snr": -18.25,
-    "hops_away": 3,
+    "last_heard": "2026-09-28T14:26:22.109578+00:00",
+    "snr": -17.75,
+    "hops_away": 4,
     "short_name": "Lsol",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": ""
