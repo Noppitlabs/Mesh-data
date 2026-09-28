@@ -8031,9 +8031,9 @@
   "!19bd4e78": {
     "id": "!19bd4e78",
     "long_name": "Meshtastic~afc8",
-    "last_heard": "2026-09-28T14:42:41.958487+00:00",
-    "snr": -10.5,
-    "hops_away": 2,
+    "last_heard": "2026-09-28T14:54:46.863243+00:00",
+    "snr": -17.0,
+    "hops_away": 1,
     "short_name": "afc8",
     "hw_model": "CROWPANEL",
     "role": ""
