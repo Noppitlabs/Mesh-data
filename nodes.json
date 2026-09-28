@@ -3451,9 +3451,9 @@
   "!59543b8d": {
     "id": "!59543b8d",
     "long_name": "Torquay TQ2 ",
-    "last_heard": "2026-09-27T23:32:09.477342+00:00",
-    "snr": -16.0,
-    "hops_away": 2,
+    "last_heard": "2026-09-28T05:40:01.940613+00:00",
+    "snr": -9.0,
+    "hops_away": 3,
     "short_name": "GH",
     "hw_model": "SEEED_SOLAR_NODE",
     "role": "ROUTER_LATE"
