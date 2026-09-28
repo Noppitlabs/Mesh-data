@@ -289,8 +289,8 @@
   "!9e757b90": {
     "id": "!9e757b90",
     "long_name": "Rowland M1BPA \ud83d\ude0e",
-    "last_heard": "2026-09-28T23:04:03.353258+00:00",
-    "snr": -12.5,
+    "last_heard": "2026-09-28T23:17:02.045099+00:00",
+    "snr": -10.25,
     "hops_away": 4,
     "short_name": "ApRo",
     "hw_model": "HELTEC_V3",
@@ -2196,9 +2196,9 @@
   "!9ea1b288": {
     "id": "!9ea1b288",
     "long_name": "SwallowsNest - Adam Cullompton",
-    "last_heard": "2026-09-28T21:48:13.772388+00:00",
-    "snr": 12.75,
-    "hops_away": 5,
+    "last_heard": "2026-09-28T23:17:17.670152+00:00",
+    "snr": -10.25,
+    "hops_away": 4,
     "short_name": "SNB1",
     "hw_model": "HELTEC_V3",
     "role": ""
