@@ -1,5 +1,16 @@
 [
   {
+    "id": 1641071686,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "\ud83d\udc4d",
+    "timestamp": "2026-09-29T17:07:04.814078+00:00",
+    "channel": 0,
+    "snr": 12.5,
+    "hops": 2
+  },
+  {
     "id": 1138152357,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-25T15:08:04.794432+00:00",
     "channel": 0,
     "snr": 11.0,
-    "hops": 2
-  },
-  {
-    "id": 1962232492,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "we got RF to work for MT",
-    "timestamp": "2026-09-25T15:07:28.028898+00:00",
-    "channel": 0,
-    "snr": 10.5,
     "hops": 2
   }
 ]
