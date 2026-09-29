@@ -2370,8 +2370,8 @@
   "!3b5703ad": {
     "id": "!3b5703ad",
     "long_name": "Mesh_EX15 RAK1",
-    "last_heard": "2026-09-29T04:04:55.537168+00:00",
-    "snr": 3.0,
+    "last_heard": "2026-09-29T05:05:04.886551+00:00",
+    "snr": -18.0,
     "hops_away": 4,
     "short_name": "RAK1",
     "hw_model": "RAK4631",
@@ -8252,8 +8252,8 @@
   "!4d01399a": {
     "id": "!4d01399a",
     "long_name": "BTY2 \ud83d\ude0e",
-    "last_heard": "2026-09-28T20:07:20.556890+00:00",
-    "snr": -18.25,
+    "last_heard": "2026-09-29T05:05:13.771678+00:00",
+    "snr": -9.75,
     "hops_away": 3,
     "short_name": "BTY2",
     "hw_model": "SEEED_SOLAR_NODE",
