@@ -1,5 +1,16 @@
 [
   {
+    "id": 602529920,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "That's good to know \ud83d\udc4d",
+    "timestamp": "2026-09-29T19:09:34.686801+00:00",
+    "channel": 0,
+    "snr": 10.25,
+    "hops": 2
+  },
+  {
     "id": 1641071700,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -10.75,
     "hops": 5
-  },
-  {
-    "id": 861220696,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "Morning Ed testing new Android app",
-    "timestamp": "2026-09-27T08:40:06.025127+00:00",
-    "channel": 0,
-    "snr": -11.5,
-    "hops": 1
   }
 ]
