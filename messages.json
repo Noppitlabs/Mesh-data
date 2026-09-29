@@ -1,5 +1,16 @@
 [
   {
+    "id": 3022638346,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Just one hop consumed to reach you too!",
+    "timestamp": "2026-09-29T10:47:11.712804+00:00",
+    "channel": 0,
+    "snr": -16.0,
+    "hops": 3
+  },
+  {
     "id": 1916550858,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-25T15:06:06.815842+00:00",
     "channel": 0,
     "snr": -13.0,
-    "hops": 2
-  },
-  {
-    "id": 854439308,
-    "from": "!c489455d",
-    "from_name": "Mark~G6OMT",
-    "to": "^all",
-    "text": "MQTT is set as ignored on all the Routers and my own nodes",
-    "timestamp": "2026-09-25T15:05:02.720194+00:00",
-    "channel": 0,
-    "snr": -12.75,
     "hops": 2
   }
 ]
