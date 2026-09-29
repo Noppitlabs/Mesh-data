@@ -1,5 +1,16 @@
 [
   {
+    "id": 1138152357,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "Test to see if Andy gets this",
+    "timestamp": "2026-09-29T14:51:09.964516+00:00",
+    "channel": 0,
+    "snr": -17.25,
+    "hops": 1
+  },
+  {
     "id": 1253368406,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 10.5,
     "hops": 2
-  },
-  {
-    "id": 1293437213,
-    "from": "!4ba77713",
-    "from_name": "Meshtastic d988",
-    "to": "^all",
-    "text": "Best to run both then? ",
-    "timestamp": "2026-09-25T15:07:07.107120+00:00",
-    "channel": 0,
-    "snr": -15.25,
-    "hops": 4
   }
 ]
