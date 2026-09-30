@@ -8382,9 +8382,9 @@
   "!ad0860cf": {
     "id": "!ad0860cf",
     "long_name": "M0PCZ 4.5 dBi Omni Solar",
-    "last_heard": "2026-09-30T15:16:02.972575+00:00",
-    "snr": -18.25,
-    "hops_away": 1,
+    "last_heard": "2026-09-30T18:16:07.550968+00:00",
+    "snr": -11.5,
+    "hops_away": 3,
     "short_name": "Base",
     "hw_model": "RAK3401",
     "role": ""
