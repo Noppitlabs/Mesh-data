@@ -1,5 +1,16 @@
 [
   {
+    "id": 3023887511,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Mhm, can\u2019t wait for the cold \ud83e\udd76 ",
+    "timestamp": "2026-09-30T13:03:51.602741+00:00",
+    "channel": 0,
+    "snr": -19.25,
+    "hops": 3
+  },
+  {
     "id": 2465524299,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": 1.25,
     "hops": 2
-  },
-  {
-    "id": 2038563168,
-    "from": "!9b9bd3e3",
-    "from_name": "T1000-e E@ d3e3",
-    "to": "^all",
-    "text": "\ud83e\udd37\u200d\u2642\ufe0f",
-    "timestamp": "2026-09-27T09:22:14.684869+00:00",
-    "channel": 0,
-    "snr": -14.0,
-    "hops": 3
   }
 ]
