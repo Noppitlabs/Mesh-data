@@ -8422,8 +8422,8 @@
   "!586c0ade": {
     "id": "!586c0ade",
     "long_name": "Car Node",
-    "last_heard": "2026-09-30T02:36:03.029907+00:00",
-    "snr": -10.0,
+    "last_heard": "2026-09-30T06:09:02.355560+00:00",
+    "snr": -13.75,
     "hops_away": 3,
     "short_name": "CNod",
     "hw_model": "SEEED_WIO_TRACKER_L1",
