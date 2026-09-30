@@ -1,5 +1,16 @@
 [
   {
+    "id": 1026165738,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "RX at Woodbury Park Golf club",
+    "timestamp": "2026-09-30T16:40:02.628395+00:00",
+    "channel": 0,
+    "snr": -8.5,
+    "hops": 3
+  },
+  {
     "id": 1304080245,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-27T09:29:05.024582+00:00",
     "channel": 0,
     "snr": -13.25,
-    "hops": 1
-  },
-  {
-    "id": 117275991,
-    "from": "!19bd4e78",
-    "from_name": "Meshtastic~afc8",
-    "to": "^all",
-    "text": "test using screen on the panel",
-    "timestamp": "2026-09-27T09:28:16.717295+00:00",
-    "channel": 0,
-    "snr": -11.25,
     "hops": 1
   }
 ]
