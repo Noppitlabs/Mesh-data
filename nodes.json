@@ -7359,9 +7359,9 @@
   "!58b714df": {
     "id": "!58b714df",
     "long_name": "G7LJN/1",
-    "last_heard": "2026-09-30T13:08:53.202772+00:00",
-    "snr": 14.0,
-    "hops_away": 5,
+    "last_heard": "2026-09-30T14:48:31.585171+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "STJ1",
     "hw_model": "THINKNODE_M1",
     "role": ""
