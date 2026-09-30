@@ -1,5 +1,16 @@
 [
   {
+    "id": 516221486,
+    "from": "!c489455d",
+    "from_name": "Mark~G6OMT",
+    "to": "^all",
+    "text": "RX you in Exmouth in 5 hops",
+    "timestamp": "2026-09-30T17:57:11.839367+00:00",
+    "channel": 0,
+    "snr": -14.25,
+    "hops": 2
+  },
+  {
     "id": 2026826123,
     "from": "!c489455d",
     "from_name": "Mark~G6OMT",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-27T09:36:41.574483+00:00",
     "channel": 0,
     "snr": -10.5,
-    "hops": 2
-  },
-  {
-    "id": 1481915778,
-    "from": "!19bd4e78",
-    "from_name": "Meshtastic~afc8",
-    "to": "^all",
-    "text": "Back to BT connection no replies received when using screen mode",
-    "timestamp": "2026-09-27T09:35:13.899188+00:00",
-    "channel": 0,
-    "snr": -9.25,
     "hops": 2
   }
 ]
