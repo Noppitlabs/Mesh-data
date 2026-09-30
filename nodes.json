@@ -7231,9 +7231,9 @@
   "!04396f14": {
     "id": "!04396f14",
     "long_name": "Nick M0NCY",
-    "last_heard": "2026-09-29T21:51:17.453105+00:00",
-    "snr": 10.25,
-    "hops_away": 5,
+    "last_heard": "2026-09-30T00:43:44.020829+00:00",
+    "snr": -14.5,
+    "hops_away": 3,
     "short_name": "0NCY",
     "hw_model": "HELTEC_V3",
     "role": ""
