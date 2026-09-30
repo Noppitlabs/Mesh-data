@@ -7488,9 +7488,9 @@
   "!cfed5f57": {
     "id": "!cfed5f57",
     "long_name": "Https://torbayars.org",
-    "last_heard": "2026-09-30T05:43:03.513325+00:00",
-    "snr": -15.25,
-    "hops_away": 3,
+    "last_heard": "2026-09-30T09:36:18.578460+00:00",
+    "snr": -11.25,
+    "hops_away": 5,
     "short_name": "TARS",
     "hw_model": "RAK4631",
     "role": ""
