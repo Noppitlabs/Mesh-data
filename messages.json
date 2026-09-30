@@ -1,5 +1,16 @@
 [
   {
+    "id": 1304080245,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Test",
+    "timestamp": "2026-09-30T16:15:44.924471+00:00",
+    "channel": 0,
+    "snr": -15.0,
+    "hops": 3
+  },
+  {
     "id": 3023887511,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -537,16 +548,5 @@
     "channel": 0,
     "snr": -11.25,
     "hops": 1
-  },
-  {
-    "id": 661586185,
-    "from": "!19bd4e78",
-    "from_name": "Meshtastic~afc8",
-    "to": "^all",
-    "text": "This is on dangerous ground \ud83d\udca3",
-    "timestamp": "2026-09-27T09:23:56.773644+00:00",
-    "channel": 0,
-    "snr": 1.25,
-    "hops": 2
   }
 ]
