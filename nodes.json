@@ -129,7 +129,7 @@
   "!932e30cd": {
     "id": "!932e30cd",
     "long_name": "G0MOH Solar \u2600\ufe0f",
-    "last_heard": "2026-09-30T14:09:19.625696+00:00",
+    "last_heard": "2026-09-30T14:15:04.464598+00:00",
     "snr": 12.75,
     "hops_away": 5,
     "short_name": "MOHS",
@@ -1630,8 +1630,8 @@
   "!9e9d1a00": {
     "id": "!9e9d1a00",
     "long_name": "Mobile",
-    "last_heard": "2026-09-30T08:09:25.909286+00:00",
-    "snr": 10.75,
+    "last_heard": "2026-09-30T14:15:11.463390+00:00",
+    "snr": -0.75,
     "hops_away": 5,
     "short_name": "FCN2",
     "hw_model": "HELTEC_V3",
