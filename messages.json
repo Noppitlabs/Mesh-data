@@ -1,5 +1,16 @@
 [
   {
+    "id": 374872024,
+    "from": "!800c7b8c",
+    "from_name": "Maia mobile",
+    "to": "^all",
+    "text": "Can I ask: where exactly is RDEw? We\u2019ve been trying to spot it ",
+    "timestamp": "2026-09-30T17:34:49.563841+00:00",
+    "channel": 0,
+    "snr": -5.25,
+    "hops": 4
+  },
+  {
     "id": 2004885936,
     "from": "!800c7b8c",
     "from_name": "Maia mobile",
@@ -536,17 +547,6 @@
     "timestamp": "2026-09-27T09:32:59.080672+00:00",
     "channel": 0,
     "snr": -13.0,
-    "hops": 1
-  },
-  {
-    "id": 3532377432,
-    "from": "!19bd4e78",
-    "from_name": "Meshtastic~afc8",
-    "to": "^all",
-    "text": "2nd test from screen input",
-    "timestamp": "2026-09-27T09:32:42.856190+00:00",
-    "channel": 0,
-    "snr": -17.5,
     "hops": 1
   }
 ]
