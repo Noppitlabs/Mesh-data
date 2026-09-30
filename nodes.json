@@ -7879,9 +7879,9 @@
   "!6e3784f4": {
     "id": "!6e3784f4",
     "long_name": "RAKR#1",
-    "last_heard": "2026-09-29T21:47:36.558625+00:00",
-    "snr": 12.75,
-    "hops_away": 7,
+    "last_heard": "2026-09-30T06:45:40.092851+00:00",
+    "snr": -14.5,
+    "hops_away": 4,
     "short_name": "RAKR",
     "hw_model": "RAK4631",
     "role": ""
